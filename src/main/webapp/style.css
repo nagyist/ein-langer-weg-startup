@@ -4,7 +4,7 @@ body { margin:0;padding:0;}
 #hd {
 	width : 100%;
 	height : 87px;
-	background-color : #ff3366;
+	background-color : #46668A;
 	margin-top : 0;
 	padding-top : 10px;
 	border-bottom : 1px solid #888;
@@ -15,7 +15,7 @@ body { margin:0;padding:0;}
 	bottom : 0;
 	width : 100%;
 	height : 99px;
-	background-color : #ff3366;
+	background-color : #46668A;
 	border-top : 1px solid #888;
 	z-index : 0;
 }
@@ -53,6 +53,37 @@ body { margin-top : 0; padding-top : 0;}
 	-webkit-box-shadow: 0px 0px 10px #888;
 	box-shadow: 0px 0px 10px #888;
 }
+
+input {
+	width : 300px;
+	float : left;
+	height : 30px;
+	z-index : 1;
+	font-size : 18px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-moz-box-shadow: 0px 0px 10px #888;
+	-webkit-box-shadow: 0px 0px 10px #888;
+	box-shadow: 0px 0px 10px #888;
+}
+
+
+#button {
+	width : 75px;
+	float : right;
+	height : 35px;
+	z-index : 1;
+	font-size : 18px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-moz-box-shadow: 0px 0px 10px #888;
+	-webkit-box-shadow: 0px 0px 10px #888;
+	box-shadow: 0px 0px 10px #888;
+}
+
+
 a, a:visited, a:hover, a:active {
 	color : #6493D2;
 }

@@ -1,40 +1,48 @@
 <!DOCTYPE html>
 <html xmlns:wicket="http://wicket.apache.org">
-	<head>
-		<meta charset="utf-8" />
-		<title>MFT Hompage</title>
-		<link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:regular,bold' rel='stylesheet' type='text/css' />
-		<link rel="stylesheet" href="style.css" type="text/css" media="screen" title="Stylesheet" />
-	</head>
-	<body>
-		<div id="hd">
-			<div id="logo">
-				<img src="logo.png" width="50px" height="50px" alt="Wicket Logo" />
-				<h1>Test Project with WICKET</h1>
-			</div>
+<head>
+<meta charset="utf-8" />
+<title>MFT Hompage - mft.de</title>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<link
+	href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:regular,bold'
+	rel='stylesheet' type='text/css' />
+<link rel="stylesheet" href="style.css" type="text/css" media="screen"
+	title="Stylesheet" />
+</head>
+<body>
+	<div id="hd">
+		<div id="logo">
+			<img src="logo.png" width="50px" height="50px" alt="Wicket Logo" />
+			<h1>Test Project with WICKET</h1>
 		</div>
-		<div id="bd">
-			<h2>So let start learning!</h2>
-			<h3>Wicket</h3>
-			<p>
-				We have firstly to learn and test the Wicket Framework of Apache 
-				<br />Under this Link you will find the homepage of the Framework <a href="https://wicket.apache.org/">Wicket Homepage</a>
-				<br />A Tutorial from the homepage will be found under <a href="http://wicket.apache.org/learn/examples/">Wicket Tutorial</a>
-				<br />Alternatively we can learn from different sources like Youtube etc... <a href="https://www.youtube.com/watch?v=8a0Tkap4IAc">Tutorial in Youtube</a> 
-			</p>
-			
-			<h3>HTML, CSS & Co.</h3>
-			<p>HTML, CSS and others, I think the best ways to learn them are such Websites like</p>
-			<ol>
-				<li><a href="http://www.w3schools.com/">W3Schools</a></li>
-				<li><a href="http://de.selfhtml.org/">SelfHTML</a></li>
-				<li><a href="http://www.codecademy.com/en/tracks/web">Code Academy</a></li>
-			</ol>
-			<p>
-				Please mention the correct Wicket version: <wicket:container wicket:id="version">1.5-SNAPSHOT</wicket:container>.
-			</p>
-		</div>
-		<div id="ft">
-		</div>
-	</body>
+	</div>
+	<div id="bd">
+		<h2>So let start learning!</h2>
+		<h3>Wicket</h3>
+		<p>
+			We have firstly to learn and test the Wicket Framework of Apache <br />Under
+			this Link you will find the homepage of the Framework <a
+				href="https://wicket.apache.org/">Wicket Homepage</a> <br />A
+			Tutorial from the homepage will be found under <a
+				href="http://wicket.apache.org/learn/examples/">Wicket Tutorial</a>
+			<br />Alternatively we can learn from different sources like Youtube
+			etc... <a href="https://www.youtube.com/watch?v=8a0Tkap4IAc">Tutorial
+				in Youtube</a>
+		</p>
+
+		<h3>HTML, CSS & Co.</h3>
+		<p>HTML, CSS and others, I think the best ways to learn them are
+			such Websites like</p>
+		<ol>
+			<li><a href="http://www.w3schools.com/">W3Schools</a></li>
+			<li><a href="http://de.selfhtml.org/">SelfHTML</a></li>
+			<li><a href="http://www.codecademy.com/en/tracks/web">Code
+					Academy</a></li>
+		</ol>
+		<span wicket:id="feedback">feedbackmessages will be put here</span>
+
+	</div>
+	<div id="ft"></div>
+</body>
 </html>
