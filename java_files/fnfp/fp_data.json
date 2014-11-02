@@ -1,0 +1,1375 @@
+"instance_1" : {
+	"personname" : "Stefano Pieretti",
+	"intention" : "Geneva Orgue",
+	"location_found" : false,
+	"news_class" : 1.5728,
+	"location_class" : 1.7572,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_2" : {
+	"personname" : "Christian Ludwig",
+	"intention" : "Attersee Mops",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_3" : {
+	"personname" : "Thomas Schwarz",
+	"intention" : "Österreich",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_4" : {
+	"personname" : "Thomas Michael",
+	"intention" : "Grenzhof",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_5" : {
+	"personname" : "Alexander Busch",
+	"intention" : "Fahrschule",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_6" : {
+	"personname" : "Manuela Kunze",
+	"intention" : "Schwann",
+	"location_found" : false,
+	"news_class" : 1.5728,
+	"location_class" : 1.7572,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_7" : {
+	"personname" : "Christian Janvin",
+	"intention" : "Ringwald",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_8" : {
+	"personname" : "Christoph Waltz",
+	"intention" : "Grinzing",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_9" : {
+	"personname" : "Thomas Mohr",
+	"intention" : "Baltic Reef",
+	"location_found" : false,
+	"news_class" : 2.8179,
+	"location_class" : 3.1343,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_10" : {
+	"personname" : "Christian Seitz",
+	"intention" : "Oppenheim",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_11" : {
+	"personname" : "Jürgen Hansohm",
+	"intention" : "Mundorff Alzey",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_12" : {
+	"personname" : "Michael Jacob",
+	"intention" : "Bleicherode",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_13" : {
+	"personname" : "Thomas Badr",
+	"intention" : "Muth Camberg",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_14" : {
+	"personname" : "Christian Friedrich",
+	"intention" : "Augustenburg",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_15" : {
+	"personname" : "Michael Quintel",
+	"intention" : "Idar-oberstein",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_16" : {
+	"personname" : "Jürgen Seidel",
+	"intention" : "Baugeschäft Hans",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_17" : {
+	"personname" : "Christine Evans",
+	"intention" : "Steinmetz",
+	"location_found" : false,
+	"news_class" : 1.5728,
+	"location_class" : 1.7572,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_18" : {
+	"personname" : "John Wayne",
+	"intention" : "Santa Ana",
+	"location_found" : false,
+	"news_class" : 3.1457,
+	"location_class" : 3.5145,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_19" : {
+	"personname" : "Michael Paul",
+	"intention" : "Glaser",
+	"location_found" : false,
+	"news_class" : 1.5728,
+	"location_class" : 1.7572,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_20" : {
+	"personname" : "Christine Zimmermann",
+	"intention" : "Saalfeld",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_21" : {
+	"personname" : "Peter Alexander",
+	"intention" : "Tüv Rheinland",
+	"location_found" : false,
+	"news_class" : 1.5728,
+	"location_class" : 1.7572,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_22" : {
+	"personname" : "Johannes Steck",
+	"intention" : "Evangelist Sassenberg",
+	"location_found" : true,
+	"news_class" : 0.921,
+	"location_class" : 0.9651,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_23" : {
+	"personname" : "Christoph Stein",
+	"intention" : "Ohrenhofen",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_24" : {
+	"personname" : "Thomas Bachmann",
+	"intention" : "Bäckerei",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_25" : {
+	"personname" : "Alex Kochan",
+	"intention" : "Bargteheide",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_26" : {
+	"personname" : "Thomas Barth",
+	"intention" : "Ferienwohnung Perigord",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_27" : {
+	"personname" : "Thomas Zimmer",
+	"intention" : "Fax Heiligenberg",
+	"location_found" : true,
+	"news_class" : 1.2525,
+	"location_class" : 1.109,
+	"news_klasse" : 0.222,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_28" : {
+	"personname" : "Michael Wild",
+	"intention" : "Schmerztherapie Worms",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_29" : {
+	"personname" : "Theodore Thomas",
+	"intention" : "Str",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_30" : {
+	"personname" : "Alexander Schubert",
+	"intention" : "Agentur",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_31" : {
+	"personname" : "Jürgen Pfeiffer",
+	"intention" : "Kürten Tel",
+	"location_found" : true,
+	"news_class" : 1.221,
+	"location_class" : 1.1901,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_32" : {
+	"personname" : "Alexander Franz",
+	"intention" : "Klinik Norddrach",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_33" : {
+	"personname" : "Christoph Wagner",
+	"intention" : "Venezia",
+	"location_found" : false,
+	"news_class" : 1.5728,
+	"location_class" : 1.7572,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_34" : {
+	"personname" : "Michael Niemann",
+	"intention" : "Wahtlingen",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_35" : {
+	"personname" : "Christoph Hoffmann",
+	"intention" : "Rh Alurad",
+	"location_found" : false,
+	"news_class" : 1.2581,
+	"location_class" : 1.3892,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_36" : {
+	"personname" : "Ryan Johnson",
+	"intention" : "Kazan",
+	"location_found" : false,
+	"news_class" : 1.5728,
+	"location_class" : 1.7572,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_37" : {
+	"personname" : "Sebastian Schmidt",
+	"intention" : "Itzehoe",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_38" : {
+	"personname" : "Phillip Thomas",
+	"intention" : "Rothenschirmbach",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_39" : {
+	"personname" : "Christian Carlsson",
+	"intention" : "Dressel",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_40" : {
+	"personname" : "Corpus Christi",
+	"intention" : "Santiago",
+	"location_found" : false,
+	"news_class" : 1.5728,
+	"location_class" : 1.7572,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_41" : {
+	"personname" : "Jürgen Becker",
+	"intention" : "Kabarett",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_42" : {
+	"personname" : "Alexander Schneider",
+	"intention" : "Krankenhaus Andernach",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_43" : {
+	"personname" : "Christina Gray",
+	"intention" : "Occidental College",
+	"location_found" : false,
+	"news_class" : 2.6389,
+	"location_class" : 2.7227,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_44" : {
+	"personname" : "Christian Carlsson",
+	"intention" : "Vollstedt",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_45" : {
+	"personname" : "Michael Xie",
+	"intention" : "Dünhoff",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_46" : {
+	"personname" : "Dwayne Johnson",
+	"intention" : "Premiere Germany",
+	"location_found" : false,
+	"news_class" : 2.87,
+	"location_class" : 2.949,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_47" : {
+	"personname" : "Thomas Meilender",
+	"intention" : "Lister Kaffee",
+	"location_found" : false,
+	"news_class" : 1.5728,
+	"location_class" : 1.7572,
+	"news_klasse" : 0.222,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_48" : {
+	"personname" : "Maria Eva",
+	"intention" : "Hauck Heppenheim",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_49" : {
+	"personname" : "Michael Schmidt",
+	"intention" : "Langenbergheim",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_50" : {
+	"personname" : "Christian Oberli",
+	"intention" : "Metzgerei Ofleiden",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_51" : {
+	"personname" : "Thomas Ullmann",
+	"intention" : "Oldenberg",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_52" : {
+	"personname" : "Michael Sellers",
+	"intention" : "Architekt Sundhausen",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_53" : {
+	"personname" : "Michael Baum",
+	"intention" : "07426 Bechstedt",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_54" : {
+	"personname" : "John Harvey",
+	"intention" : "Kellogg",
+	"location_found" : false,
+	"news_class" : 1.5728,
+	"location_class" : 1.7572,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_55" : {
+	"personname" : "Jürgen Hansohm",
+	"intention" : "Syberberg",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_56" : {
+	"personname" : "Thomas Müntzer",
+	"intention" : "Steinheid",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_57" : {
+	"personname" : "Jürgen Günther",
+	"intention" : "Suhl",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_58" : {
+	"personname" : "Johann Christoph Strelen",
+	"intention" : "Eggenberg",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_59" : {
+	"personname" : "John Ulmen",
+	"intention" : "Benton",
+	"location_found" : false,
+	"news_class" : 1.5728,
+	"location_class" : 1.7572,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_60" : {
+	"personname" : "Thomas Schwarz",
+	"intention" : "Rottenburg",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_61" : {
+	"personname" : "Berlin Mitte",
+	"intention" : "Evangelische Gemeinschaftsschule",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_62" : {
+	"personname" : "Thomas Johnson",
+	"intention" : "Sandkrug Pldenburg",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_63" : {
+	"personname" : "Michael Dietrich",
+	"intention" : "Ilenburg",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_64" : {
+	"personname" : "Immanuel Kant",
+	"intention" : "Oberschule",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_65" : {
+	"personname" : "John Maddox",
+	"intention" : "Kreuznach",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_66" : {
+	"personname" : "Thomas Sabottka",
+	"intention" : "Verona",
+	"location_found" : false,
+	"news_class" : 1.5728,
+	"location_class" : 1.7572,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_67" : {
+	"personname" : "Le Cheval",
+	"intention" : "Blanc Schiltigheim",
+	"location_found" : false,
+	"news_class" : 1.0,
+	"location_class" : 0.9134,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_68" : {
+	"personname" : "Jürgen Günther",
+	"intention" : "Suhl Autoreparaturen",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_69" : {
+	"personname" : "Michael Herold",
+	"intention" : "Ferienwohnung",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_70" : {
+	"personname" : "Thomas Maurer",
+	"intention" : "Energiepark March",
+	"location_found" : true,
+	"news_class" : 1.2213,
+	"location_class" : 1.1918,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.357,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_71" : {
+	"personname" : "Thomas Sellke",
+	"intention" : "Verkauf Tierarztpraxis",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_72" : {
+	"personname" : "Jürgen Klein",
+	"intention" : "Telefonnummer Idar-oberstein",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_73" : {
+	"personname" : "Jürgen Schulz",
+	"intention" : "Zeitz",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_74" : {
+	"personname" : "Thomas Kahle",
+	"intention" : "Berliner-wohnzimmer",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_75" : {
+	"personname" : "Christian Proll",
+	"intention" : "Porsche Arena",
+	"location_found" : false,
+	"news_class" : 1.3096,
+	"location_class" : 1.2779,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_76" : {
+	"personname" : "Aurélien Chevalier",
+	"intention" : "Blanc Niedersteinbach",
+	"location_found" : false,
+	"news_class" : 1.0,
+	"location_class" : 0.9134,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_77" : {
+	"personname" : "John Gilmore",
+	"intention" : "Haywood",
+	"location_found" : false,
+	"news_class" : 1.5728,
+	"location_class" : 1.7572,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_78" : {
+	"personname" : "Jürgen Döllner",
+	"intention" : "Queichheim",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_79" : {
+	"personname" : "Thomas Schmid",
+	"intention" : "Sigmartshausen",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_80" : {
+	"personname" : "Christina Pluhar",
+	"intention" : "Mediterraneo",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_81" : {
+	"personname" : "Christopher Stein",
+	"intention" : "Greenwich",
+	"location_found" : false,
+	"news_class" : 1.5728,
+	"location_class" : 1.7572,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_82" : {
+	"personname" : "Johannes Steck",
+	"intention" : "Evangelist Mainz",
+	"location_found" : true,
+	"news_class" : 0.921,
+	"location_class" : 0.9651,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_83" : {
+	"personname" : "Marcus Alexander",
+	"intention" : "123 Lorelei",
+	"location_found" : false,
+	"news_class" : 1.5728,
+	"location_class" : 1.7572,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_84" : {
+	"personname" : "Andreas Nevalainen",
+	"intention" : "Petersburg",
+	"location_found" : false,
+	"news_class" : 1.5728,
+	"location_class" : 1.7572,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_85" : {
+	"personname" : "Christian Schmidt",
+	"intention" : "Kg München",
+	"location_found" : true,
+	"news_class" : 1.22,
+	"location_class" : 1.192,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_86" : {
+	"personname" : "Thomas Plantard",
+	"intention" : "De Saint-clair",
+	"location_found" : false,
+	"news_class" : 1.5728,
+	"location_class" : 1.7572,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_87" : {
+	"personname" : "Thomas Hinze",
+	"intention" : "Quedlinburg",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_88" : {
+	"personname" : "Jürgen Karla",
+	"intention" : "Hans Kirchhoff",
+	"location_found" : false,
+	"news_class" : 1.5728,
+	"location_class" : 1.7572,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_89" : {
+	"personname" : "Alexander Volk",
+	"intention" : "Andernach",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_90" : {
+	"personname" : "Jürgen Wolf",
+	"intention" : "Esslingen",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_91" : {
+	"personname" : "Super Distortion",
+	"intention" : "Jesus Christ",
+	"location_found" : false,
+	"news_class" : 3.1457,
+	"location_class" : 3.5145,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_92" : {
+	"personname" : "Christian Bade",
+	"intention" : "Dettmann Kleinen",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_93" : {
+	"personname" : "Thomas George",
+	"intention" : "Elizabeth Lynley",
+	"location_found" : false,
+	"news_class" : 1.5728,
+	"location_class" : 1.7572,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_94" : {
+	"personname" : "Thomas Pohl",
+	"intention" : "Rudelswalde",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_95" : {
+	"personname" : "Michael Wagner",
+	"intention" : "Firmenadressen",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_96" : {
+	"personname" : "Christa Neuper",
+	"intention" : "Bäckerei",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_97" : {
+	"personname" : "Thomas Völkel",
+	"intention" : "Betzdorf",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_98" : {
+	"personname" : "Michael Wolf",
+	"intention" : "Jugendwart Worms",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_99" : {
+	"personname" : "Dennie Christian",
+	"intention" : "Rosamunde Nederlands",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_100" : {
+	"personname" : "Jürgen Debus",
+	"intention" : "Fahrschule Schmidt",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_101" : {
+	"personname" : "Jürgen Drews",
+	"intention" : "Weissenhäuser",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_102" : {
+	"personname" : "Michael Hamburg",
+	"intention" : "Autohaus",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_103" : {
+	"personname" : "Manuela Krause",
+	"intention" : "Pole",
+	"location_found" : false,
+	"news_class" : 1.2552,
+	"location_class" : 1.1901,
+	"news_klasse" : 0.0,
+	"location_klasse" : 1.714,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_104" : {
+	"personname" : "Eberhard Herrmann",
+	"intention" : "Christuskirche Hof-messner",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_105" : {
+	"personname" : "Thomas Kahle",
+	"intention" : "Percussion",
+	"location_found" : false,
+	"news_class" : 1.2197,
+	"location_class" : 1.1918,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_106" : {
+	"personname" : "John Sinclair",
+	"intention" : "Sheffield Ltd",
+	"location_found" : false,
+	"news_class" : 1.5728,
+	"location_class" : 1.7572,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_107" : {
+	"personname" : "Alexander Zimmermann",
+	"intention" : "Blücherstraße Baar-ebenhausen",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_108" : {
+	"personname" : "Michael Stal",
+	"intention" : "Burgweinting",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_109" : {
+	"personname" : "Thomas Bonnemains",
+	"intention" : "Autohaus",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_110" : {
+	"personname" : "Michael Bender",
+	"intention" : "Jugend Musiziert",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_111" : {
+	"personname" : "Michael Kessler",
+	"intention" : "Havel Uraub",
+	"location_found" : false,
+	"news_class" : 1.5728,
+	"location_class" : 1.7572,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_112" : {
+	"personname" : "Thomas Drost",
+	"intention" : "Büdelsdorf",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_113" : {
+	"personname" : "Johnny Lee",
+	"intention" : "Ghetto",
+	"location_found" : false,
+	"news_class" : 1.0832,
+	"location_class" : 1.3606,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_114" : {
+	"personname" : "Lukasz Strak",
+	"intention" : "Klinik",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_115" : {
+	"personname" : "Michael Schumacher",
+	"intention" : "Benetton",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_116" : {
+	"personname" : "Thomas Kind",
+	"intention" : "Baumbach",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_117" : {
+	"personname" : "Christopher Thomas",
+	"intention" : "Thalia",
+	"location_found" : false,
+	"news_class" : 1.5728,
+	"location_class" : 1.7572,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_118" : {
+	"personname" : "Thomas Pfaff",
+	"intention" : "Catering",
+	"location_found" : false,
+	"news_class" : 1.2197,
+	"location_class" : 1.1918,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_119" : {
+	"personname" : "Michael Rak",
+	"intention" : "Nierfeld",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_120" : {
+	"personname" : "Thomas Gärtner",
+	"intention" : "Car Connect",
+	"location_found" : false,
+	"news_class" : 1.5833,
+	"location_class" : 0.9651,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_121" : {
+	"personname" : "Jürgen Wolf",
+	"intention" : "Kantor",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_122" : {
+	"personname" : "Michael Bohn",
+	"intention" : "Daimler",
+	"location_found" : false,
+	"news_class" : 1.5728,
+	"location_class" : 1.7572,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_123" : {
+	"personname" : "Michael Schulz",
+	"intention" : "Barmstedt",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_124" : {
+	"personname" : "Sebastian Lau",
+	"intention" : "San Gomera",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}
+"instance_125" : {
+	"personname" : "Michael Gross",
+	"intention" : "Californien",
+	"location_found" : false,
+	"news_class" : 0.0,
+	"location_class" : 0.0,
+	"news_klasse" : 0.0,
+	"location_klasse" : 0.0,
+	"labled_class" : "LAND/ORT",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+}

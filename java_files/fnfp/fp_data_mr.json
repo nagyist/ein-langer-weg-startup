@@ -1,0 +1,626 @@
+{
+"instance_1" : {
+	"personname" : "Thomas Kuhn",
+	"intention" : "Tickets Dieter",
+	"music_class" : 1.331,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_2" : {
+	"personname" : "Udo Jürgens",
+	"intention" : "Tickets",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_3" : {
+	"personname" : "Tommy Emmanuel",
+	"intention" : "Konzert",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_4" : {
+	"personname" : "Christian Gerth",
+	"intention" : "Songtexte",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_5" : {
+	"personname" : "Christopher Scott",
+	"intention" : "Broken",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_6" : {
+	"personname" : "John Mayer",
+	"intention" : "Youtube",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_7" : {
+	"personname" : "Eva Lind",
+	"intention" : "Youtube",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_8" : {
+	"personname" : "John Ford",
+	"intention" : "Taschenbücher",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_9" : {
+	"personname" : "Jürgen Drews",
+	"intention" : "Lyrics",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_10" : {
+	"personname" : "John Lennon",
+	"intention" : "Texte God",
+	"music_class" : 1.499,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_11" : {
+	"personname" : "Simone Thomalla",
+	"intention" : "Pics",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_12" : {
+	"personname" : "Michael Austin",
+	"intention" : "Video",
+	"music_class" : 1.517,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_13" : {
+	"personname" : "Christian Opitz",
+	"intention" : "Bücher",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_14" : {
+	"personname" : "Isabelle Adjani",
+	"intention" : "Youtube",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_15" : {
+	"personname" : "Alex Clare",
+	"intention" : "Treading Water",
+	"music_class" : 1.392,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_16" : {
+	"personname" : "Maria Christopher",
+	"intention" : "Hörbuch Herbst",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_17" : {
+	"personname" : "Michael George",
+	"intention" : "Karaoke",
+	"music_class" : 1.062,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_18" : {
+	"personname" : "Christoph Waltz",
+	"intention" : "Youtube",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_19" : {
+	"personname" : "Michael Wester",
+	"intention" : "Zeichenkurs",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_20" : {
+	"personname" : "Michael Jackson",
+	"intention" : "Billy Jean",
+	"music_class" : 2.79,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_21" : {
+	"personname" : "Evan Kay",
+	"intention" : "Pics",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_22" : {
+	"personname" : "Christina Aguilera",
+	"intention" : "Youtube",
+	"music_class" : 1.45,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_23" : {
+	"personname" : "Dwayne Johnson",
+	"intention" : "Desktophintergrund",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_24" : {
+	"personname" : "Sebastian Krüger",
+	"intention" : "Malzeit Video",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_25" : {
+	"personname" : "Andreas Pistorius",
+	"intention" : "Reeva Pictures",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_26" : {
+	"personname" : "The Christians",
+	"intention" : "My Video",
+	"music_class" : 1.517,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_27" : {
+	"personname" : "John Denver",
+	"intention" : "Liedtexte",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_28" : {
+	"personname" : "Thomas Lee",
+	"intention" : "Jamie Gallery",
+	"music_class" : 1.214,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_29" : {
+	"personname" : "Manuela Ferrara",
+	"intention" : "Tube",
+	"music_class" : 1.45,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_30" : {
+	"personname" : "Christa Ludwig",
+	"intention" : "Cd",
+	"music_class" : 1.184,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_31" : {
+	"personname" : "Thomas Müller",
+	"intention" : "Fotos Koblenz",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_32" : {
+	"personname" : "Agatha Christie",
+	"intention" : "Wimmelbilder",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_33" : {
+	"personname" : "Alexandra Stan",
+	"intention" : "Hush",
+	"music_class" : 1.318,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_34" : {
+	"personname" : "Jackie Evancho",
+	"intention" : "Youtube",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_35" : {
+	"personname" : "Hans Thoma",
+	"intention" : "Ölbild",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_36" : {
+	"personname" : "Rob Thomas",
+	"intention" : "Creadlesong",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_37" : {
+	"personname" : "Elton John",
+	"intention" : "Songtext",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_38" : {
+	"personname" : "Kristi Evans",
+	"intention" : "Cum Pictures",
+	"music_class" : 1.184,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_39" : {
+	"personname" : "Heinrich Schütz",
+	"intention" : "Johannesevangelium Youtube",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_40" : {
+	"personname" : "John Case",
+	"intention" : "Hörbücher",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_41" : {
+	"personname" : "Aly Michalka",
+	"intention" : "Pics",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_42" : {
+	"personname" : "Jack Johnson",
+	"intention" : "Chords",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_43" : {
+	"personname" : "Elton John",
+	"intention" : "My Rose",
+	"music_class" : 1.077,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_44" : {
+	"personname" : "Michael Müller",
+	"intention" : "Kabarett",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_45" : {
+	"personname" : "Jeremiah Johnson",
+	"intention" : "Film Cover",
+	"music_class" : 3.647,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_46" : {
+	"personname" : "John Cena",
+	"intention" : "Aufbügelbilder",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_47" : {
+	"personname" : "Agatha Christie",
+	"intention" : "Mousetrap",
+	"music_class" : 1.469,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_48" : {
+	"personname" : "Alexander Bosse",
+	"intention" : "Cd",
+	"music_class" : 1.184,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_49" : {
+	"personname" : "Michael Holm",
+	"intention" : "Youtube Allein",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_50" : {
+	"personname" : "John Muir",
+	"intention" : "Pics",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_51" : {
+	"personname" : "Michael Schulte",
+	"intention" : "Youtube",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_52" : {
+	"personname" : "Michael Schöttner",
+	"intention" : "Fotos",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_53" : {
+	"personname" : "Michael George",
+	"intention" : "Youtube",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_54" : {
+	"personname" : "Michael Braun",
+	"intention" : "Fernsehen",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_55" : {
+	"personname" : "Sascha Hornauer",
+	"intention" : "Karneval",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_56" : {
+	"personname" : "Michael Bublé",
+	"intention" : "Youtube",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_57" : {
+	"personname" : "Christoph Waltz",
+	"intention" : "Oscar",
+	"music_class" : 1.305,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_58" : {
+	"personname" : "Bill Evans",
+	"intention" : "See saw",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_59" : {
+	"personname" : "Johnny Bell",
+	"intention" : "Good Tonight",
+	"music_class" : 2.518,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_60" : {
+	"personname" : "Andreas Pistorius",
+	"intention" : "Reeva Fotos",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_61" : {
+	"personname" : "Thomas Young",
+	"intention" : "Texte",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_62" : {
+	"personname" : "John Lennon",
+	"intention" : "Fotos",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_63" : {
+	"personname" : "Michael Jackson",
+	"intention" : "Smooth Criminal",
+	"music_class" : 2.347,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_64" : {
+	"personname" : "Alex Max ",
+	"intention" : "Band",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_65" : {
+	"personname" : "Dirk Michaelis",
+	"intention" : "Konzerte",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_66" : {
+	"personname" : "Udo Jürgens",
+	"intention" : "Youtube",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_67" : {
+	"personname" : "Christa Ludwig",
+	"intention" : "Youtube",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_68" : {
+	"personname" : "Evalds Hermanis",
+	"intention" : "Kerner",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_69" : {
+	"personname" : "Christoph Waltz",
+	"intention" : "Filmografie",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_70" : {
+	"personname" : "Alexander Peter",
+	"intention" : "Videos",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_71" : {
+	"personname" : "Ingrid Michaelson",
+	"intention" : "Everybody",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_72" : {
+	"personname" : "John Salt",
+	"intention" : "Ebook",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_73" : {
+	"personname" : "Agatha Christie",
+	"intention" : "Book Kostenlos",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_74" : {
+	"personname" : "John Butler",
+	"intention" : "Konzert",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_75" : {
+	"personname" : "Michael Klostermann",
+	"intention" : "Live Youtube",
+	"music_class" : 0.754,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_76" : {
+	"personname" : "Thomas Breuer",
+	"intention" : "You Tube",
+	"music_class" : 1.4496,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_77" : {
+	"personname" : "Ingrid Michaelson",
+	"intention" : "Everybody Songtexst",
+	"music_class" : 0.0,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+"instance_78" : {
+	"personname" : "Black Emanuelle",
+	"intention" : "Film",
+	"music_class" : 1.971,
+	"music_klasse" : 0.0,
+	"labled_class" : "MUSIK/RESSOURCEN",
+	"predicted_class" : "NACHRICHTEN/INFORMATION"
+},
+}

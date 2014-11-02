@@ -1,0 +1,1971 @@
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  8
+ location_found: false
+     news_class: 0.4864
+ location_class: 0.0
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  9
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  10
+ location_found: false
+     news_class: 2.762
+ location_class: 2.9474
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  11
+ location_found: false
+     news_class: 1.2451
+ location_class: 1.1918
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  13
+ location_found: false
+     news_class: 1.2197
+ location_class: 1.1918
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  20
+ location_found: false
+     news_class: 1.3166
+ location_class: 1.2779
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  23
+ location_found: false
+     news_class: 1.3166
+ location_class: 1.2779
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  25
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  27
+ location_found: false
+     news_class: 2.711
+ location_class: 3.0089
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  29
+ location_found: false
+     news_class: 0.0
+ location_class: 0.0
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  30
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  32
+ location_found: false
+     news_class: 1.3493
+ location_class: 1.2779
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  33
+ location_found: false
+     news_class: 1.3096
+ location_class: 1.2779
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  35
+ location_found: false
+     news_class: 1.1512
+ location_class: 1.1126
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  37
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  45
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  46
+ location_found: false
+     news_class: 2.762
+ location_class: 2.9474
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  49
+ location_found: false
+     news_class: 2.017
+ location_class: 1.3721
+    news_klasse: 0.444
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  51
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  54
+ location_found: false
+     news_class: 2.6289
+ location_class: 2.8663
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  55
+ location_found: false
+     news_class: 2.444
+ location_class: 2.7274
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  57
+ location_found: false
+     news_class: 2.2532
+ location_class: 2.3393
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  61
+ location_found: false
+     news_class: 2.2292
+ location_class: 2.2181
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  70
+ location_found: false
+     news_class: 3.4256
+ location_class: 2.7442
+    news_klasse: 0.444
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  71
+ location_found: false
+     news_class: 3.0878
+ location_class: 3.2533
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  72
+ location_found: false
+     news_class: 1.64
+ location_class: 1.6593
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  73
+ location_found: true
+     news_class: 1.0604
+ location_class: 1.0343
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  76
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  78
+ location_found: false
+     news_class: 0.9892
+ location_class: 0.9651
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  80
+ location_found: false
+     news_class: 1.0616
+ location_class: 1.0392
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  81
+ location_found: false
+     news_class: 2.8179
+ location_class: 2.949
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  82
+ location_found: false
+     news_class: 1.2581
+ location_class: 1.3892
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  84
+ location_found: false
+     news_class: 1.0561
+ location_class: 1.109
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  86
+ location_found: false
+     news_class: 1.2277
+ location_class: 1.2919
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  90
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  92
+ location_found: false
+     news_class: 0.5369
+ location_class: 0.0
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  95
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  96
+ location_found: false
+     news_class: 2.6344
+ location_class: 2.7964
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  100
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.667
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  102
+ location_found: false
+     news_class: 1.1312
+ location_class: 1.1901
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  103
+ location_found: false
+     news_class: 0.5941
+ location_class: 0.0
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  104
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  105
+ location_found: false
+     news_class: 1.1892
+ location_class: 1.1901
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  106
+ location_found: false
+     news_class: 2.1988
+ location_class: 2.1482
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  107
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  112
+ location_found: false
+     news_class: 2.6562
+ location_class: 2.4064
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  113
+ location_found: false
+     news_class: 1.1512
+ location_class: 1.1126
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  116
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.444
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  117
+ location_found: false
+     news_class: 0.4864
+ location_class: 0.0
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  118
+ location_found: false
+     news_class: 1.2213
+ location_class: 1.1918
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  119
+ location_found: false
+     news_class: 1.567
+ location_class: 1.5552
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  120
+ location_found: false
+     news_class: 2.1309
+ location_class: 2.013
+    news_klasse: 0.667
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  121
+ location_found: false
+     news_class: 0.921
+ location_class: 0.9651
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  129
+ location_found: false
+     news_class: 3.1398
+ location_class: 3.3125
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  131
+ location_found: false
+     news_class: 1.2581
+ location_class: 1.3892
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  132
+ location_found: false
+     news_class: 1.1312
+ location_class: 1.1901
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  135
+ location_found: false
+     news_class: 1.2711
+ location_class: 1.1126
+    news_klasse: 0.667
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  136
+ location_found: true
+     news_class: 1.2711
+ location_class: 1.1126
+    news_klasse: 0.667
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  149
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.111
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  153
+ location_found: false
+     news_class: 1.4086
+ location_class: 1.3721
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  154
+ location_found: false
+     news_class: 1.1483
+ location_class: 1.0343
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  155
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  156
+ location_found: false
+     news_class: 1.464
+ location_class: 1.2779
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  157
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  158
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  159
+ location_found: false
+     news_class: 1.1312
+ location_class: 1.1901
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  160
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  162
+ location_found: false
+     news_class: 1.669
+ location_class: 1.2779
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  165
+ location_found: false
+     news_class: 1.0561
+ location_class: 1.109
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  167
+ location_found: false
+     news_class: 1.0273
+ location_class: 0.9134
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  168
+ location_found: false
+     news_class: 1.2197
+ location_class: 1.1918
+    news_klasse: 0.222
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  169
+ location_found: false
+     news_class: 1.3345
+ location_class: 1.6467
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  172
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  174
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  178
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  182
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  186
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.222
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  187
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  191
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  193
+ location_found: false
+     news_class: 1.0561
+ location_class: 1.109
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  194
+ location_found: false
+     news_class: 1.1312
+ location_class: 1.1901
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  195
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  196
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  201
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  205
+ location_found: false
+     news_class: 1.0616
+ location_class: 1.0392
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  206
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  208
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  212
+ location_found: false
+     news_class: 2.8343
+ location_class: 3.1455
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  214
+ location_found: false
+     news_class: 1.1892
+ location_class: 1.1901
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  219
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  222
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  229
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  231
+ location_found: false
+     news_class: 2.6289
+ location_class: 2.8663
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  232
+ location_found: false
+     news_class: 1.1512
+ location_class: 1.1126
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  234
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  236
+ location_found: false
+     news_class: 1.3096
+ location_class: 1.2779
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  237
+ location_found: false
+     news_class: 1.2772
+ location_class: 1.2789
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  238
+ location_found: false
+     news_class: 1.1312
+ location_class: 1.1901
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  239
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  240
+ location_found: false
+     news_class: 1.399
+ location_class: 1.4872
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  245
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  246
+ location_found: false
+     news_class: 1.3268
+ location_class: 1.2789
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  248
+ location_found: false
+     news_class: 1.1918
+ location_class: 1.1126
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  251
+ location_found: false
+     news_class: 1.2709
+ location_class: 1.3233
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  253
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  256
+ location_found: false
+     news_class: 1.64
+ location_class: 1.6593
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  258
+ location_found: false
+     news_class: 1.717
+ location_class: 1.4762
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  259
+ location_found: false
+     news_class: 1.069
+ location_class: 0.9068
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  260
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  262
+ location_found: false
+     news_class: 2.5597
+ location_class: 2.643
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  263
+ location_found: false
+     news_class: 3.5916
+ location_class: 3.0686
+    news_klasse: 0.667
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  264
+ location_found: false
+     news_class: 2.4395
+ location_class: 2.3836
+    news_klasse: 0.0
+location_klasse: 0.071
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  267
+ location_found: false
+     news_class: 1.0561
+ location_class: 1.109
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  269
+ location_found: false
+     news_class: 0.0
+ location_class: 0.0
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  270
+ location_found: false
+     news_class: 1.2197
+ location_class: 1.1918
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  272
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  273
+ location_found: false
+     news_class: 1.2615
+ location_class: 1.3882
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  277
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  281
+ location_found: false
+     news_class: 1.1892
+ location_class: 1.1901
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  282
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  284
+ location_found: false
+     news_class: 1.4512
+ location_class: 1.109
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  287
+ location_found: false
+     news_class: 1.1816
+ location_class: 1.2035
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  290
+ location_found: false
+     news_class: 1.464
+ location_class: 1.2779
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  294
+ location_found: false
+     news_class: 2.3711
+ location_class: 2.317
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  299
+ location_found: false
+     news_class: 1.0561
+ location_class: 1.109
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  305
+ location_found: false
+     news_class: 2.4828
+ location_class: 2.58
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  307
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  310
+ location_found: false
+     news_class: 2.2763
+ location_class: 2.2908
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  314
+ location_found: false
+     news_class: 2.4939
+ location_class: 2.4861
+    news_klasse: 0.0
+location_klasse: 0.071
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  315
+ location_found: false
+     news_class: 1.0574
+ location_class: 1.0343
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  316
+ location_found: false
+     news_class: 1.0565
+ location_class: 0.9708
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  317
+ location_found: false
+     news_class: 1.4086
+ location_class: 1.3721
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  318
+ location_found: false
+     news_class: 1.3096
+ location_class: 1.2779
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  326
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  334
+ location_found: false
+     news_class: 1.1918
+ location_class: 1.1126
+    news_klasse: 0.111
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  335
+ location_found: false
+     news_class: 1.4086
+ location_class: 1.3721
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  336
+ location_found: false
+     news_class: 2.575
+ location_class: 2.5852
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  338
+ location_found: false
+     news_class: 1.0561
+ location_class: 1.109
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  339
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  341
+ location_found: false
+     news_class: 1.1918
+ location_class: 1.1126
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  343
+ location_found: false
+     news_class: 1.647
+ location_class: 1.2779
+    news_klasse: 0.333
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  346
+ location_found: false
+     news_class: 2.2984
+ location_class: 2.1469
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  355
+ location_found: false
+     news_class: 2.7103
+ location_class: 2.8698
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  362
+ location_found: false
+     news_class: 2.4327
+ location_class: 2.6577
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  372
+ location_found: false
+     news_class: 2.7562
+ location_class: 2.7454
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  373
+ location_found: false
+     news_class: 1.1312
+ location_class: 1.1901
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  377
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  378
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  379
+ location_found: false
+     news_class: 1.3345
+ location_class: 1.6467
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  381
+ location_found: false
+     news_class: 1.4512
+ location_class: 1.109
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  391
+ location_found: false
+     news_class: 1.5821
+ location_class: 1.3721
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  393
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  395
+ location_found: false
+     news_class: 0.5369
+ location_class: 0.0
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  396
+ location_found: false
+     news_class: 1.1816
+ location_class: 1.2035
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  398
+ location_found: false
+     news_class: 1.0616
+ location_class: 1.0392
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  399
+ location_found: false
+     news_class: 2.634
+ location_class: 2.7662
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  400
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  404
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  406
+ location_found: false
+     news_class: 1.3997
+ location_class: 1.377
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  407
+ location_found: false
+     news_class: 1.717
+ location_class: 1.4762
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  409
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  412
+ location_found: false
+     news_class: 1.249
+ location_class: 1.1126
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  415
+ location_found: false
+     news_class: 2.6857
+ location_class: 2.7707
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  422
+ location_found: false
+     news_class: 1.3096
+ location_class: 1.2779
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  425
+ location_found: false
+     news_class: 1.1312
+ location_class: 1.1901
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  426
+ location_found: false
+     news_class: 1.1375
+ location_class: 1.1126
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  428
+ location_found: false
+     news_class: 2.5978
+ location_class: 2.5622
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  431
+ location_found: false
+     news_class: 0.9911
+ location_class: 0.9708
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  435
+ location_found: false
+     news_class: 2.5575
+ location_class: 2.6475
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  437
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  438
+ location_found: false
+     news_class: 1.5821
+ location_class: 1.3721
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  443
+ location_found: false
+     news_class: 0.0
+ location_class: 0.0
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  450
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  451
+ location_found: false
+     news_class: 2.4447
+ location_class: 2.3819
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  453
+ location_found: false
+     news_class: 1.3589
+ location_class: 1.1918
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  454
+ location_found: false
+     news_class: 1.0616
+ location_class: 1.0392
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  455
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  456
+ location_found: false
+     news_class: 1.1905
+ location_class: 1.109
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  460
+ location_found: false
+     news_class: 1.1375
+ location_class: 1.1126
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  461
+ location_found: false
+     news_class: 1.3096
+ location_class: 1.2779
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  464
+ location_found: false
+     news_class: 1.4086
+ location_class: 1.3721
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  467
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  468
+ location_found: false
+     news_class: 1.1734
+ location_class: 1.2919
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  470
+ location_found: false
+     news_class: 2.5926
+ location_class: 2.6958
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  472
+ location_found: false
+     news_class: 2.1933
+ location_class: 2.2181
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  475
+ location_found: false
+     news_class: 1.0561
+ location_class: 1.109
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  476
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  478
+ location_found: false
+     news_class: 2.354
+ location_class: 2.2487
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  483
+ location_found: false
+     news_class: 1.2641
+ location_class: 1.1126
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  484
+ location_found: false
+     news_class: 1.5728
+ location_class: 1.7572
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  488
+ location_found: false
+     news_class: 1.0
+ location_class: 0.0
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  490
+ location_found: false
+     news_class: 1.2197
+ location_class: 1.1918
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  493
+ location_found: false
+     news_class: 2.6344
+ location_class: 2.7964
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  494
+ location_found: false
+     news_class: 1.2197
+ location_class: 1.1918
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  497
+ location_found: false
+     news_class: 1.1375
+ location_class: 1.1126
+    news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  498
+ location_found: false
+     news_class: 1.0973
+ location_class: 1.0392
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+
+Plot : 09:14:00 - meta.AdaBoostM1 (land_ort_labled_daten)
+Instance:  499
+ location_found: false
+     news_class: 1.2772
+ location_class: 1.2789
+    news_klasse: 1.0
+location_klasse: 0.0
+ predictedclass: -1
+          class: -1
+

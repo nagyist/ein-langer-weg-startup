@@ -1,48 +1,76 @@
 <!DOCTYPE html>
 <html xmlns:wicket="http://wicket.apache.org">
 <head>
-<meta charset="utf-8" />
-<title>MFT Hompage - mft.de</title>
-<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-<link
-	href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:regular,bold'
-	rel='stylesheet' type='text/css' />
-<link rel="stylesheet" href="style.css" type="text/css" media="screen"
-	title="Stylesheet" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+<link rel='stylesheet' type='text/css' href='css/standard.css'>
+<script language="javascript" type="text/javascript"
+	src="scripts/functions.js"></script>
+<script
+	src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<title>Startseite - bouchnafa.de</title>
+<style type="text/css">
+.results {
+margin-top: 20px; 
+margin-bottom: 20px; 
+font-family: Verdana; 
+font-size: 20px
+}
+</style>
 </head>
-<body>
-	<div id="hd">
-		<div id="logo">
-			<img src="logo.png" width="50px" height="50px" alt="Wicket Logo" />
-			<h1>Test Project with WICKET</h1>
+<body onload="updateClock()">
+	<div id="container">
+		<div id="header">
+			<p id="head">
+				Bachelorarbeit <br /> Thami Bouchnafa <br /> Identifizierung von
+				Benutzerabsichten in personbezogenen <br /> Suchanfragen mit Hilfe
+				von AdaBoost
+			</p>
+			<p id="hour"></p>
 		</div>
-	</div>
-	<div id="bd">
-		<h2>So let start learning!</h2>
-		<h3>Wicket</h3>
-		<p>
-			We have firstly to learn and test the Wicket Framework of Apache <br />Under
-			this Link you will find the homepage of the Framework <a
-				href="https://wicket.apache.org/">Wicket Homepage</a> <br />A
-			Tutorial from the homepage will be found under <a
-				href="http://wicket.apache.org/learn/examples/">Wicket Tutorial</a>
-			<br />Alternatively we can learn from different sources like Youtube
-			etc... <a href="https://www.youtube.com/watch?v=8a0Tkap4IAc">Tutorial
-				in Youtube</a>
-		</p>
+		<center>
+			<p
+				style="font-size: 30px; color: gray; margin-top: 250px; font-family: 'Times New Roman', Times, serif;">AdaBoost
+				Search Engine with Feedback</p>
+			<form wicket:id="searchForm">
+				<input wicket:id="searchQuery" id="searchQuery" name="q" type="text"
+					style="font-size: 25px; height: 30px; width: 500px; align: center" />
+				<input wicket:id="submitButton" id="submitButton" type="submit"
+					value="" class="button" />
+			</form>
+			
+			<p wicket:id="query" class="results" style="color: red">
+				result go here..
+			</p>
+			<p wicket:id="evalResultLabel1" class="results" style="color: black">
+				result go here..
+			</p>
+			<p wicket:id="evalResultLabel2" class="results" style="color: green"> 
+				result go here..
+			</p>
+			<p wicket:id="evalResultLabel3" class="results" style="color: yellow"> 
+				result go here..
+			</p>
+			<p wicket:id="instance" class="results" style="color: gray">
+				result go here..
+			</p>
+			<p wicket:id="result" class="results" style="color: blue">
+				result go here..
+			</p>
 
-		<h3>HTML, CSS & Co.</h3>
-		<p>HTML, CSS and others, I think the best ways to learn them are
-			such Websites like</p>
-		<ol>
-			<li><a href="http://www.w3schools.com/">W3Schools</a></li>
-			<li><a href="http://de.selfhtml.org/">SelfHTML</a></li>
-			<li><a href="http://www.codecademy.com/en/tracks/web">Code
-					Academy</a></li>
-		</ol>
-		<span wicket:id="feedback">feedbackmessages will be put here..</span>
-
+			<p class="texte" style="color: #949494; margin-top: 100px; margin-bottom: 250px; font-family: 'Times New Roman', Times, serif; font-size: 20px">
+				Die Suchmachine verwendet einen schon trainierten Klassifikator
+				namens AdaBoost <br /> Der Algorithmus klassifiziert personbezogene
+				Suchanfragen <br /> Mögliche Klassen sind beispielsweise "Musik",
+				"Sport", "Ortung" etc. <br /> Hier wird der Feedback Ansatz
+				getestet <br /> Wir geben mehrere Suchanfragen ein, die von unserem
+				Algorithmus falsch klassifiziert werden. Diese Suchanfragen werden
+				vom Orakel neu klassifiziert. Neue Datensätze werden erzeugt und zu
+				den Trainigsdaten hinzugefügt. Die Genauigkeit des Algorithmuses
+				wird dann das Hauptziel sein.
+			</p>
+			<span wicket:id="feedback">feedbackmessages will be put here..</span>
+		</center>
 	</div>
-	<div id="ft"></div>
 </body>
 </html>

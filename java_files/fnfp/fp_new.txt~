@@ -1,0 +1,513 @@
+Instance:8
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:14
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:15
+ location_found: false
+news_class: 1.5728
+ location_class: 1.7572
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:16
+ location_found: false
+news_class: 1.5728
+ location_class: 1.7572
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:36
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:39
+ location_found: true
+news_class: 1.0616
+ location_class: 1.0392
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:41
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:56
+ location_found: false
+news_class: 1.3096
+ location_class: 1.2779
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:57
+ location_found: false
+news_class: 1.0832
+ location_class: 1.3606
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:71
+ location_found: false
+news_class: 1.5728
+ location_class: 1.7572
+news_klasse: 0.222
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:76
+ location_found: false
+news_class: 1.0
+ location_class: 0.9134
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:85
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:96
+ location_found: false
+news_class: 1.5728
+ location_class: 1.7572
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:101
+ location_found: false
+news_class: 1.5728
+ location_class: 1.7572
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:102
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:107
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:109
+ location_found: false
+news_class: 2.87
+ location_class: 2.949
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:129
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:137
+ location_found: true
+news_class: 1.22
+ location_class: 1.192
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:143
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:152
+ location_found: false
+news_class: 1.5833
+ location_class: 0.9651
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:154
+ location_found: false
+news_class: 2.8179
+ location_class: 3.1343
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:156
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:159
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:167
+ location_found: false
+news_class: 1.2581
+ location_class: 1.3892
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:186
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:203
+ location_found: true
+news_class: 1.221
+ location_class: 1.1901
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:207
+ location_found: false
+news_class: 1.5728
+ location_class: 1.7572
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:231
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:232
+ location_found: false
+news_class: 1.5728
+ location_class: 1.7572
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:241
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:252
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:269
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:290
+ location_found: true
+news_class: 1.2525
+ location_class: 1.109
+news_klasse: 0.222
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:291
+ location_found: false
+news_class: 1.5728
+ location_class: 1.7572
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:298
+ location_found: false
+news_class: 1.5728
+ location_class: 1.7572
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:323
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:325
+ location_found: false
+news_class: 1.2197
+ location_class: 1.1918
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:334
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:335
+ location_found: true
+news_class: 0.921
+ location_class: 0.9651
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:337
+ location_found: false
+news_class: 1.0
+ location_class: 0.9134
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:350
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:362
+ location_found: false
+news_class: 2.6389
+ location_class: 2.7227
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:377
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:389
+ location_found: false
+news_class: 1.5728
+ location_class: 1.7572
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:393
+ location_found: false
+news_class: 3.1457
+ location_class: 3.5145
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:405
+ location_found: false
+news_class: 1.2552
+ location_class: 1.1901
+news_klasse: 0.0
+location_klasse: 1.714
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:406
+ location_found: false
+news_class: 1.5728
+ location_class: 1.7572
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:417
+ location_found: false
+news_class: 1.5728
+ location_class: 1.7572
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:419
+ location_found: false
+news_class: 2.7633
+ location_class: 3.3817
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:425
+ location_found: true
+news_class: 1.2213
+ location_class: 1.1918
+news_klasse: 0.0
+location_klasse: 0.357
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:427
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:430
+ location_found: false
+news_class: 1.5728
+ location_class: 1.7572
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:442
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:452
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:456
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:466
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:468
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:474
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:475
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:479
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:488
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:494
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+Instance:499
+ location_found: false
+news_class: 0.0
+ location_class: 0.0
+news_klasse: 0.0
+location_klasse: 0.0
+ predictedclass: NACHRICHTEN/INFORMATION
+class: LAND/ORT
+
