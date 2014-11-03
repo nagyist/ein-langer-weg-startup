@@ -3,6 +3,7 @@ function updateClock() {
 			"August", "September", "October", "November", "December" ];
 	var days = ["So.", "Mo.", "Tue.", "Wed.", "Thu.", "Fr.", "Sat."];
 	var now = new Date();
+	
 	var day = days[now.getDay()];
 	var day_nr = now.getDate();
 	var month = months[now.getMonth()];
@@ -12,8 +13,13 @@ function updateClock() {
 	var s = now.getSeconds();
 	m = checkTime(m);
 	s = checkTime(s);
-	document.getElementById("hour").innerHTML = day + " " + day_nr + ". "
-			+ month + " " + year + "  " + h + ":" + m + ":" + s;
+	
+	var abgabeDate = new Date('2014/11/30');
+	var abgabeDays = abgabeDate.getDate() -  day_nr;
+//	var diff = Math.abs(abgabaDate - now) / (1000 * 60 * 60 * 24);
+	
+	document.getElementById("hour").innerHTML = h + ":" + m + ":" + s + "<br />" + day + " " + day_nr + ". "
+			+ month + " " + year + "  " +  "<br />Abgabe fällig in <span style='color: red'>" + abgabeDays + "</span> Tage";
 	t = setTimeout(function() {
 		updateClock();
 	}, 1000);

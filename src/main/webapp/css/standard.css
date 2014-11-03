@@ -92,26 +92,18 @@ div#menu {
 /* 	height: 350px; */
 }
 
-
-#submitButton {
-	background-image: url('images/btn.png');
-	background-size: 45px 38px;
-	background-position:;
-	cursor: pointer;
-	padding: 7px;
-	height: 37px;
-	width: 45px;
-	margin-top: 1px;
-	border: none;
-}
-
 #head {
 	float: left;
 	font-size: 20px;
 	color: yellow;
-	font-family: 'Times New Roman', Times, serif;
+	font-family: Verdana, Arial, sans-serif;
 	margin-left: 20px;
 	margin-top: 12px;
+}
+
+div#header {
+	-webkit-border-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
 }
 
 div#menu ul li {

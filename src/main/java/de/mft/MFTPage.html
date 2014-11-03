@@ -16,6 +16,24 @@ margin-bottom: 20px;
 font-family: Verdana; 
 font-size: 20px
 }
+.texte {
+	color: #949494; margin-top: 100px; margin-bottom: 250px; font-family: 'Times New Roman', Times, serif; font-size: 15px
+}
+.texte_after_submit {
+margin-top: 0px; margin-bottom: 0px;
+display: none;
+}
+#submitButton {
+	background-image: url('images/btn.png');
+	background-size: 45px 38px;
+	background-position:;
+	cursor: pointer;
+	padding: 7px;
+	height: 37px;
+	width: 45px;
+	margin-top: 1px;
+	border: none;
+}
 </style>
 </head>
 <body onload="updateClock()">
@@ -32,11 +50,11 @@ font-size: 20px
 			<p
 				style="font-size: 30px; color: gray; margin-top: 250px; font-family: 'Times New Roman', Times, serif;">AdaBoost
 				Search Engine with Feedback</p>
-			<form wicket:id="searchForm">
+			<form wicket:id="searchForm" method="GET">
 				<input wicket:id="searchQuery" id="searchQuery" name="q" type="text"
 					style="font-size: 25px; height: 30px; width: 500px; align: center" />
 				<input wicket:id="submitButton" id="submitButton" type="submit"
-					value="" class="button" />
+				    value="" class="button" />
 			</form>
 			
 			<p wicket:id="query" class="results" style="color: red">
@@ -58,7 +76,7 @@ font-size: 20px
 				result go here..
 			</p>
 
-			<p class="texte" style="color: #949494; margin-top: 100px; margin-bottom: 250px; font-family: 'Times New Roman', Times, serif; font-size: 20px">
+			<p class="texte">
 				Die Suchmachine verwendet einen schon trainierten Klassifikator
 				namens AdaBoost <br /> Der Algorithmus klassifiziert personbezogene
 				Suchanfragen <br /> Mögliche Klassen sind beispielsweise "Musik",
@@ -67,7 +85,7 @@ font-size: 20px
 				Algorithmus falsch klassifiziert werden. Diese Suchanfragen werden
 				vom Orakel neu klassifiziert. Neue Datensätze werden erzeugt und zu
 				den Trainigsdaten hinzugefügt. Die Genauigkeit des Algorithmuses
-				wird dann das Hauptziel sein.
+				wird dann beobachtet.
 			</p>
 			<span wicket:id="feedback">feedbackmessages will be put here..</span>
 		</center>

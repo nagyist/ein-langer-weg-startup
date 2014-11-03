@@ -2,13 +2,17 @@ package de.mft;
 
 
 import org.apache.wicket.request.mapper.parameter.PageParameters;
+import org.apache.wicket.behavior.AttributeAppender;
 import org.apache.wicket.markup.html.basic.Label;
 import org.apache.wicket.markup.html.form.Button;
 import org.apache.wicket.markup.html.form.Form;
 import org.apache.wicket.markup.html.form.TextField;
 import org.apache.wicket.markup.html.panel.FeedbackPanel;
+import org.apache.wicket.markup.html.WebMarkupContainer;
 import org.apache.wicket.markup.html.WebPage;
 import org.apache.wicket.model.Model;
+
+
 
 
 
@@ -75,11 +79,16 @@ public class MFTPage extends WebPage {
 		inst.setClassIndex(inst.numAttributes() - 1);
 		eval = new Evaluation(inst);
 		eval.evaluateModel(cls, inst);
+//		final WebMarkupContainer wmc = new WebMarkupContainer("texte");
+//		wmc.setOutputMarkupPlaceholderTag(true);
+//		form.add(wmc);
 		
 		form.add(new Button("submitButton") {
 			@Override
             public void onSubmit() {
             	
+//				wmc.add(new AttributeAppender("class", true, new Model<String>("texte_after_submit"), " "));
+
                 Instance iExample = new Instance(4);
         		iExample.setDataset(inst);
         		
