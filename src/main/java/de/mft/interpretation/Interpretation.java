@@ -105,7 +105,7 @@ public class Interpretation {
 		connection.setRequestMethod("GET");
 		connection.setDoOutput(true);
 		connection.connect();
-		List<String> e = entitiesList = new ArrayList<String>();
+		List<String> entitiesList = new ArrayList<String>();
 
 		try {
 			DocumentBuilderFactory dbFactory = DocumentBuilderFactory
