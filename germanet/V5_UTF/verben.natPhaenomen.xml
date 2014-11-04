@@ -1,0 +1,1780 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd"[
+ ]>
+<synsets>
+<synset id="vnatPhaenomen.1" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="ja" id="vnatPhaenomen.1.nat_Phaenomen_Verb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nat_Phaenomen_Verb</orthForm>
+</lexUnit>
+<frames>
+<frame>30</frame>
+</frames>
+</synset>
+<synset id="vnatPhaenomen.2" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="ja" id="vnatPhaenomen.2.Wetterverb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wetterverb</orthForm>
+</lexUnit>
+<frames>
+<frame>30</frame>
+</frames>
+</synset>
+<synset id="vnatPhaenomen.3" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="ja" id="vnatPhaenomen.3.spez_Phaenomen_Verb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spez_Phaenomen_Verb</orthForm>
+</lexUnit>
+<frames>
+<frame>30</frame>
+</frames>
+</synset>
+<synset id="vnatPhaenomen.4" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.4.regnen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>regnen</orthForm>
+</lexUnit>
+<frames>
+<frame>NE</frame>
+<frame>NE.AN</frame>
+</frames>
+<examples>
+<example><text>Es regnet und stürmt.</text> <frame>NE</frame></example>
+<example><text>Es regnet Bindfäden.</text> <frame>NE.AN</frame></example>
+<example><text>Es regnet ununterbrochen.</text> <frame>???eigentlichNE.BMobenhinzufügen!</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.5" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.5.einregnen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einregnen</orthForm>
+</lexUnit>
+<frames>
+<frame>NE.AR</frame>
+</frames>
+<examples>
+<example>
+<text>Es wird sich einregnen und nicht mehr aufhören.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.6" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.6.pladdern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pladdern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Der Regen pladderte an die Fensterscheiben.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.7" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.7.tröpfeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tröpfeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.7.drippeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>drippeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.7.tribbeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tribbeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NE</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Es tröpfelte etwas und hörte sofort wieder auf.</text> <frame>NE</frame></example>
+<example><text>Der Regen tribbelte auf das Dach.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.8" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.8.gießen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gießen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.8.schütten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schütten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.8.schiffen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schiffen</orthForm>
+</lexUnit>
+<frames>
+<frame>NE.PP</frame>
+</frames>
+<examples>
+<example><text>Es gießt in Strömen.</text> <frame>NE.PP</frame></example>
+<example><text>Es hat den ganzen Tag geschüttet.</text> <frame>???NN.BT</frame></example>
+<example><text>Es schifft ununterbrochen.</text> <frame>???NE.BM</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.9" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.9.nieseln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nieseln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.9.pieseln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pieseln</orthForm>
+</lexUnit>
+<frames>
+<frame>NE</frame>
+</frames>
+<examples>
+<example><text>Es nieselte den ganzen Tag.</text> <frame>???eigentlichNE.BT</frame></example>
+<example><text>Es pieselte unaufhörlich.</text> <frame>???eigentlichNE.BM</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.10" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.10.einnieseln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einnieseln</orthForm>
+</lexUnit>
+<frames>
+<frame>NE.AR</frame>
+</frames>
+<examples>
+<example>
+<text>Es nieselte sich ein und hörte nicht mehr auf.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.11" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.11.schauern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schauern</orthForm>
+</lexUnit>
+<frames>
+<frame>NE</frame>
+</frames>
+<examples>
+<example><text>Es schauerte heftig, hörte aber schnell wieder auf.</text> <frame>???eigentlichNE.BM</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.12" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.12.schneien" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schneien</orthForm>
+</lexUnit>
+<frames>
+<frame>NE</frame>
+<frame>NE.AN</frame>
+</frames>
+<examples>
+<example><text>In den Alpen hat es viel geschneit dieses Jahr.</text> <frame>???eigentlichNE.BL.BT</frame></example>
+<example><text>Es schneit dicke Flocken vom Himmel.</text> <frame>???eigentlichNE.AN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.13" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.13.stiemen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>stiemen</orthForm>
+</lexUnit>
+<frames>
+<frame>NE.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>heftig schneien</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Es stiemte den ganzen Tag lang.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.14" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.14.hageln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hageln</orthForm>
+</lexUnit>
+<frames>
+<frame>NE</frame>
+<frame>NE.AN</frame>
+</frames>
+<examples>
+<example><text>Gestern hat es gehagelt.</text> <frame>???eigentlichNE.BT</frame></example>
+<example><text>Plötzlich hagelte es Tennisbälle.</text> <frame>NE.AN</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.15" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.15.schloßen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schloßen</orthForm>
+</lexUnit>
+<frames>
+<frame>NE.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>heftig hageln</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Es schloßte auf die Flachdächer der Fabrik.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.16" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.16.graupeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>graupeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NE</frame>
+</frames>
+<examples>
+<example><text>Es graupelt schon den ganzen Morgen.</text> <frame>???NE.BT</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.17" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.17.gewittern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gewittern</orthForm>
+</lexUnit>
+<frames>
+<frame>NE</frame>
+</frames>
+<examples>
+<example><text>Im Sommer gewittert es oft am Abend.</text> <frame>???NE.BT.BM</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.18" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.18.donnern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>donnern</orthForm>
+</lexUnit>
+<frames>
+<frame>NE</frame>
+</frames>
+<examples>
+<example><text>Es donnerte schon lange vor dem Gewitterausbruch.</text> <frame>???NE.BT</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.19" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.19.grollen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grollen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.19.rumoren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rumoren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Der Donner grollt in der Ferne.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.20" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.20.rollen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rollen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<paraphrases>
+<paraphrase>ein dumpfes, rumpelndes, polterndes o.ä. Geräusch erzeugen, von sich geben</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Der Donner rollt in der Ferne.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.21" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.21.krachen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>krachen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Ein Blitz krachte vom Himmel.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.22" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.22.blitzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blitzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NE</frame>
+</frames>
+<examples>
+<example>
+<text>Es blitzte und donnerte.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.23" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.23.wetterleuchten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wetterleuchten</orthForm>
+</lexUnit>
+<frames>
+<frame>NE</frame>
+</frames>
+<paraphrases>
+<paraphrase>als Blitz in der Ferne aufleuchten</paraphrase>
+</paraphrases>
+<examples>
+<example><text>In den Bergen wetterleuchtete es.</text> <frame>???NE.BL</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.24" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.24.frieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>frieren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.24.eisen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eisen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.24.gefrieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gefrieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NE</frame>
+</frames>
+<examples>
+<example>
+<text>Heute Nacht hat es gefroren.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.25" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.25.überfrieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überfrieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BT</frame>
+</frames>
+<paraphrases>
+<paraphrase>an der Oberfläche leicht überfrieren</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Die nassen Straßen werden heute Nacht überfrieren.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.26" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.26.schmelzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmelzen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.26.tauen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tauen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example><text>Der Schnee taut schon.</text> <frame>NN</frame></example>
+<example><text>Das Eis schmilzt durch das schöne Wetter.</text> <frame>NN.BC</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.27" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="ja" id="vnatPhaenomen.27.Jahreszeiten_Wetter_Verb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Jahreszeiten_Wetter_Verb</orthForm>
+</lexUnit>
+<frames>
+<frame>30</frame>
+</frames>
+</synset>
+<synset id="vnatPhaenomen.28" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.28.wintern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wintern</orthForm>
+</lexUnit>
+<frames>
+<frame>NE</frame>
+</frames>
+<examples>
+<example><text>Es winterte schon im Oktober.</text> <frame>???NE.BT</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.29" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.29.sommern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sommern</orthForm>
+</lexUnit>
+<frames>
+<frame>NE</frame>
+</frames>
+<examples>
+<example><text>Es sommert allmählich.</text> <frame>???NE.BA</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.30" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.30.herbsten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herbsten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.30.herbsteln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herbsteln</orthForm>
+</lexUnit>
+<frames>
+<frame>NE</frame>
+</frames>
+<examples>
+<example><text>Es herbstelt schon.</text> <frame>NE.BT</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.31" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.31.aufklären" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufklären</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.31.aufklaren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufklaren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.31.aufhellen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufhellen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.31.lichten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lichten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+</frames>
+<examples>
+<example>
+<text>Der Himmel klärte sich auf.</text>
+</example>
+<example>
+<text>Die Wolkendecke lichtete sich.</text>
+</example>
+<example>
+<text>Der Himmel hellte sich langsam auf.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.32" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.32.verdunkeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verdunkeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.32.verfinstern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verfinstern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.32.eindunkeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eindunkeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.32.dunkeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dunkeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+<frame>NN.AN</frame>
+<frame>NE</frame>
+</frames>
+<examples>
+<example><text>Der Himmel verfinsterte sich.</text> <frame>NN.AR</frame></example>
+<example><text>Schwarze Wolken dunkelten uns ein.</text> <frame>NN.AN</frame></example>
+<example><text>Es dunkelt allmählich.</text> <frame>NE</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.33" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.33.zuziehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zuziehen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.33.bewölken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bewölken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BM</frame>
+<frame>NN.AR</frame>
+</frames>
+<examples>
+<example><text>Der Himmel bewölkte sich plötzlich.</text> <frame>NN.AR.BM</frame></example>
+<example><text>Der Himmel zieht sich zu.</text> <frame>NN.AR</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.34" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.34.beziehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beziehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BS</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich bewölken</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Der Himmel hat sich mit dicken Wolken bezogen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.35" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="ja" id="vnatPhaenomen.35.Wasser_Verb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wasser_Verb</orthForm>
+</lexUnit>
+<frames>
+<frame>30</frame>
+</frames>
+</synset>
+<synset id="vnatPhaenomen.36" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.36.kondensieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kondensieren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.36.evaporieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>evaporieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Der Chemiker kondensierte den Abdampf.</text> <frame>NN.AN</frame></example>
+<example><text>Die feuchte Luft im Zimmer kondensierte am Fenster.</text> <frame>???NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.37" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.37.brausen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>brausen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Das Meer braust.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.38" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.38.fluten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fluten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Das Wasser des Rheins flutete über die Felder.</text>
+</example>
+<example>
+<text>Die Sonnenstrahlen fluteten ins Zimmer.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.39" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.39.trocknen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trocknen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Sonnenstrahlen trocknen das nasse Gras.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.40" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.40.dampfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dampfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Erde dampfte im Morgengrauen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.41" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.41.verdampfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verdampfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Das Wasser im Kochtopf verdampfte.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.42" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.42.verdunsten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verdunsten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Das Wasser der Flüsse verdunstet bei großer Hitze.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.43" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.43.tauen1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tauen</orthForm>
+</lexUnit>
+<frames>
+<frame>NE</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich als Tau niederschlagen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Heute morgen hat es getaut.</text> <frame>???NE.BT</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.44" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="ja" id="vnatPhaenomen.44.Feuer_Verb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Feuer_Verb</orthForm>
+</lexUnit>
+<frames>
+<frame>30</frame>
+</frames>
+</synset>
+<synset id="vnatPhaenomen.45" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.45.brennen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>brennen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+<frame>NN</frame>
+</frames>
+<paraphrases>
+<paraphrase>eine Flamme hervorbringen,in Flammen stehen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Das Holz brannte lichterloh.</text> <frame>NN.BM</frame></example>
+<example><text>Der Wald brannte.</text> <frame>NN</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.46" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.46.entzünden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entzünden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Das Feuer entzündete sich durch eine dort liegende Glasscherbe.</text> <frame>NN.AR.PP</frame></example>
+<example><text>Der weggeworfene Zigarettenstummel entzündete einen Waldbrand.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.47" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.47.glimmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>glimmen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.47.glühen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>glühen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+<frame>NN.PP</frame>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example><text>Das Feuer glühte in der Dunkelheit.</text> <frame>NN.BL</frame></example>
+<example><text>Der Himmel glühte von der untergehenden Sonne.</text> <frame>NN.PP</frame></example>
+<example><text>Die Asche glimmte noch ein wenig.</text> <frame>NN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.48" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.48.verglimmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verglimmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BT</frame>
+</frames>
+<paraphrases>
+<paraphrase>langsam zu glimmen aufhören</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Das Streichholz verglomm.</text> <frame>NN</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.49" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.49.verglühen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verglühen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example><text>Der Himmelskörper verglühte in Jahrmillionen.</text> <frame>NN.BT</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.50" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.50.lodern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lodern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.50.lohen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lohen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.50.flammen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>flammen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Die Flammen loderten (zum Himmel).</text> <frame>NN.BL</frame></example>
+<example><text>Das Feuer lohte meterhoch.</text> <frame>NN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.51" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.51.schmoren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmoren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.51.schwelen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwelen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP.BL</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Der Braten schmorte im Backofen bei 220 Grad.</text> <frame>NN.PP.BL</frame></example>
+<example><text>Das Feuer schwelte unter der Asche weiter.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.52" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.52.entflammen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entflammen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.AR.BA</frame>
+</frames>
+<examples>
+<example><text>Durch die Reibung der beiden Steine entflammte ein kleines Feuer.</text> <frame>NN.PP</frame></example>
+<example><text>Der Stoff entflammte sich sofort.</text> <frame>NN.AR.BA</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.53" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.53.aufflammen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufflammen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BA</frame>
+</frames>
+<examples>
+<example>
+<text>Das Feuer flammte kurz auf.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.54" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.54.verbrennen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verbrennen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.54.abfackeln" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>abfackeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Sie hat ihre alten Schulhefte verbrannt.</text> <frame>NN.AN</frame></example>
+<example><text>Durch Waldbrände verbrannte ein Drittel der gesamten Baumbestände.</text> <frame>NN.PP</frame></example>
+<example><text>Er fackelte die ganze Scheune ab.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.55" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.55.verglühen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>verglühen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.DN</frame>
+</frames>
+<examples>
+<example><text>Die Sonne verglühte den Anwohnern die Steppe.</text> <frame>NN.AN.DN</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.56" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.56.absengen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>absengen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Er sengte das Feld ab.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.57" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.57.flämmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>flämmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>Federkiele von gerupften Gänsen absengen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er flämmte das Geflügel.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.58" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.58.anzünden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anzünden</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.58.anstecken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anstecken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.58.in_Brand_setzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>in_Brand_setzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Er hatte das Feld angesteckt.</text> <frame>NN.AN</frame></example>
+<example><text>Der Vater zündete das Holz im Kamin an.</text> <frame>NN.AN</frame></example>
+<example><text>Das Kind hat das ganze Haus in Brand gesteckt.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.59" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.59.brandschatzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>brandschatzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Terroristen brandschatzten die leerstehenden Botschaftsgebäude.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.60" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.60.zündeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zündeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.60.kokeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kokeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BS</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Die Kinder zündeln mit Streichhölzer.</text> <frame>NN.BS</frame></example>
+<example><text>Er hat in der Scheune gezündelt.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.61" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.61.rauchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rauchen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example>
+<text>Der Vulkan raucht seit ein paar Wochen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.62" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.62.qualmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>qualmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+<frame>NE.PP</frame>
+</frames>
+<examples>
+<example><text>Der Schornstein qualmt ganz schön.</text> <frame>NN.BM</frame></example>
+<example><text>Es qualmte aus dem Fenster.</text> <frame>NE.PP</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.63" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.63.sengen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sengen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<paraphrases>
+<paraphrase>sehr große Hitze</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Die Sonne sengte.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.64" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.64.ausbrechen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausbrechen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BT</frame>
+</frames>
+<paraphrases>
+<paraphrase>Vulkan</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Der Vulkan ist heute Nacht ausgebrochen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.65" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.65.spucken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spucken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>Vulkan</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Der Vulkan spuckte glühende Asche.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.66" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.66.erwärmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erwärmen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.66.erhitzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erhitzen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.66.aufheizen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufheizen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BM</frame>
+<frame>NN.BM</frame>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example><text>Die Atmosphäre heizt sich zunehmend auf.</text> <frame>NN.AR.BM</frame></example>
+<example><text>Das Wasser hat sich um mehrere Grad erwärmt.</text> <frame>NN.BM</frame></example>
+<example><text>Das Wasser hat sich in der Sonne erhitzt.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.67" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="ja" id="vnatPhaenomen.67.Erden_Verb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erden_Verb</orthForm>
+</lexUnit>
+<frames>
+<frame>30</frame>
+</frames>
+</synset>
+<synset id="vnatPhaenomen.68" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.68.strahlen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>strahlen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<paraphrases>
+<paraphrase>radioaktive Strahlen aussenden</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Uran strahlt.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.69" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.69.verstrahlen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verstrahlen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>durch Radioaktivität verseuchen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Das radioaktive Material hat das ganze Gebiet verstrahlt.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.70" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.70.ablagern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ablagern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.70.absetzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>absetzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BL</frame>
+</frames>
+<examples>
+<example><text>Im Boden lagerten sich Gesteinsschichten ab.</text> <frame>NN.AR.BL</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.71" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.71.stratifizieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stratifizieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BL</frame>
+</frames>
+<paraphrases>
+<paraphrase>in Schichten ablagern</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Die Gesteine stratifizierten.</text> <frame>NN</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.72" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.72.korrodieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>korrodieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<paraphrases>
+<paraphrase>Materialien zerfressen oder angreifen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Aluminium und Eisen korrodieren.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.73" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.73.erodieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erodieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>den Boden wegspülen oder abtragen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Wasser, Eis und Wind erodieren die Böden.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.74" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.74.kristallisieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kristallisieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+<frame>NN.AR</frame>
+</frames>
+<examples>
+<example><text>Diamanten kristallisieren kubisch.</text> <frame>NN.BM</frame></example>
+<example><text>Zucker kristallisiert sich.</text> <frame>NN.AR</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.75" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.75.versteinern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>versteinern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.75.petrifizieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>petrifizieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Pflanzen und Tiere versteinerten im Laufe der Erdzeitalter.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.76" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.76.vereisen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vereisen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example>
+<text>Die nassen Straßen vereisten über Nacht.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.77" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.77.ionisieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ionisieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Elektronen ionisieren Atome.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.78" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.78.verkalken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verkalken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Waschmaschinen verkalken durch hartes Wasser.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.79" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.79.magnetisieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>magnetisieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>magnetisch machen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Der Physiker magnetisierte die Nadel.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.80" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.80.veröden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>veröden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example>
+<text>Die Landstriche verödeten zusehends.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.81" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.81.versteppen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>versteppen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example>
+<text>Durch die große Trockenheit versteppte die Landschaft.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.82" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.82.verkarsten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verkarsten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example>
+<text>Durch die Wasserknappheit verkarstete das Gebirge.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.83" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.83.vergletschern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vergletschern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example><text>Eines Tages wird Europa vergletschern.</text> <frame>NN.BT</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.84" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.84.vermooren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vermooren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Die Gegend vermoort komplett.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.85" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.85.versumpfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>versumpfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Ganze Landstriche versumpften nach und nach.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.86" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.86.sumpfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sumpfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BA</frame>
+</frames>
+<paraphrases>
+<paraphrase>sumpfig werden</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Die Gegend um das alte Forsthaus sumpfte zusehends.</text> <frame>NN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.87" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.87.vermoosen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vermoosen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Die Mauern sind ziemlich vermoost.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.88" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="ja" id="vnatPhaenomen.88.Licht_Verb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Licht_Verb</orthForm>
+</lexUnit>
+<frames>
+<frame>30</frame>
+</frames>
+</synset>
+<synset id="vnatPhaenomen.89" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.89.leuchten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leuchten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.89.strahlen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>strahlen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BL</frame>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>Lichtstrahlen aussenden, große Helligkeit verbreiten</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Die Lichter strahlen.</text> <frame>NN</frame></example>
+<example><text>Der Mond leuchtete in der Nacht.</text> <frame>NN.BL</frame></example>
+<example><text>Die Sonne strahlt hinter den Wolken hervor.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.90" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.90.lumineszieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lumineszieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>kalt leuchten</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Der Kobalt lumeniszierte.</text> <frame>NN</frame></example>
+<example><text>Der Stoff luminesziert durch die Röntgenstrahlung.</text> <frame>NN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.91" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.91.fluoreszieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fluoreszieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<paraphrases>
+<paraphrase>von selbst lechten</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Das Material fluoreszierte.</text> <frame>NN</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.92" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.92.prangen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>prangen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Die goldnen Sternlein prangen am Himmel.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.93" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.93.überstrahlen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überstrahlen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Sonne überstrahlt das ganze Tal.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.94" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.94.zurückstrahlen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zurückstrahlen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Der helle Blitz reflektierte im Fenster und strahlte zurück.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.95" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.95.aufleuchten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufleuchten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.95.aufflackern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufflackern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.95.auflodern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auflodern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+<frame>NN.PP</frame>
+<frame>NN</frame>
+</frames>
+<examples>
+<example><text>Die Sonne leuchtete hinter den Bergen auf.</text> <frame>NN.BL</frame></example>
+<example><text>Die Glut loderte kurz auf.</text> <frame>NN</frame></example>
+<example><text>Die Flammen flackerten im Wind nochmal auf.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.96" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.96.flackern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>flackern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+<frame>NN</frame>
+</frames>
+<examples>
+<example><text>Das Feuer flackerte im Kamin.</text> <frame>NN.BL</frame></example>
+<example><text>Blitze flackerten am Horizont.</text> <frame>NN.BL</frame></example>
+<example><text>Die Kerze flackerte.</text> <frame>NN</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.97" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.97.wabern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wabern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Die Lichtshow waberte durch den Raum.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.98" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.98.scheinen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>scheinen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BT</frame>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Die Sonne scheint.</text>
+</example>
+<example><text>Die Sonne schien den ganzen Tag.</text> <frame>NN.BT</frame></example>
+<example><text>Der Mond scheint herrlich.</text> <frame>NN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.99" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.99.bescheinen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bescheinen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.99.beleuchten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beleuchten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Das Mondlicht beschien die Felder.</text>
+</example>
+<example>
+<text>Die Flutlichter beleuchteten das Stadion.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.100" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.100.erleuchten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erleuchten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.100.erhellen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erhellen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.100.illuminieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>illuminieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BS</frame>
+</frames>
+<examples>
+<example><text>Der Stern erleuchtete den Abendhimmel.</text> <frame>NN.AN</frame></example>
+<example><text>Er erhellte die Kellerräume mit einer Taschenlampe.</text> <frame>NN.AN.BS</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.101" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.101.brennen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>brennen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Die Sonne brennt auf die Erde.</text> <frame>NN.BL</frame></example>
+<example><text>Die Lampe brennt.</text> <frame>NN</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.102" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.102.knallen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>knallen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Die Sonne knallt auf mein Auto.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.103" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.103.stechen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stechen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Sonne sticht heute sehr.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.104" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.104.niederbrennen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>niederbrennen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.104.herniederbrennen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herniederbrennen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Das Haus brannte vollständig nieder.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.105" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.105.untergehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>untergehen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.105.sinken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sinken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.105.versinken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>versinken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Bl</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Die Sonne geht (im Westen) auf.</text> <frame>NN.Bl</frame></example>
+<example><text>Die Sonne sank hinter den Bergen.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.106" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.106.dämmern2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>dämmern</orthForm>
+</lexUnit>
+<frames>
+<frame>NE.PP</frame>
+</frames>
+<examples>
+<example><text>Es dämmert schon früh im Winter.</text> <frame>???NE.BT</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.107" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.107.aufgehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufgehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Bl</frame>
+</frames>
+<examples>
+<example>
+<text>Die Sonne geht (im Osten) auf.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.108" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.108.tagen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tagen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.108.dämmern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dämmern</orthForm>
+</lexUnit>
+<frames>
+<frame>NE.PP</frame>
+<frame>NN</frame>
+</frames>
+<examples>
+<example><text>Es dämmert sehr früh im Sommer.</text> <frame>???NE.BT</frame></example>
+<example><text>Es tagte schon als loswanderten.</text> <frame>NN</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.109" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.109.schillern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schillern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BA</frame>
+</frames>
+<examples>
+<example>
+<text>Der Regenbogen schillerte in allen Farben.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.110" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.110.funkeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>funkeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Die Sterne funkelten am Himmel.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.111" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.111.glänzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>glänzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Die Sterne glänzten am Himmel.</text> <frame>NN.BL</frame></example>
+<example><text>Der See glänzte im Mondschein.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.112" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.112.blenden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blenden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>durch sehr helles Licht am Sehen hindern</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Der Fahrer wurde durch entgegenkommende Autos geblendet.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.113" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.113.gleißen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gleißen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BA</frame>
+</frames>
+<paraphrases>
+<paraphrase>sehr hell leuchten und blenden</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Die Sonne gleißt in aller Intensität.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.114" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.114.flimmern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>flimmern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Das Meer flimmerte in der Sonne.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.115" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.115.schimmern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schimmern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Das Wasser schimmerte im Sonnenschein.</text> <frame>NN.PP</frame></example>
+<example><text>Das Licht schimmerte durch die Fensterladen.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.116" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.116.opalisieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>opalisieren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.116.opaleszieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>opaleszieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BL</frame>
+</frames>
+<paraphrases>
+<paraphrase>wie ein Opal schimmern</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Die Steine opalisierten in der Sonne.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.117" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.117.spielen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spielen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Der Edelstein spielt in allen Farben.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.118" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.118.blinken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blinken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Die Sterne blinkten am Himmel.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.119" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.119.funken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>funken</orthForm>
+</lexUnit>
+<frames>
+<frame>NE</frame>
+</frames>
+<examples>
+<example>
+<text>Beim Kabelbrand funkte es gewaltig.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.120" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="ja" id="vnatPhaenomen.120.Luft_Verb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Luft_Verb</orthForm>
+</lexUnit>
+<frames>
+<frame>30</frame>
+</frames>
+</synset>
+<synset id="vnatPhaenomen.121" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.121.ziehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ziehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NE</frame>
+<frame>NE.PP</frame>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>als Luftzug in Erscheinung treten</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Es zieht (in diesem Zimmer).</text> <frame>???eigentlichNE.Bl</frame></example>
+<example><text>Es zieht von der Eingangstüre her.</text> <frame>NE.PP</frame></example>
+<example><text>Die giftige Rauchwolke zog über das ganze Stadtgebiet.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.122" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.122.wehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wehen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.122.winden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>winden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+<frame>NE</frame>
+</frames>
+<examples>
+<example><text>Der Wind wehte über das Land.</text> <frame>NN.BL</frame></example>
+<example><text>Hier windet es immer.</text> <frame>???eigentlichNE.BL</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.123" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.123.föhnen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>föhnen</orthForm>
+</lexUnit>
+<frames>
+<frame>NE</frame>
+</frames>
+<examples>
+<example>
+<text>Es föhnt heute stark.</text>
+</example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.124" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.124.stürmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stürmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NE</frame>
+</frames>
+<examples>
+<example><text>Im Norden stürmt und schneit es.</text> <frame>???eigentlichNE.BL</frame></example>
+<example><text>Es stürmte die ganze Nacht hindurch.</text> <frame>???eigentlichNE.BT</frame></example>
+<example><text>Es stürmte heftig.</text> <frame>???eigentlichNE.BM</frame></example>
+</examples>
+</synset>
+<synset id="vnatPhaenomen.125" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vnatPhaenomen.125.blasen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blasen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+<frame>NN.DN.BL</frame>
+</frames>
+<examples>
+<example><text>Der Wind bläst um die Häuser.</text> <frame>NN.BL</frame></example>
+<example><text>Der Wind blies ihr ins Gesicht.</text> <frame>NN.DN.BL</frame></example>
+</examples>
+</synset>
+</synsets>

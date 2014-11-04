@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd"[
+ ]>
+<synsets>
+<synset id="aGeist.1" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aGeist.1.geistspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geistspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.2" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aGeist.2.intelligenzspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>intelligenzspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.3" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.3.angeboren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>angeboren</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.4" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.4.vererbt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vererbt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.4.erblich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erblich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.4.ererbt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ererbt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.5" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.5.erlernt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erlernt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.5.gelernt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gelernt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.5.erworben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erworben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.6" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.6.rationell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rationell</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.6.verstandesmäßig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verstandesmäßig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.7" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.7.klug" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klug</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.7.intelligent" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>intelligent</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.7.schlau" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schlau</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.8" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.8.unintelligent" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unintelligent</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.9" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.9.scharfsinnig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>scharfsinnig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.9.brillant" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>brillant</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit Scharfsinn</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGeist.10" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.10.einfallsreich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einfallsreich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.10.ideenreich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ideenreich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.10.originell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>originell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.11" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.11.fantasievoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fantasievoll</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.11.phantasievoll" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>phantasievoll</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.12" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.12.erfinderisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erfinderisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.13" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.13.kreativ" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kreativ</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.13.schöpferisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schöpferisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.14" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.14.bildnerisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bildnerisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.15" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.15.bildhauerisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bildhauerisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.15.plastisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>plastisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.16" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.16.gestalterisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gestalterisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.17" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.17.künstlerisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>künstlerisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.18" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.18.schauspielerisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schauspielerisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.19" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.19.tänzerisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tänzerisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.20" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.20.schriftstellerisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schriftstellerisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.21" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.21.dichterisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dichterisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.22" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.22.erzählerisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erzählerisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.22.narrativ" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>narrativ</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.23" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.23.lyrisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lyrisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.24" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.24.geistreich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geistreich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.25" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.25.weise" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weise</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.25.abgeklärt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abgeklärt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit Weisheit</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGeist.26" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.26.hell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hell</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>ein heller Kopf</text>
+</example>
+</examples>
+</synset>
+<synset id="aGeist.27" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.27.pfiffig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pfiffig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.28" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.28.gescheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gescheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.29" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.29.gerissen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gerissen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.30" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.30.listig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>listig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.30.trickreich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trickreich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.31" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.31.vergeistigt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vergeistigt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.32" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.32.alert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>alert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.32.clever" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>clever</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.32.auf_Zack" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auf_Zack</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.33" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.33.gewitzt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gewitzt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.33.gewieft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gewieft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.34" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.34.genial" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>genial</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.34.genialisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>genialisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.35" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.35.kongenial" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kongenial</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>eine kongeniale Übersetzung</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGeist.36" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.36.erleuchtet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erleuchtet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.37" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.37.minderbemittelt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>minderbemittelt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.37.minderbegabt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>minderbegabt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.38" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.38.unterentwickelt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unterentwickelt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.38.unterbelichtet" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>unterbelichtet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.39" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.39.dumm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dumm</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.40" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.40.doof" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>doof</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.40.blöd" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blöd</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.40.dämlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dämlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.40.dull" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>dull</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.41" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.41.schwachsinnig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwachsinnig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.42" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.42.einfältig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einfältig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.42.töricht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>töricht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.42.tumb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tumb</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.43" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.43.ignorant" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>ignorant</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.44" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.44.saudoof" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>saudoof</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.44.saudumm" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>saudumm</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.44.saublöd" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>saublöd</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.45" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.45.strohdumm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>strohdumm</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.45.strohdoof" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>strohdoof</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.46" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.46.idiotenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>idiotenhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.46.idiotisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>idiotisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.47" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.47.tölpelhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tölpelhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.47.tölpisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tölpisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.48" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.48.trottelhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trottelhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.48.trottelig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trottelig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.49" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.49.beschränkt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beschränkt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.50" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.50.behämmert" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>behämmert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.50.bescheuert" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>bescheuert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.50.beknackt" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>beknackt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.50.belämmert" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>belämmert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.51" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.51.begriffsstutzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>begriffsstutzig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.51.begriffstutzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>begriffstutzig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.52" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.52.langsam" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>langsam</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.53" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.53.tranig" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>tranig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.53.transusig" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>transusig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.54" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.54.träg" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>träg</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.54.träge" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>träge</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.55" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.55.aufmerksam" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufmerksam</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.55.konzentriert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konzentriert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.56" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.56.wach" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wach</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.57" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.57.wachsam" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wachsam</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.58" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.58.geistesgegenwärtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geistesgegenwärtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.59" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.59.zurechnungsfähig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zurechnungsfähig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.60" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.60.reaktionsschnell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>reaktionsschnell</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>schnell reagierend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGeist.61" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.61.hellhörig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hellhörig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.62" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.62.schnell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schnell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.63" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.63.vorsichtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorsichtig</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>Er überquerte vorsichtig die Straße</text>
+</example>
+</examples>
+</synset>
+<synset id="aGeist.64" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.64.unaufmerksam" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unaufmerksam</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.64.unkonzentriert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unkonzentriert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.65" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.65.verschlafen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verschlafen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.65.schläfrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schläfrig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.66" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.66.gedankenverloren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gedankenverloren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.66.gedankenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gedankenlos</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.67" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.67.geistesabwesend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geistesabwesend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.68" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.68.unzurechnungsfähig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unzurechnungsfähig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.69" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.69.zerstreut" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zerstreut</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.70" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.70.vergesslich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vergesslich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.70.vergeßlich" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>vergeßlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.71" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.71.unvorsichtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unvorsichtig</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>Er überquerte unvorsichtig die Straße</text>
+</example>
+</examples>
+</synset>
+<synset id="aGeist.72" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.72.verträumt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verträumt</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>Sie hörte ihm verträumt zu</text>
+</example>
+</examples>
+</synset>
+<synset id="aGeist.73" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.73.teilnahmslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>teilnahmslos</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.74" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.74.stumpfsinnig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stumpfsinnig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.75" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.75.wahnsinnig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wahnsinnig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.75.irre" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>irre</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.75.geisteskrank" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geisteskrank</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.75.irrsinnig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>irrsinnig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.76" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.76.besessen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>besessen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.77" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.77.paranoid" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>paranoid</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.78" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.78.schizoid" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schizoid</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.79" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aGeist.79.wissensspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wissensspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.80" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.80.denkend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>denkend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.80.rational" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rational</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ein denkendes Wesen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGeist.81" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.81.gedanklich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gedanklich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.82" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.82.wissend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wissend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.82.wissentlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wissentlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.83" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.83.eingeweiht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eingeweiht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.83.informiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>informiert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.83.unterrichtet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unterrichtet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.84" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.84.allwissend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>allwissend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.85" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.85.unwissentlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unwissentlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.86" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.86.bewusst" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bewusst</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.86.bewußt" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>bewußt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.87" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.87.unbewusst" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbewusst</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.87.unbewußt" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>unbewußt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.88" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.88.erfahren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erfahren</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.89" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.89.routiniert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>routiniert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.90" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.90.versiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>versiert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.91" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.91.weitgereist" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weitgereist</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.91.weltmännisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weltmännisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.92" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.92.lebenserfahren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lebenserfahren</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.93" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.93.erprobt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erprobt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.93.bewährt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bewährt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.93.probat" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>probat</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.94" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.94.altbewährt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>altbewährt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.94.traditionsreich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>traditionsreich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.95" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.95.ausgereift" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausgereift</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.96" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.96.unausgereift" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unausgereift</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.96.unausgegoren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unausgegoren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.96.unausgewogen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unausgewogen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.97" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.97.bewandert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bewandert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.97.beschlagen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beschlagen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.97.geübt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geübt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.98" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.98.krisenerprobt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>krisenerprobt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.98.krisenerfahren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>krisenerfahren</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.99" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.99.kampferfahren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kampferfahren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.99.kampferprobt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kampferprobt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.100" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.100.unbewährt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbewährt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.100.unerprobt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unerprobt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.101" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.101.fähig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fähig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.101.befähigt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>befähigt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.102" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.102.lernfähig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lernfähig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.103" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.103.talentiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>talentiert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.103.begabt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>begabt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ein gewisses Talent/eine bestimmte Begabung besitzend</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>ein sehr talentierter/begabter Klavierspieler</text>
+</example>
+</examples>
+</synset>
+<synset id="aGeist.104" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.104.unbegabt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbegabt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.104.untalentiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>untalentiert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.105" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.105.hochbegabt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hochbegabt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.105.hoch_begabt" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>hoch_begabt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.106" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.106.begnadet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>begnadet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.107" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.107.musikbegabt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>musikbegabt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.107.musikalisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>musikalisch</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Begabung/Interesse für Musik besitzend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGeist.108" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.108.sprachbegabt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sprachbegabt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.109" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.109.redegewandt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>redegewandt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.109.redebegabt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>redebegabt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.110" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.110.sportbegabt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sportbegabt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.110.sportlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sportlich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Begabung/Interesse für Sport besitzend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGeist.111" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.111.kenntnisreich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kenntnisreich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>voller Kenntnis</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGeist.112" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.112.gebildet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gebildet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.113" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.113.intellektuell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>intellektuell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.114" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.114.gelehrt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gelehrt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>wissenschaftlich gebildet</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGeist.115" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.115.ausgebildet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausgebildet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.116" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.116.geschult" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geschult</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>an einer Schule ausgebildet</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGeist.117" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.117.studiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>studiert</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>an einer Hochschule ausgebildet</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGeist.118" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.118.qualifiziert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>qualifiziert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.119" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.119.überqualifiziert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überqualifiziert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.119.unterfordert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unterfordert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.120" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.120.unterqualifiziert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unterqualifiziert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.120.überfordert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überfordert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.121" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.121.kundig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kundig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.121.kompetent" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kompetent</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.122" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.122.sachkundig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sachkundig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Sachkunde besitzend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGeist.123" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.123.fachkundig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fachkundig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Kenntnisse in einem Fachgebiet besitzend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGeist.124" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.124.fachkompetent" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fachkompetent</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.125" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.125.belesen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>belesen</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>durch Lesen reich an Kenntnissen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGeist.126" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.126.unwissend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unwissend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.127" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.127.unerfahren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unerfahren</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.128" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.128.unfähig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unfähig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.129" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.129.kenntnislos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kenntnislos</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.130" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.130.unkundig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unkundig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.130.unbeschlagen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbeschlagen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.131" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.131.inkompetent" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>inkompetent</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.132" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.132.ungebildet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ungebildet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.133" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.133.bildungsfern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bildungsfern</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.134" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.134.unausgebildet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unausgebildet</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.134.unqualifiziert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unqualifiziert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGeist.135" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGeist.135.ratlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ratlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne Rat</paraphrase>
+</paraphrases>
+</synset>
+</synsets>

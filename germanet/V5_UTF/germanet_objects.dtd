@@ -1,0 +1,32 @@
+<!-- DTD for Germanet entries -->
+<!-- Version 1.4, July 2001 -->
+<!-- Last update: March 2002 --> 
+<!-- Copyright: Sem. f. Sprachwissenschaft der Universitaet Tuebingen -->
+
+<!ELEMENT synsets       (synset)+>
+<!ELEMENT synset        ((lexUnit)+, attribution?, frames?, paraphrases?, examples?)>
+
+<!ATTLIST synset        id              ID      #REQUIRED
+                        wordClass       CDATA   #IMPLIED
+			lexGroup	CDATA	#IMPLIED>
+
+<!ELEMENT lexUnit       (orthForm)+> 
+
+
+<!ATTLIST lexUnit       id              ID      #REQUIRED       
+                        stilMarkierung  (ja|nein)       "nein" 
+                        sense  CDATA            #REQUIRED
+                        orthVar         (ja|nein) "nein" 
+                        artificial      (ja|nein)  #REQUIRED
+                        Eigenname      (ja|nein) #REQUIRED >
+
+<!ELEMENT orthForm      (#PCDATA)>   
+
+<!ELEMENT paraphrases   (paraphrase)+> 
+<!ELEMENT paraphrase    (#PCDATA)>
+<!ELEMENT examples      (example)+> 
+<!ELEMENT example       (text, frame*)>
+<!ELEMENT frames        (frame)+> 
+<!ELEMENT attribution   (#PCDATA)> 
+<!ELEMENT text          (#PCDATA)> 
+<!ELEMENT frame         (#PCDATA)>

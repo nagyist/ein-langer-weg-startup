@@ -1,0 +1,3092 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd"[
+ ]>
+<synsets>
+<synset id="aZeit.1" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aZeit.1.zeitspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zeitspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.2" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.2.zeitlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zeitlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.3" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.3.einleitend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einleitend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.3.initial" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>initial</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.4" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.4.initiativ" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>initiativ</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.5" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.5.abschließend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abschließend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.5.final" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>final</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.6" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.6.perspektivisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>perspektivisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.6.zeitperspektivisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zeitperspektivisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.7" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.7.zurückblickend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zurückblickend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.7.rückblickend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rückblickend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.7.retrospektiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>retrospektiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.8" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.8.vorausschauend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorausschauend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.8.vorausblickend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorausblickend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.9" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.9.prophetisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>prophetisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.9.visionär" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>visionär</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.10" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.10.früh" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>früh</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.11" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.11.erst-" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erst-</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.11.erstmalig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erstmalig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.12" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.12.vorzeitig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorzeitig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.13" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.13.rechtzeitig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rechtzeitig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.14" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.14.zeitig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zeitig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.14.frühzeitig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>frühzeitig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.15" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.15.vorweggenommen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorweggenommen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.15.vorgezogen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorgezogen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.16" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.16.verschoben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verschoben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.16.verlegt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verlegt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.16.umgelegt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>umgelegt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.17" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.17.pünktlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pünktlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.18" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.18.überpünktlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überpünktlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.19" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.19.unpünktlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unpünktlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.19.verspätet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verspätet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.20" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.20.fortgeschritten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fortgeschritten</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.21" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.21.überfällig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überfällig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.22" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.22.abgelaufen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abgelaufen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.22.verstrichen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verstrichen</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Das Ultimatum ist abgelaufen.</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.23" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.23.termingerecht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>termingerecht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.23.fristgerecht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fristgerecht</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.24" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.24.spät" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spät</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.25" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.25.letzt-" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>letzt-</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.26" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.26.nachträglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nachträglich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.26.rückwirkend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rückwirkend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.27" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.27.postum" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>postum</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.27.posthum" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>posthum</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>nach dem Tod erschienene oder gewürdigte Leistungen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.28" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.28.einmalig1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einmalig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>nur ein einziges Mal vorkommend</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>der Film wurde nur einmalig gezeigt</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.29" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.29.plötzlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>plötzlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.30" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.30.abrupt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abrupt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.31" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.31.mehrmalig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mehrmalig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.32" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.32.zweimalig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zweimalig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.32.2-malig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>2-malig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.33" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.33.dreimalig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dreimalig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.33.3-malig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>3-malig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.34" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.34.viermalig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>viermalig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.34.4-malig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>4-malig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.35" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.35.fünfmalig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fünfmalig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.35.5-malig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>5-malig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.36" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.36.sechsmalig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sechsmalig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.36.6-malig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>6-malig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.37" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.37.siebenmalig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>siebenmalig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.37.7-malig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>7-malig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.38" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.38.achtmalig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>achtmalig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.38.8-malig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>8-malig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.39" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.39.neunmalig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neunmalig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.39.9-malig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>9-malig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.40" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.40.zehnmalig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zehnmalig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.40.10-malig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>10-malig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.41" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.41.häufig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>häufig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.42" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.42.selten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>selten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.42.rar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.43" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.43.weiter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weiter</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.43.vermehrt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vermehrt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.44" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.44.wiederholt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wiederholt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.44.wiederkehrend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wiederkehrend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.45" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.45.regelmäßig1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>regelmäßig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>in zeitlich gleich langen Abständen wiederkehrend</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Sie macht regelmäßig Sport</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.46" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.46.minütlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>minütlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.47" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.47.stündlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stündlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.48" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.48.täglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>täglich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.49" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.49.saisonal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>saisonal</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.49.jahreszeitlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>jahreszeitlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.50" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.50.ganztägig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ganztägig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>den ganzen Tag lang</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.51" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.51.ganzjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ganzjährig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>das ganze Jahr lang</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.52" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.52.alltäglich1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>alltäglich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.52.tagtäglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tagtäglich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>jeden Tag geschehend</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>er geht alltäglich zum Bäcker</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.53" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.53.allabendlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>allabendlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.54" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.54.allmorgendlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>allmorgendlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.55" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.55.werktäglich1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>werktäglich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>jeden Werktag geschehend</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>der Zug fährt werktäglich</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.56" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.56.sonntäglich1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sonntäglich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>jeden Sonntag geschehend</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>der sonntägliche Kirchenbesuch</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.57" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.57.wöchentlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wöchentlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.57.allwöchentlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>allwöchentlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.58" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.58.monatlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>monatlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.58.allmonatlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>allmonatlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.59" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.59.jährlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>jährlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.59.alljährlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>alljährlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.60" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.60.halbjährlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>halbjährlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.61" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.61.vierteljährlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vierteljährlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.62" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.62.jahrelang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>jahrelang</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.63" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.63.jahrzehntelang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>jahrzehntelang</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.64" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.64.jahrhundertelang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>jahrhundertelang</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.65" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.65.jahrtausendelang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>jahrtausendelang</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.66" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.66.lebenslang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lebenslang</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.67" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.67.lebenslänglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lebenslänglich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.68" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.68.monatelang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>monatelang</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.69" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.69.wochenlang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wochenlang</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.70" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.70.tagelang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tagelang</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.71" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.71.stundenlang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stundenlang</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.72" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.72.minutenlang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>minutenlang</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.73" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.73.nächtelang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nächtelang</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.74" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.74.erneut" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erneut</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.74.neuerlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neuerlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.74.nochmalig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nochmalig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.75" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aZeit.75.dauerspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dauerspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.76" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.76.einwöchig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einwöchig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.77" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.77.mehrwöchig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mehrwöchig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.78" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.78.zweiwöchig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zweiwöchig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.79" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.79.dreiwöchig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dreiwöchig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.80" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.80.vierwöchig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vierwöchig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.81" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.81.fünfwöchig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fünfwöchig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.82" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.82.sechswöchig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sechswöchig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.83" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.83.siebenwöchig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>siebenwöchig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.84" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.84.achtwöchig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>achtwöchig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.85" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.85.neunwöchig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neunwöchig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.86" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.86.zehnwöchig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zehnwöchig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.87" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.87.einmonatig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einmonatig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.88" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.88.mehrmonatig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mehrmonatig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.89" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.89.zweimonatig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zweimonatig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.90" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.90.dreimonatig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dreimonatig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.91" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.91.viermonatig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>viermonatig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.92" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.92.fünfmonatig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fünfmonatig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.93" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.93.sechsmonatig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sechsmonatig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.93.halbjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>halbjährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.94" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.94.siebenmonatig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>siebenmonatig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.95" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.95.achtmonatig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>achtmonatig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.96" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.96.neunmonatig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neunmonatig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.97" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.97.zehnmonatig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zehnmonatig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.98" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.98.elfmonatig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>elfmonatig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.99" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.99.eintägig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eintägig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.100" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.100.mehrtägig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mehrtägig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.101" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.101.zweitägig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zweitägig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.102" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.102.dreitägig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dreitägig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.103" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.103.viertägig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>viertägig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.104" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.104.fünftägig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fünftägig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.105" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.105.sechstägig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sechstägig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.106" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.106.siebentägig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>siebentägig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.107" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.107.achttägig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>achttägig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.108" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.108.neuntägig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neuntägig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.109" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.109.zehntägig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zehntägig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.110" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.110.elftägig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>elftägig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.111" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.111.zwölftägig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zwölftägig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.112" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.112.dreizehntägig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dreizehntägig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.113" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.113.vierzehntägig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vierzehntägig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.114" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.114.einstündig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einstündig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.115" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.115.mehrstündig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mehrstündig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.116" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.116.zweistündig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zweistündig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.117" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.117.dreistündig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dreistündig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.118" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.118.vierstündig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vierstündig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.119" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.119.fünfstündig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fünfstündig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.120" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.120.sechsstündig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sechsstündig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.121" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.121.siebenstündig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>siebenstündig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.122" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.122.achtstündig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>achtstündig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.123" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.123.neunstündig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neunstündig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.124" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.124.zehnstündig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zehnstündig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.125" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.125.elfstündig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>elfstündig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.126" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.126.zwölfstündig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zwölfstündig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.126.halbtägig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>halbtägig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.127" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.127.dreizehnstündig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dreizehnstündig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.128" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.128.vierzehnstündig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vierzehnstündig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.129" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.129.fünfzehnstündig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fünfzehnstündig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.130" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.130.sechzehnstündig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sechzehnstündig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.131" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.131.siebzehnstündig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>siebzehnstündig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.132" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.132.achtzehnstündig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>achtzehnstündig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.133" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.133.neunzehnstündig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neunzehnstündig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.134" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.134.zwanzigstündig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zwanzigstündig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.135" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.135.einundzwanzigstündig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einundzwanzigstündig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.136" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.136.zweiundzwanzigstündig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zweiundzwanzigstündig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.137" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.137.dreiundzwanzigstündig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dreiundzwanzigstündig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.138" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.138.vierundzwanzigstündig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vierundzwanzigstündig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.139" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.139.andauernd" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>andauernd</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.139.fortwährend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fortwährend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.139.dauernd" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dauernd</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.139.permanent" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>permanent</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.139.stetig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stetig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.139.unablässig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unablässig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>immer wieder</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>ihr andauerndes Nörgeln ärgerte ihn</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.140" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.140.unbefristet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbefristet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.141" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.141.kontinuierlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kontinuierlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.141.fortgesetzt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fortgesetzt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.141.ungebrochen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ungebrochen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.142" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.142.chronisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>chronisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.143" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.143.akut" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>akut</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.143.scharf" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>scharf</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.143.vordringlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vordringlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.144" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.144.schlagartig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schlagartig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.144.urplötzlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>urplötzlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.145" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.145.heftig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>heftig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.145.jäh" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>jäh</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.146" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.146.sequenziell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sequenziell</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.146.sequentiell" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>sequentiell</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.146.aufeinanderfolgend" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>aufeinanderfolgend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.146.aufeinander_folgend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufeinander_folgend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.146.fortlaufend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fortlaufend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.146.sukzessiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sukzessiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.147" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.147.beständig1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beständig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.147.konstant" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konstant</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.148" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.148.gewohnheitsmäßig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gewohnheitsmäßig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.148.notorisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>notorisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.149" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.149.gleichbleibend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gleichbleibend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.149.unverändert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unverändert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.150" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.150.wertbeständig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wertbeständig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.150.werterhaltend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>werterhaltend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.151" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.151.ununterbrochen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ununterbrochen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.151.durchgängig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>durchgängig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.151.durchgehend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>durchgehend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.152" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.152.periodisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>periodisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.152.turnusmäßig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>turnusmäßig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.152.turnunsgemäß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>turnunsgemäß</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.152.zyklisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zyklisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.153" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.153.unregelmäßig1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unregelmäßig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>in zeitlich ungleichen Abständen wiederkehrend</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er isst unregelmäßig</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.154" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.154.gelegentlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gelegentlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.154.sporadisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sporadisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.154.zeitweilig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zeitweilig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.154.zeitweise" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zeitweise</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.154.temporär" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>temporär</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.155" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.155.unterbrochen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unterbrochen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.156" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.156.unbeständig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbeständig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.156.veränderlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>veränderlich</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>das Wetter ist sehr unbeständig</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.157" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.157.wechselhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wechselhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.157.wechselvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wechselvoll</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.158" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.158.flüchtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>flüchtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.159" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.159.zunehmend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zunehmend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.160" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.160.abnehmend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abnehmend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.160.verringernd" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verringernd</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.160.nachlassend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nachlassend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.160.sinkend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sinkend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.160.degressiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>degressiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.161" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.161.rezessiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rezessiv</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.161.abflauend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abflauend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.162" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.162.rückläufig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rückläufig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.162.zurückgehend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zurückgehend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.162.rückgängig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rückgängig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.163" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.163.baldig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>baldig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.164" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.164.nah" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nah</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.165" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.165.vorläufig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorläufig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.166" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.166.einstweilig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einstweilig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.167" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.167.provisorisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>provisorisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.167.behelfsmäßig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>behelfsmäßig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.168" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.168.vorübergehend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorübergehend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.168.zwischenzeitlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zwischenzeitlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.169" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.169.punktuell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>punktuell</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.169.zeitpunktbezogen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zeitpunktbezogen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.170" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.170.kommissarisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kommissarisch</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>die kommissarische Leitung der Firma</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.171" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.171.kurzlebig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kurzlebig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.172" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.172.dringend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dringend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.172.dringlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dringlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.172.ernstlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ernstlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.173" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.173.bevorstehend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bevorstehend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.174" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.174.aufkommend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufkommend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.174.aufkeimend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufkeimend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.175" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.175.jetzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>jetzig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.175.derzeitig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>derzeitig</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>der jetzige Stand der Entwicklung</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.176" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.176.momentan" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>momentan</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.176.augenblicklich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>augenblicklich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.177" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.177.heutig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>heutig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>heute stattfindend</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>am heutigen Tag</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.178" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.178.bisherig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bisherig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.179" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.179.diesjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>diesjährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.180" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.180.gegenwärtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gegenwärtig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.180.zeitgenössisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zeitgenössisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.181" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.181.gleichzeitig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gleichzeitig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.182" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.182.neu" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neu</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.182.neuartig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neuartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.183" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.183.originär" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>originär</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>grundlegend neu</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.184" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.184.innovativ" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>innovativ</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.184.erneuernd" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erneuernd</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.185" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.185.avantgardistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>avantgardistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.186" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.186.futuristisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>futuristisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.187" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.187.bahnbrechend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bahnbrechend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.187.revolutionär" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>revolutionär</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.188" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.188.brandneu" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>brandneu</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.188.nagelneu" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nagelneu</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ganz neu</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.189" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.189.aktuell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aktuell</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.189.laufend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>laufend</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>aktuelle Ausgabe des Spiegels</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.190" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.190.unwidersprochen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unwidersprochen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.190.unwiderlegt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unwiderlegt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.191" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.191.kursierend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kursierend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.191.virulent" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>virulent</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.192" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.192.neugeboren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neugeboren</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.193" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.193.neugeschaffen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neugeschaffen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.194" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.194.neugegründet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neugegründet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.195" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.195.topaktuell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>topaktuell</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.195.brandaktuell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>brandaktuell</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>höchst aktuell</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.196" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.196.neuest" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neuest</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.196.ultimativ" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ultimativ</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>der ultimative Kick</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.197" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.197.frischgebacken" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>frischgebacken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.197.frischgekürt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>frischgekürt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>der frischgebackene Landrat</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.198" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.198.modern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>modern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.198.neumodisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neumodisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.199" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.199.unmodern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unmodern</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.200" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.200.rückständig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rückständig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.200.zurückgeblieben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zurückgeblieben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.201" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.201.in" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>in</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.201.angesagt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>angesagt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.201.kultig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kultig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.202" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.202.neuzeitlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neuzeitlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.203" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.203.mega-in" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>mega-in</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>verstärkt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.204" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.204.ultramodern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ultramodern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.204.hochmodern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hochmodern</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.205" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.205.out" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>out</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.206" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.206.anachronistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anachronistisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.206.gegenläufig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gegenläufig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.207" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.207.progressiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>progressiv</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.207.fortschrittlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fortschrittlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.207.zeitgemäß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zeitgemäß</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.207.up_to_date" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>up_to_date</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.208" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.208.zivilisiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zivilisiert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.208.aufgeklärt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufgeklärt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.209" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.209.technikgläubig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>technikgläubig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.209.technikorientiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>technikorientiert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.210" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.210.unkonventionell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unkonventionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.211" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.211.trendgemäß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trendgemäß</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.211.modebewußt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>modebewußt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.212" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aZeit.212.nachzeitig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nachzeitig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.213" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.213.künftig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>künftig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.213.zukünftig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zukünftig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.213.angehend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>angehend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.214" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.214.zukunftsbezogen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zukunftsbezogen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.214.zukunftsorientiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zukunftsorientiert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.215" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.215.designiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>designiert</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>die designierte Ministerin</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.216" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.216.werdend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>werdend</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>die werdende Mutter</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.217" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.217.anschließend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anschließend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.218" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.218.morgig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>morgig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>morgen stattfindend</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>am morgigen Tag</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.219" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.219.kommend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kommend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.220" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.220.drohend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>drohend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.220.dräuend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dräuend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.221" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.221.nächst-" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nächst-</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.222" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.222.folgend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>folgend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.222.nachfolgend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nachfolgend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.222.darauffolgend" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>darauffolgend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.222.darauf_folgend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>darauf_folgend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.223" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.223.anhängig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anhängig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.223.anhängend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anhängend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.224" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aZeit.224.vorzeitig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorzeitig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.225" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.225.vergangen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vergangen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.226" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.226.vorbei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorbei</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.226.vorüber" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorüber</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.226.aus" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aus</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.226.gegessen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>gegessen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.226.passiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>passiert</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>nurprädikativ</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.227" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.227.anfänglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anfänglich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.228" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.228.ehemalig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ehemalig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.228.vormalig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vormalig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.229" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.229.damalig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>damalig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.230" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.230.einstig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einstig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.230.einstmalig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einstmalig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.231" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.231.gestrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gestrig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>gestern stattfindend</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>am gestrigen Tag</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.232" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.232.vorig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.232.vorherig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorherig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.233" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.233.zurückliegend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zurückliegend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.234" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.234.kürzlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kürzlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.235" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.235.letztjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>letztjährig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.235.vorjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorjährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.236" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.236.alt1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>alt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.237" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.237.klassisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klassisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.238" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.238.historisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>historisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.239" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.239.geschichtsträchtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geschichtsträchtig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ein geschichtsträchtiger Ort</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.240" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.240.antik" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>antik</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.241" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.241.konventionell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konventionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.242" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.242.traditionell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>traditionell</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.242.konservativ" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konservativ</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.242.restaurativ" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>restaurativ</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.243" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.243.erzkonservativ" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erzkonservativ</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.243.reaktionär" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>reaktionär</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.244" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.244.althergebracht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>althergebracht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.244.altmodisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>altmodisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.245" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.245.unzeitgemäß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unzeitgemäß</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.246" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.246.überholt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überholt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.246.antiquiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>antiquiert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.246.veraltet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>veraltet</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.246.museal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>museal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.247" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.247.obsolet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>obsolet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.248" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.248.überaltert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überaltert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.249" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.249.vorsintflutlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorsintflutlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.249.steinzeitlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>steinzeitlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.250" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.250.altbacken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>altbacken</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.251" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.251.langjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>langjährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.252" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.252.morgendlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>morgendlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.253" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.253.abendlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abendlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.254" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.254.nächtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nächtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.255" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.255.mittäglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mittäglich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.256" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.256.vorweihnachtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorweihnachtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.257" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.257.kurz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kurz</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.257.kurzzeitig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kurzzeitig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.258" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.258.kurzfristig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kurzfristig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.259" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.259.langfristig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>langfristig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.260" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.260.längerfristig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>längerfristig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.261" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.261.mittelfristig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mittelfristig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.262" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.262.prompt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>prompt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.262.unverzüglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unverzüglich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.262.postwendend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>postwendend</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit kurzer/ohne Verzögerung</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.263" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.263.überstürzt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überstürzt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.263.überhastet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überhastet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.264" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.264.sofortig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sofortig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.265" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.265.unmittelbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unmittelbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.266" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.266.fristlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fristlos</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.267" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.267.umgehend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>umgehend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.267.schnellstmöglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schnellstmöglich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.268" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.268.rasch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rasch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.268.schnell2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>schnell</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Dauer: kurzer Besuch/Flug</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.269" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.269.knapp" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>knapp</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>etwas weniger als die genannte Zeitspanne</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>eine knappe Viertelstunde</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.270" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.270.verkürzt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verkürzt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>verkürzter Besuch</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.271" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.271.bündig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bündig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Mitteilung</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.272" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.272.stichwortartig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stichwortartig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Mitteilung/Bericht</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.273" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.273.einsilbig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einsilbig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Mitteilung, so wie Antwort</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.274" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.274.lakonisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lakonisch</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>ein lakonischer Kommentar</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.275" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.275.kurzgefasst" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kurzgefasst</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.275.kurzgefaßt" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>kurzgefaßt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>kurzer Roman/Film,kurze Note</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.276" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.276.endlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>endlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.277" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.277.lang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lang</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Eigenschaft</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>lange Brauchbarkeit</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.278" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.278.ewig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ewig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.278.unendlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unendlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.278.unvergänglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unvergänglich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.278.zeitlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zeitlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.278.immerwährend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>immerwährend</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ZUSTAND/EIGENSCHAFT</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>ewige Liebe</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.279" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.279.unvergessen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unvergessen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.279.unvergesslich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unvergesslich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.279.unvergeßlich" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>unvergeßlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.280" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.280.unsterblich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unsterblich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.281" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.281.vergänglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vergänglich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.281.sterblich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sterblich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.282" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.282.fortdauernd" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fortdauernd</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.282.beständig2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>beständig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.282.ständig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ständig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.283" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.283.nachhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nachhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.284" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.284.ausführlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausführlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.284.ausgiebig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausgiebig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.285" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.285.detailliert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>detailliert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.285.detailgetreu" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>detailgetreu</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.286" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.286.endlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>endlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.286.unaufhörlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unaufhörlich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne zeitliches Ende</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>endlose Liebe/endlose Vorlesung</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.287" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.287.allmählich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>allmählich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.287.schrittweise" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schrittweise</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>nach und nach</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.288" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.288.langwierig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>langwierig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.288.schleichend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schleichend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.289" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.289.anhaltend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anhaltend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.289.dauerhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dauerhaft</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>ein anhaltender Schmerz</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.290" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.290.langlebig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>langlebig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.290.langwährend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>langwährend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.291" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.291.ausgedehnt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausgedehnt</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>ein ausgedehnter Besuch</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.292" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.292.gestreckt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gestreckt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.292.gespannt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gespannt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.293" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.293.langgezogen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>langgezogen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.293.langatmig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>langatmig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>AKTIVITÄT/DAUER</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>eine langgezogene Vorlesung</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.294" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aZeit.294.geschwindigkeitsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geschwindigkeitsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.295" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.295.still" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>still</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>bewegungslos</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.296" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.296.langsam" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>langsam</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.297" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.297.andante" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>andante</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Tempobezeichnung in der Musik</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.298" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.298.andantino" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>andantino</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>weniger langsam als andante, Tempobezeichnung in der Musik</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.299" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.299.allegro" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>allegro</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Tempobezeichnung in der Musik</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.300" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.300.allegretto" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>allegretto</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>weniger schnell als allegro, Tempobezeichnung in der Musik</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.301" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.301.adagio" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>adagio</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Tempobezeichnung in der Musik</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.302" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.302.largo" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>largo</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Tempobezeichnung in der Musik</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.303" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.303.larghetto" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>larghetto</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>weniger getragen als largo, Tempobezeichnung in der Musik</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.304" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.304.schleppend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schleppend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.304.lahm" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>lahm</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.305" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.305.gemächlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gemächlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.306" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.306.stockend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stockend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.307" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.307.getragen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>getragen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.308" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.308.schnell1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schnell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.309" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.309.geschwind" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geschwind</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.310" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.310.hurtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hurtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.311" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.311.zeitgleich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zeitgleich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.311.simultan" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>simultan</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.312" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.312.nahtlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nahtlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.312.verzögerungslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verzögerungslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne Verzögerung</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>... die Garanten für eine nahtlose Forsetzung einer soliden politischen Arbeit ...</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.313" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.313.live" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>live</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Die Übertragung ist live.</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.314" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.314.blitzschnell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blitzschnell</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.314.blitzartig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blitzartig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.314.rasant" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rasant</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.314.explosionsartig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>explosionsartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.315" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.315.flink" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>flink</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.316" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.316.wieselflink" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wieselflink</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.317" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.317.flott" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>flott</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.317.fix" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fix</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.318" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.318.zügig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zügig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.319" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.319.rapid" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rapid</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.319.rapide" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rapide</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.320" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.320.hastig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hastig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.320.eilig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eilig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>in Hast/Eile</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.321" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.321.vorschnell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorschnell</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.321.voreilig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>voreilig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>zu schnell</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.322" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.322.kometenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kometenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.323" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.323.fluchtartig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fluchtartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.324" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aZeit.324.altersspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>altersspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.325" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.325.jung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>jung</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.326" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.326.jugendlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>jugendlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.327" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.327.kindlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kindlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.327.kindhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kindhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.328" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.328.mädchenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mädchenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.329" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.329.jungenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>jungenhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.329.bubenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bubenhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.329.knabenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>knabenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.330" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.330.alt3" orthVar="nein" sense="3" stilMarkierung="nein">
+<orthForm>alt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.331" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.331.greisenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>greisenhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.331.greisig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>greisig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.331.vergreist" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vergreist</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>alt wie ein Greis</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.332" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.332.mumienhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mumienhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.333" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.333.uralt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>uralt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>sehr alt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.334" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.334.steinalt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>steinalt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>sehr alt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.335" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.335.senil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>senil</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.336" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.336.neu2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>neu</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ungebraucht/unbenutzt</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>ein neues Auto</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.337" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.337.unberührt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unberührt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.337.jungfräulich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>jungfräulich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.337.unangetastet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unangetastet</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>noch nicht berührt</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>jungfräulicher Schnee</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.338" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.338.alt2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>alt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>gebraucht/benutzt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.339" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aZeit.339.jährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>jährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.340" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.340.einjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einjährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.341" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.341.mehrjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mehrjährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.342" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.342.zweijährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zweijährig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.342.2-jährig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>2-jährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.343" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.343.dreijährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dreijährig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.343.3-jährig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>3-jährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.344" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.344.vierjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vierjährig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.344.4-jährig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>4-jährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.345" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.345.fünfjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fünfjährig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.345.5-jährig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>5-jährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.346" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.346.sechsjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sechsjährig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.346.6-jährig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>6-jährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.347" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.347.siebenjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>siebenjährig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.347.7-jährig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>7-jährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.348" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.348.achtjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>achtjährig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.348.8-jährig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>8-jährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.349" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.349.neunjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neunjährig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.349.9-jährig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>9-jährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.350" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.350.zehnjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zehnjährig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.350.10-jährig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>10-jährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.351" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.351.elfjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>elfjährig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.351.11-jährig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>11-jährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.352" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.352.zwölfjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zwölfjährig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.352.12-jährig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>12-jährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.353" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.353.dreizehnjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dreizehnjährig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.353.13-jährig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>13-jährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.354" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.354.vierzehnjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vierzehnjährig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.354.14-jährig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>14-jährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.355" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.355.fünfzehnjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fünfzehnjährig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.355.15-jährig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>15-jährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.356" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.356.sechzehnjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sechzehnjährig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.356.16-jährig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>16-jährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.357" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.357.siebzehnjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>siebzehnjährig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.357.17-jährig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>17-jährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.358" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.358.achtzehnjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>achtzehnjährig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.358.18-jährig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>18-jährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.359" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.359.neunzehnjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neunzehnjährig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.359.19-jährig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>19-jährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.360" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.360.zwanzigjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zwanzigjährig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.360.20-jährig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>20-jährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.361" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.361.dreißigjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dreißigjährig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.361.30-jährig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>30-jährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.362" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.362.vierzigjährig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vierzigjährig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.362.40-jährig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>40-jährig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.363" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aZeit.363.gewohnheitsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gewohnheitsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.364" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.364.normal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>normal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.365" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.365.durchschnittlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>durchschnittlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.365.mittelmäßig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mittelmäßig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.365.mittel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mittel</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.365.mäßig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mäßig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.366" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.366.serienmäßig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>serienmäßig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.366.standardmäßig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>standardmäßig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.367" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.367.überdurchschnittlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überdurchschnittlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.368" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.368.unterdurchschnittlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unterdurchschnittlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.369" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.369.selbstverständlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>selbstverständlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.369.selbstredend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>selbstredend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.370" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.370.mittler-" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mittler-</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.371" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.371.üblich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>üblich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.371.herkömmlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herkömmlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.371.gebräuchlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gebräuchlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.372" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.372.landläufig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>landläufig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.372.gängig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gängig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.373" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.373.ortsüblich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ortsüblich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.374" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.374.handelsüblich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>handelsüblich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.375" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.375.haushaltsüblich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>haushaltsüblich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.376" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.376.branchenüblich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>branchenüblich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.377" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.377.routinemäßig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>routinemäßig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.378" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.378.gewohnt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gewohnt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.378.gewöhnlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gewöhnlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.379" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.379.alltäglich2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>alltäglich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>keine Besonderheiten aufweisend</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>ein alltäglicher Mann</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.380" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.380.werktäglich2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>werktäglich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>wie an jedem Werktag</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>er war werktäglich gekleidet</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.381" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.381.sonntäglich2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>sonntäglich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>wie an jedem Sonntag</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>der sonntägliche Spaziergang</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.382" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.382.typisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>typisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.383" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.383.prototypisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>prototypisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.384" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.384.stereotypisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stereotypisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.384.stereotyp" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stereotyp</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.385" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.385.zivil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zivil</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>zivile Preise</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.386" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.386.unnormal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unnormal</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.386.abnorm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abnorm</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.386.anomal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anomal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.387" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.387.ungewohnt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ungewohnt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.387.ungewöhnlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ungewöhnlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.388" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.388.außergewöhnlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>außergewöhnlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.388.originell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>originell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.389" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.389.gewöhnungsbedürftig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gewöhnungsbedürftig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.390" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.390.einmalig2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>einmalig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.390.einzigartig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einzigartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.391" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.391.abwegig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abwegig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.391.verwegen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verwegen</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ein verwegener Plan</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aZeit.392" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.392.unerwartet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unerwartet</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.392.überraschend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überraschend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.393" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.393.ungeahnt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ungeahnt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.393.unerahnt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unerahnt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.394" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.394.unverhofft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unverhofft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.395" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.395.unvermutet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unvermutet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.396" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.396.erstaunlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erstaunlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.397" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.397.seltsam" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>seltsam</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.398" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.398.verwunderlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verwunderlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.398.wundersam" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wundersam</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.398.wunderlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wunderlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.399" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.399.phantastisch" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>phantastisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.399.fantastisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fantastisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.400" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.400.regelwidrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>regelwidrig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.400.normwidrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>normwidrig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.401" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.401.verfassungswidrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verfassungswidrig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.401.gesetzwidrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gesetzwidrig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.402" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.402.sittenwidrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sittenwidrig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.403" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.403.rechtswidrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rechtswidrig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.403.widerrechtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>widerrechtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.404" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.404.wahrheitswidrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wahrheitswidrig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.405" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.405.unüblich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unüblich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.406" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.406.untypisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>untypisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.407" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.407.einheitlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einheitlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.408" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.408.uneinheitlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>uneinheitlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.409" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.409.bundeseinheitlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bundeseinheitlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.410" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.410.landeseinheitlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>landeseinheitlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.411" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.411.staatseinheitlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>staatseinheitlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.412" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.412.truppeneinheitlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>truppeneinheitlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.413" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.413.einförmig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einförmig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.413.gleichförmig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gleichförmig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.413.uniform" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>uniform</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.414" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.414.gleichmäßig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gleichmäßig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.415" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.415.einhellig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einhellig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.415.übereinstimmend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>übereinstimmend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.416" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.416.regelmäßig2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>regelmäßig</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>der Tisch hat eine regelmäßige Oberfläche</text>
+</example>
+<example>
+<text></text>
+</example>
+<example>
+<text>regelmäßige Gesichtszüge</text>
+</example>
+</examples>
+</synset>
+<synset id="aZeit.417" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.417.ebenmäßig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ebenmäßig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aZeit.418" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.418.regelhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>regelhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aZeit.418.geregelt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geregelt</orthForm>
+</lexUnit>
+</synset>
+</synsets>

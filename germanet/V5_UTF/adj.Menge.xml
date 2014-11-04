@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd"[
+ ]>
+<synsets>
+<synset id="aMenge.1" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aMenge.1.mengenspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mengenspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.2" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aMenge.2.zahlenspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zahlenspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.3" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.3.zahlenmäßig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zahlenmäßig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.3.numerisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>numerisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.4" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.4.nominal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nominal</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.4.nominell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nominell</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>dem Nennwert entsprechend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aMenge.5" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.5.ein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ein</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.6" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.6.anderthalb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anderthalb</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.6.eineinhalb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eineinhalb</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.7" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.7.zwei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zwei</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.8" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.8.zweieinhalb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zweieinhalb</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.9" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.9.drei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>drei</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.10" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.10.dreieinhalb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dreieinhalb</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.11" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.11.vier" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vier</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.12" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.12.viereinhalb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>viereinhalb</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.13" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.13.fünf" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fünf</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.14" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.14.fünfeinhalb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fünfeinhalb</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.15" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.15.sechs" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sechs</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.16" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.16.sechseinhalb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sechseinhalb</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.17" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.17.sieben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sieben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.18" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.18.siebeneinhalb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>siebeneinhalb</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.19" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.19.acht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>acht</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.20" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.20.achteinhalb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>achteinhalb</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.21" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.21.neun" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neun</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.22" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.22.neuneinhalb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neuneinhalb</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.23" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.23.zehn" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zehn</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.24" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.24.zehneinhalb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zehneinhalb</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.25" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.25.elf" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>elf</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.26" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.26.elfeinhalb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>elfeinhalb</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.27" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.27.zwölf" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zwölf</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.28" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.28.zwölfeinhalb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zwölfeinhalb</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.29" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.29.dreizehn" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dreizehn</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.30" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.30.dreizehneinhalb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dreizehneinhalb</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.31" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.31.vierzehn" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vierzehn</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.32" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.32.vierzehneinhalb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vierzehneinhalb</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.33" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.33.fünfzehn" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fünfzehn</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.34" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.34.fünfzehneinhalb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fünfzehneinhalb</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.35" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.35.sechzehn" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sechzehn</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.36" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.36.sechzehneinhalb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sechzehneinhalb</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.37" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.37.siebzehn" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>siebzehn</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.38" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.38.siebzehneinhalb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>siebzehneinhalb</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.39" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.39.achtzehn" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>achtzehn</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.40" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.40.achtzehneinhalb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>achtzehneinhalb</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.41" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.41.neunzehn" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neunzehn</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.42" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.42.neunzehneinhalb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neunzehneinhalb</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.43" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.43.zwanzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zwanzig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.44" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.44.einundzwanzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einundzwanzig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.45" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.45.zweiundzwanzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zweiundzwanzig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.46" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.46.dreiundzwanzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dreiundzwanzig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.47" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.47.vierundzwanzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vierundzwanzig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.48" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.48.fünfundzwanzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fünfundzwanzig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.49" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.49.sechsundzwanzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sechsundzwanzig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.50" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.50.siebenundzwanzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>siebenundzwanzig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.51" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.51.achtundzwanzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>achtundzwanzig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.52" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.52.neunundzwanzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neunundzwanzig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.53" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.53.dreißig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dreißig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.54" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.54.vierzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vierzig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.55" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.55.fünfzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fünfzig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.56" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.56.sechzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sechzig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.57" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.57.siebzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>siebzig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.58" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.58.achtzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>achtzig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.59" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.59.neunzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neunzig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.60" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.60.hundert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hundert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.61" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.61.tausend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tausend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.62" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.62.erst" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erst</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.63" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.63.vorletzt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorletzt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.64" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.64.letzt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>letzt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.65" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.65.zweit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zweit</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.66" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.66.dritt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dritt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.67" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.67.viert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>viert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.68" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.68.fünft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fünft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.69" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.69.sechst" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sechst</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.70" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.70.siebt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>siebt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.71" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.71.acht2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>acht</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.72" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.72.neunt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neunt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.73" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.73.zehnt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zehnt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.74" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.74.einköpfig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einköpfig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>spezifziert Familien und andere Gruppen nach Anzahl der Mitglieder</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aMenge.75" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.75.mehrköpfig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mehrköpfig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.76" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.76.zweiköpfig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zweiköpfig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.77" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.77.dreiköpfig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dreiköpfig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.78" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.78.vierköpfig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vierköpfig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.79" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.79.fünfköpfig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fünfköpfig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.80" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.80.sechsköpfig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sechsköpfig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.81" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.81.siebenköpfig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>siebenköpfig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.82" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.82.achtköpfig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>achtköpfig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.83" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.83.neunköpfig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neunköpfig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.84" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.84.zehnköpfig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zehnköpfig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.85" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.85.-köpfig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>-köpfig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.86" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.86.einbeinig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einbeinig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.87" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.87.mehrbeinig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mehrbeinig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.88" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.88.zweibeinig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zweibeinig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.89" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.89.dreibeinig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dreibeinig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.90" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.90.vierbeinig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vierbeinig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.91" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.91.fünfbeinig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fünfbeinig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.92" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.92.einstellig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einstellig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.93" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.93.mehrstellig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mehrstellig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.94" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.94.zweistellig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zweistellig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.95" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.95.dreistellig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dreistellig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.96" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.96.vierstellig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vierstellig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.97" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.97.fünfstellig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fünfstellig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.98" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.98.sechsstellig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sechsstellig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.99" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.99.einstufig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einstufig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.100" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.100.mehrstufig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mehrstufig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.101" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.101.zweistufig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zweistufig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.102" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.102.dreistufig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dreistufig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.103" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.103.vierstufig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vierstufig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.104" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.104.einige" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einige</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.104.mehrere" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mehrere</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.105" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.105.geraum" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geraum</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>seit geraumer Zeit</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aMenge.106" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.106.alle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>alle</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.106.jed-" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>jed-</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.106.jeglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>jeglich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.107" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.107.sämtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sämtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.108" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.108.kein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kein</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.108.keinerlei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>keinerlei</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.109" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.109.viele" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>viele</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.109.lauter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lauter</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.109.allerlei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>allerlei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Lauter nette Leute hier!</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aMenge.110" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aMenge.110.quantitätsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>quantitätsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.111" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.111.viel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>viel</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von großer Menge</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aMenge.112" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.112.mehrfach" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mehrfach</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.112.vielfach" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vielfach</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.112.mannigfach" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mannigfach</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.113" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.113.zweifach" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zweifach</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.113.2-fach" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>2-fach</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.113.doppelt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>doppelt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.114" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.114.dreifach" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dreifach</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.114.3-fach" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>3-fach</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.115" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.115.vierfach" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vierfach</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.115.4-fach" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>4-fach</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.116" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.116.fünffach" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fünffach</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.116.5-fach" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>5-fach</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.117" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.117.sechsfach" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sechsfach</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.117.6-fach" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>6-fach</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.118" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.118.siebenfach" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>siebenfach</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.118.7-fach" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>7-fach</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.119" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.119.achtfach" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>achtfach</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.119.8-fach" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>8-fach</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.120" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.120.neunfach" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neunfach</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.120.9-fach" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>9-fach</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.121" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.121.zehnfach" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zehnfach</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.121.10-fach" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>10-fach</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.122" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.122.hundertfach" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hundertfach</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.122.100-fach" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>100-fach</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.123" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.123.tausendfach" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tausendfach</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.123.1000-fach" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>1000-fach</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.124" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.124.reichlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>reichlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.125" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.125.inflationär" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>inflationär</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.126" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.126.zusätzlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zusätzlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.127" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.127.extra" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>extra</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.127.gesondert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gesondert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.127.separat" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>separat</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.127.getrennt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>getrennt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.128" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.128.wenig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wenig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.128.gering" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gering</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von kleiner Menge</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aMenge.129" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.129.minimal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>minimal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.130" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.130.mindest" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mindest</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.130.wenigst" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wenigst</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.131" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.131.minder" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>minder</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.132" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.132.maximal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>maximal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.133" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.133.mehrheitlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mehrheitlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.134" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.134.hoch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hoch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.134.groß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>groß</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.135" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.135.üppig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>üppig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.135.fürstlich" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>fürstlich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ein fürstliches Gehalt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aMenge.136" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.136.niedrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>niedrig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.137" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.137.erhöht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erhöht</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.138" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.138.reich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>reich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.138.reichhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>reichhaltig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.138.gehaltvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gehaltvoll</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.139" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.139.zahlreich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zahlreich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.139.etlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>etlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.139.zig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.140" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.140.zahllos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zahllos</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.141" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.141.massenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>massenhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.141.massig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>massig</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>wir haben noch massig/massenhaft Zeit</text>
+</example>
+</examples>
+</synset>
+<synset id="aMenge.142" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.142.voll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>voll</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>volles Haar</text>
+</example>
+</examples>
+</synset>
+<synset id="aMenge.143" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.143.voll2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>voll</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.143.gefüllt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gefüllt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>viel an Inhalt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aMenge.144" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.144.prallvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>prallvoll</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.144.randvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>randvoll</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.145" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.145.leer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leer</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.145.geleert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geleert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.145.entleert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entleert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.146" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.146.leerstehend" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>leerstehend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.146.leer_stehend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leer_stehend</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>unbewohntes Gebäude</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aMenge.147" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.147.genügend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>genügend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.147.genug" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>genug</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.147.ausreichend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausreichend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.147.hinreichend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hinreichend</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>genügend Leute haben den Unfall gesehen</text>
+</example>
+</examples>
+</synset>
+<synset id="aMenge.148" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.148.unzählig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unzählig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.148.ungezählt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ungezählt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.149" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.149.immens" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>immens</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.149.unermesslich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unermesslich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.149.unermeßlich" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>unermeßlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.150" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.150.unerschöpflich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unerschöpflich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.150.unausschöpflich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unausschöpflich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.151" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.151.unschätzbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unschätzbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.152" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.152.überwiegend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überwiegend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.152.vorwiegend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorwiegend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.152.vornehmlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vornehmlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.153" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.153.weitestgehend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weitestgehend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.154" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.154.unzureichend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unzureichend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.154.unzulänglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unzulänglich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.155" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.155.ungenügend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ungenügend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.156" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.156.arm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>arm</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.157" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.157.dürftig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dürftig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.157.kläglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kläglich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.157.kärglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kärglich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.157.ärmlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ärmlich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>eine dürftige Bleibe</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aMenge.158" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.158.blutarm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blutarm</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.159" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.159.schütter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schütter</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.159.spärlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spärlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.159.licht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>licht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.159.dünn" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dünn</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>schütteres Haar</text>
+</example>
+</examples>
+</synset>
+<synset id="aMenge.160" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.160.restlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>restlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.160.übrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>übrig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.160.übrig_geblieben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>übrig_geblieben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.160.übriggeblieben" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>übriggeblieben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.161" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.161.vorhanden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorhanden</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.162" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.162.vorrätig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorrätig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.163" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.163.parat" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>parat</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.163.griffbereit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>griffbereit</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.164" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.164.erhältlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erhältlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.165" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.165.verbraucht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verbraucht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.165.aufgebraucht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufgebraucht</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.166" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aMenge.166.kostenspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kostenspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.167" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.167.teuer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>teuer</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.168" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.168.wertvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wertvoll</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.168.kostbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kostbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.169" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.169.kunstvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kunstvoll</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.170" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.170.hochkarätig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hochkarätig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.171" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.171.hochwertig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hochwertig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.172" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.172.armselig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>armselig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.172.erbärmlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erbärmlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.172.elend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>elend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.173" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.173.notdürftig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>notdürftig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.174" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.174.jämmerlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>jämmerlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.174.kümmerlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kümmerlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.175" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.175.schnöde" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schnöde</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.176" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.176.minderwertig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>minderwertig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.176.geringwertig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geringwertig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.177" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.177.kostspielig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kostspielig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.178" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.178.kostenintensiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kostenintensiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.179" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.179.unerschwinglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unerschwinglich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.179.unbezahlbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbezahlbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.180" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.180.aufwendig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>aufwendig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.180.aufwändig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufwändig</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>aufwendige Filmproduktion</text>
+</example>
+</examples>
+</synset>
+<synset id="aMenge.181" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.181.günstig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>günstig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.181.billig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>billig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.182" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.182.spottbillig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spottbillig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>verstärkt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aMenge.183" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.183.feil" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>feil</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.183.wohlfeil" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>wohlfeil</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.184" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.184.erschwinglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erschwinglich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.184.bezahlbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bezahlbar</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.184.finanzierbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>finanzierbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.185" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.185.preiswert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>preiswert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.185.kostengünstig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kostengünstig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.185.preisgünstig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>preisgünstig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.186" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.186.geschenkt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geschenkt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.187" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.187.kostenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kostenlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne Kosten</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>ein kostenloses Mittagessen</text>
+</example>
+</examples>
+</synset>
+<synset id="aMenge.188" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.188.bezahlt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bezahlt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.188.vergütet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vergütet</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.188.dotiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dotiert</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>eine bezahlte Tätigkeit</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aMenge.189" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.189.unbezahlt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbezahlt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.189.unvergütet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unvergütet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.190" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.190.ehrenamtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ehrenamtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.191" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aMenge.191.ertragsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ertragsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.192" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.192.einträglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einträglich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.193" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.193.gewinnbringend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gewinnbringend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.193.Gewinn_bringend" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Gewinn_bringend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.193.lukrativ" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lukrativ</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.194" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.194.festverzinslich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>festverzinslich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.194.festverzinst" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>festverzinst</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ein festverzinliches Wertpapier</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aMenge.195" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.195.effizient" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>effizient</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.196" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.196.ergiebig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ergiebig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.197" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.197.ertragreich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ertragreich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.198" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.198.ertragssicher" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ertragssicher</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.199" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.199.ertragsfähig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ertragsfähig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.200" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.200.unergiebig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unergiebig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.201" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.201.ertragsarm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ertragsarm</orthForm>
+</lexUnit>
+</synset>
+<synset id="aMenge.202" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.202.verlustreich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verlustreich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.202.verlustbringend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verlustbringend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aMenge.202.Verlust_bringend" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Verlust_bringend</orthForm>
+</lexUnit>
+</synset>
+</synsets>

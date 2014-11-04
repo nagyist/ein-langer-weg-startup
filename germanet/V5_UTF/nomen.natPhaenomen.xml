@@ -1,0 +1,3212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd"[
+ ]>
+<synsets>
+<synset id="nnatPhaenomen.1" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.1.natürliches_Phänomen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>natürliches_Phänomen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.2" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.2.Naturgesetz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Naturgesetz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.3" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.3.Naturkonstante" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Naturkonstante</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.4" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.4.Leuchterscheinung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Leuchterscheinung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.5" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.5.Reaktion" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Reaktion</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.6" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.6.Kernreaktion" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kernreaktion</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.7" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.7.chemisches_Phänomen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>chemisches_Phänomen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.8" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.8.Kristallisierung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kristallisierung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.8.Kristallieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kristallieren</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.9" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.9.Gärung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gärung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.9.alkoholische_Gärung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>alkoholische_Gärung</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Entstehung von Alkohol</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatPhaenomen.10" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.10.Katalyse" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Katalyse</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Beschleunigung oder Verlangsamung eines chemischen Prozesses</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatPhaenomen.11" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.11.Wertigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wertigkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.11.Valenz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Valenz</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Anzahl der möglichen Bindungen eines Elements</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatPhaenomen.12" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.12.Wertigkeit2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Wertigkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.12.Valenz2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Valenz</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.12.Oxidationszahl" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Oxidationszahl</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Anzahl deraufgenommenen oder abgegebenen Elektronen eines Atoms in einer Verbindung</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatPhaenomen.13" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.13.physikalisches_Phänomen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>physikalisches_Phänomen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.14" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.14.Schwingung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schwingung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.14.Frequenz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Frequenz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.15" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.15.Ultraschall" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ultraschall</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.16" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.16.Hyperschall" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hyperschall</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.17" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.17.Hochfrequenz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hochfrequenz</orthForm>
+</lexUnit>
+<lexUnit Eigenname="ja" artificial="nein" id="nnatPhaenomen.17.HF" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>HF</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.18" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.18.Höchstfrequenz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Höchstfrequenz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.19" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.19.Niederfrequenz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Niederfrequenz</orthForm>
+</lexUnit>
+<lexUnit Eigenname="ja" artificial="nein" id="nnatPhaenomen.19.NF" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>NF</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.20" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.20.Mittelfrequenz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mittelfrequenz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.21" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.21.Welle2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Welle</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.21.Wellenbereich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wellenbereich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.21.Frequenzbereich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Frequenzbereich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Frequenzgruppe mit ähnlichen Eigenschaften</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatPhaenomen.22" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.22.Mirkowelle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mirkowelle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.23" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.23.Kurzwelle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kurzwelle</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.23.KZW" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>KZW</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.24" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.24.Langwelle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Langwelle</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.24.LW" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>LW</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.25" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.25.Mittelwelle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mittelwelle</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.25.MW" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>MW</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.26" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.26.Ultrakurzwelle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ultrakurzwelle</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.26.UKW" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>UKW</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.27" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.27.Windstärke" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Windstärke</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.28" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.28.Energie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Energie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.29" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.29.Energiequelle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Energiequelle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.30" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.30.potentielle_Energie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>potentielle_Energie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.31" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.31.Primärenergie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Primärenergie</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Energieform die keiner vom Menschenverursachten Umwandlung unterworfen wurde</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatPhaenomen.32" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.32.Heizenergie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Heizenergie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.33" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.33.Wärme" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wärme</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.33.Wärmeenergie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wärmeenergie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.34" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.34.Fernwärme" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fernwärme</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.35" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.35.Erdwärme" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erdwärme</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.36" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.36.Abwärme" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Abwärme</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.37" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.37.Temperatur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Temperatur</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.37.Wärmegrad" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wärmegrad</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.38" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.38.Körpertemperatur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Körpertemperatur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.39" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.39.Außentemperatur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Außentemperatur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.40" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.40.Raumtemperatur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Raumtemperatur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.41" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.41.Höchsttemperatur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Höchsttemperatur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.42" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.42.Jahreshöchsttemperatur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Jahreshöchsttemperatur</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.42.Jahresspitzentemperatur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Jahresspitzentemperatur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.43" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.43.Tageshöchsttemperatur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tageshöchsttemperatur</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.43.Tagesspitzentemperatur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tagesspitzentemperatur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.44" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.44.Tagestiefsttemperatur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tagestiefsttemperatur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.45" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.45.Tiefsttemperatur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tiefsttemperatur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.46" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.46.Jahrestiefsttemperatur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Jahrestiefsttemperatur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.47" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.47.Durchschnittstemperatur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Durchschnittstemperatur</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.47.Mitteltemperatur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mitteltemperatur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.48" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.48.Jahresdurchschnittstemperatur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Jahresdurchschnittstemperatur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.49" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.49.Wassertemperatur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wassertemperatur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.50" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.50.Kristallisationspunkt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kristallisationspunkt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.51" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.51.Gefrierpunkt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gefrierpunkt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.52" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.52.Siedepunkt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Siedepunkt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.53" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.53.Nullpunkt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nullpunkt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.54" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.54.absoluter_Nullpunkt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>absoluter_Nullpunkt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.55" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.55.Hitze" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hitze</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.56" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.56.Mittagshitze" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mittagshitze</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.57" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.57.Schwüle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schwüle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.58" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.58.Kälte" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kälte</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.59" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.59.Kühle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kühle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.60" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.60.Frost" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Frost</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.61" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.61.Eiseskälte" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Eiseskälte</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.62" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.62.Bodenfrost" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bodenfrost</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.63" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.63.Haftenergie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Haftenergie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.64" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.64.Reibungsenergie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Reibungsenergie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.65" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.65.Atomenergie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Atomenergie</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.65.Nuklearenergie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nuklearenergie</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.65.Kernenergie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kernenergie</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.65.Atomkraft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Atomkraft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.65.Kernkraft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kernkraft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.66" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.66.Elektrizität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Elektrizität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.67" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.67.Ladung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ladung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.68" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.68.Spannung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Spannung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.69" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.69.Hochspannung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hochspannung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.70" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.70.Niederspannung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Niederspannung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.71" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.71.Strom" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Strom</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.72" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.72.Atomstrom" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Atomstrom</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.73" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.73.Stromquelle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Stromquelle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.74" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.74.Stromkreis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Stromkreis</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.75" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.75.Regelkreis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Regelkreis</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>selbstregulierendes, geschlossenes System</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatPhaenomen.76" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.76.Stromanschluß" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Stromanschluß</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.76.Stromanschluss" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Stromanschluss</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.76.Anschluß" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Anschluß</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.76.Anschluss" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Anschluss</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.77" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.77.Telefonanschluß" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Telefonanschluß</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.77.Telefonanschluss" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Telefonanschluss</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.78" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.78.Kabelanschluß" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Kabelanschluß</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.78.Kabelanschluss" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kabelanschluss</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.78.Kabel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kabel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.79" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.79.Internetanschluß" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Internetanschluß</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.79.Internetanschluss" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Internetanschluss</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.80" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.80.Feuchtigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Feuchtigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.81" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.81.Nässe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nässe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.82" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.82.Batterie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Batterie</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.82.Zelle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zelle</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.82.Batteriezelle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Batteriezelle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.83" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.83.Akkumulator" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Akkumulator</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.83.Akku" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Akku</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.84" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.84.Handyakku" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Handyakku</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.85" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.85.Stromnetz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Stromnetz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.86" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.86.Bewegungsenergie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bewegungsenergie</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.86.kinetische_Energie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kinetische_Energie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.87" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.87.Alternativenergie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Alternativenergie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.88" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.88.Sonnenenergie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sonnenenergie</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.88.Solarenergie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Solarenergie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.89" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.89.Windenergie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Windenergie</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.89.Windkraft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Windkraft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.90" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.90.Wasserkraft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wasserkraft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.90.Wasserenergie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wasserenergie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.91" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.91.Arbeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Arbeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.92" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.92.Licht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Licht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.93" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.93.künstliches_Licht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>künstliches_Licht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.93.Kunstlicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kunstlicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.94" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.94.Polarlicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Polarlicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.95" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.95.Nordlicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nordlicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.96" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.96.natürliches_Licht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>natürliches_Licht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.97" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.97.Sonnenlicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sonnenlicht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.97.Tageslicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tageslicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.98" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.98.Mondlicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mondlicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.99" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.99.Kerzenlicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kerzenlicht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.99.Kerzenschein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kerzenschein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.100" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.100.Scheinwerferlicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Scheinwerferlicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.101" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.101.Blitzlicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Blitzlicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.102" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.102.Neonlicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Neonlicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.103" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.103.Helligkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Helligkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.104" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.104.Dunkelheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dunkelheit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.104.Finsternis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Finsternis</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.104.Dunkel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dunkel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.105" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.105.Düsternis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Düsternis</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.106" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.106.Schwärze" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schwärze</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>die Schwärze der Nacht</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatPhaenomen.107" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.107.Halbdunkel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Halbdunkel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.108" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.108.Schein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schein</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.108.Lichtschein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lichtschein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.109" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.109.Lichteinfall" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lichteinfall</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.110" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.110.Gegenlicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gegenlicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.111" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.111.Sonnigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sonnigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.112" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.112.Reflexion" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Reflexion</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.113" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.113.Lichtreflexion" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lichtreflexion</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.113.Spiegeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Spiegeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.113.Spiegelung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Spiegelung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.114" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.114.Brennpunkt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Brennpunkt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.114.Fokus" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fokus</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.115" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.115.Spektrum" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Spektrum</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.115.Farbspektrum" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Farbspektrum</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Bandbreite der Farben, wenn weißes Licht durch ein Prisma fällt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatPhaenomen.116" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.116.Energiespektrum" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Energiespektrum</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.116.Energiebereich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Energiebereich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.116.Wellenlängenbereich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wellenlängenbereich</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.117" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.117.Rotlicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rotlicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.118" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.118.UV-Licht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>UV-Licht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.118.UV-Strahlung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>UV-Strahlung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.118.Ultraviolettlicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ultraviolettlicht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.118.Ultraviolettstrahlung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ultraviolettstrahlung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.119" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.119.UVA-Strahlung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>UVA-Strahlung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.120" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.120.UVB-Strahlung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>UVB-Strahlung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.121" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.121.Infrarot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Infrarot</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.122" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.122.Schatten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schatten</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.123" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.123.Schlagschatten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schlagschatten</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.124" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.124.Windschatten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Windschatten</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>windgeschützter Bereich</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatPhaenomen.125" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.125.Verdunkelung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verdunkelung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.125.Verdunklung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verdunklung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.125.Verfinsterung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verfinsterung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.125.Abdunklung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Abdunklung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.126" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.126.Aufhellung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Aufhellung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.127" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.127.Lichthof" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lichthof</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.127.Hof" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hof</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.128" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.128.Verpuffung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verpuffung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.129" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.129.Rückkoppelung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rückkoppelung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.130" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.130.Magnetfeld" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Magnetfeld</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.131" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.131.Geräusch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Geräusch</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.132" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.132.Brausen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Brausen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.133" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.133.Knall" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Knall</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>Der Luftballon zerplatzte mit einem großen Knall.</text>
+</example>
+</examples>
+</synset>
+<synset id="nnatPhaenomen.134" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.134.Ton" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ton</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.135" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.135.Zwischenton" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zwischenton</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.136" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.136.Klang2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Klang</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.137" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.137.Widerhall" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Widerhall</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.137.Widerklang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Widerklang</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.137.Klangreflexion" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Klangreflexion</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.138" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.138.Nachhall" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nachhall</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.139" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.139.Echo" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Echo</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.140" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.140.Resonanz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Resonanz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.141" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.141.Schall" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schall</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.142" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.142.Grundton" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Grundton</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.143" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.143.Oberton" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Oberton</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.144" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.144.Unterton" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unterton</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.145" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.145.Rascheln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rascheln</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.146" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.146.Läuten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Läuten</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.147" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.147.Glockenläuten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Glockenläuten</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.148" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.148.Gehupe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gehupe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.149" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.149.Hupkonzert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hupkonzert</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.150" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.150.Kraft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kraft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.151" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.151.Anziehungskraft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Anziehungskraft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.151.Anziehung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Anziehung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.152" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.152.Schwerkraft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schwerkraft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.153" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.153.Auftriebskraft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Auftriebskraft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.153.Auftrieb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Auftrieb</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.154" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.154.Wirtschaftskraft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wirtschaftskraft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.155" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.155.Antriebskraft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Antriebskraft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.155.Antrieb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Antrieb</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.155.Dynamik" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dynamik</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.155.Triebkraft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Triebkraft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.156" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.156.Frontantrieb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Frontantrieb</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.156.Vorderradantrieb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vorderradantrieb</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.157" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.157.Hinterradantrieb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hinterradantrieb</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.158" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.158.Allradantrieb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Allradantrieb</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.158.Vierradantrieb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vierradantrieb</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.159" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.159.Zugkraft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zugkraft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.159.Zug" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zug</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.160" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.160.Zentrifugalkraft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zentrifugalkraft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.160.Fliehkraft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fliehkraft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.161" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.161.Sprengkraft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sprengkraft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.162" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.162.Muskelkraft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Muskelkraft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.163" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.163.Schubkraft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schubkraft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.164" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.164.Spannkraft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Spannkraft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.165" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.165.Bremskraft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bremskraft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.166" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.166.Reibungskraft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Reibungskraft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.167" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.167.Gravitationskraft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gravitationskraft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.167.Erdanziehungskraft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erdanziehungskraft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.168" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.168.Druck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Druck</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.169" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.169.Luftdruck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Luftdruck</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.170" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.170.Gegendruck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gegendruck</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.171" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.171.Öldruck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Öldruck</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.172" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.172.Wasserdruck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wasserdruck</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.173" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.173.Gasdruck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gasdruck</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.174" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.174.Dampfdruck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dampfdruck</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.175" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.175.Blutdruck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Blutdruck</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.176" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.176.Bluthochdruck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bluthochdruck</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.177" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.177.Schalldruck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schalldruck</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.178" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.178.Kesseldruck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kesseldruck</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.179" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.179.Reifendruck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Reifendruck</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.180" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.180.Betriebsdruck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Betriebsdruck</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.181" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.181.Hochdruck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hochdruck</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.182" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.182.Tiefdruck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tiefdruck</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.183" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.183.Unterdruck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unterdruck</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.184" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.184.Überdruck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Überdruck</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.185" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.185.Geschwindigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Geschwindigkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.185.Tempo" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tempo</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.186" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.186.Schritttempo" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schritttempo</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.186.Schritt-Tempo" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Schritt-Tempo</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.186.Schneckentempo" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>Schneckentempo</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.187" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.187.Durchschnittsgeschwindigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Durchschnittsgeschwindigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.188" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.188.Zeitlupentempo" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zeitlupentempo</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.189" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.189.Geschwindigkeit2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Geschwindigkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.189.Schnelligkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schnelligkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.189.Schnelle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schnelle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.190" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.190.Volldampf" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Volldampf</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.190.Vollgas" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vollgas</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.191" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.191.Hochgeschwindigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hochgeschwindigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.192" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.192.Höchstgeschwindigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Höchstgeschwindigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.193" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.193.Langsamkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Langsamkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.194" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.194.Schallgeschwindigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schallgeschwindigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.195" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.195.Eiltempo" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Eiltempo</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.196" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.196.Strahlung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Strahlung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.196.Strahl" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Strahl</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.197" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.197.kosmische_Strahlung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kosmische_Strahlung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.198" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.198.radioaktive_Strahlung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>radioaktive_Strahlung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.198.Radioaktivität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Radioaktivität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.199" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.199.Morgensonne" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Morgensonne</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.200" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.200.Abendsonne" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Abendsonne</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.201" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.201.Mittagsonne" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mittagsonne</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.202" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.202.Gammastrahl" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gammastrahl</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.203" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.203.Röntgenstrahl" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Röntgenstrahl</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.203.X-Strahl" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>X-Strahl</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.204" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.204.Radiostrahl" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Radiostrahl</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.205" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.205.Laserstrahl" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Laserstrahl</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.206" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.206.Lichtstrahl" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lichtstrahl</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.207" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.207.Lichtkegel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lichtkegel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.208" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.208.Schlaglicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schlaglicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.209" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.209.Streif" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Streif</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.209.Lichtstreif" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lichtstreif</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.210" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.210.Sonnenstrahl" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sonnenstrahl</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.211" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.211.elektromagnetische_Strahlung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>elektromagnetische_Strahlung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.212" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.212.Elektrosmog" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Elektrosmog</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.213" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.213.optisches_Phänomen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>optisches_Phänomen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.214" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.214.Polarisierung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Polarisierung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.215" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.215.Brechung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Brechung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.216" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.216.Schwerelosigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schwerelosigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.217" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.217.mechanisches_Phänomen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mechanisches_Phänomen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.218" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.218.Widerstand" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Widerstand</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.219" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.219.Reibung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Reibung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.220" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.220.Haftung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Haftung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.221" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.221.Bodenhaftung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bodenhaftung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.221.Grip" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>Grip</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.222" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.222.Luftwiderstand" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Luftwiderstand</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.223" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.223.Schallmauer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schallmauer</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Aerodyn. Widerstand beim Erreichen der Schallgeschwindigkeit</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatPhaenomen.224" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.224.organisches_Phänomen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>organisches_Phänomen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.225" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.225.Tod" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tod</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.225.Exitus" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Exitus</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.226" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.226.Abgang" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>Abgang</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.226.Sterben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sterben</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.227" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.227.Aussterben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Aussterben</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Tod einer Spezies</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatPhaenomen.228" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.228.Massensterben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Massensterben</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.229" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.229.Waldsterben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Waldsterben</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.230" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.230.Fischsterben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fischsterben</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.231" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.231.Ableben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ableben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.231.Heimgang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Heimgang</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.231.Hingang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hingang</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.231.Lebensende" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lebensende</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.232" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.232.Hirntod" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hirntod</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.233" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.233.Hungertod" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hungertod</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.234" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.234.Unfalltod" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unfalltod</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.235" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.235.Erstickunstod" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erstickunstod</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.236" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.236.Ertrinkungstod" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ertrinkungstod</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.237" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.237.Erschöpfungstod" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erschöpfungstod</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.238" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.238.Erfrierungstod" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erfrierungstod</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.239" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.239.Lebenszyklus" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lebenszyklus</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.240" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.240.Leben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Leben</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.241" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.241.Überleben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Überleben</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.242" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.242.Menschenleben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Menschenleben</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.243" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.243.Geburt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Geburt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.243.Kinderkriegen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kinderkriegen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.244" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.244.Mehrlingsgeburt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mehrlingsgeburt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.245" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.245.Totgeburt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Totgeburt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.246" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.246.Zwillingsgeburt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zwillingsgeburt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.247" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.247.Drillingsgeburt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Drillingsgeburt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.248" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.248.Vierlingsgeburt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vierlingsgeburt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.249" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.249.Fünflingsgeburt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fünflingsgeburt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.250" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.250.Sechslingsgeburt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sechslingsgeburt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.251" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.251.Frühgeburt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Frühgeburt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.252" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.252.Fehlgeburt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fehlgeburt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.253" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.253.Spontangeburt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Spontangeburt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.254" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.254.Generationswechsel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Generationswechsel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.255" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.255.Jahresring" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Jahresring</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.256" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.256.Bioelektrizität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bioelektrizität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.257" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.257.Nahrungskette" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nahrungskette</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.258" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.258.Eigenleben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Eigenleben</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.259" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.259.Gezeiten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gezeiten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.259.Tide" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tide</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>durch die Anziehungskraft des Mondes mitverursachte Bewegung der Wassermassen des Meeres, die an den Küsten als periodisches Ansteigen und Absinken des Meeresspiegels in Erscheinung tritt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatPhaenomen.260" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.260.Flut" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Flut</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.261" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.261.Ebbe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ebbe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.262" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.262.Strömung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Strömung</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Bewegung des Wassers/der Luft</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatPhaenomen.263" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.263.Wildwasser" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wildwasser</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.264" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.264.Sog" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sog</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.264.Wirbel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wirbel</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.264.Strudel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Strudel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.265" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.265.Ablauf" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ablauf</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.265.Abfluss" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Abfluss</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.265.Abfluß" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Abfluß</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.266" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.266.Zulauf" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zulauf</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.266.Zufluss" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zufluss</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.266.Zufluß" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Zufluß</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.267" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.267.Meeresströmung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Meeresströmung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.268" wordClass="nomen">
+<lexUnit Eigenname="ja" artificial="nein" id="nnatPhaenomen.268.Golfstrom" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Golfstrom</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.269" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.269.Sintflut" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sintflut</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.270" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.270.Klimaveränderung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Klimaveränderung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.271" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.271.Abgabe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Abgabe</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.271.Emission" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Emission</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.272" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.272.Abgas" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Abgas</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.273" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.273.Autoabgas" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Autoabgas</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.274" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.274.Ausstoß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ausstoß</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.275" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.275.Schadstoffausstoß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schadstoffausstoß</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.276" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.276.Treibhauseffekt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Treibhauseffekt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.276.atmosphärische_Erwärmung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>atmosphärische_Erwärmung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.277" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.277.geologisches_Phänomen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geologisches_Phänomen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.278" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.278.Erdrutsch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erdrutsch</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.279" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.279.Erdbeben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erdbeben</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.280" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.280.Nachbeben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nachbeben</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.281" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.281.Springflut" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Springflut</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.282" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.282.Brand" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Brand</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.282.Feuer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Feuer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.283" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.283.Schwelbrand" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schwelbrand</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.284" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.284.Großbrand" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Großbrand</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.284.Großfeuer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Großfeuer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.285" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.285.Strohfeuer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Strohfeuer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.286" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.286.Flächenbrand" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Flächenbrand</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.287" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.287.Kaminfeuer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kaminfeuer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.288" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.288.Feuersbrunst" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Feuersbrunst</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.289" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.289.Lagerfeuer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lagerfeuer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.290" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.290.Flamme" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Flamme</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.291" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.291.Stichflamme" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Stichflamme</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.292" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.292.Funke" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Funke</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.293" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.293.Zündfunke" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zündfunke</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.294" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.294.Kerzenflamme" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kerzenflamme</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.295" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.295.Glut" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Glut</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>glühende Masse</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatPhaenomen.296" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.296.Lauffeuer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lauffeuer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.297" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.297.Bodenerosion" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bodenerosion</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.297.Erosion" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erosion</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.298" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.298.Verschmutzung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verschmutzung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.298.Umweltverschmutzung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Umweltverschmutzung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.299" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.299.Wasserverschmutzung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wasserverschmutzung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.300" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.300.Ölteppich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ölteppich</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.301" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.301.Luftverschmutzung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Luftverschmutzung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.302" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.302.Lichtverschmutzung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lichtverschmutzung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.303" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.303.Smog" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Smog</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.304" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.304.Verunreinigung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verunreinigung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.304.Kontamination" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kontamination</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.305" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.305.Verseuchung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verseuchung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.306" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.306.Naturereignis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Naturereignis</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.307" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.307.Jahreszeitenwechsel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Jahreszeitenwechsel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.308" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.308.Frühjahrsblüte" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Frühjahrsblüte</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.308.Blüte" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Blüte</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.309" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.309.Herbstlaub" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Herbstlaub</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.309.Herbstfärbung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Herbstfärbung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.310" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.310.Entlaubung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Entlaubung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.311" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.311.Tag_und_Nacht_Gleiche" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tag_und_Nacht_Gleiche</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.312" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.312.Naturkatastrophe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Naturkatastrophe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.313" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.313.Flutkatastrophe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Flutkatastrophe</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.313.Hochwasser" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hochwasser</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.313.Überflutung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Überflutung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.313.Überschwemmung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Überschwemmung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.313.Sturmflut" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sturmflut</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.314" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.314.Tornado" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tornado</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.315" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.315.Steinschlag" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Steinschlag</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.316" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.316.Lawinenunglück" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lawinenunglück</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.317" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.317.Dammbruch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dammbruch</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.318" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.318.Windsturm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Windsturm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.319" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.319.Wirbelsturm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wirbelsturm</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.319.Orkan" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Orkan</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.320" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.320.Brandkatastrophe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Brandkatastrophe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.321" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.321.Waldbrand" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Waldbrand</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.322" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.322.Flugzeugkatastrophe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Flugzeugkatastrophe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.323" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.323.Hungerskatastrophe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hungerskatastrophe</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.323.Hungerkatastrophe" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Hungerkatastrophe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.324" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="ja" id="nnatPhaenomen.324.atmosphärisches_Phänomen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>atmosphärisches_Phänomen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.325" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.325.Sonnenaufgang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sonnenaufgang</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.326" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.326.Abendrot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Abendrot</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.326.Abendröte" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Abendröte</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.327" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.327.Sonnenuntergang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sonnenuntergang</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.328" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.328.Dämmerung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dämmerung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.328.Dämmerlicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dämmerlicht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.328.Abenddämmerung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Abenddämmerung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.328.Abendgrauen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Abendgrauen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.328.Zwielicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zwielicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.329" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.329.Morgengrauen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Morgengrauen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.329.Morgendämmerung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Morgendämmerung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.330" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.330.Regenbogen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Regenbogen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.331" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.331.Halo" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Halo</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.332" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.332.Flimmern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Flimmern</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.333" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.333.Polarnacht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Polarnacht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.334" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.334.Mittsommernacht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mittsommernacht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.335" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.335.Morgenrot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Morgenrot</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.335.Morgenröte" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Morgenröte</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.335.Aurora" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Aurora</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.336" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.336.Mondschein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mondschein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.337" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.337.Widerschein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Widerschein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.338" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.338.Vollmond" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vollmond</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.339" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.339.Neumond" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Neumond</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.340" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.340.Halbmond" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Halbmond</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.341" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.341.Sonnenfinsternis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sonnenfinsternis</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.342" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.342.Mondfinsternis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mondfinsternis</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.343" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.343.Klima" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Klima</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.344" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.344.Tropenklima" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tropenklima</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.345" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.345.Subtropenklima" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Subtropenklima</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.346" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.346.Mittelmeerklima" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mittelmeerklima</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.347" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.347.Küstenklima" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Küstenklima</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.347.maritimes_Klima" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>maritimes_Klima</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.348" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.348.Kontinentalklima" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kontinentalklima</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.348.kontinentales_Klima" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kontinentales_Klima</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.349" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.349.Wetter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wetter</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.349.Wetterlage" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wetterlage</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.350" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.350.Großwetterlage" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Großwetterlage</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.351" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.351.Klimakatastrophe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Klimakatastrophe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.352" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.352.Dürre" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dürre</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.353" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.353.Hitzewelle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hitzewelle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.354" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.354.Witterung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Witterung</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>zu einem bestimmten Zeitpunkt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatPhaenomen.355" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.355.Frühlingswetter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Frühlingswetter</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.355.Frühlingswitterung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Frühlingswitterung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.356" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.356.Sommerwetter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sommerwetter</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.356.Sommerwitterung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sommerwitterung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.357" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.357.Herbstwetter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Herbstwetter</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.357.Herbstwitterung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Herbstwitterung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.358" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.358.Winterwetter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Winterwetter</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.358.Winterwitterung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Winterwitterung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.359" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.359.Übergangswetter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Übergangswetter</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.359.Übergangswitterung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Übergangswitterung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.360" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.360.Unwetter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unwetter</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.361" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.361.Tauwetter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tauwetter</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.362" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.362.Kaiserwetter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kaiserwetter</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.362.Superwetter" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>Superwetter</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.363" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.363.Scheißwetter" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>Scheißwetter</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.363.Mistwetter" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>Mistwetter</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.364" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.364.Glätte" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Glätte</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.364.Straßenglätte" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Straßenglätte</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.365" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.365.Glatteis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Glatteis</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.365.Eisglätte" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Eisglätte</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.366" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.366.Blitzeis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Blitzeis</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.367" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.367.Schneeglätte" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schneeglätte</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.368" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.368.Sonnenschein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sonnenschein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.369" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.369.Regenwetter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Regenwetter</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.370" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.370.Wetterfront" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wetterfront</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.371" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.371.Kaltfront" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kaltfront</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.372" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.372.Warmfront" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Warmfront</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.373" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.373.Hoch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hoch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.373.Hochdruckzone" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hochdruckzone</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.373.Hochdruckgebiet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hochdruckgebiet</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.374" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.374.Hochdruckbrücke" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hochdruckbrücke</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.375" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.375.Hochausläufer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hochausläufer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.376" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.376.Hochkeil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hochkeil</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.377" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.377.Tief" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tief</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.377.Tiefdruckzone" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tiefdruckzone</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.377.Tiefdruckgebiet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tiefdruckgebiet</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.377.Zyklone" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zyklone</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.378" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.378.Tiefdruckbrücke" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tiefdruckbrücke</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.379" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.379.Tiefausläufer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tiefausläufer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.380" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.380.Tiefkeil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tiefkeil</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.381" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.381.Sturmtief" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sturmtief</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.382" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.382.Bewölkung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bewölkung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.383" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.383.Wolkenbildung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wolkenbildung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.384" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.384.Wolkenfeld" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wolkenfeld</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.385" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.385.Wolkenmeer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wolkenmeer</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.385.Wolkenband" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wolkenband</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.385.Wolkenbank" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wolkenbank</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.385.Wolkendecke" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wolkendecke</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.386" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.386.Wolke1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wolke</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.387" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.387.Wolke" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wolke</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.388" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.388.Schäfchenwolke" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schäfchenwolke</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.389" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.389.Kumuluswolke" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kumuluswolke</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.390" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.390.Gewitterwolke" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gewitterwolke</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.391" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.391.Regenwolke" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Regenwolke</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.392" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.392.Nebelwolke" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nebelwolke</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.393" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.393.Dunstwolke" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dunstwolke</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.393.Dunstglocke" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dunstglocke</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.394" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.394.Dunst" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dunst</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.395" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.395.Niederschlag" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Niederschlag</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.396" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.396.Niederschlagswert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Niederschlagswert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.396.Niederschlagsmenge" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Niederschlagsmenge</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.397" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.397.Niederschlagswahrscheinlichkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Niederschlagswahrscheinlichkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.397.Regenwahrscheinlichkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Regenwahrscheinlichkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.398" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.398.Niederschlagsdurchschnitt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Niederschlagsdurchschnitt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.399" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.399.Regen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Regen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.399.Regenfall" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Regenfall</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.400" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.400.Monsunregen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Monsunregen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.401" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.401.Nieselregen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nieselregen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.401.Sprühregen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sprühregen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.402" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.402.Schauer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schauer</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.402.Regenschauer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Regenschauer</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.402.Regenguss" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Regenguss</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.402.Regenguß" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Regenguß</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.402.Guss" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Guss</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.402.Guß" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Guß</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.403" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.403.Platzregen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Platzregen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.404" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.404.Steigungsregen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Steigungsregen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.405" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.405.Wolkenbruch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wolkenbruch</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.406" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.406.Strichregen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Strichregen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.407" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.407.Dauerregen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dauerregen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.408" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.408.Landregen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Landregen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.409" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.409.Sommerregen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sommerregen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.410" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.410.Frühlingsregen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Frühlingsregen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.411" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.411.Regentropfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Regentropfen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.412" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.412.Aprilschauer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Aprilschauer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.413" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.413.Schneeregen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schneeregen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.414" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.414.Schneefall" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schneefall</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.415" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.415.Schneetreiben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schneetreiben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.415.Schneegestöber" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schneegestöber</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.416" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.416.Schneeschauer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schneeschauer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.417" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.417.Schneeflocke" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schneeflocke</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.418" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.418.Schnee" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schnee</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.419" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.419.Altschnee" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Altschnee</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.420" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.420.Neuschnee" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Neuschnee</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.421" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.421.Pulverschnee" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Pulverschnee</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.422" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.422.Pappschnee" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Pappschnee</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.423" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.423.Harschschnee" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Harschschnee</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.423.Harsch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Harsch</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.424" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.424.Firmschnee" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Firmschnee</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.425" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.425.Eisschnee" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Eisschnee</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.426" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.426.Tiefschnee" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tiefschnee</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.427" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.427.Nassschnee" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nassschnee</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.427.Naßschnee" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Naßschnee</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.427.Nass-Schnee" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Nass-Schnee</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.428" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.428.Kunstschnee" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kunstschnee</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.429" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.429.Naturschnee" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Naturschnee</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.430" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.430.Lawine" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lawine</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.431" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.431.Schneelawine" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schneelawine</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.432" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.432.Hagel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hagel</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.432.Hagelschauer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hagelschauer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.433" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.433.Hagelkorn" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hagelkorn</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.434" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.434.Graupel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Graupel</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.434.Graupelschauer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Graupelschauer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.435" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.435.Reif" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Reif</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.435.Rauhreif" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rauhreif</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.436" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.436.Tau" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tau</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.437" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.437.Nebel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nebel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.438" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.438.Frühnebel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Frühnebel</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.438.Morgennebel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Morgennebel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.439" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.439.Hochnebel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hochnebel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.440" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.440.Nebelschwade" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nebelschwade</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.441" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.441.Herbstnebel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Herbstnebel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.442" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.442.Bodennebel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bodennebel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.443" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.443.Sturm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sturm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.444" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.444.Typhoon" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Typhoon</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.444.Taifun" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Taifun</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.445" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.445.Willy_Willy" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Willy_Willy</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.446" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.446.Zyklon" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zyklon</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.447" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.447.Hurrikan" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hurrikan</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.447.Hurricane" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Hurricane</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.448" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.448.Schneesturm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schneesturm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.449" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.449.Sandsturm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sandsturm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.450" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.450.Hagelsturm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hagelsturm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.451" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.451.Herbststurm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Herbststurm</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.451.Herbstwind" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Herbstwind</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.452" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.452.Wintersturm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wintersturm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.453" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.453.Frühjahrssturm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Frühjahrssturm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.454" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.454.Wüstensturm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wüstensturm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.455" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.455.Gewitter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gewitter</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.456" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.456.Blitz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Blitz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.457" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.457.Blitzschlag" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Blitzschlag</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.458" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.458.Kugelblitz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kugelblitz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.459" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.459.Wetterleuchten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wetterleuchten</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.460" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.460.Donner" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Donner</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.460.Donnern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Donnern</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.461" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.461.Donnerschlag" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Donnerschlag</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.462" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.462.Windstille" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Windstille</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.463" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.463.Wind" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wind</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.463.Drift" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Drift</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.463.Luftbewegung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Luftbewegung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.464" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.464.Meeresluft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Meeresluft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.465" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.465.Böe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Böe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.466" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.466.Abendwind" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Abendwind</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.467" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.467.Brise" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Brise</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.468" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.468.Passat" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Passat</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.468.Passatwind" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Passatwind</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.469" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.469.Monsun" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Monsun</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.469.Monsunwind" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Monsunwind</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.470" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.470.Mistral" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mistral</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.471" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.471.Ostwind" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ostwind</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.472" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.472.Westwind" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Westwind</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.473" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.473.Südwind" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Südwind</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.474" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.474.Rückenwind" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rückenwind</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.475" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.475.Fahrtwind" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fahrtwind</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.476" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.476.Gegenwind" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gegenwind</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.477" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.477.Luftstrahl" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Luftstrahl</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.477.Luftstrom" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Luftstrom</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.477.Windstrahl" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Windstrahl</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.477.Luftstoß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Luftstoß</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.477.Windstoß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Windstoß</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.477.Bö" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bö</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.478" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.478.Lufthauch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lufthauch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.478.Windhauch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Windhauch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.478.Lüftchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lüftchen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.478.Hauch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hauch</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.479" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.479.Luftzug" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Luftzug</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.479.Zug2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Zug</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.480" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.480.Durchzug" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Durchzug</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.481" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.481.Aufwind" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Aufwind</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.482" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.482.Feuersturm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Feuersturm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.483" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.483.Abwind" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Abwind</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.484" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.484.Wirbelwind" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wirbelwind</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.485" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.485.Windhose" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Windhose</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.486" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.486.Turbulenz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Turbulenz</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.486.Wirbel2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Wirbel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.487" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.487.Sturmböe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sturmböe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.488" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.488.Gewittersturm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gewittersturm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.489" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.489.Welle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Welle</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.489.Woge" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Woge</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.489.Wasserwelle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wasserwelle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.490" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.490.Brecher" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Brecher</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.491" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.491.Druckwelle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Druckwelle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.492" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.492.Wasserfall" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wasserfall</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.493" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.493.Wasserdampf" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wasserdampf</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.494" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.494.Luftfeuchtigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Luftfeuchtigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.495" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.495.Flutwelle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Flutwelle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.496" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.496.Wellengang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wellengang</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.497" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.497.Riesenflutwelle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Riesenflutwelle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.498" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.498.Tsunami" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tsunami</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.499" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.499.Meereswelle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Meereswelle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.500" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.500.Nordseewelle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nordseewelle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.501" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.501.Brandung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Brandung</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>die sich in der Brandungszone brechenden  Wellen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatPhaenomen.502" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.502.übernatürliches_Phänomen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>übernatürliches_Phänomen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.503" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.503.Wunder" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wunder</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.504" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.504.Auferstehung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Auferstehung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.505" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.505.Wiederauferstehung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wiederauferstehung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.506" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.506.Himmelfahrt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Himmelfahrt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.507" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.507.Spuk" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Spuk</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.508" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.508.Geistheilung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Geistheilung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.508.Geisterheilung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Geisterheilung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.508.Wunderheilung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wunderheilung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.509" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.509.Sinnestäuschung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sinnestäuschung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.509.Täuschung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Täuschung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.510" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.510.Trug" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Trug</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.511" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.511.Illusion" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Illusion</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.511.Trugbild" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Trugbild</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.511.Phantom" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Phantom</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.511.Phantombild" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Phantombild</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.511.Vision" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vision</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.512" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.512.Zerrbild" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zerrbild</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.513" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.513.Fata_Morgana" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fata_Morgana</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.514" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.514.Halluzination" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Halluzination</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.515" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.515.Telepathie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Telepathie</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.515.Gedankenübertragung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gedankenübertragung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.516" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.516.Magie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Magie</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.516.Zauberei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zauberei</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.517" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.517.Telekinese" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Telekinese</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.518" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.518.höhere_Macht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>höhere_Macht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.519" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.519.Schicksal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schicksal</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.520" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.520.Zufall" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zufall</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatPhaenomen.521" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatPhaenomen.521.Vorsehung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vorsehung</orthForm>
+</lexUnit>
+</synset>
+</synsets>

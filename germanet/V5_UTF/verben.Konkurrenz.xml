@@ -1,0 +1,3586 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd"[
+ ]>
+<synsets>
+<synset id="vKonkurrenz.1" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.1.konfrontieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konfrontieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DN</frame>
+<frame>NN.AN.BO</frame>
+</frames>
+<examples>
+<example><text>Vor Gericht wird das Opfer nochmals mit dem Mörder konfrontiert.</text> <frame>NN.AN.DNSiekonfrontierteihreMuttermitihrerDrogenabhängigkeit.NN.AN.BO</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.2" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.2.treffen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>treffen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.Bl</frame>
+<frame>NN.AN.BT</frame>
+<frame>NN.AR.PP</frame>
+<frame>NN.PP.BL</frame>
+<frame>NN.PP</frame>
+<frame>NN.AN.BS</frame>
+</frames>
+<examples>
+<example><text>Sie wird ihn (heute mittag) treffen.</text> <frame>NN.AN.BtIchhabemeinenExmannimKinogetroffen.NN.AN.BlIchtreffemichmorgenmitmeinerMutter.NN.AN.BOImFinaletrifftdiedeutscheMannschaftaufItalien.???NN.PP.BTMitdiesenMaßnahmentrifftdieEUdieWirtschaftderafrikanischenLänder.NN.AN.BS</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.3" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.3.bedrängen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bedrängen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BS</frame>
+</frames>
+<examples>
+<example><text>Die Journalisten bedrängten den Außenminister.</text> <frame>NN.AN</frame></example>
+<example>
+<text></text>
+</example>
+<example><text>Die Reporter bedrängten den Superstar (mit ihren Fragen).</text> <frame>NN.AN.Bs</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.4" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.4.zurückdrängen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zurückdrängen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Die Polizisten drängten die Masse zurück.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.5" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.5.abdrängen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abdrängen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Der Rennfahrer hatte seinen schärfsten Konkurrenten geschickt abgedrängt.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.6" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.6.bewerben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bewerben</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+<frame>NN.AR.PP</frame>
+<frame>NN.AR.BR</frame>
+</frames>
+<examples>
+<example><text>Sie bewirbt sich bei diesem Unternehmen.</text> <frame>NN.AN</frame></example>
+<example>
+<text></text>
+</example>
+<example><text>Er bewirbt sich um diese Stelle.</text> <frame>NN.AR.PP</frame></example>
+<example>
+<text></text>
+</example>
+<example><text>Ich habe mich als Techniker beworben.</text> <frame>NN.AR.BR</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.7" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.7.stören" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stören</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.AN</frame>
+<frame>NN.AN.Pp</frame>
+</frames>
+<paraphrases>
+<paraphrase>(jmdn bei etwas) belästigen, (von etwas) ablenken</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Kommen Sie ruhig herein, Sie stören jetzt nicht.</text> <frame>NN</frame></example>
+<example>
+<text></text>
+</example>
+<example><text>Der Lärm stört mich.</text> <frame>NN.AN</frame></example>
+<example><text>Du störst mich (bei meiner Arbeit).</text> <frame>NN.AN.Pp</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.8" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.8.irritieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>irritieren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.8.verunsichern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verunsichern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Ihr Pfeifen irritierte ihn.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.9" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.9.beirren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beirren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Sie wird sich von ihm nicht in ihren Plänen beirren lassen.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.10" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.10.belästigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>belästigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.Pp</frame>
+</frames>
+<examples>
+<example><text>Der Chef belästigt seine Mitarbeiterinnen.</text> <frame>NN.AN</frame></example>
+<example><text>Sie belästigt ihn (mit ihren Problemen).</text> <frame>NN.AN.Pp</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.11" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.11.ablenken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ablenken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.AN</frame>
+<frame>NN.AN.Pp</frame>
+<frame>NN.DN</frame>
+</frames>
+<examples>
+<example><text>Das schöne Wetter lenkt ab.</text> <frame>NN</frame></example>
+<example><text>Die Musik lenkt ihn ab.</text> <frame>NN.AN</frame></example>
+<example><text>Die Musik lenkt sie (von der Arbeit) ab.</text> <frame>NN.AN.Pp</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.12" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.12.ausmachen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausmachen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DR</frame>
+<frame>NN.DR.BM</frame>
+</frames>
+<examples>
+<example><text>Der Fernseher macht mir etwas aus.</text> <frame>NN.AR</frame></example>
+<example><text>Sein Benehmen macht ihr (nicht viel) aus.</text> <frame>NN.AR.Bm</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.13" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.13.kreppen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>kreppen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.13.jucken" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>jucken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+<frame>NN.AR.BM</frame>
+</frames>
+<examples>
+<example><text>Das juckt mich nicht.</text> <frame>NN.AR</frame></example>
+<example><text>Seine Niederlage kreppt ihn sehr.</text> <frame>NN.AR.BM</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.14" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.14.behindern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>behindern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Der Schnee behindert den Verkehr.</text> <frame>NN.AN</frame></example>
+<example><text>Der Lärm behindert mich beim Arbeiten.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.15" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.15.verstellen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verstellen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Blockade verstellt den Weg.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.16" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.16.versperren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>versperren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Baum versperrt die Sicht.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.17" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.17.aufhalten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufhalten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+<frame>NN.AN</frame>
+<frame>NN.AN.Bl</frame>
+<frame>NN.AN.Pp</frame>
+</frames>
+<examples>
+<example><text>Der Polizist hat ihn aufgehalten.</text> <frame>NN.AN</frame></example>
+<example><text>Der Penner hat die Frau vor dem Bahnhof aufgehalten.</text> <frame>NN.AN.Bl</frame></example>
+<example><text>Das Telefonat hat ihn drei Stunden aufgehalten.</text> <frame>obenalsNN.AN.Ppaufgefuhrt:eigentlichNN.AN.Bt</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.18" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.18.beeinträchtigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beeinträchtigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.Pp</frame>
+</frames>
+<examples>
+<example><text>Die Krankheit beeinträchtigt ihn bei der Arbeit.</text> <frame>NN.AN</frame></example>
+<example><text>Durch den Rollstuhl ist er (in seiner Freiheit) beeinträchtigt.</text> <frame>NN.AN.Pp</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.19" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.19.dazwischenfunken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dazwischenfunken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DN</frame>
+<frame>NN.DN.Pp</frame>
+</frames>
+<examples>
+<example><text>Sie funkte uns jedesmal dazwischen.</text> <frame>NN.DN</frame></example>
+<example><text>Der Chef funkte seinen Mitarbeitern (mit seinen Plänen) dazwischen.</text> <frame>NN.DN.Pp</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.20" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.20.dazwischenkommen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dazwischenkommen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.DR</frame>
+</frames>
+<examples>
+<example><text>Es ist etwas dazwischengekommen.</text> <frame>NN</frame></example>
+<example><text>Meinem Vater ist etwas dazwischengekommen.</text> <frame>NN.DR</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.21" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.21.erschweren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erschweren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.21.hemmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hemmen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.21.hindern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hindern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.21.lähmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lähmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.Dn</frame>
+</frames>
+<examples>
+<example><text>Seine provokative Rede erschwert den Abschluss des Vertrages.</text> <frame>NN.AN</frame></example>
+<example><text>Ihr peinliches Verhalten erschwert (ihrem Mann) die Situation.</text> <frame>NN.AN.Dn</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.22" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.22.obstruieren" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>obstruieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Antrag der Opposition obstruiert den Parlamentsbeschluss.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.23" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.23.querschießen" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>querschießen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.23.quer_schießen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>quer_schießen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.23.quertreiben" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>quertreiben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.23.quer_treiben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>quer_treiben</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+</synset>
+<synset id="vKonkurrenz.24" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.24.torpedieren2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>torpedieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Die Kommission torpedierte unsere immensen Bemühungen.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.25" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.25.anecken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anecken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Mit seinen provokanten Thesen eckt er an.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.26" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.26.trüben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trüben</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AR.BC</frame>
+</frames>
+<examples>
+<example><text>Der Streit um das Erbe trübte das gute Verhältnis.</text> <frame>NN.AN</frame></example>
+<example><text>Ihr Glück trübte sich durch die Ankunft ihrer Mutter.</text> <frame>NN.AR.BC</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.27" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.27.unterbrechen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unterbrechen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BT</frame>
+</frames>
+<examples>
+<example><text>Das Klingeln des Telefons unterbrach sie bei der Arbeit.</text> <frame>NN.AN</frame></example>
+<example><text>Er unterbrach ihn beim Sprechen.</text> <frame>NN.AN.BT</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.28" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.28.verzögern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verzögern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AR</frame>
+</frames>
+<examples>
+<example><text>Die Auslieferung der Ware verzögert sich.</text> <frame>NN.AR</frame></example>
+<example><text>Der Streik der Arbeiter verzögert die Produktion.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.29" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.29.mobilisieren2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>mobilisieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>dazu bringen, (in einer Angelegenheit) [politisch,sozial] aktiv zu werden, sich dafür einzusetzen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Die Partei mobilisierte ihre Anhänger, auf die Straße zu gehen.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.30" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.30.aufwenden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufwenden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BA</frame>
+</frames>
+<examples>
+<example><text>Sie wandte ihre Energie auf, ihn zu überzeugen.</text> <frame>NN.AN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.31" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.31.einsetzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einsetzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Präsident mobilisierte die gesamte Armee.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.32" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.32.aufwiegeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufwiegeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.Pp</frame>
+</frames>
+<examples>
+<example><text>Die Partisanen wiegeln das Volk auf.</text> <frame>NN.AN</frame></example>
+<example><text>Die Freiheitskämpfer wiegeln die Bauern (gegen die Regierung) auf.</text> <frame>NN.AN.Pp</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.33" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.33.mobilisieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mobilisieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>für den [Kriegs]einsatz bereitstellen/verfügbar machen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Die UNO mobilisierte sofort ihre Blauhelme.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.34" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.34.rekrutieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rekrutieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example><text>Die Armee rekrutiert ihre Soldaten.</text> <frame>NN.AN</frame></example>
+<example><text>Die Forschungsgruppe rekrutiert sich aus Nobelpreisträgern.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.35" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.35.aktivieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aktivieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Dieser Mann aktiviert die gesamte Belegschaft.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.36" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.36.reaktivieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>reaktivieren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.36.reanimieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>reanimieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die grüne Bewegung muss reaktiviert werden.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.37" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.37.rüsten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rüsten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BA</frame>
+</frames>
+<examples>
+<example><text>Der Diktator rüstet sein Land für einen Krieg gegen den Feind.</text> <frame>NN.AN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.38" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.38.panzern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>panzern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Einheit panzerte den Schützengraben.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.39" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.39.kasemattieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kasemattieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>geschützsicher machen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Die Luxemburger kasemattierten ihre Festung.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.40" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.40.bewaffnen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bewaffnen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.40.armieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>armieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Partei hat ihre Anhänger bewaffnet.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.41" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.41.aufrüsten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufrüsten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.41.militarisieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>militarisieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Der Osten rüstete nach Jahren des Stillstands auf.</text> <frame>NN</frame></example>
+<example><text>Die Regierung militarisierte den Gaza-Streifen.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.42" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.42.verminen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verminen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.42.unterminieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unterminieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Militärs verminten das Grenzgelände.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.43" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.43.wiederbewaffnen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wiederbewaffnen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+</frames>
+<examples>
+<example>
+<text>Die Partisanen haben sich wiederbewaffnet.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.44" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.44.abkommandieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abkommandieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Befehlshaber kommandierte seine Truppen zum Sondereinsatz ab.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.45" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.45.abziehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abziehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie haben die Truppen aus der Stadt abgezogen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.46" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.46.zurückziehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zurückziehen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.46.reterieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>reterieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AR.Pp</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Die Armee zog sich (aus der Stadt) zurück.</text> <frame>NN.AR.Pp</frame></example>
+<example><text>Der General zog seine Soldaten aus dem Kampfgebiet zurück.</text> <frame>NN.AN.PP</frame></example>
+<example><text>Der Diktator zog seine Spione zurück.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.47" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.47.demobilisieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>demobilisieren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.47.entmobilisieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entmobilisieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>ein Land in den Frieden zurückführen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Die Amerikaner demobilisierten ihre Truppen.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.48" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.48.desarmieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>desarmieren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.48.entwaffnen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entwaffnen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Der General desarmierte seine Kompanie.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.49" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.49.abrüsten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abrüsten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.49.entmilitarisieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entmilitarisieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Nach Jahren des Kalten Krieges rüsteten die Supermächte endlich ab.</text> <frame>NN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.50" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.50.konkurrieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konkurrieren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.50.rivalisieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rivalisieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP.PP</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Ein großer Automobilkonzern konkurriert mit dieser Firma um die Marktanteile.</text> <frame>NN.PP.PP</frame></example>
+<example><text>Zehn Bewerber konkurrieren um diesen Posten.</text> <frame>NN.PP</frame></example>
+<example><text>Sie rivalisiert mit ihrem Kollegen um den Chefposten.</text> <frame>???NN.PP.BO</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.51" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.51.wetteifern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wetteifern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.PP.PP</frame>
+</frames>
+<examples>
+<example><text>Sie wetteifern um die Siegprämie.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.52" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.52.auseinandersetzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auseinandersetzen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.52.auseinander_setzen" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>auseinander_setzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Das Ehepaar setzte sich darüber heftig auseinander.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.53" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.53.erleiden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erleiden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>(Schaden) zugefügt bekommen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Die Truppen erlitten schwere Verluste.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.54" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.54.davontragen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>davontragen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Soldaten haben schwere Verletzungen davongetragen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.55" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.55.angeben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>angeben</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Pp</frame>
+<frame>NN.BS</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich durch entsprechendes Verhalten den Anschein der Wichtigkeit zu geben versuchen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie gibt (vor allen Leuten)an.</text> <frame>NN.Pp</frame></example>
+<example><text>Er gibt mit seinem Auto an.</text> <frame>NN.BS</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.56" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.56.protzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>protzen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.56.prunken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>prunken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Pp</frame>
+<frame>NN.BS</frame>
+</frames>
+<examples>
+<example><text>Mein Chef protzt gerne (vor seinen Mitarbeitern).</text> <frame>NN.Pp</frame></example>
+<example><text>Der neue Mitarbeiter protzt mit seinem tollen Wagen.</text> <frame>NN.BS</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.57" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.57.paradieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>paradieren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.57.brüsten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>brüsten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example><text>Er paradierte stets mit seiner Wohlerzogenheit.</text> <frame>NN.PP</frame></example>
+<example><text>Sie brüstet sich mit ihrer tollen Ausbildung.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.58" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.58.prahlen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>prahlen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.58.aufspielen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufspielen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Pp</frame>
+<frame>NN.BO</frame>
+<frame>NN.AR.BO</frame>
+</frames>
+<examples>
+<example><text>Der Dozent prahlt (vor den Studenten).</text> <frame>NN.Pp</frame></example>
+<example><text>Der Professor spielt sich auf mit seinen Sprachkenntnissen in Japanisch.</text> <frame>NN.AR.BO</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.59" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.59.pranzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pranzen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.59.prangen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>prangen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich einer Sache prahlerisch rühmen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er prangte mit seinen Erfolgen.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.60" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.60.angreifen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>angreifen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BA</frame>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>in feindlicher Absicht vorgehen (gegen jmdn/etwas)</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Die feindlichen Truppen griffen plötzlich an.</text> <frame>NN.BA</frame></example>
+<example><text>Die Partisanen griffen die Regierungsarmee an.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.61" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.61.anfallen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anfallen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Der Täter fiel das Opfer von hinten an.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.62" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.62.einfallen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einfallen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.62.eindringen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eindringen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Die Hunnen fielen ein.</text> <frame>NN</frame></example>
+<example><text>Die Polizei drang in das Haus ein.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.63" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.63.anrennen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anrennen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.AN.DN</frame>
+</frames>
+<examples>
+<example><text>Das aufgebrachte Volk rennt gegen die Barrikaden der Polizei an.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.64" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.64.anspringen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anspringen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Der Löwe springt das Gnu an.</text> <frame>NN.AN</frame></example>
+<example><text>Die Menschenmassen springen gegen die Stadttore an.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.65" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.65.anstürmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anstürmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Eine Horde wilder Einheimischer stürmte gegen die Truppen der Regierung an.</text> <frame>NN.PP</frame></example>
+<example><text>Eine Gruppe aufgeregter Fans stürmte an.</text> <frame>NN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.66" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.66.herfallen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herfallen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.66.hermachen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hermachen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Die Journalisten fielen über den freigelassenen Häftling her.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.67" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.67.überfallen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überfallen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+<frame>NN.AN</frame>
+<frame>NN.AN.Bl</frame>
+</frames>
+<paraphrases>
+<paraphrase>auf jmdn/etwas einen Überfall machen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Der Jugendliche überfiel die Passantin mit einer Waffe.</text> <frame>NN.AN.PP</frame></example>
+<example><text>Der Bankräuber überfiel den Kassierer (auf dem Weg zur Bank).</text> <frame>NN.AN.Bl</frame></example>
+<example><text>Der Einbrecher überfiel die alte Frau.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.68" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.68.überrennen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überrennen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Feind überrannte die Stellungen der königstreuen Truppen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.69" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.69.überrumpeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überrumpeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.69.übertölpeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>übertölpeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.Pp</frame>
+</frames>
+<examples>
+<example><text>Diese Frage hat sie überrumpelt.</text> <frame>NN.AN</frame></example>
+<example><text>Der Staatspräsident überrumpelte die Kommission mit seiner Forderung.</text> <frame>NN.AN.Pp</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.70" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.70.attackieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>attackieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BC</frame>
+</frames>
+<examples>
+<example><text>Das Heer attackierte den Gegner.</text> <frame>NN.AN</frame></example>
+<example><text>Das Parlament attackierte den König (wegen seines Verhaltens während des Bürgerkriegs).</text> <frame>NN.AN.BC</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.71" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.71.bombardieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bombardieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>Bombenangriffe fliegen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Die Amerikaner bombardierten Bagdad.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.72" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.72.angehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>angehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>gegen jmdn vorgehen, sich ihm/ihr in feindlicher Absicht nähern</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Das Gesundheitsamt muss gegen diese Epidemie angehen.</text> <frame>NN.AN.PP</frame></example>
+<example><text>Der Bürgermeister geht die Schwierigkeiten ohne Umschweife an.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.73" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.73.stürzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stürzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>wild, ungestüm über jmdn herfallen, ihn anfallen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Der Psychopath stürzte sich auf die Ärztin.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.74" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.74.verfolgen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verfolgen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BA</frame>
+</frames>
+<paraphrases>
+<paraphrase>(aus politischen/religiösen/rassischen Gründen) in seinen Freiheiten beschränken, seiner Existenzgrundlage berauben</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Diese Regierungen verfolgen nationale Minderheiten.</text> <frame>NN.ANDieSpioneverfolgtenhartnäckigdenuntergetauchtenPräsidenten.NN.AN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.75" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.75.schikanieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schikanieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BA</frame>
+</frames>
+<examples>
+<example><text>Der Abteilungsleiter schikaniert seine Kollegen.</text> <frame>NN.AN</frame></example>
+<example><text>Der Verteidiger schikaniert den Zeugen mit seinen Fragen.</text> <frame>NN.AN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.76" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.76.verteidigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verteidigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AR.BS</frame>
+</frames>
+<paraphrases>
+<paraphrase>Angriffe (auf jmdn/etwas) abwehren, vor Angriffen schützen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er verteidigte seine Auffassung.</text> <frame>NN.AN</frame></example>
+<example><text>Die Frau verteidigte sich (mit einem Revolver).</text> <frame>NN.AR.BS</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.77" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.77.verschanzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verschanzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example><text>Die Cowboys verschanzten sich hiter einigen Holzscheiten.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.78" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.78.wehren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wehren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+<frame>NN.AR.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>etwas nicht einfach hinnehmen, sondern dagegen angehen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er wehrte sich gegen ihre Angriffe.</text> <frame>NN.AN.PP</frame></example>
+<example><text>Die betroffenen Parteien wehrten sich.</text> <frame>NN.AR</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.79" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.79.erwehren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erwehren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.GN</frame>
+</frames>
+<examples>
+<example><text>Sie konnte sich seiner Zudringlichkeiten nicht erwehren.</text> <frame>NN.GN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.80" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.80.schützen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schützen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.80.beschützen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beschützen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Pestizide schützen die Wälder vor Borkenkäfer.</text> <frame>NN.AN.PP</frame></example>
+<example><text>Diese Maßnahmen schützen den Regenwald.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.81" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.81.behüten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>behüten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.81.beschirmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beschirmen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.81.schirmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schirmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.Pp</frame>
+</frames>
+<examples>
+<example><text>Der Wächter behütet die Schatzkammer.</text> <frame>NN.AN</frame></example>
+<example><text>Eine Mutter behütet ihr Kind (vor den Gefahren dieser Welt).</text> <frame>NN.AN.Pp</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.82" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.82.immunisieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>immunisieren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.82.impfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>impfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.Pp</frame>
+<frame>NN.AN.BS</frame>
+</frames>
+<examples>
+<example><text>Er immunisierte seinen Körper gegen Hepatitis.</text> <frame>NN.AN.Pp</frame></example>
+<example><text>Der Arzt immunisiert die Kinder mit einem Serum.</text> <frame>NN.AN.BS</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.83" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.83.bewahren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bewahren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>schützend (von jmdm) abhalten</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Ich habe ihn vor größeren Verlusten bewahrt.</text> <frame>NN.AN.PP</frame></example>
+<example><text>Sie hat sich ihre Unabhängigkeit bewahrt.</text> <frame>NN.AN.DN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.84" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.84.sichern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sichern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Die Kripo sichert die Beweisstücke.</text> <frame>NN.AN</frame></example>
+<example><text>Die großzügige Spende sicherte ihm den Posten.</text> <frame>NN.AN.DN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.85" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.85.festigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>festigen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.85.konsolidieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konsolidieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Eichel will zunächst den Bundeshaushalt konsolidieren.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.86" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.86.sicherstellen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sicherstellen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>dafür sorgen, dass etwas nicht gefährdet wird</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Die Blauhelme hatten den reibungslosen Ablauf der Hilfsaktionen sichergestellt.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.87" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.87.absichern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>absichern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DN.Pp</frame>
+<frame>NN.AN.Pp</frame>
+</frames>
+<examples>
+<example><text>Der Autor sicherte sich vertraglich (gegen den Missbrauch seines Werkes) ab.</text> <frame>NN.DN.Pp</frame></example>
+<example><text>Die Bauarbeiter sichern die Baugrube mit Schranken ab.</text> <frame>NN.AN.Pp</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.88" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.88.versichern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>versichern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Der Passagier hat sein Gepäck versichert.</text> <frame>NN.AN</frame></example>
+<example><text>Ich habe mein Gepäck gegen Diebstahl versichert.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.89" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.89.untermauern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>untermauern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BS</frame>
+</frames>
+<paraphrases>
+<paraphrase>mit Argumenten/Fakten o.ä. absichern/stützen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er untermauert seine Theorie mit statistischen Angaben.</text> <frame>NN.AN.BS</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.90" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.90.wahren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wahren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.Pp</frame>
+</frames>
+<examples>
+<example><text>Er wahrte ihr Geheimnis bis an sein Lebensende.</text> <frame>NN.AN</frame></example>
+<example><text>Sie wahrten (bei der Trauerfeier) den Schein.</text> <frame>NN.AN.Pp</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.91" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.91.entsichern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entsichern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>die Sicherung (einer Waffe) lösen, ein Gewehr entsichern</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er entsicherte seine Pistole.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.92" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.92.halten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>halten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AR.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>erfolgreich verteidigen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Die Truppen halten die Festung.</text> <frame>NN.AN</frame></example>
+<example><text>Die Truppen hielten sich tapfer.</text> <frame>NN.AR.BM</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.93" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.93.standhalten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>standhalten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Politiker hielt der Flut von Protesten nicht stand.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.94" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.94.abwehren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abwehren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Armee wehrte den Angriff ab.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.95" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.95.wehren2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>wehren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DN</frame>
+</frames>
+<paraphrases>
+<paraphrase>jmdm/einer Sache entgegenwirken</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Die Geheimpolizei wehrte den radikalen Umtrieben.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.96" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.96.zurückschlagen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zurückschlagen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Griechen schlugen die einfallenden Osmanen zurück.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.97" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.97.wärmen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>wärmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.An</frame>
+</frames>
+<paraphrases>
+<paraphrase>Wärme geben, warm halten</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Eine warme Mahlzeit wärmt (den Körper).</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.98" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.98.isolieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>isolieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Elektriker isoliert die Kabel.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.99" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.99.streiten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>streiten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+<frame>NN.PP</frame>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example><text>Die Parteien des linken Flügels streiten sich.</text> <frame>NN.AR</frame></example>
+<example><text>Sie streiten sich über das neue Wahlprogramm.</text> <frame>NN.AR.PP</frame></example>
+<example><text>Die Linken streiten für eine atomwaffenfreie Zone.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.100" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.100.weiterstreiten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weiterstreiten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example><text>Meine Nachbarn stritten sich noch den ganzen  Tag weiter.</text> <frame>NN.AR</frame></example>
+<example><text>Sie streiten über daselbe Thema weiter.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.101" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.101.mitstreiten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mitstreiten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Er wollte immer mitstreiten, hatte aber eigentlich keine Ahnung von diesem Thema.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.102" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.102.herumstreiten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herumstreiten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+</frames>
+<examples>
+<example>
+<text>Die Kinder streiten sich herum.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.103" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.103.zanken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zanken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.Pp</frame>
+<frame>NN.AR.BA</frame>
+</frames>
+<examples>
+<example><text>Die Mädchen zanken sich unaufhörlich.</text> <frame>NN.AR.BA</frame></example>
+<example><text>Sie zanken sich (um das große Fahrrad).</text> <frame>NN.AR.Pp</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.104" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.104.herumzanken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herumzanken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+</frames>
+<examples>
+<example>
+<text>Die Penner am Bahnhof zanken sich herum.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.105" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.105.hadern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hadern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BO</frame>
+</frames>
+<examples>
+<example>
+<text>Sie haderte mit der Entscheidung.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.106" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.106.aneinandergeraten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aneinandergeraten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.106.aneinander_geraten" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>aneinander_geraten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BC</frame>
+</frames>
+<examples>
+<example><text>Auf der Hochzeit gerieten sie aneinander.</text> <frame>NN</frame></example>
+<example><text>Die zwei Freunde gerieten wegen dieser Frau aneinander.</text> <frame>NN.BC</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.107" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.107.losgehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>losgehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP.BM</frame>
+</frames>
+<examples>
+<example><text>Erst haben sie sich nur beschimpft, dann sind sie mit den Fäusten auf einander losgegangen.</text> <frame>NN.PP.BM</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.108" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.108.anlegen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anlegen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BO</frame>
+<frame>NN.AR.BO</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich mit jmdm anlegen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er hat sich mit seinen Kollegen angelegt.</text> <frame>NN.AR</frame></example>
+<example><text>Er hat sich (wegen einer Beförderung) mit ihnen angelegt.</text> <frame>NN.AR.BO</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.109" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.109.verderben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verderben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.109.verspielen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verspielen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.109.überwerfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überwerfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich mit jemandem überwerfen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er hat bei mir verspielt.</text> <frame>NN.PP</frame></example>
+<example><text>Du hast es dir mit ihm verdorben.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.110" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.110.reiben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>reiben</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+<frame>NN.AR.BO</frame>
+</frames>
+<examples>
+<example><text>In diesem Wohnblock reiben sich die Mietparteien.</text> <frame>NN.AR</frame></example>
+<example><text>Im Verein reiben wir uns mit dem Vorstand.</text> <frame>NN.AR.BO</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.111" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.111.kabbeln" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>kabbeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+<frame>NN.AR.BO</frame>
+</frames>
+<examples>
+<example><text>Die beiden Jungs kabbeln sich oft</text> <frame>NN.AR</frame></example>
+<example><text>Sie kabbeln sich mit den Nachbarskindern.</text> <frame>NN.AR.BO</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.112" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.112.rangeln" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>rangeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP.PP</frame>
+</frames>
+<examples>
+<example><text>Sie rangelten miteinander um den besten Platz auf Papas Schoß</text> <frame>NN.PP.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.113" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.113.kämpfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kämpfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Pp</frame>
+</frames>
+<examples>
+<example>
+<text>Die beiden Mannschaften kämpfen um den dritten Platz.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.114" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.114.foulen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>foulen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BL</frame>
+<frame>NN.AN.BA</frame>
+</frames>
+<paraphrases>
+<paraphrase>Regelwidrigkeit beim Ballsport</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er hat ihn vor dem Tor gefoult.</text> <frame>NN.AN.BL</frame></example>
+<example><text>Der Spieler hat den Stürmer böse gefoult.</text> <frame>NN.AN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.115" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.115.catchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>catchen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Die Ringer catchen miteinander.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.116" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.116.verteidigen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>verteidigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Boxer verteidigte seinen Weltmeistertitel.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.117" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.117.halten2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>halten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.117.abfangen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abfangen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.117.abwehren2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>abwehren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Torwart hält den Strafstoß.</text>
+</example>
+<example>
+<text>Der Gegenspieler fing den Einwurf ab.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.118" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.118.messen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>messen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+<frame>NN.AR.BS</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich mit jmdm messen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie messen sich im Ringkampf.</text> <frame>NN.AR</frame></example>
+<example><text>Die beiden Rivalen messen sich mit den Degen.</text> <frame>NN.AR.BS</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.119" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.119.eintreten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eintreten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>eintreten für</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er trat im Wahlkampf für ihn ein.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.120" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.120.freikämpfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>freikämpfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+</frames>
+<examples>
+<example>
+<text>Die Gefangenen kämpften sich frei.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.121" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.121.ankämpfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ankämpfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Die Ärzte kämpfen gegen die Seuchengefahr an.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.122" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.122.angehen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>angehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>Maßnahmen gegen etwas ergreifen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er ist gegen das Urteil angegangen.</text> <frame>NN.PP</frame></example>
+<example><text>Der Wolf ging die Wilderer an.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.123" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.123.bestreiten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bestreiten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er bestritt die gegen ihn gemachten Anschuldigungen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.124" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.124.auskämpfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auskämpfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Im Parlament wurden heftige Debatten zu diesem Thema ausgekämpft.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.125" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.125.bekämpfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bekämpfen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.125.befehden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>befehden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Partei bekämpfte die Konkurrenz ohne Erfolg.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.126" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.126.durchkämpfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>durchkämpfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Sie kämpften sich durch alle Instanzen durch.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.127" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.127.herankämpfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herankämpfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Die Truppen kämpften sich an den Feind heran.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.128" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.128.vorkämpfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorkämpfen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.128.vordringen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vordringen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.128.vorstoßen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorstoßen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BL</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Die Truppen drangen bis nach Stalingrad vor.</text> <frame>NN.PP</frame></example>
+<example><text>Die Feuerwehr kämpfte sich langsam zum Brandherd vor.</text> <frame>NN.AR.BL</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.129" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.129.vorpreschen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorpreschen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.129.voraneilen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>voraneilen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Die Truppen preschten bis an den Khyberpaß vor.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.130" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.130.weiterkämpfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weiterkämpfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Die verfeindeten Truppen kämpften trotz Embargo weiter.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.131" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.131.erkämpfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erkämpfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.DR</frame>
+</frames>
+<paraphrases>
+<paraphrase>durch entschiedenes Sich-Einsetzen erreichen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Die deutsche Mannschaft hat zehn Goldmedaillen erkämpft.</text> <frame>NN.AN</frame></example>
+<example><text>Die Frauen haben sich ihr Wahlrecht hart erkämpfen müssen.</text> <frame>NN.AN.DR</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.132" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.132.erfechten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erfechten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.132.erringen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erringen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.132.erstreiten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erstreiten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.132.erfighten" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>erfighten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DR.BM</frame>
+</frames>
+<examples>
+<example><text>Er hat sich seinen Preis schwer erfochten.</text> <frame>NN.AN.DR.BM</frame></example>
+<example><text>Sie hat sich den Sieg hart errungen.</text> <frame>NN.AN.DR.BM</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.133" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.133.schlagen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schlagen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AR.BC</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich schlagen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie schlägt ihren kleinen Bruder.</text> <frame>NN.AN</frame></example>
+<example><text>Die zwei Nachbarn schlagen sich um ein Grundstück.</text> <frame>NN.AR.BC</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.134" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.134.niederschlagen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>niederschlagen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Bankräuber schlug den Kassierer nieder.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.135" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.135.umnieten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>umnieten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.135.umhauen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>umhauen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.135.wegboxen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wegboxen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie nieteten den Mann einfach um</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.136" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.136.zuschlagen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zuschlagen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Fahnder schlugen zu und verhafteten ihn.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.137" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.137.belagern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>belagern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Stadt wurde von den Römern belagert.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.138" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.138.umzingeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>umzingeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.138.einkesseln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einkesseln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.138.einschließen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einschließen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Scharfschützen umzingeln alle Seiten der Bank.</text>
+</example>
+<example>
+<text>Truppen der Rebellen haben die Stadt eingekesselt.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.139" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.139.blockieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blockieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die englische Flotte blockiert den Zugang zum Hafen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.140" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.140.duellieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>duellieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BT</frame>
+</frames>
+<examples>
+<example>
+<text>Die Männer duellierten sich im Morgengrauen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.141" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.141.ringen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ringen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+<frame>NN.BM</frame>
+<frame>NN.BO</frame>
+<frame>NN.AN.DN.BL</frame>
+</frames>
+<examples>
+<example><text>Die Parteien ringen um den Wahlsieg.</text> <frame>NN.BM</frame></example>
+<example><text>Die Firmenaufsicht ringt mit dieser Entscheidung.</text> <frame>NN.BM</frame></example>
+<example><text>Sie ringt schon lange mit sich (wegen dieses Problems).</text> <frame>NN.BO</frame></example>
+<example><text>Er hat ihr das Messer aus der Hand gerungen.</text> <frame>NN.AN.DN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.142" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.142.schießen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schießen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>einen Schuss/Schüsse abgeben</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Der Verbrecher hat auf den Polizisten geschossen.</text> <frame>NN.PP</frame></example>
+<example><text>Der Jäger hat einen Rothirsch geschossen.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.143" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.143.abdrücken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abdrücken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.An</frame>
+<frame>NN.AN.BL</frame>
+</frames>
+<examples>
+<example><text>Der Bankräuber drückte die Pistole auf die Kassiererin ab.</text> <frame>NN.AN.BL</frame></example>
+<example><text>Der Scheriff drückte (das Gewehr) ab.</text> <frame>NN.An</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.144" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.144.abgeben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abgeben</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>(ein Geschoss) abfeuern,einen Schuss abgeben</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Die Verfolger gaben Warnschüsse ab.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.145" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.145.abschießen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abschießen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.DN</frame>
+</frames>
+<examples>
+<example><text>Die Dorfbewohner haben den Wolf abgeschossen.</text> <frame>NN.AN</frame></example>
+<example><text>Im Kampf wurden ihm beide Beine abgeschossen.</text> <frame>NN.AN.DN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.146" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.146.ballern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ballern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Das Kind ballerte (mit seiner Spielzeugpistole) durch die Gegend.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.147" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.147.feuern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>feuern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BL</frame>
+</frames>
+<examples>
+<example><text>Die Armee feuerte Schüsse auf die Demonstranten ab.</text> <frame>NN.AN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.148" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.148.losballern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>losballern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Er ballerte wie wild auf die Leute los.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.149" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.149.losschießen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>losschießen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Die Partisanen schossen los.</text> <frame>NN</frame></example>
+<example><text>Die Demonstranten schossen auf die Polizisten los.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.150" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.150.beschießen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beschießen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BT</frame>
+</frames>
+<examples>
+<example>
+<text>Die Rebellen haben das Dorf die ganze Nacht hindurch beschossen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.151" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.151.torpedieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>torpedieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>Schiffe mit Torpedos beschießen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Sie torpedierten die Königliche Flotte.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.152" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.152.anlegen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>anlegen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>das Gewehr in Anschlag bringen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er hatte das Gewehr auf ihn angelegt.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.153" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.153.anvisieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anvisieren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.153.zielen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zielen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Der Jäger zielt auf den Hasen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.154" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.154.anpeilen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anpeilen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Panzer peilte das Rathaus an.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.155" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.155.schießen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>schießen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DN.BL</frame>
+</frames>
+<paraphrases>
+<paraphrase>(an einer bestimmten Stelle) mit einem Schuss treffen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er hat ihm in die Wade geschossen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.156" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.156.niederschießen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>niederschießen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Sie schossen ihn brutal nieder.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.157" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.157.zusammenschießen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zusammenschießen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.Bl</frame>
+</frames>
+<examples>
+<example>
+<text>Sie haben den Flüchtling (im Park) zusammengeschossen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.158" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.158.fechten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fechten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Die beiden Männer fechten miteinander.</text> <frame>NN.PP</frame></example>
+<example><text>Die Bauern fechten um ihr eigenes Land.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.159" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.159.bajonettieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bajonettieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BO</frame>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>mit dem Bajonett kämpfen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er bajonettierte mit seinem Konkurrenten.</text> <frame>NN.BO</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.160" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.160.florettieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>florettieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BT</frame>
+</frames>
+<paraphrases>
+<paraphrase>mit dem Florett fechten</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie florettierten seit zehn Jahren.</text> <frame>NN.BT</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.161" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.161.ausfechten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausfechten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BO</frame>
+</frames>
+<examples>
+<example>
+<text>Die beiden Parteien fechten einen Streit miteinander aus.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.162" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.162.durchfechten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>durchfechten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Die Soldaten mussten sich alleine durchfechten.</text> <frame>NN.AR</frame></example>
+<example><text>Er hat seine Schadensersatzansprüche vor Gericht durchgefochten.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.163" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.163.boxen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>boxen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Die Jugendlichen boxen sich auf der Straße.</text> <frame>NN.AN</frame></example>
+<example><text>Die Schwangere boxte sich einen Weg durch die Menge.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.164" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.164.kickboxen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kickboxen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example><text>Sie trafen sich in der Halle um zu kickboxen.</text> <frame>NN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.165" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.165.spielen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spielen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>im Sinne von Sport, Spiele</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Deutschland spielt gegen Rumänien um den dritten Platz.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.166" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.166.anspielen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anspielen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Der Torwart spielte den Libero an.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.167" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.167.bespielen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bespielen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Der Rasen lässt sich kaum bespielen.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.168" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.168.tricksen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tricksen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.168.austricksen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>austricksen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.168.ausspielen3" orthVar="nein" sense="3" stilMarkierung="nein">
+<orthForm>ausspielen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Er trickste die gesamte Hintermannschaft aus.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.169" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.169.ausspielen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausspielen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.An</frame>
+</frames>
+<examples>
+<example>
+<text>Meine Mutter spielt meine Schwester gegen mich aus.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.170" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.170.überlisten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überlisten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Er hat seinen Gegner überlistet.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.171" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.171.bekriegen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bekriegen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Volksstämme der Indianer haben sich lange gegenseitig bekriegt.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.172" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.172.bataillieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bataillieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BT</frame>
+</frames>
+<paraphrases>
+<paraphrase>Kleinkrieg führen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie bataillierten unaufhörlich.</text> <frame>NN.BT</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.173" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.173.angreifen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>angreifen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>im sportlichen Wettkampf die Initiative ergreifen gegenüber dem Gegner</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Der Stürmer wurde von den Gegenspielern sofort angegriffen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.174" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.174.raufen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>raufen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.174.balgen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>balgen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+<frame>NN.AN.BO</frame>
+</frames>
+<examples>
+<example><text>Die Kinder raufen sich fast jeden Tag.</text> <frame>NN.AR</frame></example>
+<example><text>Mein Sohn hat sich mit dem Nachbarskind gerauft.</text> <frame>NN.AN.BO</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.175" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.175.keilen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>keilen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.Pp</frame>
+<frame>NN.AN.BL</frame>
+</frames>
+<examples>
+<example><text>Die Schüler keilten sich (um das Fahrrad).</text> <frame>NN.AR.Pp</frame></example>
+<example><text>Die Polizei keilte den Verbrecher in eine Ecke.</text> <frame>NN.AN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.176" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.176.verlieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verlieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.An</frame>
+<frame>NN.AN.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>der Unterlegene sein</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Deutschland hat (den 2. Weltkrieg) verloren.</text> <frame>NN.An</frame></example>
+<example><text>Die Soldaten haben den Kampf kläglich verloren.</text> <frame>NN.AN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.177" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.177.unterliegen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unterliegen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DN.Pp</frame>
+</frames>
+<paraphrases>
+<paraphrase>besiegt werden, bezwungen werden</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Spanien unterliegt der französischen Mannschaft (im Halbfinale).</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.178" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.178.nachgeben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nachgeben</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.DN</frame>
+</frames>
+<examples>
+<example><text>Der Klügere gibt nach.</text> <frame>NN</frame></example>
+<example><text>Er gibt ihren Forderungen nach.</text> <frame>NN.DN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.179" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.179.klein_beigeben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klein_beigeben</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<paraphrases>
+<paraphrase>nach großer Streitlust doch nachgeben, weil man keine Siegchance sieht</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Im Streit um die Unternehmenssteuern wollte keiner klein beigeben.</text> <frame>NN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.180" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.180.aufgeben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufgeben</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Boxer gibt den Kampf auf.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.181" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.181.kapitulieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kapitulieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Pp</frame>
+</frames>
+<examples>
+<example>
+<text>Die Rebellen haben (vor den Schwierigkeiten) kapituliert.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.182" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.182.zurückstehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zurückstehen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.182.nachstehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nachstehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Sie steht hinter den anderen Schülerinnen zurück.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.183" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.183.zurückliegen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zurückliegen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+<frame>NN.BO</frame>
+</frames>
+<examples>
+<example><text>Die Heimmannschaft lag schon mit 0:3 zurück.</text> <frame>NN.BO</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.184" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.184.gewinnen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gewinnen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.An</frame>
+<frame>NN.PP</frame>
+<frame>NN.AN.Pp</frame>
+<frame>NN.AN.GN</frame>
+</frames>
+<examples>
+<example><text>Frankreich hat (das Spiel) gewonnen.</text> <frame>NN.An</frame></example>
+<example><text>Er hat im Lotto gewonnen.</text> <frame>NN.PP</frame></example>
+<example><text>Sie hat einen Pokal (in Wimbledon) gewonnen.</text> <frame>NN.AN.Pp</frame></example>
+<example><text>Er hat die Liebe dieser Frau nie gewinnen können.</text> <frame>NN.AN.GN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.185" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.185.siegen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>siegen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Die italienische Mannschaft hat gesiegt.</text> <frame>NN</frame></example>
+<example><text>Die Rebellen haben im Kampf gesiegt.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.186" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.186.auftrumpfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auftrumpfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BS</frame>
+</frames>
+<examples>
+<example>
+<text>Er trumpft mit seinen Erfolgen auf.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.187" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.187.aufspielen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>aufspielen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example><text>Die Mannschaft spielte großartig auf.</text> <frame>NN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.188" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.188.ausstechen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausstechen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er hat seinen Kollegen ausgestochen</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.189" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.189.deklassieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>deklassieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>entscheidend ausstechen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Sie deklassierte die gesamte Konkurrenz.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.190" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.190.stechen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stechen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BS</frame>
+</frames>
+<examples>
+<example><text>König sticht Bube.</text> <frame>NN.AN</frame></example>
+<example><text>Sie sticht das As mit dem Joker.</text> <frame>NN.AN.BS</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.191" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.191.durchsetzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>durchsetzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>Widerstände überwinden und sich Geltung verschaffen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Sie hat sich bei ihrer Dozentin durchsetzen können.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.192" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.192.ankommen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ankommen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.192.ankönnen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ankönnen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.192.aufkommen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufkommen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Sie kam gegen die Vorurteile nicht an.</text> <frame>NN.PP</frame></example>
+<example><text>Es ist schwer gegen den Bürgermeister aufzukommen.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.193" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.193.behaupten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>behaupten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Sie konnte sich behaupten.</text> <frame>NN.AR</frame></example>
+<example><text>Sie hat ihre Stellung behaupten können.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.194" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.194.subsistieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>subsistieren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.194.standhalten2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>standhalten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>durch sich selbst, unabhängig von anderen bestehen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er konnte subsistieren.</text> <frame>NN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.195" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.195.durchgreifen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>durchgreifen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP.BM</frame>
+</frames>
+<examples>
+<example><text>Der Chef greift bei seinen Mitarbeitern hart durch.</text> <frame>NN.PP.BM</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.196" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.196.beikommen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beikommen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DN</frame>
+</frames>
+<examples>
+<example><text>Mit reiner Kraft ist ihm nicht beizukommen, man muss überlegt vorgehen.</text> <frame>NN.DN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.197" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.197.zuvorkommen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zuvorkommen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DN</frame>
+</frames>
+<paraphrases>
+<paraphrase>etwas schneller tun als ein anderer, der andere kommt nicht mehr zum Zuge</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Ich wollte gerne die Karte haben, aber Claudia ist mir zuvorgekommen.</text> <frame>NN.DN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.198" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.198.bestehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bestehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Sie hat auf ihre Rechte bestanden.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.199" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.199.durchringen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>durchringen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Sie hat sich zu einer Entscheidung durchgerungen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.200" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.200.durchschlagen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>durchschlagen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.Pp</frame>
+</frames>
+<examples>
+<example>
+<text>Meine Oma hat sich (im Leben) alleine durchschlagen müssen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.201" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.201.durchboxen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>durchboxen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Sie boxte sich durch.</text> <frame>NN.AR</frame></example>
+<example><text>Die Gewerkschaft boxte höhere Löhne durch.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.202" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.202.triumphieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>triumphieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Er triumphierte über seine Kollegen.</text> <frame>NN.PP</frame></example>
+<example><text>Napoleon triumphierte in Frankreich.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.203" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.203.besiegen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>besiegen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.203.schlagen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>schlagen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>den Sieg (über jmdn) erringen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er besiegte seinen Kontrahenten in einem ehrlichen Wettbewerb.</text> <frame>NN.AN.PP</frame></example>
+<example><text>Die Kickers schlugen den VfB mit 2:3.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.204" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.204.auseinandernehmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auseinandernehmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Er nahm seinen Feind völlig auseinander.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.205" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.205.aufreiben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufreiben</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Die Soldaten wurden in dieser Schlacht völlig aufgerieben.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.206" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.206.bezwingen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bezwingen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie hat ihren größten Feind bezwungen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.207" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.207.fertigmachen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fertigmachen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.207.fertig_machen" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>fertig_machen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Lehrer hat seine Schüler fertiggemacht.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.208" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.208.niederringen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>niederringen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Das Heer hat die aufständischen Bauern niedergerungen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.209" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.209.ruinieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ruinieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Intrigen seiner Ex-Frau haben seine Karriere völlig ruiniert.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.210" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.210.überrollen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überrollen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.210.überwältigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überwältigen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.210.überwinden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überwinden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BM</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Das Militär überrollte die feindlichen Verbände mühelos.</text> <frame>NN.AN.BM</frame></example>
+<example><text>Die Polizei überwältigte den Bankräuber nach zwei Stunden.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.211" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.211.unterjochen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unterjochen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.211.unterwerfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unterwerfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Staat unterjocht diese religiöse Minderheit völlig.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.212" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.212.unterbuttern" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>unterbuttern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er wollte sogar seine Freunde unterbuttern.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.213" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.213.versklaven" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>versklaven</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Römer versklavten die besiegten Völker.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.214" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.214.knechten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>knechten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Sie knechten die Bevölkerung mit rigiden Verboten.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.215" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.215.vernichten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vernichten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BS</frame>
+</frames>
+<examples>
+<example><text>Die Spitzel der Polizei vernichten jeden Feind.</text> <frame>NN.AN</frame></example>
+<example><text>Der politische Gegner versucht ihn mit allen Mitteln zu vernichten.</text> <frame>NN.AN.BS</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.216" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.216.auspunkten" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>auspunkten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Boxer hat seine Gegner ausgepunktet.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.217" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.217.obsiegen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>obsiegen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Pp</frame>
+</frames>
+<examples>
+<example>
+<text>Die demokratischen Parteien obsiegten (im Wahlkampf).</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.218" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.218.niederschlagen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>niederschlagen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Der Aufstand der Studenten wurde brutal niedergeschlagen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.219" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.219.erobern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erobern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.219.nehmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nehmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er hat die Stadt erobert.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.220" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.220.zurückerobern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zurückerobern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.220.zurückgewinnen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zurückgewinnen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Die Truppen konnten die Stadt nach mehrtägigen Kämpfen zurückerobern</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.221" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.221.einmarschieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einmarschieren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.221.einnehmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einnehmen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.221.stürmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stürmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Die feindlichen Truppen marschierten in die Hauptstadt ein.</text> <frame>NN.BL</frame></example>
+<example><text>Die Truppen des Königs stürmten die Burg.</text> <frame>NN.AN</frame></example>
+<example><text>Die Osmanen nahmen Konstantinopel ein.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.222" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.222.übertreffen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>übertreffen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.222.überbieten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überbieten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.222.übertrumpfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>übertrumpfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Er übertrifft seine Kollegin an Fleiß.</text> <frame>NN.AN.PP</frame></example>
+<example><text>Er überbot das Angebot seines Konkurrenten.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.223" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.223.abhängen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abhängen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.223.abschütteln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abschütteln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BT</frame>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>hinter sich lassen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er hat die anderen Läufer sofort abgehängt.</text> <frame>NN.AN.BT</frame></example>
+<example><text>Der Flüchtling schüttelte die Polizisten ab.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.224" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.224.besetzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>besetzen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.224.okkupieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>okkupieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>in etwas eindringen und in Besitz nehmen,sich widerrechtlich als Zeichen des Protests in ein Gebäude/auf ein Gebiet begeben und dort bleiben</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Die Streikenden besetzten den Betrieb.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.225" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.225.kolonisieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kolonisieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>als Kolonie erobern oder erwerben und kolonial nutzen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Die Engländer kolonisierten auch Hongkong, das 1999 unabhängig wurde.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.226" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.226.entern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.226.kapern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kapern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>ein Schiff überfallen und in Besitz nehmen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Die Piraten enterten das Handelsschiff.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.227" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.227.belegen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>belegen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>für jmdn/sich selbst sichern, in Anspruch nehmen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Ich belegte den Anfängerkurs.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.228" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.228.reservieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>reservieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+<frame>NN.AN.DN</frame>
+</frames>
+<examples>
+<example><text>Sie hat für sich einen Platz im Intercity reserviert.</text> <frame>NN.AN.PP</frame></example>
+<example><text>Ihr Vater hat ihnen einen Tisch beim Italiener reserviert.</text> <frame>NN.AN.DN</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.229" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.229.bestellen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bestellen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.229.vorbestellen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorbestellen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.229.freihalten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>freihalten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Wir haben Karten für das Konzert bestellt.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.230" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.230.buchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>buchen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Ich möchte eine Reise nach Rio buchen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.231" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.231.ausbuchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausbuchen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Unsere Gruppe buchte das gesamte Hotel aus.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.232" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.232.spielen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>spielen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.232.zocken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zocken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BM</frame>
+<frame>NN.PP.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>Glücksspiele machen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er spielt gerne Toto Lotto.</text> <frame>NN.AN.BM</frame></example>
+<example><text>Er zockt gerne um viel Geld.</text> <frame>NN.PP.BM</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.233" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.233.würfeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>würfeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Sie würfelt eine Drei.</text> <frame>NN.AN</frame></example>
+<example><text>Die Männer würfeln um Geld.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.234" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.234.pokern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pokern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.234.Poker_spielen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Poker_spielen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Er pokerte um viel Geld.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.235" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.235.skaten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>skaten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.235.Skat_spielen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Skat_spielen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example>
+<text>Wir skateten die ganze Nacht.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.236" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.236.quizzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>quizzen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.236.Quiz_spielen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Quiz_spielen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example><text>Wir quizzten nächtelang.</text> <frame>NN.BT</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.237" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.237.losen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>losen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.237.auslosen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auslosen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.237.ausspielen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>ausspielen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Sie losten aus, wer anfangen darf.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.238" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.238.führen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>führen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Pp</frame>
+<frame>NN.AN</frame>
+<frame>NN.BA</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>(In der ersten Halbzeit) führt die deutsche Mannschaft.</text> <frame>NN.Pp</frame></example>
+<example>
+<text></text>
+</example>
+<example><text>Der Kapitän führt seine Mannschaft.</text> <frame>NN.AN</frame></example>
+<example><text>Die Franzosen führen haushoch.</text> <frame>NN.BA</frame></example>
+<example><text>Die Deutschen führen mit 3:2.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.239" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.239.punkten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>punkten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Pp</frame>
+</frames>
+<paraphrases>
+<paraphrase>Punkte erzielen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>(In der zweiten Halbzeit) konnten die Gegner erneut punkten.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.240" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.240.scoren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>scoren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.240.skoren" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>skoren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.240.treffen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>treffen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>einen Treffer oder ein Tor erzielen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>In der zweiten Halbzeit traf der Stürmer erneut.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.241" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.241.karambolieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>karambolieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BA</frame>
+</frames>
+<paraphrases>
+<paraphrase>beim Billard eine Karambolage herbeiführen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er karambolierte mehrfach hintereinander.</text> <frame>NN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.242" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.242.breaken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>breaken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BA</frame>
+</frames>
+<paraphrases>
+<paraphrase>beim Tennis ein Spiel gegen den Aufschlagenden machen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Eiskalt breakte er seine Kontrahenten.</text> <frame>NN.AN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.243" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.243.verwandeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verwandeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BA</frame>
+</frames>
+<paraphrases>
+<paraphrase>einen Freistoß oder Strafstoß verwandeln</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er verwandelte den Elfmeter mit großer Kaltschnäuzigkeit.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.244" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.244.einlochen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einlochen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BA</frame>
+</frames>
+<examples>
+<example><text>Er lochte souverän ein.</text> <frame>NN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.245" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.245.versenken" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>versenken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+<frame>NN.AN.BA</frame>
+</frames>
+<paraphrases>
+<paraphrase>ins Tor treffen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er versenkte den Ball im Tor.</text>
+</example>
+</examples>
+</synset>
+<synset id="vKonkurrenz.246" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vKonkurrenz.246.anführen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anführen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie führt die Weltrangliste an.</text>
+</example>
+</examples>
+</synset>
+</synsets>

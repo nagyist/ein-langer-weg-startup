@@ -1,0 +1,36 @@
+GermaNet Version 5.0 - XML Version
+
+Release-Datum: 31. Mai 2006
+
+Projektmitarbeiter für den Release 5.0 (alphabetisch)
+
+Bettina Demmer (Kodierung, Konvertierung)
+Claudia Kunze (Projektmanagement, Kodierung)
+Lothar Lemnitzer (Projektmanagement, Kodierung, Konvertierung)
+Katrin Petodnig (Kodierung)
+Gregor Sieber (Kodierung)
+Daniela Stelle (Kodierung)
+
+Quantitative Daten
+
+Synsets: 53312 
+Lexical units: 76563 
+Literals: 67090
+1,44 Lexical Units per Synset
+1,14 Lesarten per Lexical Item / Literal
+
+Lexical Relations: 3 673
+Conceptual Relations: 64 032
+
+
+Struktur:
+
+Die Datenstruktur für die linguistischen Objekte (Synsets, Lexical Units) ist beschrieben in: germanet_objects.dtd
+Die Datenstruktur für die Relation (Datei GN_Relations.xml) ist beschrieben in: germanet_relations.dtd
+
+Eine GermaNet API für Java wird vom EML kostenlos zur Verfügung gestellt:
+
+http://www.eml-research.de/english/research/nlp/download/GermaNetAPI.php
+
+Weitere Informationen zu GermaNet unter: www.sfs.uni-tuebingen.de/lsd
+Ihre Fragen und Kommentare richten Sie bitte an: germanetinfo@sfs.uni-tuebingen.de

@@ -1,0 +1,2820 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd"[
+ ]>
+<synsets>
+<synset id="vVerbrauch.1" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.1.verbraucht_werden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verbraucht_werden</orthForm>
+</lexUnit>
+<frames>
+<frame>30</frame>
+</frames>
+</synset>
+<synset id="vVerbrauch.2" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.2.abschreiben2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>abschreiben</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>durch Schreiben abgenutzt werden</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Der Bleistift schreibt sich schnell ab.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.3" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.3.verbrauchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verbrauchen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.3.aufbrauchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufbrauchen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er hat das ganze Motorenöl aufgebraucht.</text>
+</example>
+<example>
+<text>Wir haben dieses Jahr viel Heizöl verbraucht.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.4" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.4.abnutzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abnutzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AR</frame>
+</frames>
+<examples>
+<example><text>Sie hat ihre Reifen schon abgenutzt.</text> <frame>NN.AN</frame></example>
+<example><text>Der Teppich hat sich schon abgenutzt.</text> <frame>NN.AR</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.5" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.5.abschreiben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abschreiben</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>durch Schreiben abnutzen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er hat seinen Bleistift ganz abgeschrieben.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.6" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.6.brauchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>brauchen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>nötig haben,haben müssen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Kinder brauchen viele Vitamine.</text> <frame>NN.AN</frame></example>
+<example><text>Ich brauche für den Kuchen noch mehr Eier.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.7" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.7.bedürfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bedürfen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.7.benötigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>benötigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.GN</frame>
+<frame>NE.GN</frame>
+</frames>
+<examples>
+<example><text>Ich benötige noch zwei Schrauben.</text> <frame>NN.AN</frame></example>
+<example><text>Sie bedurfte einer neuen Entzugstherapie.</text> <frame>NN.GN</frame></example>
+<example><text>Es bedurfte einiger Anstrengung bis das Projekt genehmigt wurde.</text> <frame>NE.GN</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.8" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.8.brauchen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>brauchen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Das Gerät braucht wenig Strom.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.9" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.9.erübrigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erübrigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>nicht mehr nötig, überflüssig geworden sein</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Es erübrigt sich, sie näher dazu zu befragen.</text> <frame>NE.AR</frame></example>
+<example><text>Er erübrigte etwas Zeit für die Fragen der Schüler.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.10" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.10.konsumieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konsumieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>jemand\ein Tier konsumiert etwas</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>In Deutschland konsumiert das Volk viel Bier.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.11" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.11.verkonsumieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verkonsumieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Deutschen verkonsumieren immer weniger Tabletten.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.12" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.12.ernähren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ernähren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.12.leben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leben</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich selbst am Leben erhalten durch den Verzehr von Lebensmitteln, Perspektive auf Agens</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie ernährt sich nur von Schokolade und Brot.</text> <frame>NN.AR.PP</frame></example>
+<example><text>Die Armen leben oft nur von Reis und Brot.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.13" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.13.verzehren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verzehren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>Ein Lebensmittel essen oder trinken, Perspektive auf Lebensmittel</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Auf der Weihnachstfeier haben die Mitarbeiter zehn Kilo Fleisch verzehrt.</text>
+</example>
+<example>
+<text>Sie verzehrte ihr Gemüse ohne Appetit.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.14" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.14.aufzehren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufzehren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Wir haben die ganzen Vorrat an Kartoffeln aufgezehrt.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.15" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.15.nehmen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>nehmen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.15.einnehmen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>einnehmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BA</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Sie nimmt die Pille.</text> <frame>NN.AN</frame></example>
+<example><text>Sie müssen zweimal täglich eine Tablette einnehmen.</text> <frame>NN.AN.BA</frame></example>
+<example><text>Er nimmt kein Fleisch zu sich.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.16" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.16.essen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>essen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.16.futtern" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>futtern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.16.nehmen3" orthVar="nein" sense="3" stilMarkierung="nein">
+<orthForm>nehmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.BR</frame>
+<frame>NN.AN.PP</frame>
+<frame>NN.AN.BM</frame>
+<frame>NN.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>etwas zu sich nehmen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er isst kein Fleisch.</text> <frame>NN.AN</frame></example>
+<example><text>Er futtert wie ein Scheunendrescher.</text> <frame>NN.BR</frame></example>
+<example><text>Sie nimmt viel Flüssigkeit zu sich.</text> <frame>NN.AN.PP</frame></example>
+<example><text>Die Kinder futtern fleißig Schokolade.</text> <frame>NN.AN.BMHeuteAbendwerdeichwarmessen.NN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.17" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.17.aufessen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufessen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Das Kind hat seinen ganzen Teller aufgegessen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.18" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.18.wegessen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wegessen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DN</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Sein Bruder hat ihm die ganze Schokolade weggegessen.</text> <frame>NN.AN.DN</frame></example>
+<example><text>Er hat die ganzen Chips weggegessen.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.19" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.19.wegdrücken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wegdrücken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.19.verdrücken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verdrücken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.19.verputzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verputzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er kann drei Hamburger auf einmal verdrücken.</text>
+</example>
+<example>
+<text>Sie verputzt jeden Abend eine Tafel Schokolade.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.20" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.20.vertilgen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vertilgen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BA</frame>
+</frames>
+<examples>
+<example><text>Er vertilgte drei Koteletts mit Leichtigkeit.</text> <frame>NN.AN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.21" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.21.aufnehmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufnehmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>(Nahrung) zu sich nehmen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Der Kranke nimmt wieder Nahrung auf.</text> <frame>NN.AN</frame></example>
+<example><text>Die Pflanzen nehmen Wasser über ihre Wurzeln auf.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.22" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.22.einverleiben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einverleiben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.22.hermachen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hermachen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Sie machte sich sofort über die Plätzchen her.</text> <frame>NN.AR.PP</frame></example>
+<example><text>Er hat sich die ganze Pute einverleibt.</text> <frame>NN.AN.DR</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.23" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.23.stärken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stärken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Die Soldaten stärkten sich mit einem herzhaften Teller Suppe.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.24" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="ja" id="vVerbrauch.24.Art_essen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Art_essen</orthForm>
+</lexUnit>
+<frames>
+<frame>30</frame>
+</frames>
+</synset>
+<synset id="vVerbrauch.25" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.25.mümmeln" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>mümmeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Das Kind mümmelte an einem Stück Brot.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.26" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.26.wegmümmeln" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>wegmümmeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er mümmelte eine Brezel weg.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.27" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.27.acheln" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>acheln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.AN</frame>
+<frame>NN.BT</frame>
+</frames>
+<paraphrases>
+<paraphrase>Ganovensprache</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Die Bagage achelte den ganzen Abend lang.</text> <frame>NN.BT</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.28" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.28.knabbern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>knabbern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Sie knabberte an einer Karotte.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.29" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.29.wegknabbern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wegknabbern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie knabberte einen Haufen Kekse weg.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.30" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.30.hinunterschlingen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hinunterschlingen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er schlang drei belegte Brote hinunter.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.31" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.31.spachteln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spachteln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>An meinem Geburtstag spachtelte er, was das Zeug hielt!</text> <frame>NN</frame></example>
+<example><text>Sie hat drei Stück Kuchen gespachtelt.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.32" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.32.lutschen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lutschen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.32.lecken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lecken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BM</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Er lutschte genüsslich ein Bonbon.</text> <frame>NN.AN</frame></example>
+<example><text>Sie leckt an einem Eis.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.33" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.33.reinhauen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>reinhauen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example>
+<text>Heute haust du aber rein!</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.34" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.34.stopfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stopfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DR.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Sie stopfte sich drei Bonbons in den Mund.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.35" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.35.vollstopfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vollstopfen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.35.völlen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>völlen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.35.völlern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>völlern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BO</frame>
+<frame>NN.AN.BO</frame>
+</frames>
+<examples>
+<example><text>Das Kind hat sich mit Kuchen vollgestopft.</text> <frame>NN.AR.BO</frame></example>
+<example><text>Die Oma stopft ihren Enkel mit Süßigkeiten voll.</text> <frame>NN.AN.BO</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.36" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.36.vollschlagen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vollschlagen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.36.vollhauen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vollhauen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DR.BO</frame>
+</frames>
+<examples>
+<example>
+<text>Sie hat sich den Bauch mit Chips vollgeschlagen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.37" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.37.naschen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>naschen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.37.schlecken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schlecken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BA</frame>
+<frame>NN.BA</frame>
+</frames>
+<examples>
+<example><text>Unsere Kinder schlecken viel.</text> <frame>NN.BA</frame></example>
+<example><text>Sie nascht gerne Schokolade.</text> <frame>NN.AN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.38" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.38.vernaschen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vernaschen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie hat schon ihr ganzes Taschengeld vernascht.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.39" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.39.fressen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>fressen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BR</frame>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>schlechte Art zu essen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er frisst wie ein Schwein.</text> <frame>NN.BR</frame></example>
+<example><text>Mein Bruder frisst für zwei.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.40" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.40.auffressen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>auffressen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Räuber haben das ganze Fleisch aufgefressen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.41" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.41.wegfressen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>wegfressen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.DN</frame>
+</frames>
+<examples>
+<example><text>Sie hat den ganzen Kuchen weggefressen.</text> <frame>NN.AN</frame></example>
+<example><text>Er hat den anderen Kindern alles weggefressen.</text> <frame>NN.AN.DN</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.42" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.42.überfressen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>überfressen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+</frames>
+<examples>
+<example>
+<text>Er hat sich überfressen und hat jetzt Bauchschmerzen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.43" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.43.vollfressen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>vollfressen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Er hat sich mit Brot vollgefressen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.44" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.44.anfressen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>anfressen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DR</frame>
+</frames>
+<examples>
+<example><text>Er hat sich einen Bauch angefressen.</text> <frame>NN.AN.DR</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.45" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.45.anfressen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>anfressen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er hat den Kuchen angefressen, aber nicht ganz aufgegessen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.46" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.46.schlingen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schlingen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Sie schlingt beim Essen.</text> <frame>NN.PP</frame></example>
+<example><text>Er schlang sein Essen in aller Eile.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.47" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.47.verschlingen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verschlingen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er hat drei Portionen verschlungen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.48" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.48.snacken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>snacken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BT</frame>
+</frames>
+<paraphrases>
+<paraphrase>kleine Zwischenmahlzeit zu sich nehmen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er snackt zu Mittag meistens nur ein Brötchen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.49" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="ja" id="vVerbrauch.49.Genuss_essen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Genuss_essen</orthForm>
+</lexUnit>
+<frames>
+<frame>30</frame>
+</frames>
+</synset>
+<synset id="vVerbrauch.50" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.50.schlemmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schlemmen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.50.schwelgen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwelgen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.50.prassen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>prassen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NE.PP</frame>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example><text>In Frankreich schlemmen wir immer Austern und Froschschenkel.</text> <frame>NN.AN</frame></example>
+<example><text>Die geschlossene Gesellschaft schwelgte den ganzen Tag.</text> <frame>NN.BT</frame></example>
+<example><text>Auf der Hochzeit des Königs wurde geprasst.</text> <frame>NE.PP</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.51" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.51.schmausen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmausen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.51.schnabulieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schnabulieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Wir saßen lange am Tisch und schmausten ausgiebig.</text> <frame>NN</frame></example>
+<example><text>Die Kinder schnabulierten eifrig Süßigkeiten und Kuchen.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.52" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.52.erlaben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erlaben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.52.laben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>laben</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example>
+<text>In Russland laben wir uns am besten Kaviar.</text>
+</example>
+<example>
+<text>Wir erlabten uns am besten Champagner.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.53" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="ja" id="vVerbrauch.53.essen_mit_Instrument" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>essen_mit_Instrument</orthForm>
+</lexUnit>
+<frames>
+<frame>30</frame>
+</frames>
+</synset>
+<synset id="vVerbrauch.54" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.54.löffeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>löffeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Die Flüchtlinge löffelten schnell ihre Suppe.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.55" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.55.auflöffeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auflöffeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.55.auslöffeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auslöffeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BA</frame>
+</frames>
+<examples>
+<example>
+<text>Die Gefangenen löffelten ihren Teller ganz aus.</text>
+</example>
+<example>
+<text>Die Männer löffelten den ganzen Eintopf auf.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.56" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.56.gabeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gabeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Das Kind gabelte appetitlos in seinem Teller herum.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.57" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="ja" id="vVerbrauch.57.EssensOrt_spezifiziert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>EssensOrt_spezifiziert</orthForm>
+</lexUnit>
+<frames>
+<frame>30</frame>
+</frames>
+</synset>
+<synset id="vVerbrauch.58" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.58.tafeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tafeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Die Hochzeitsgesellschaft tafelte im Nebenraum.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.59" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.59.kneipen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kneipen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example>
+<text>Die jungen Leuten kneipten bis in den Morgen hinein.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.60" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.60.picknicken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>picknicken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Wir werden heute am Strand picknicken.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.61" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.61.bankettieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bankettieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example>
+<text>Die Herrschaften bankettierten bis um Mitternacht.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.62" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="ja" id="vVerbrauch.62.EssensZeit_spezifiziert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>EssensZeit_spezifiziert</orthForm>
+</lexUnit>
+<frames>
+<frame>30</frame>
+</frames>
+</synset>
+<synset id="vVerbrauch.63" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.63.dinieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dinieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Sie dinieren in einem 5-Sterne-Hotel.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.64" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.64.lunchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lunchen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Ich lunche mittags eine Kleinigkeit.</text> <frame>NN.AN</frame></example>
+<example><text>Wir lunchen heute in der Kantine.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.65" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.65.brunchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>brunchen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example>
+<text>Sonntags brunchen wir meistens nur.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.66" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.66.frühstücken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>frühstücken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example><text>Wir frühstücken meistens um sieben Uhr morgens.</text> <frame>NN.BT</frame></example>
+<example><text>Sie frühstückt morgens nur ein Brötchen.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.67" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.67.zu_Abend_essen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zu_Abend_essen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Wenn mein Mann von der Arbeit kommt, essen wir zu Abend.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.68" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.68.jausen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>jausen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example>
+<text>Wir jausen jeden Nachmittag.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.69" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.69.Mittag_essen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mittag_essen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Wir essen Mittag, wenn die Kinder von der Schule kommen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.70" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.70.zu_Nacht_essen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zu_Nacht_essen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.70.soupieren" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>soupieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Morgen soupiere ich bei meinen Schwiegereltern.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.71" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.71.vespern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vespern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.71.buttern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>buttern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Er vespert abends nach der Arbeit.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.72" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.72.suppen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>suppen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.72.Suppe_fassen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Suppe_fassen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BA</frame>
+</frames>
+<examples>
+<example><text>Lass uns schnell Suppe fassen!</text> <frame>NN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.73" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.73.speisen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>speisen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+<frame>NN.AN.PP</frame>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example><text>Er speist gerne im Hotel </text> <frame>VierJahreszeiten.NN.BL</frame></example>
+<example><text>Zu den Muscheln speiste er Buttergemüse.</text> <frame>NN.AN.PP</frame></example>
+<example><text>Sie speist um sieben Uhr zu Abend.</text> <frame>NN.BT</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.74" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.74.verspeisen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verspeisen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie verspeiste zwei Portionen Wildfleisch.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.75" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.75.genießen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>genießen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BA</frame>
+</frames>
+<examples>
+<example><text>Ich habe das Essen sehr genossen.</text> <frame>NN.AN.BA</frame></example>
+<example><text>Sie genoss ihr Dessert.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.76" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.76.schmecken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmecken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DN</frame>
+</frames>
+<examples>
+<example>
+<text></text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.77" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.77.munden" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>munden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Wein mundet mir.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.78" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.78.mampfen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>mampfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie mampfte zwei Stück Kuchen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.79" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.79.fressen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>fressen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DN.PP</frame>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>nur auf Tiere bezogene Essweise</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Vögel fressen Insekten.</text> <frame>NN.AN</frame></example>
+<example><text>Der Papagei frisst mir aus der Hand.</text> <frame>NN.DN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.80" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.80.auffressen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auffressen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.80.wegfressen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wegfressen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Wölfe haben die ganzen Hühner weggefressen.</text>
+</example>
+<example>
+<text>Der Hund hat seinen ganzen Napf aufgefressen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.81" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.81.anfressen3" orthVar="nein" sense="3" stilMarkierung="nein">
+<orthForm>anfressen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.81.anknabbern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anknabbern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>Handlung begonnen und nicht abgeschlossen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Der Hase knabberte die Karotte an.</text>
+</example>
+<example>
+<text>Die Ratten haben unser Brot angefressen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.82" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.82.überfressen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überfressen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+</frames>
+<examples>
+<example>
+<text>Der Hund hat sich überfressen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.83" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.83.vollfressen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vollfressen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+</frames>
+<examples>
+<example>
+<text>Die Vögel haben sich vollgefressen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.84" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.84.abfressen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abfressen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Heuschrecken haben die ganzen Felder abgefressen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.85" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.85.zerfressen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zerfressen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Mäuse haben unsere Vorhänge zerfressen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.86" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.86.wegfressen3" orthVar="nein" sense="3" stilMarkierung="nein">
+<orthForm>wegfressen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DN</frame>
+</frames>
+<paraphrases>
+<paraphrase>jdm etwas wegfressen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Der Hund hat der Katze das Futter weggefressen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.87" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.87.picken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>picken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Unsere Sittiche picken Trillkörner.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.88" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.88.aufpicken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufpicken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Die Hühner picken die Körner vom Boden auf.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.89" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.89.weiden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weiden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Die Kühe weiden hinterm Haus.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.90" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.90.abweiden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abweiden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Ziegen weiden die Hänge der Berge ab.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.91" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.91.grasen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grasen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Die Pferde grasen auf der Weide.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.92" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.92.abgrasen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abgrasen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Schafe haben die Weide abgegrast.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.93" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.93.äsen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>äsen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Das Wild äst im geschützten Teil des Waldes.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.94" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.94.abäsen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abäsen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Das Wild hat den halben Wald abgeäst.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.95" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.95.trinken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trinken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Sie trank einen Martini an diesem Abend.</text> <frame>NN.AN</frame></example>
+<example><text>Wir trinken gerne einen Schluck Wein zum Essen.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.96" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.96.auftrinken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auftrinken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie haben die ganze Flasche Champagner aufgetrunken.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.97" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.97.austrinken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>austrinken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.97.leertrinken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leertrinken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Das Mädchen trank ihr Glas aus.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.98" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.98.antrinken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>antrinken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er hat sein Glas Wein nur angetrunken.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.99" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.99.abtrinken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abtrinken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<paraphrases>
+<paraphrase>aus einem sehr vollen Glas etwas trinken, damit nichts verschüttet wird</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Sie trank erst ab und brachte das Glas dann an den Tisch.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.100" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.100.saugen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>saugen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Das Baby saugte zufrieden an der Brust seiner Mutter.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.101" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.101.aufsaugen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufsaugen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Schwamm saugte das gesamte Wasser auf.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.102" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.102.süppeln" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>süppeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BA</frame>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>trinken</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Schau nur, wie schnell er süppelt.</text> <frame>NN.BA</frame></example>
+<example><text>Sie süppelte ein Bier, bevor sie ging.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.103" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.103.saufen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>saufen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BR</frame>
+<frame>NN.AN</frame>
+<frame>NN.BM</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Er säuft wie ein Hydrant.</text> <frame>NN.BR</frame></example>
+<example><text>Mein Onkel säuft nur hochprozentigen Alkohol.</text> <frame>NN.AN</frame></example>
+<example><text>Sie säuft ununterbrochen.</text> <frame>NN.BM</frame></example>
+<example><text>Die Schafe saufen aus dem Brunnen.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.104" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.104.versaufen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>versaufen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>sein ganzes Geld für Alkohol ausgeben</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er versäuft seinen gesamten Monatslohn.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.105" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.105.aussaufen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aussaufen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.105.leersaufen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leersaufen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Hund hat seinen ganzen Napf ausgesoffen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.106" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.106.bechern" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>bechern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.106.kümmeln" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>kümmeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BA</frame>
+</frames>
+<examples>
+<example>
+<text>Er bechert gerne mal einen Wein.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.107" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.107.kippen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kippen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.107.runterkippen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>runterkippen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.107.runtergießen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>runtergießen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Männer haben eine ganze Flasche Wodka gekippt.</text>
+</example>
+<example>
+<text>Er hat die ganze Flasche Schnaps runtergekippt.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.108" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.108.hinunterspülen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hinunterspülen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.108.runterspülen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>runterspülen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Er spülte sein Glas mit einem Zug hinunter.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.109" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.109.schlürfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schlürfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Das Kind schlürfte an seiner Fanta.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.110" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.110.betrinken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>betrinken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.110.bedudeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bedudeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.110.beschwipsen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beschwipsen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.110.antrinken2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>antrinken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.110.zusaufen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zusaufen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.110.ansaufen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ansaufen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+<frame>NN.AR.BL</frame>
+<frame>NN.AN.DR</frame>
+</frames>
+<examples>
+<example><text>Sie hat sich gestern mit Sekt betrunken.</text> <frame>NN.AR.PP</frame></example>
+<example><text>Die Männer bedudelten sich in der Kneipe.</text> <frame>NN.AR.BL</frame></example>
+<example><text>Wir haben uns einen (Schwips) angesoffen.</text> <frame>???NN.AN.DR</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.111" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.111.schnapsen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schnapsen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.111.schnäpseln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schnäpseln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BA</frame>
+</frames>
+<paraphrases>
+<paraphrase>gelegentlich Schnaps trinken</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er schnapst gern.</text> <frame>NN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.112" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.112.gießen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gießen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.112.kippen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>kippen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.112.heben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>heben</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie haben zu seinem Geburtstag einen gekippt.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.113" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.113.zischen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>zischen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.113.zwitschern" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>zwitschern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Lass uns ein Bier zusammen zischen.</text>
+</example>
+<example>
+<text>Wir zwitscherten noch ein Gläschen Schnaps.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.114" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.114.nippen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nippen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Sie nippte an ihrem Glas Wein.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.115" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.115.Drogen_nehmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Drogen_nehmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BT</frame>
+</frames>
+<examples>
+<example>
+<text>Sie nimmt seit drei Jahren harte Drogen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.116" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.116.reinziehen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>reinziehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DR</frame>
+</frames>
+<examples>
+<example>
+<text>Er hat sich einen Joint reingezogen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.117" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.117.rauchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rauchen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er raucht zwei Packungen an einem Tag.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.118" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.118.paffen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>paffen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.118.päffen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>päffen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.118.qualmen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>qualmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Er pafft schwarze Havanna.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.119" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.119.schmauchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmauchen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>genüsslich rauchen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text></text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.120" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.120.aufrauchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufrauchen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Meine Zigarettenschachtel ist schon wieder aufgeraucht.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.121" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.121.trinken2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>trinken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.121.schlucken3" orthVar="nein" sense="3" stilMarkierung="nein">
+<orthForm>schlucken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BT</frame>
+<frame>NN.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>Alkohol trinken</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Seit seinem Unfall trinkt er.</text> <frame>NN.BT</frame></example>
+<example><text>Sie schluckt ganz schön.</text> <frame>NN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.122" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.122.fixen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fixen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.122.spritzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spritzen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.122.drücken" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>drücken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BT</frame>
+<frame>NN.An</frame>
+</frames>
+<examples>
+<example><text>Sie fixt seit drei Jahren.</text> <frame>NN.BT</frame></example>
+<example><text>Er spritzt seit seiner Jugend.</text> <frame>NN.BT</frame></example>
+<example><text>Er drückt (Heroin).</text> <frame>NN.An</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.123" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.123.koksen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>koksen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.123.schniefen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schniefen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.123.sniefen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>sniefen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>Koks nehmen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie kokst ab und zu.</text> <frame>NN</frame></example>
+<example><text>Er schnieft Kokain.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.124" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.124.haschen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>haschen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.124.kiffen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>kiffen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BT</frame>
+</frames>
+<paraphrases>
+<paraphrase>Haschisch nehmen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>An seinem Geburtstag haben sie gehascht.</text>
+</example>
+<example>
+<text>Nach der Party kifften sie.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.125" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.125.schnüffeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schnüffeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Viele Straßenkinder Brasiliens schnüffeln.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.126" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.126.schlucken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schlucken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>Tabletten nehmen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Sie schluckt viele Pillen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.127" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.127.versorgen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>versorgen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>(jmdm etwas Fehlendes,notwendig Gebrauchtes)[in ausreichender Menge] überlassen, zukommen lassen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Die Stadt versorgt sich mit Wasser aus dem See.</text> <frame>NN.AR.PP</frame></example>
+<example><text>Die Flüchtlinge wurden mit Brot versorgt.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.128" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.128.eindecken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eindecken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BO</frame>
+</frames>
+<examples>
+<example>
+<text>Die Stadt deckt sich mit Strom aus dem Ausland ein.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.129" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.129.verköstigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verköstigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BS</frame>
+</frames>
+<paraphrases>
+<paraphrase>Jemand verursacht, dass jemand etwas konsumiert</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Sie verköstigte ihre Gäste mit einem Hirschgulasch.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.130" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.130.einflößen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einflößen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie flößte dem Patienten eine heiße Suppe ein.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.131" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.131.injizieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>injizieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DR</frame>
+</frames>
+<examples>
+<example>
+<text>Der Arzt injizierte ihr ein Gegengift.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.132" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.132.spritzen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>spritzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DR</frame>
+</frames>
+<examples>
+<example>
+<text>Die Schwester spritzte ihr ein Beruhigungsmittel.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.133" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.133.servieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>servieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Auf der Party servierten sie Kaviar und Champagner.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.134" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.134.auftafeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auftafeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.134.auftischen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auftischen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.134.auftragen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auftragen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Die Kellner tischten den Hummer auf.</text> <frame>NN.AN</frame></example>
+<example><text>Er tischte Kaviar auf.</text> <frame>NN.AN</frame></example>
+<example><text>Die Gastgeberin trug das Dessert auf.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.135" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.135.vorsetzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorsetzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Kellnerin setzte ihm den Fisch vor.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.136" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.136.bewirten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bewirten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Sie bewirtete ihre Gäste ohne Hektik.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.137" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.137.reichen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>reichen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Kellner reichte ihm ein feuchte Serviette.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.138" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.138.kredenzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kredenzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DN</frame>
+</frames>
+<paraphrases>
+<paraphrase>servieren von Getränken</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Sie kredenzten ihren Gästen einen Grand Cru aus dem Jahre 1990.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.139" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.139.vorlegen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorlegen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DN</frame>
+</frames>
+<paraphrases>
+<paraphrase>(jmdm die Speisen) auf den Teller legen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Der Kellner legte ihm das Fleisch vor.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.140" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.140.auftun" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>auftun</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DR</frame>
+<frame>NN.AN.DN</frame>
+</frames>
+<examples>
+<example><text>Sie tat sich noch ein paar Kartoffeln auf.</text> <frame>NN.AN.DR</frame></example>
+<example><text>Die Mutter tat ihm noch Fleisch auf.</text> <frame>NN.AN.DN</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.141" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.141.ernähren2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>ernähren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.141.nähren2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>nähren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>jdn/sich ernähren</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Im Krieg konnten wir uns kaum ernähren.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.142" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.142.verpflegen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verpflegen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AR.BM</frame>
+</frames>
+<examples>
+<example><text>Das Rote Kreuz verpflegte die Flüchtlinge.</text> <frame>NN.AN</frame></example>
+<example><text>Er verpflegte sich selbst.</text> <frame>NN.AR.BM</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.143" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.143.bekochen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bekochen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.143.beköstigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beköstigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BT</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Sie hat uns für drei Wochen bekocht.</text> <frame>NN.AN.BT</frame></example>
+<example><text>Er beköstigte die ganze Gruppe.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.144" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.144.unterhalten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unterhalten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.144.alimentieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>alimentieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>für jmds Lebensunterhalt aufkommen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er unterhält eine 7-köpfige Familie.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.145" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.145.bedienen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bedienen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BL</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich etwas von etwas, was angeboten wird, nehmen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er bediente sich reichlich am Büffet.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.146" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.146.nehmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nehmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DR.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Sie nahm sich ein Stück Fleisch von der Platte.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.147" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.147.zugreifen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zugreifen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.147.zulangen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zulangen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Die Kinder griffen hungrig zu.</text>
+</example>
+<example>
+<text>Die Männer langten kräftig zu.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.148" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.148.zusprechen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zusprechen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Sie sprach dem Essen herzhaft zu.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.149" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.149.füttern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>füttern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BT</frame>
+</frames>
+<examples>
+<example><text>Der Bauer füttert die Schweine um sechs Uhr früh.</text> <frame>NN.AN.BT</frame></example>
+<example><text>Die Rinder werden mit dem besten Futter gefüttert.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.150" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.150.verfüttern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verfüttern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Er hat alles an die Schweine verfüttert.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.151" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.151.durchfüttern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>durchfüttern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Das Kind fütterte das junge Lämmchen durch.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.152" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.152.abfüttern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abfüttern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Landwirt füttert gerade sein Vieh ab.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.153" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.153.nähren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nähren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Die Asiaten nähren sich hauptsächlich von Reis.</text> <frame>NN.AR.PP</frame></example>
+<example><text>Sie nährt ihr Kind mit Muttermilch.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.154" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.154.stillen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stillen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BT</frame>
+</frames>
+<paraphrases>
+<paraphrase>von Menschen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Sie stillte ihr Baby fünf Monate lang.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.155" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.155.abstillen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abstillen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BT</frame>
+</frames>
+<examples>
+<example>
+<text>Ich habe meine Tochter im sechsten Monat abgestillt.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.156" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.156.säugen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>säugen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>von Tieren</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Das Schaf säugte das Lämmchen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.157" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.157.päppeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>päppeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.157.aufpäppeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufpäppeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.157.hochpäppeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hochpäppeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Das Kind päppelte das kranke Vögelchen auf.</text>
+</example>
+<example>
+<text>Die Nonnen päppelten das ausgesetzte Baby.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.158" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.158.mästen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mästen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.158.nudeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nudeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Die Gans wird für Weihnachten gemästet.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.159" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.159.stopfen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>stopfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>In diesem Betrieb werden die Gänse gestopft.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.160" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.160.vollstopfen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>vollstopfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Der Landwirt stopft das Vieh mit Mastfutter voll.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.161" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.161.tränken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tränken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Hirte tränkte seine Herde.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.162" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.162.abfüllen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abfüllen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Er hat mich mit Bier abgefüllt.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.163" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.163.kauen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kauen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.PP.BM</frame>
+</frames>
+<examples>
+<example><text>Man sollte jeden Bissen mindestens zehn Mal kauen.</text> <frame>NN.AN</frame></example>
+<example><text>Sie kaute nervös auf ihrem Kaugummi herum.</text> <frame>NN.PP.BM</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.164" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.164.zerkauen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zerkauen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Es ist gesünder, wenn man die Nahrung gut zerkaut.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.165" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.165.abkauen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abkauen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Das Kleinkind kaute ein Stückchen Brot ab.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.166" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.166.nagen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nagen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Der Hase nagte an einer Karotte.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.167" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.167.abnagen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abnagen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Hund hat den ganzen Knochen abgenagt.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.168" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.168.zernagen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zernagen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Mäuse haben meinen ganzen Speck zernagt.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.169" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.169.annagen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>annagen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Ratten haben unsere Kartoffeln angenagt.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.170" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.170.beißen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beißen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Er biss hungrig in das Brot.</text> <frame>???eigentlichNN.BL.BM</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.171" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.171.abbeißen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abbeißen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie biss ein Stück Fleisch ab.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.172" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.172.zerbeißen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zerbeißen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Hund hat seinen Knochen ganz zerbissen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.173" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.173.zubeißen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zubeißen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Wolf biss zu und erwischte ihn am Oberschenkel.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.174" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.174.malmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>malmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BS</frame>
+</frames>
+<examples>
+<example>
+<text>Das Tier malmte die Nahrung mit seinen Zähnen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.175" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.175.zermalmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zermalmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Wolf zermalmte genüsslich das Tier, das er gerissen hatte.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.176" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.176.wiederkäuen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wiederkäuen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Kühe wiederkäuen ihr Essen.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.177" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.177.schlucken2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>schlucken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BT</frame>
+</frames>
+<examples>
+<example><text>Er schluckt abends immer ein Bier.</text> <frame>NN.AN.BT</frame></example>
+<example><text>Sie schluckte den Hustensaft.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.178" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.178.hinunterwürgen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hinunterwürgen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.178.würgen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>würgen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Das Kind würgte seinen Spinat hinunter.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.179" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.179.abschmecken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abschmecken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Koch schmeckte die Soße ab.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.180" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.180.einsetzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einsetzen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.180.gebrauchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gebrauchen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er setzt gerne seine Fäuste ein, um sich zu wehren.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.181" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.181.missbrauchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>missbrauchen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.181.mißbrauchen" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>mißbrauchen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.AZ</frame>
+</frames>
+<paraphrases>
+<paraphrase>falsch gebrauchen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er missbrauchte sie, um an ihre Freundin heranzukommen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.182" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.182.benutzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>benutzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BR</frame>
+</frames>
+<examples>
+<example>
+<text>Du hast sie als Alibi benutzt.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.183" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.183.ausnutzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausnutzen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.183.verschleißen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verschleißen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Chef nutzt den neuen Kollegen aus.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.184" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.184.verheizen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verheizen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BR</frame>
+</frames>
+<examples>
+<example><text>Die Firmenleitung verheizte die Neulinge.</text> <frame>NN.AN</frame></example>
+<example><text>Sie hatten mich als Fraktionssprecherin verheizt.</text> <frame>NN.AN.BR</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.185" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.185.verhackstücken" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>verhackstücken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.185.verwursten" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>verwursten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Er hat meine Themen für sein Theaterstück verhackstückt.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.186" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.186.ausbeuten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausbeuten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>In Indien werden die Kinder gnadenlos ausgebeutet.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.187" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.187.ausschlachten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausschlachten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.187.ausweiden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausweiden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BA</frame>
+</frames>
+<examples>
+<example><text>Er schlachtete die Thematik gnadenlos aus.</text> <frame>NN.AN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.188" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.188.schröpfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schröpfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Kinder schröpfen ihre Eltern.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.189" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.189.heranziehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>heranziehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Zum Wiederaufbau Deutschlands wurden ausländische Arbeiter herangezogen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.190" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.190.ausreichen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausreichen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.190.genügen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>genügen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.DN</frame>
+</frames>
+<paraphrases>
+<paraphrase>genug sein</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Das Geld reicht für den Bau des Hauses nicht aus.</text> <frame>NN.PP</frame></example>
+<example><text>Ein Stück Kuchen genügt mir.</text> <frame>NN.DN</frame></example>
+</examples>
+</synset>
+<synset id="vVerbrauch.191" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.191.hinkommen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hinkommen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.191.auskommen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auskommen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.191.hinreichen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hinreichen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.191.zureichen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zureichen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Ich komme mit meinem Geld gerade noch so hin.</text>
+</example>
+</examples>
+</synset>
+<synset id="vVerbrauch.192" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.192.reichen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>reichen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vVerbrauch.192.langen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>langen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BT</frame>
+</frames>
+<paraphrases>
+<paraphrase>genügend vorhanden sein</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Das Geld reicht bis zum Monatsende.</text> <frame>NN.BT</frame></example>
+<example><text>Das Seil reicht.</text> <frame>NN</frame></example>
+</examples>
+</synset>
+</synsets>

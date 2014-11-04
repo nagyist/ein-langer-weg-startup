@@ -1,7 +1,9 @@
 package de.mft;
 
 
+import org.apache.commons.lang.WordUtils;
 import org.apache.wicket.request.mapper.parameter.PageParameters;
+import org.apache.wicket.request.resource.JavaScriptResourceReference;
 import org.apache.wicket.behavior.AttributeAppender;
 import org.apache.wicket.markup.html.basic.Label;
 import org.apache.wicket.markup.html.form.Button;
@@ -11,6 +13,10 @@ import org.apache.wicket.markup.html.panel.FeedbackPanel;
 import org.apache.wicket.markup.html.WebMarkupContainer;
 import org.apache.wicket.markup.html.WebPage;
 import org.apache.wicket.model.Model;
+
+import de.mft.interpretation.Interpretation;
+import de.mft.similarity.GNETSimilarity;
+import de.mft.similarity.WS4JSimilarity;
 
 
 
@@ -34,17 +40,24 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.Map;
 
 public class MFTPage extends WebPage {
 
 	private static final long serialVersionUID = 1L;
 	private TextField<String> searchQuery;
 	private FeedbackPanel feedbackPanel;
-    private Label query, evalResultLabel1, evalResultLabel2, evalResultLabel3, instance, result;
+    private Label query, persons, locations, intention, instance, result;
+    private Label title;
+
     private Instances inst = null;
     private AdaBoostM1 cls = null;
-    private Evaluation  eval;
-    
+    private static GNETSimilarity gnet = GNETSimilarity.getInstance();
+    Map<String, Object> INTERPRETATION_VALUES = null;
+	double similarity_to_location = 0.0;
+	double similarity_to_lokation = 0.0;
+	String location_found = "?";
+	
 	public MFTPage(final PageParameters parameters) throws Exception {
 		super(parameters);
     	
@@ -54,11 +67,13 @@ public class MFTPage extends WebPage {
     	
     	// Initialize Labels
     	query = new Label("query", new Model<String>(""));
-    	evalResultLabel1 = new Label("evalResultLabel1", new Model<String>(""));
-    	evalResultLabel2 = new Label("evalResultLabel2", new Model<String>(""));
-    	evalResultLabel3 = new Label("evalResultLabel3", new Model<String>(""));
+    	persons = new Label("persons", new Model<String>(""));
+    	locations = new Label("locations", new Model<String>(""));
+    	intention = new Label("intention", new Model<String>(""));
     	instance = new Label("instance", new Model<String>(""));
     	result = new Label("result", new Model<String>(""));
+    	title = new Label("title", new Model<String>(""));
+    	
     	
     	// Add a form with an onSubmit implementation that sets a message
     	Form<?> form = new Form<String>("searchForm");
@@ -77,34 +92,46 @@ public class MFTPage extends WebPage {
 		String testingsdata = "java_files/data_492014_062715.arff";
 		inst = createInstancesFromData(testingsdata);
 		inst.setClassIndex(inst.numAttributes() - 1);
-		eval = new Evaluation(inst);
+		Evaluation  eval = new Evaluation(inst);
 		eval.evaluateModel(cls, inst);
-//		final WebMarkupContainer wmc = new WebMarkupContainer("texte");
-//		wmc.setOutputMarkupPlaceholderTag(true);
-//		form.add(wmc);
+		
+		
+		
 		
 		form.add(new Button("submitButton") {
 			@Override
             public void onSubmit() {
             	
-//				wmc.add(new AttributeAppender("class", true, new Model<String>("texte_after_submit"), " "));
-
+				
+				try {
+					INTERPRETATION_VALUES = 
+							Interpretation.interpretQuery(WordUtils.capitalize(searchQuery.getModelObject()));
+					similarity_to_location = (new WS4JSimilarity())
+							.calculateSimilarityToAllClasses((String) INTERPRETATION_VALUES.get("intention")).get("LAND/ORT");
+					similarity_to_lokation = gnet.calculateSimilarityToAllClasses((String) INTERPRETATION_VALUES.get("intention")).get("LAND/ORT");
+					location_found = INTERPRETATION_VALUES.get("location_found").toString();
+				} catch (IOException e1) {
+					// TODO Auto-generated catch block
+					e1.printStackTrace();
+				}
                 Instance iExample = new Instance(4);
         		iExample.setDataset(inst);
         		
-        		iExample.setValue(0, "true");
-        		iExample.setValue(1, 2.89);
-        		iExample.setValue(2, 1.14);
+        		iExample.setValue(0, location_found);
+        		iExample.setValue(1, similarity_to_location);
+        		iExample.setValue(2, similarity_to_lokation);
         		iExample.setValue(3, "NACHRICHTEN/INFORMATION");
         		double p = -1;
 				try {
 					p = cls.classifyInstance(iExample);
+					
+					persons.setDefaultModelObject("Persons Found: " + INTERPRETATION_VALUES.get("names"));
+					intention.setDefaultModelObject("The intention of the Searcher: " + INTERPRETATION_VALUES.get("intention"));
+					locations.setDefaultModelObject("Locations Found: " + INTERPRETATION_VALUES.get("locations"));
+					title.setDefaultModelObject(searchQuery.getModelObject()+" - Results");
 					query.setDefaultModelObject("Query: " + searchQuery.getModelObject());
-					evalResultLabel2.setDefaultModelObject(eval.toClassDetailsString());
-					evalResultLabel1.setDefaultModelObject(eval.toSummaryString());
-					evalResultLabel3.setDefaultModelObject(eval.toMatrixString());
 					instance.setDefaultModelObject("Dataset: " + iExample.toString());
-					result.setDefaultModelObject("Query is classified as: " + inst.classAttribute().value((int) p));
+					result.setDefaultModelObject("Query classified as: " + inst.classAttribute().value((int) p));
 				} catch (Exception e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();
@@ -119,11 +146,12 @@ public class MFTPage extends WebPage {
     	
     	// Add Labels
     	add(query);
-    	add(evalResultLabel1);
-    	add(evalResultLabel2);
-    	add(evalResultLabel3);
+    	add(persons);
+    	add(locations);
+    	add(intention);
     	add(instance);
     	add(result);
+    	add(title);
     	
     	add(form);
     }

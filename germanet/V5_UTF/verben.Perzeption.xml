@@ -1,0 +1,5482 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd"[
+ ]>
+<synsets>
+<synset id="vPerzeption.1" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.1.wahrnehmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wahrnehmen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.1.perzipieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>perzipieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BL</frame>
+</frames>
+<paraphrases>
+<paraphrase>mit den Sinnen aufnehmen, erfassen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er nahm den Radfahrer wahr.</text> <frame>NN.AN</frame></example>
+<example><text>Sie nahm leise Schritte aus dem unteren Stockwerk wahr.</text> <frame>NN.AN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.2" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.2.aufnehmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufnehmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BT</frame>
+</frames>
+<paraphrases>
+<paraphrase>in sein Bewusstsein hineinnehmen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Das Kind hat heute viele neue Eindrücke aufgenommen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.3" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.3.rezipieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rezipieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>bewusst aufnehmen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Das Publikum rezipierte die Inszenierung mit großer Aufmerksamkeit.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.4" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.4.erfassen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erfassen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>(mit Verstand) begreifen und aufnehmen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie erfasste nicht den Sinn seiner Kritik.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.5" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.5.feststellen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>feststellen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>bemerken und begreifen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er stellte fest, dass sie älter geworden war.</text> <frame>???</frame></example>
+<example><text>Die Ärzte stellten einen Gehirntumor bei ihr fest.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.6" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.6.erkennen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erkennen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BS</frame>
+</frames>
+<paraphrases>
+<paraphrase>(mit Augen oder Ohren) deutlich wahrnehmen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie konnte das Muster mit ihrer neuen Brille gut erkennen.</text> <frame>???NN.AN.BM.BS</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.7" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.7.identifizieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>identifizieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Man konnte die Leiche identifizieren.</text> <frame>NN.AN</frame></example>
+<example>
+<text></text>
+</example>
+<example><text>Die Polizei identifizierte den Mörder anhand seiner Fingerabdrücke.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.8" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.8.erkennen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>erkennen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.8.wiedererkennen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wiedererkennen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>(auf Grund bestimmter Merkmale) ausmachen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Der Täter wurde an seiner Kleidung erkannt.</text> <frame>NN.AN.PP</frame></example>
+<example><text>Sie erkannte Peter sofort.</text> <frame>NN.AN</frame></example>
+<example><text>Der Arzt hatte die Krankheit sofort erkannt.</text> <frame>NN.AN</frame></example>
+<example><text>Sie erkannte ihn an seinem Goldzahn wieder.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.9" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.9.diagnostizieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>diagnostizieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Die behandelnden Ärzte diagnostizierten einen Tumor im Magen.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.10" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.10.entlarven" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entlarven</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BR</frame>
+</frames>
+<examples>
+<example><text>Sie entlarvte seine Absichten</text> <frame>NN.AN</frame></example>
+<example>
+<text></text>
+</example>
+<example><text>Er wurde als Heiratsschwindler entlarvt.</text> <frame>NN.AN.BR</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.11" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.11.entnehmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entnehmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DN</frame>
+</frames>
+<examples>
+<example>
+<text>Ich entnehme Ihrem Schreiben, dass Sie sich anders entschieden haben.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.12" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.12.enträtseln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>enträtseln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>rätselhafte Vorgänge oder Dinge verstehen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Wissenschaftler enträtselten die Geheimschrift.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.13" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.13.innewerden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>innewerden</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.13.gewahr_werden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gewahr_werden</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.13.gewahren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gewahren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.GN</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich einer Sache gewahr werden</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie wurde sich ihrer Schuld am Unfall inne.</text> <frame>NN.AR.GN</frame></example>
+<example><text>Er wurde sich seines groben Fehlers gewahr.</text> <frame>NN.AR.GN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.14" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.14.unterscheiden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unterscheiden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+<frame>NN.PP</frame>
+<frame>NN.AR.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>etwas unter,zwischen etwas anderem, vielem anderen in seinen Einzelheiten optisch oder akustisch wahrnehmen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er unterscheidet das Boot vom Schiff.</text> <frame>NN.AN.PP</frame></example>
+<example><text>Er unterscheidet zwischen Boot und Schiff.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.15" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.15.träumen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>träumen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.BM</frame>
+<frame>NN.AN.BL</frame>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>im Schlaf wahrnehmen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er hat von ihr geträumt.</text> <frame>NN.PP</frame></example>
+<example>
+<text></text>
+</example>
+<example><text>Sie hat schlecht geträumt.</text> <frame>NN.BM</frame></example>
+<example><text>Sie hat etwas Schreckliches geträumt.</text> <frame>NN.AN</frame></example>
+<example><text>Ich träumte mich auf einer einsamen Insel.</text> <frame>NN.AR.BL</frame></example>
+<example><text>Das Kind hat geträumt, dass seine Eltern tot sind.</text> <frame>???</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.16" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.16.tagträumen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tagträumen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Sie liebt es, im Garten tagzuträumen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.17" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.17.bemerken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bemerken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BL</frame>
+</frames>
+<paraphrases>
+<paraphrase>aufmerksam werden,durch Gefühl/Eingebung/Wahrnehmung der Sinne erkennen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Viele Leute bemerken die Wirkung nicht.</text> <frame>NN.AN</frame></example>
+<example><text>Er bemerkte, dass sie etwas beleidigt war.</text> <frame>???</frame></example>
+<example><text>Er bemerkte den Mann vor seinem Haus.</text> <frame>NN.AN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.18" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.18.merken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>merken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>von etwas Notiz nehmen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie merkte keinen Unterschied.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.19" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.19.auffangen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auffangen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Beim Vorbeigehen fing sie ein paar Worte der Unterhaltung auf.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.20" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.20.checken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>checken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Er hatte gecheckt, dass er nichts zu sagen hatte.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.21" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.21.konstatieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konstatieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie konstatierte seinen Tod.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.22" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.22.mitbekommen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mitbekommen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Das Kind bekam den Streit der Eltern mit.</text> <frame>NN.AN</frame></example>
+<example><text>Die Nachbarin hatte mitbekommen, dass ihr Ehemann ausgezogen ist.</text> <frame>???</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.23" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.23.ansehen4" orthVar="nein" sense="4" stilMarkierung="nein">
+<orthForm>ansehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DN</frame>
+</frames>
+<paraphrases>
+<paraphrase>jmdm etwas ansehen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Man sieht ihm seinen Kummer an.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.24" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.24.registrieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>registrieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>in das Bewusstsein aufnehmen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er registrierte sofort die Schwächen des Gegners.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.25" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.25.beobachten3" orthVar="nein" sense="3" stilMarkierung="nein">
+<orthForm>beobachten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>eine bestimmte Feststellung machen,eine Veränderung beobachten</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er hatte ihr merkwürdiges Verhalten beobachtet.</text> <frame>NN.AN</frame></example>
+<example><text>Sie beobachtete, wie ihr Bauch immer runder wurde.</text> <frame>???</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.26" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.26.anhören3" orthVar="nein" sense="3" stilMarkierung="nein">
+<orthForm>anhören</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DN</frame>
+</frames>
+<paraphrases>
+<paraphrase>jmdm etwas anhören</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Man hörte ihm seine Verunsicherung an.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.27" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.27.begegnen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>begegnen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DN</frame>
+</frames>
+<paraphrases>
+<paraphrase>etwas begegnet jdm., jemand trifft/stößt auf etwas, findet etwas vor</paraphrase>
+</paraphrases>
+<examples>
+<example><text>So ein Problem ist mir noch nie begegnet.</text> <frame>NN.AN.DN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.28" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.28.vorfinden2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>vorfinden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.Pp</frame>
+</frames>
+<examples>
+<example>
+<text>(Unter den Gästen) fand er eine fröhliche Stimmung vor.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.29" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.29.treffen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>treffen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BO</frame>
+</frames>
+<examples>
+<example>
+<text>Sie haben es mit ihrem neuen Job gut getroffen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.30" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.30.anmerken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anmerken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie merkte ihnen ihre miese Laune an.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.31" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.31.sehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+<frame>NN.AN</frame>
+<frame>NN.AN.AI</frame>
+<frame>NN.AN.BL</frame>
+<frame>NN.BL</frame>
+<frame>NN.DN.BL</frame>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>visuelle Wahrnehmung</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Ich sehe gut.</text> <frame>NN.BM</frame></example>
+<example><text>Er sieht das Auto bremsen.</text> <frame>NN.AN.AI</frame></example>
+<example>
+<text></text>
+</example>
+<example><text>Sie sieht den Hund.</text> <frame>NN.AN</frame></example>
+<example>
+<text></text>
+</example>
+<example><text>Sie sieht den Hund in der Dämmerung.</text> <frame>NN.AN.BL</frame></example>
+<example><text>Sie sieht den Hund in Nachbars Garten.</text> <frame>NN.AN.BL</frame></example>
+<example><text>Sie sieht in die Ferne.</text> <frame>NN.BL</frame></example>
+<example><text>Sie sieht ihrem Bruder in die Karten.</text> <frame>NN.DN.BL</frame></example>
+<example>
+<text></text>
+</example>
+<example><text>Wir sehen von hier aus bis nach Rottenburg.</text> <frame>NN.PP</frame></example>
+<example><text>Ich habe gesehen, wie die Täter in das Haus gingen.</text> <frame>???</frame></example>
+<example><text>Sie hat gesehen, dass die Männer die Frau ins Auto gezerrt haben.</text> <frame>???</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.32" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.32.sehen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>sehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BL</frame>
+</frames>
+<paraphrases>
+<paraphrase>als vorhanden feststellen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Wir haben Leute auf den Feldern gesehen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.33" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.33.ausmachen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausmachen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.33.sichten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sichten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BL</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Der Beobachter machte das Flugzeug am Himmel aus.</text> <frame>NN.AN.BL</frame></example>
+<example><text>Das Radargerät sichtete das unbekannte Flugobjekt.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.34" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.34.sehen3" orthVar="nein" sense="3" stilMarkierung="nein">
+<orthForm>sehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich mit Interesse, Aufmerksamkeit betrachten, ansehen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Haben sie den Film schon gesehen?</text>
+</example>
+<example>
+<text>Sie hat den neuen Film von Al Pacino gesehen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.35" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.35.nachsehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nachsehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Die Beamtin sah in den alten Ordnern nach.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.36" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.36.wegsehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wegsehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Die Leute sehen von den Verbrechen auf der Straße weg.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.37" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.37.sehen4" orthVar="nein" sense="4" stilMarkierung="nein">
+<orthForm>sehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>ein bestimmtes Verhalten o.ä.wahrnehmen/erkennen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Sie hatten ihren Chef noch nie so wütend gesehen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.38" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.38.sehen5" orthVar="nein" sense="5" stilMarkierung="nein">
+<orthForm>sehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP.BL</frame>
+</frames>
+<paraphrases>
+<paraphrase>den Blick auf einen bestimmten Punkt, in eine bestimmte Richtung o.ä. lenken</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er sah aus Verlegenheit zu Boden.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.39" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.39.blicken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blicken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>in bestimmter Weise dreinschauen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Sie blickte fragend zu ihren Eltern.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.40" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.40.äugen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>äugen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.40.kieken" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>kieken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.40.schielen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schielen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BS</frame>
+<frame>NN.PP</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Das Mädchen schielt mit dem linken Auge.</text> <frame>NN.BS</frame></example>
+<example><text>Er schielte auf ihren Ausweis.</text> <frame>NN.BL</frame></example>
+<example><text>Das Reh äugte in seine Richtung.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.41" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.41.blicken2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>blicken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<paraphrases>
+<paraphrase>die Augen auf ein Ziel richten</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Sie blickte in die Ferne.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.42" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.42.blinzeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blinzeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Er blinzelte, weil das Licht ihn blendete.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.43" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.43.erblicken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erblicken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Er erblickte seine Tochter hinter einem Auto.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.44" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.44.entdecken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entdecken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.44.finden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>finden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.DN</frame>
+</frames>
+<paraphrases>
+<paraphrase>zufällig oder durch Suchen entdecken</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Ich entdeckte ihn in der Bibliothek.</text> <frame>NN.AN.BL</frame></example>
+<example>
+<text></text>
+</example>
+<example><text>Ich entdeckte ihm eine neue Welt.</text> <frame>NN.AN.DN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.45" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.45.treffen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>treffen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Sie ist auf merkwürdige Dinge getroffen.</text> <frame>NN.PP</frame></example>
+<example><text>Während der Ermittlungen trafen sie auf seinen Namen.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.46" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.46.auffinden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auffinden</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.46.auftun" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auftun</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BM</frame>
+<frame>NN.AN.BL</frame>
+</frames>
+<examples>
+<example><text>Sie konnten das Geld der Entführer nicht auffinden.</text> <frame>NN.AN</frame></example>
+<example><text>Die Polizei hatte die Leiche nackt aufgefunden.</text> <frame>NN.AN.BM</frame></example>
+<example><text>Wir haben in Stuttgart eine neue Kneipe aufgetan.</text> <frame>NN.AN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.47" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.47.aufstöbern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufstöbern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.47.auftreiben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auftreiben</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.Bl</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Sie hatte die alten Fotos (auf der Bühne) aufgestöbert.</text> <frame>NN.AN.Bl</frame></example>
+<example><text>Konntest du einen alten Computer auftreiben?</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.48" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.48.orten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>orten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.48.peilen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>peilen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Sie haben das gesunkene Schiff geortet</text> <frame>NN.AN</frame></example>
+<example><text>Die Techniker peilten das verschwundene Yachtschiff.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.49" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.49.aufspüren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufspüren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BL</frame>
+</frames>
+<examples>
+<example><text>Der Polizeihund spürte das versteckte Kokain auf.</text> <frame>NN.AN</frame></example>
+<example><text>Sie spürten die Entführer in Brasilien auf.</text> <frame>NN.AN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.50" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.50.auflesen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auflesen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP.BM</frame>
+<frame>NN.AN.BL</frame>
+</frames>
+<examples>
+<example><text>Sie haben den Obdachlosen halbtot im Park aufgelesen.</text> <frame>NN.AN.PP.BM</frame></example>
+<example><text>Das Rote Kreuz las die Flüchtlinge an der Grenze auf.</text> <frame>NN.AN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.51" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.51.stoßen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stoßen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Der Detektiv stieß auf eine interessante Spur.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.52" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.52.antreffen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>antreffen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+<frame>NN.AN.BL</frame>
+</frames>
+<examples>
+<example><text>Er traf sie bei guter Stimmung an.</text> <frame>NN.AN.PP</frame></example>
+<example><text>Sie traf ihren Chef in der Kantine an.</text> <frame>NN.AN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.53" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.53.aufgabeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufgabeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Der Polizist gabelte den Ausreißer in einer Spielhalle auf.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.54" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.54.begegnen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>begegnen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DN.BL</frame>
+</frames>
+<examples>
+<example><text>Sie begegnete ihm zufällig auf dem Campus.</text> <frame>NN.DN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.55" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.55.ermitteln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ermitteln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Die Sonderkommission ermittelte alle Fahrer dieses Autotyps.</text> <frame>NN.AN</frame></example>
+<example><text>Die Polizei ermittelte, dass er an diesem Abend nicht zu Hause gewesen war.</text> <frame>???</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.56" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.56.herausbekommen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herausbekommen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.56.herausfinden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herausfinden</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.56.herauskriegen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herauskriegen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BM</frame>
+</frames>
+<examples>
+<example><text>Der Mann fand den Namen des Geliebten seiner Frau heraus.</text> <frame>NN.AN</frame></example>
+<example><text>Die Kinder haben unser Versteck herausbekommen.</text> <frame>NN.AN</frame></example>
+<example><text>Wie hast du herausgekriegt, dass ich hier bin?</text> <frame>???</frame></example>
+<example><text>Sie bekam seine Affäre schnell heraus.</text> <frame>NN.AN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.57" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.57.auskundschaften" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auskundschaften</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Einbrecher kundschafteten vorher die Gegend aus.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.58" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.58.vorfinden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorfinden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Die Frau fand ihren Mann tot im Bett vor.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.59" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.59.hinsehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hinsehen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.59.hinschauen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hinschauen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Er sieht bei der Blutentnahme nie hin.</text> <frame>???NN.PP.BA</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.60" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.60.suchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>suchen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.AN.BT</frame>
+<frame>NN.AN.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich bemühen, etwas Verlorenes, Verstecktes, etwas,was gebraucht wird, zu finden, zu entdecken oder zu erreichen,jmdn/etwas fieberhaft/überall suchen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Die Polizei sucht nach Spuren.</text> <frame>NN.PP</frame></example>
+<example><text>Er sucht seit Monaten eine neue Wohnung.</text> <frame>NN.AN.BT</frame></example>
+<example><text>Sie sucht verzweifelt ihre Schlüssel.</text> <frame>NN.AN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.61" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.61.ablaufen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ablaufen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.AZ</frame>
+</frames>
+<examples>
+<example>
+<text>Sie ist alle Boutiquen abgelaufen, um etwas Passendes zu finden.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.62" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.62.absuchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>absuchen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.62.abklappern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abklappern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Er suchte die ganze Stadt nach ihr ab.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.63" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.63.ausblicken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausblicken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.63.auslugen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>auslugen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.63.ausschauen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausschauen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP.BL</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Er schaute nach einem freien Tisch im Restaurant aus.</text> <frame>NN.PP.BL</frame></example>
+<example><text>Sie lugte nach ihren Kindern aus.</text> <frame>NN.PP</frame></example>
+<example><text>Sie blickte nach ihrem Auto aus.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.64" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.64.durchsuchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>durchsuchen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Er durchsuchte alle Ordner nach dieser Rechnung.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.65" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.65.durchforsten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>durchforsten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>Gründlich und systematisch durchsuchen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er durchforstete alle Schubladen nach der Rechung.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.66" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.66.durchkämmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>durchkämmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>Gründlich und Stück für Stück durchsuchen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie durchkämmten den ganzen Wald nach dem flüchtigen Verbrecher.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.67" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.67.filzen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>filzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Grenzbeamten filzen alle langhaarigen Jugendlichen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.68" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.68.fahnden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fahnden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Die Polizei fahndet nach den Bankräubern.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.69" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.69.kramen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kramen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Sie kramte in den Alben nach alten Fotos.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.70" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.70.stöbern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stöbern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Der Redakteur stöberte in den Archiven.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.71" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.71.gründeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gründeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<paraphrases>
+<paraphrase>Nahrungssuche bei Wassertieren</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Enten und Schwäne gründeln.</text> <frame>NN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.72" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.72.browsen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>browsen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+<frame>NN.PP.BL</frame>
+</frames>
+<paraphrases>
+<paraphrase>im Internet</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er browste auf der Homepage nach neuen Angeboten.</text> <frame>NN.PP.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.73" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.73.umgucken2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>umgucken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.73.umkucken2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>umkucken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Sie guckte sich nach einem neuen Job um.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.74" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.74.graben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>graben</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>im Boden/in der Tiefe der Erde nach etwas suchen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Die Kinder graben nach Goldresten.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.75" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.75.buddeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>buddeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Arbeiter buddelten nach den Überlebenden.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.76" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.76.schürfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schürfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>In Afrika schürfen sie nach Gold.</text> <frame>NN.PP</frame></example>
+<example>
+<text></text>
+</example>
+<example><text>Im Saarland schürfen sie Kohle.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.77" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.77.schauen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schauen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.77.gucken" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>gucken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.77.kucken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kucken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DN.BL</frame>
+<frame>NN</frame>
+<frame>NN.PP</frame>
+<frame>NN.AN</frame>
+<frame>NN.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>aktives Hinsehen,in eine bestimmte Richtung sehen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie schaut ihrem Freund in die Augen.</text> <frame>NN.DN.BL</frame></example>
+<example>
+<text></text>
+</example>
+<example><text>Wir schauen einen Film.</text> <frame>NN.AN</frame></example>
+<example>
+<text></text>
+</example>
+<example><text>Das Mädchen guckte durch das Schlüsselloch.</text> <frame>NN.PP</frame></example>
+<example><text>Er guckte interessiert, als ich ihm die neuen Fundstücke zeigte.</text> <frame>NN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.78" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.78.zuschauen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zuschauen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.78.zusehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zusehen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.78.zukucken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zukucken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.78.zugucken" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>zugucken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.DN.PP</frame>
+</frames>
+<examples>
+<example><text>Ich schaue zu.</text> <frame>NN</frame></example>
+<example><text>Sie sehen mir bei der Arbeit zu.</text> <frame>NN.DN.PP</frame></example>
+<example><text>Die Jungs kuckten zu, als er von den Großen verprügelt wurde.</text> <frame>NN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.79" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.79.umschauen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>umschauen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.79.umgucken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>umgucken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.79.umkucken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>umkucken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.79.umsehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>umsehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+<frame>NN.AR.BL</frame>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example><text>Er schaut sich im Laden um.</text> <frame>NN.AR.BL</frame></example>
+<example><text>Ich schaue mich um.</text> <frame>NN.AR</frame></example>
+<example><text>Wir sehen uns nach ihnen um.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.80" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.80.zurückblicken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zurückblicken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.80.zurückschauen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zurückschauen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Auf der Straße schaute er zurück.</text> <frame>NN.BL</frame></example>
+<example><text>Blick nicht zurück!</text> <frame>NN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.81" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.81.angucken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>angucken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.81.ankucken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ankucken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+<frame>NN.AN</frame>
+<frame>NN.AN.DR</frame>
+</frames>
+<examples>
+<example><text>Sie gucken sich an.</text> <frame>NN.AR</frame></example>
+<example><text>Sie gucken den Film an.</text> <frame>NN.AN</frame></example>
+<example><text>Wir kucken uns das Bilderbuch an.</text> <frame>NN.AN.DR</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.82" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.82.herschauen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herschauen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.82.hergucken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hergucken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.82.herkucken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herkucken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.82.hersehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hersehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example><text>Der Mann schaute zu ihr her.</text> <frame>NN.PP</frame></example>
+<example><text>Die Leute im Bus sahen zu ihr her, als sie anfing zu weinen.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.83" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.83.hervorschauen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hervorschauen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.83.hervorgucken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hervorgucken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.83.hervorkucken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hervorkucken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BL</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Dein Unterrock schaut hervor.</text> <frame>NN</frame></example>
+<example>
+<text></text>
+</example>
+<example><text>Die Tasche guckt hinter der Tür hervor.</text> <frame>NN.BL</frame></example>
+<example><text>Er schaute hinter der Tür hervor.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.84" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.84.hinterherschauen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hinterherschauen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.84.hinterhergucken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hinterhergucken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.84.hinterherkucken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hinterherkucken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DN</frame>
+</frames>
+<examples>
+<example><text>Die Leute sehen ihr hinterher.</text> <frame>NN.DN</frame></example>
+<example><text>Der Mann schaute seiner Nachbarin hinterher.</text> <frame>NN.DN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.85" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.85.übersehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>übersehen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.85.überschauen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überschauen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.85.überblicken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überblicken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BL</frame>
+</frames>
+<paraphrases>
+<paraphrase>die Übersicht haben über etwas</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie kann den Marktplatz überschauen.</text> <frame>NN.AN</frame></example>
+<example>
+<text></text>
+</example>
+<example><text>Vom Balkon aus überblickt sie ganz Tübingen.</text> <frame>NN.AN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.86" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.86.übersehen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>übersehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>(absichtlich) über jemanden hinwegsehen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie hat mich einfach übersehen.</text> <frame>NN.AN</frame></example>
+<example><text>Er übersah das Schild und baute einen Unfall.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.87" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.87.hinwegsehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hinwegsehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Wenn wir hier stehen, können wir über die Kuppe des Berges hinwegsehen</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.88" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.88.glotzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>glotzen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.88.stieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stieren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.88.starren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>starren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BA</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Er stiert auf den Bildschirm.</text> <frame>NN.PP</frame></example>
+<example><text>Sie glotzte ziemlich blöd.</text> <frame>NN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.89" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.89.anglotzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anglotzen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.89.anstieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anstieren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.89.anstarren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anstarren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Die Schafe glotzen uns an.</text> <frame>NN.AN</frame></example>
+<example><text>Sie stierte die weinende Frau an.</text> <frame>NN.AN</frame></example>
+<example><text>Das Kind starrte auf den Fernseher.</text> <frame>NN.BL</frame></example>
+<example><text>Sie starrte ihre Chefin an und ging wortlos hinaus.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.90" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.90.gaffen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gaffen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BA</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Viele Männer gaffen nur blöde.</text> <frame>NN.BA</frame></example>
+<example><text>Er gaffte auf die Unfallstelle.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.91" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.91.angaffen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>angaffen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Das Kind gaffte den Behinderten an.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.92" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.92.spähen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spähen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+<frame>NN.DN.BL</frame>
+</frames>
+<examples>
+<example><text>Die Füchse spähen nach Beute.</text> <frame>NN.BL</frame></example>
+<example><text>Er spähte seiner Nachbarin in den Ausschnitt.</text> <frame>NN.DN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.93" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.93.erspähen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erspähen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Der Pilot erspäht einen Waldbrand.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.94" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.94.ausspähen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausspähen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Die Agenten spähen Truppenbewegungen aus.</text> <frame>NN.AN</frame></example>
+<example><text>Sie spähten nach ihren Rebellen aus.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.95" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.95.abgucken" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>abgucken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.95.abkucken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abkucken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.An</frame>
+<frame>NN.AN.DN</frame>
+<frame>NN.AN.DR.BL</frame>
+</frames>
+<examples>
+<example><text>Sie guckte die erste Aufgabe ab.</text> <frame>NN.AN</frame></example>
+<example><text>Er guckte ihr einen Trick ab.</text> <frame>NN.AN.DN</frame></example>
+<example><text>Sie guckte sich Lebensgewohnheiten bei den Ureinwohnern ab.</text> <frame>NN.AN.DR.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.96" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.96.spicken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spicken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.96.abspicken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abspicken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Er hat bei seinem Nachbarn gespickt.</text> <frame>NN.BL</frame></example>
+<example><text>Er hat bei dieser Klausur gespickt.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.97" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.97.absehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>absehen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.97.abschauen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abschauen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DN</frame>
+</frames>
+<paraphrases>
+<paraphrase>durch genaues Beobachten lernen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er hat ihm diesen Trick abgeschaut.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.98" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.98.lunzen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>lunzen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.98.lugen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>lugen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.98.linsen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>linsen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.98.luchsen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>luchsen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<paraphrases>
+<paraphrase>vorsichtig spähen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie lugt durch die Gardinen.</text> <frame>NN.BL</frame></example>
+<example><text>Sie linste durch das Schlüsselloch.</text> <frame>NN.PP</frame></example>
+<example><text>Er luchste hinterm Auto hervor.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.99" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.99.lugen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>lugen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<paraphrases>
+<paraphrase>vorsichtig hervorschauen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Die ersten grünen Spitzen lugen aus der Erde.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.100" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.100.ansehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ansehen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.100.anschauen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anschauen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BM</frame>
+<frame>NN.AN</frame>
+<frame>NN.AN.DN.BL</frame>
+<frame>NN.AN.DN</frame>
+<frame>NN.AN.DR</frame>
+<frame>NN.AN.BA</frame>
+<frame>NN.AN.BO</frame>
+</frames>
+<paraphrases>
+<paraphrase>den Blick richten (auf jmdn/etwas)</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er sah das Beweismittel gründlich an.</text> <frame>NN.AN.BM</frame></example>
+<example><text>Er sah sie an.</text> <frame>NN.AN</frame></example>
+<example><text>Ich sehe es dir an der Nasenspitze an.</text> <frame>NN.AN.DN.BL</frame></example>
+<example><text>Ich sehe dir deinen Kummer an.</text> <frame>NN.AN.DN</frame></example>
+<example><text>Ich schaue mir den Auftraggeber an.</text> <frame>NN.AN.DR</frame></example>
+<example><text>Das Kind sah die Ermordung mit an.</text> <frame>NN.AN.BO</frame></example>
+<example><text>Sie schaute sich das Buch schnell an.</text> <frame>NN.AN.DR</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.101" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.101.anhimmeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anhimmeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie himmelt diesen Schauspieler an.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.102" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.102.messen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>messen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BO</frame>
+</frames>
+<examples>
+<example>
+<text>Der Direktor maß ihn mit den Augen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.103" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.103.betrachten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>betrachten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BL</frame>
+<frame>NN.AN.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>den Blick längere Zeit auf jmdn/etwas richten</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie betrachtet sich im Spiegel.</text> <frame>NN.AR.BL</frame></example>
+<example><text>Er betrachtete interessiert die Skulptur.</text> <frame>NN.AN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.104" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.104.anblicken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anblicken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Sie blickte ihre Lehrerin fragend an.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.105" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.105.beaugenscheinigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beaugenscheinigen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.105.in_Augenschein_nehmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>in_Augenschein_nehmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie beaugenscheinigte den neuen Kollegen voller Neugier.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.106" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.106.mikroskopieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mikroskopieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>unter dem Mikroskop betrachten</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie mikroskopierte die Gewebeprobe.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.107" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.107.glupschen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>glupschen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Das Kind glupschte auf die Süßigkeiten.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.108" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.108.begaffen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>begaffen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.108.begucken" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>begucken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.108.bekucken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bekucken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Passanten begafften die weinende Frau.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.109" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.109.studieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>studieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie studierte den Stadtplan Roms.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.110" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.110.bestaunen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bestaunen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er bestaunte das reich dekorierte Schaufenster.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.111" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.111.besichtigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>besichtigen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.111.besehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>besehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.DR</frame>
+</frames>
+<examples>
+<example><text>Die Touristen besichtigen das Geburtshaus Goethes.</text> <frame>NN.AN</frame></example>
+<example><text>Der Gutachter besah sich den Schaden am Wagen.</text> <frame>NN.AN.DR</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.112" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.112.beschauen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beschauen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Forscher beschauten den Fund.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.113" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.113.mustern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mustern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.113.prüfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>prüfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+<frame>NN.AN</frame>
+<frame>NN.AN.BO</frame>
+</frames>
+<examples>
+<example><text>Er musterte sie von oben bis unten.</text> <frame>NN.AN.PP</frame></example>
+<example><text>Der Kommandant mustert seine Soldaten.</text> <frame>NN.AN</frame></example>
+<example><text>Sie musterte ihn mit unverschämten Blicken.</text> <frame>NN.AN.BO</frame></example>
+<example><text>Der Sachverständige prüfte die Qualität.</text> <frame>NN.AN</frame></example>
+<example><text>Die Polizei prüfte die Unterschrift.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.114" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.114.begutachten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>begutachten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Vater begutachtete die Kratzer am Auto.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.115" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.115.beobachten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beobachten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie hatte den Dieb beobachtet.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.116" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.116.verfolgen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verfolgen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>die Entwicklung (von etwas) genau beobachten</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Die Regierung verfolgt die politischen Ereignisse in Russland.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.117" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.117.weiterverfolgen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weiterverfolgen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Wir werden die Entwicklung mit Interesse weiterverfolgen.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.118" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.118.zurückverfolgen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zurückverfolgen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Wir haben seine Spur bis hierhin zurückverfolgen können.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.119" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.119.beobachten2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>beobachten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.119.observieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>observieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BM </frame>
+</frames>
+<paraphrases>
+<paraphrase>zu einem bestimmten Zweck kontrollierend auf jmdn/etwas achten</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Die Erzieherin beobachtete das Verhalten des Kindes genau.</text> <frame>NN.ANDerMannwurdemonatelangvoneinemPrivatdetektivobserviert.NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.120" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.120.belauern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>belauern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Die Paparazzi belauern die Prinzessin überall.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.121" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.121.beschatten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beschatten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Polizei beschattete die Mitglieder des Hehlerrings.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.122" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.122.spitzeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spitzeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>als Spitzel fungieren</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Sie spitzelte für den Mossad.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.123" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.123.bespitzeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bespitzeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.123.ausspionieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausspionieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie bespitzelt ihren Freund.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.124" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.124.bewachen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bewachen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Zivilbeamte bewacht das Eingangstor.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.125" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.125.verfolgen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>verfolgen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er hat die Ereignisse im Fernsehen verfolgt.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.126" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.126.überwachen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überwachen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Ein Apparat überwacht seine Herztöne.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.127" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.127.beaufsichtigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beaufsichtigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>In der zweiten Pause muss ich die Kinder beaufsichtigen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.128" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.128.aufpassen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufpassen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Sie passt auf ihre kleine Schwester auf.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.129" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.129.babysitten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>babysitten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.129.hüten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hüten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er babysittete die Kinder der Nachbarin.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.130" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.130.beäugeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beäugeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.130.beäugen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beäugen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.130.beaugapfeln" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>beaugapfeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BM</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Das Kätzchen beäugelte neugierig die Schildkröte.</text> <frame>NN.AN.BMDasBabybeäugteseineMutter.NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.131" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.131.fixieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fixieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BL</frame>
+<frame>NN.AN.Pp</frame>
+</frames>
+<examples>
+<example><text>Er fixierte seinen Blick auf den Bildschirm.</text> <frame>NN.AN.BL</frame></example>
+<example><text>Sie fixierte ihn mit einem entsetzten Blick.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.132" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.132.ansehen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>ansehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DN</frame>
+</frames>
+<paraphrases>
+<paraphrase>aufmerksam, interessiert, beurteilend betrachten</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Wir haben uns alte Kirchen angesehen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.133" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.133.ansehen3" orthVar="nein" sense="3" stilMarkierung="nein">
+<orthForm>ansehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>als Besucher, Zuschauer etwas sehen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Sie haben sich den neuen Film angesehen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.134" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.134.hören" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hören</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.134.vernehmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vernehmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.AI</frame>
+<frame>NN.AN.BM</frame>
+<frame>NN.AN.BL</frame>
+</frames>
+<paraphrases>
+<paraphrase>mit dem Gehör wahrnehmen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie hörte ihn schreien.</text> <frame>NN.AN.AI</frame></example>
+<example><text>Er hört gerne Musik von Bach.</text> <frame>NN.AN.BM</frame></example>
+<example><text>Sie hörte Schritte im Flur.</text> <frame>NN.AN.BL</frame></example>
+<example><text>Sie vernahm eine Schrei aus dem Keller.</text> <frame>NN.AN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.135" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.135.hören3" orthVar="nein" sense="3" stilMarkierung="nein">
+<orthForm>hören</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>in bestimmter Weise fähig sein, mit dem Gehör wahrzunehmen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er hört schlecht/gut.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.136" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.136.hören4" orthVar="nein" sense="4" stilMarkierung="nein">
+<orthForm>hören</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>eine akustische Wahrnehmung bewusst/aufmerksam verfolgen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er hörte auf die Glockenschläge.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.137" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.137.hören2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>hören</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>jdm aufmerksam zuhören, um sich ein Urteil zu bilden</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Man muss beide Parteien hören.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.138" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.138.zuhören" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zuhören</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.138.anhören" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anhören</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DN</frame>
+<frame>NN.BM</frame>
+<frame>NN.AN.DR</frame>
+</frames>
+<examples>
+<example><text>Sie hörte der Musik zu.</text> <frame>NN.DN</frame></example>
+<example><text>Er hörte aufmerksam zu.</text> <frame>NN.BM</frame></example>
+<example><text>Der Richter hörte sich die Argumente beider Parteien an.</text> <frame>NN.AN.DR</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.139" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.139.abhören" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abhören</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>untersuchen, indem man die Körpergeräusche mit dem Gehör prüft</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Der Arzt hörte die Lungen des Kindes ab.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.140" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.140.verstehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verstehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>deutlich hören, klar vernehmen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Die Kinder hatten die Lehrerin nicht verstanden.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.141" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.141.lauschen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lauschen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.141.horchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>horchen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.141.hinhören" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hinhören</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.141.spitzen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>spitzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DN</frame>
+<frame>NN.BL</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Er lauschte dem Zwitschern der Vögel.</text> <frame>NN.DN</frame></example>
+<example><text>Spitz doch einfach mal die Ohren!</text> <frame>NN.ANDerkleineJungelauschteanderTür.NN.BL</frame></example>
+<example><text>Sie horchte hinterm Vorhang.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.142" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.142.abhorchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abhorchen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Polizei horchte seine Telefonate ab.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.143" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.143.auskultieren" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>auskultieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Doktor kultierte das Herz aus.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.144" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.144.aufhorchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufhorchen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<paraphrases>
+<paraphrase>plötzlich interessiert hinzuhören beginnen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Als sein Name erwähnt wurde, horchte er auf.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.145" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.145.behorchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>behorchen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.145.belauschen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>belauschen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie belauschte das Gespräch ihrer Kolleginnen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.146" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.146.überhören" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überhören</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er überhörte ihre freche Bemerkung.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.147" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.147.verhören" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verhören</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<paraphrases>
+<paraphrase>nicht richtig hören</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er hatte sich verhört und stieg in den falschen Zug.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.148" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.148.umhören" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>umhören</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.Bl</frame>
+</frames>
+<examples>
+<example>
+<text>Ich werde mich (an der Uni) umhören.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.149" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.149.mithören" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mithören</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.149.aufschnappen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufschnappen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Im Laufe ihrer Unterhaltung hatte sie seinen Namen aufgeschnappt.</text> <frame>NN.AN</frame></example>
+<example><text>Sie hatte das Gespräch mitgehört.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.150" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.150.abhören2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>abhören</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>heimlich zur Überwachung mithören</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Alle Telefonapparate werden von der Staatssicherheit abgehört.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.151" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.151.abhören3" orthVar="nein" sense="3" stilMarkierung="nein">
+<orthForm>abhören</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>etwas (zur Überprüfung/Information, zum Vergnügen) sich anhören</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er hört den Anrufbeantworter ab.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.152" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.152.riechen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>riechen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>mit der Nase wahrnehmen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie roch an den Blumen.</text> <frame>NN.BL</frame></example>
+<example><text>Er riecht ihr Parfum.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.153" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.153.wittern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wittern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Jagdhund witterte den Hirsch.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.154" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.154.schnuppern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schnuppern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.154.schnüffeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schnüffeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.154.schnobern" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>schnobern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.154.schnofeln" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>schnofeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+<frame>NN.AN</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Der Hund schnüffelte an der Hauswand.</text> <frame>NN.BL</frame></example>
+<example><text>Die Straßenkinder schnüffeln Klebstoff.</text> <frame>NN.AN</frame></example>
+<example><text>Das Kind schnupperte am Kuchen.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.155" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.155.beriechen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beriechen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.155.beschnuppern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beschnuppern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.155.beschnüffeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beschnüffeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Der Polizeihund beschnupperte die Kleidungsstücke.</text> <frame>NN.AN</frame></example>
+<example><text>Die Katze beschnüffelte ihr Fressen.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.156" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.156.fühlen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fühlen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BL</frame>
+<frame>NN.AN.AI</frame>
+</frames>
+<paraphrases>
+<paraphrase>mit den Nerven wahrnehmen, als Sinnesreiz körperlich bemerken</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er fühlte heftige Schmerzen im Bein.</text> <frame>NN.AN.BL</frame></example>
+<example><text>Sie fühlte ihr Herz schlagen.</text> <frame>NN.AN.AI</frame></example>
+<example><text>Er fühlte wie ihm auf einmal schlecht wurde.</text> <frame>???</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.157" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.157.fühlen3" orthVar="nein" sense="3" stilMarkierung="nein">
+<orthForm>fühlen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AR.BM</frame>
+<frame>NN.AR.BR</frame>
+</frames>
+<paraphrases>
+<paraphrase>seelisch empfinden</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie fühlte Abneigung/Mitleid.</text> <frame>NN.AN</frame></example>
+<example><text>Er fühlte sich schuldig.</text> <frame>NN.AR.BM</frame></example>
+<example><text>Sie fühlte sich als Betrügerin.</text> <frame>NN.AR.BR</frame></example>
+<example><text>Sie fühlte, dass es mit ihr zu Ende ging.</text> <frame>???</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.158" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.158.hegen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hegen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie hegte ein ungutes Gefühl.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.159" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.159.fühlen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>fühlen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>durch Betasten oder Berühren feststellen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Man konnte die Beule am Kopf fühlen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.160" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.160.tasten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tasten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BL</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Die Blinde tastet sich ins andere Zimmer.</text> <frame>NN.AR.BL</frame></example>
+<example><text>Sie tastete nach der Nadel.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.161" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.161.verspüren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verspüren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie verspürte einen Stich im Herzen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.162" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.162.empfinden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>empfinden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BL</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>(als einen über die Sinne vermittelten Reiz) verspüren</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie empfand kein Mitleid für ihn.</text> <frame>NN.AN.PP</frame></example>
+<example><text>Er empfand ein komisches Ziehen im Magen.</text> <frame>NN.AN.BL</frame></example>
+<example><text>Sie empfand große Erleichterung.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.163" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.163.spüren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spüren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BL</frame>
+</frames>
+<paraphrases>
+<paraphrase>mit den Sinnen wahrnehmen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er spürte ihre Hand auf seiner Schulter.</text> <frame>NN.AN.BL</frame></example>
+<example><text>Sie spürte, dass ihre Kräfte nachließen.</text> <frame>???</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.164" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.164.absterben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>absterben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.164.einschlafen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einschlafen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BC</frame>
+<frame>NN.DR</frame>
+</frames>
+<paraphrases>
+<paraphrase>durch Einwirkung von Kälte o.ä. gefühllos werden</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Meine Füße sind vor Kälte wie abgestorben.</text> <frame>NN.BC</frame></example>
+<example><text>Mein Bein ist (mir) eingeschlafen.</text> <frame>???NN.Dr</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.165" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.165.schmecken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmecken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+<frame>NN.DN</frame>
+<frame>NN.AN</frame>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>mit der Zunge wahrnehmen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Die Kohlrouladen schmecken vorzüglich!</text> <frame>NN.BM</frame></example>
+<example><text>Meinem Vater schmeckt die griechische Küche.</text> <frame>NN.DN</frame></example>
+<example><text>Man schmeckt das Curry in der Soße.</text> <frame>NN.AN</frame></example>
+<example><text>Der Brei schmeckte nach Banane.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.166" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.166.kosten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kosten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.166.gustieren" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>gustieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Sie kostete den Nudelauflauf.</text> <frame>NN.AN</frame></example>
+<example><text>Er kostet gerne von den Speisen anderer Kulturen.</text> <frame>NN.PP</frame></example>
+<example><text>Er gustierte den Wein.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.167" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.167.versuchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>versuchen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.167.probieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>probieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Sie hat Pferdefleisch probiert.</text> <frame>NN.AN</frame></example>
+<example><text>Sie versuchte seinen ersten Kuchen.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.168" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.168.verkosten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verkosten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>prüfend probieren</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie verkosteten den Wein.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.169" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.169.abschmecken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abschmecken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.169.würzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>würzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BS</frame>
+</frames>
+<examples>
+<example><text>Sie schmeckte das Salatdressing ab.</text> <frame>NN.AN</frame></example>
+<example><text>Er würzte die Soße mit Curry.</text> <frame>NN.AN.BS</frame></example>
+<example><text>Sie würzte das Grillfleisch.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.170" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.170.salzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>salzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Nach dem Säubern und Säuern muss man den Fisch salzen.</text> <frame>NN.AN</frame></example>
+<example><text>Sie salzte die Suppe.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.171" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.171.pfeffern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pfeffern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Diese geschmacklosen Tomaten sollten wir besser pfeffern.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.172" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.172.säuern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>säuern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Den Fisch sollten Sie mit Zitrone säuern.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.173" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.173.versalzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>versalzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er hat die Suppe total versalzen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.174" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.174.süßen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>süßen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Den Pudding muss man nicht mehr süßen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.175" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.175.zuckern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zuckern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Ich würde die Erdbeeren noch etwas zuckern.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.176" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="ja" id="vPerzeption.176.verursacht_Wahrnehmung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verursacht_Wahrnehmung</orthForm>
+</lexUnit>
+<frames>
+<frame>30</frame>
+</frames>
+</synset>
+<synset id="vPerzeption.177" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.177.klingen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klingen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.177.tönen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tönen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.177.schallen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schallen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.AN.BL</frame>
+<frame>NN.BL</frame>
+</frames>
+<paraphrases>
+<paraphrase>einen hellen, eine kurze Weile hallenden Ton/Klang hervorbringen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Die Gläser klingen beim Anstoßen.</text> <frame>NN.PP</frame></example>
+<example><text>Aus der Halle tönte Rockmusik.</text> <frame>NN.AN.BL</frame></example>
+<example><text>Lautes Lachen schallte aus der Kneipe.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.178" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.178.klingen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>klingen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>einen bestimmte Klang haben</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Das Echo klingt hohl.</text> <frame>NN.BM</frame></example>
+<example><text>Seine Stimme klang traurig.</text> <frame>NN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.179" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.179.abklingen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abklingen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example><text>Die Musik klingt langsam ab.</text> <frame>NN.BM</frame></example>
+<example><text>Der Straßenlärm klingt um 23 Uhr ab.</text> <frame>NN.BT</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.180" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.180.ausklingen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausklingen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Das Glockengeläut war ausgeklungen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.181" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.181.verklingen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verklingen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Das Liedchen des Mädchens verklang.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.182" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.182.gellen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gellen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Der Schrei der Fledermäuse gellte durch die Nacht.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.183" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.183.schrillen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schrillen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example><text>Die Alarmglocken schrillten.</text> <frame>NN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.184" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.184.klingen3" orthVar="nein" sense="3" stilMarkierung="nein">
+<orthForm>klingen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>(durch seinen Klang) etwas Bestimmtes ausdrücken</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er klingt zuversichtlich.</text> <frame>NN.BM</frame></example>
+<example><text>Das klingt nach Ärger.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.185" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.185.anhören2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>anhören</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich anhören</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Seine Stimme hört sich erkältet an.</text>
+</example>
+<example>
+<text>Sie hörte sich deprimiert an.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.186" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="ja" id="vPerzeption.186.allg_Geräusch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>allg_Geräusch</orthForm>
+</lexUnit>
+<frames>
+<frame>30</frame>
+</frames>
+<paraphrases>
+<paraphrase>etwas Unbelebtes macht ein Geräusch</paraphrase>
+</paraphrases>
+</synset>
+<synset id="vPerzeption.187" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.187.ertönen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ertönen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Bl</frame>
+</frames>
+<examples>
+<example>
+<text>Eine Stimme ertönte (aus dem Zimmer)</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.188" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.188.übertönen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>übertönen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Seine Stimme übertöne den Lärm.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.189" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.189.erschallen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erschallen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Bl</frame>
+</frames>
+<examples>
+<example>
+<text>Das Gelächter der Kinder erschallte (im Flur).</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.190" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.190.erklingen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erklingen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Bl</frame>
+</frames>
+<examples>
+<example>
+<text>Der Chor erklang (in der Kirche).</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.191" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.191.lärmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lärmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Maschinen lärmen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.192" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.192.tröten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tröten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Er trötet auf einem Kamm.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.193" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.193.brausen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>brausen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+<frame>NN</frame>
+</frames>
+<examples>
+<example><text>Der Wind braust in den Blättern der Bäume.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.194" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.194.hallen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hallen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Die Stimmen hallten in der Unterführung.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.195" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.195.widerhallen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>widerhallen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.195.echoen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>echoen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Die Wände hallten ihren Schrei wider.</text> <frame>NN.ANDerKnallhalltevondenBergenwider.NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.196" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.196.klingen4" orthVar="nein" sense="4" stilMarkierung="nein">
+<orthForm>klingen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>ein helles Geräusch machen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Die Kristallgläser klingen beim Anstoßen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.197" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.197.klingeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klingeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.197.bimmeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bimmeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.197.läuen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>läuen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.197.schellen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schellen</orthForm>
+</lexUnit>
+<frames>
+<frame>NE.PP</frame>
+<frame>NN.BM</frame>
+<frame>NN.AN.BL</frame>
+</frames>
+<examples>
+<example><text>Es klingelt an der Haustür.</text> <frame>NE.PP</frame></example>
+<example><text>Das Telefon klingelt ununterbrochen.</text> <frame>NN.BM</frame></example>
+<example><text>Sein Wecker klingelt ihn jeden Morgen aus dem Bett.</text> <frame>NN.AN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.198" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.198.klirren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klirren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Pp</frame>
+</frames>
+<examples>
+<example>
+<text>(Auf dem Hochzeitsfest) klirrten die Gläser.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.199" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.199.klimpern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klimpern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BS</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Das Kind klimperte mit den Schlüsseln.</text> <frame>NN.BS</frame></example>
+<example>
+<text></text>
+</example>
+<example><text>Die Münzen im Geldbeutel klimpern.</text> <frame>NN</frame></example>
+<example><text>Er klimpert auf der Gitarre.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.200" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.200.klicken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klicken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.200.klickern" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>klickern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+<frame>NN</frame>
+<frame>NN.BS</frame>
+</frames>
+<examples>
+<example><text>Er klickte mit der Maus auf das Symbol am Bildschirm.</text> <frame>???NN.BS.BL</frame></example>
+<example><text>Die Kamera klickte.</text> <frame>NN</frame></example>
+<example><text>Sie klickte mit ihrem Kuli.</text> <frame>NN.BS</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.201" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.201.krachen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>krachen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Ein Donnerschlag krachte.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.202" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.202.donnern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>donnern</orthForm>
+</lexUnit>
+<frames>
+<frame>NE</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Es donnerte und blitzte.</text> <frame>NE</frame></example>
+<example><text>Die Flugzeuge donnern über das Dorf hinweg.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.203" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.203.poltern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>poltern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.203.rummeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rummeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Die neuen Nachbarn polterten den ganzen Abend auf dem Dach.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.204" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.204.ächzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ächzen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.204.stöhnen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stöhnen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.BC</frame>
+</frames>
+<examples>
+<example><text>Der uralte Schrank ächzt unter der Last</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.205" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.205.quietschen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>quietschen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+<frame>NN</frame>
+</frames>
+<examples>
+<example><text>Die Türe quietscht in den Angeln.</text> <frame>NN.BL</frame></example>
+<example><text>Die Reifen des Wagens quietschten.</text> <frame>NN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.206" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.206.murmeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>murmeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.206.plätschern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>plätschern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.206.säuseln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>säuseln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Das Bächlein murmelt.</text> <frame>NN</frame></example>
+<example><text>Das Wasser plätschert den Berg hinunter.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.207" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.207.gluckern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gluckern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.207.glucksen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>glucksen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Die Wärmflasche gluckert.</text> <frame>NN</frame></example>
+<example><text>Das Wasser gluckert in den Rohren.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.208" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.208.blubbern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blubbern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Der Spinat blubberte im Topf.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.209" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.209.gurgeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gurgeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Das Wasser im Brunnen gurgelte.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.210" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.210.sprudeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sprudeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Bl</frame>
+</frames>
+<examples>
+<example>
+<text>Die Limonade sprudelt (im Glas).</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.211" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.211.tuten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tuten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.211.blasen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blasen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>eine Hupe/ein Horn o.ä. laut ertönen lassen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Das Alpenhorn tutet.</text> <frame>NN</frame></example>
+<example><text>Die Trompete blies zum Morgenappell.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.212" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.212.trompeten2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>trompeten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Bl</frame>
+</frames>
+<examples>
+<example>
+<text>Die Musikanten trompeten (auf der Bühne).</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.213" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.213.hupen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hupen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Der Autofahrer hupte hysterisch.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.214" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.214.knarren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>knarren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.214.knarzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>knarzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Parkettboden knarrt.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.215" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.215.knistern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>knistern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Bl</frame>
+<frame>NN.BS</frame>
+</frames>
+<examples>
+<example><text>Das Feuer knistert (im Kamin).</text> <frame>NN.BL</frame></example>
+<example><text>Er knistert mit dem Papier.</text> <frame>NN.BS</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.216" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.216.knacken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>knacken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.216.knacksen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>knacksen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN</frame>
+</frames>
+<examples>
+<example><text>Die Holztreppe knackt unter seinen Schritten.</text> <frame>NN.PP</frame></example>
+<example><text>Das Telefon knackt.</text> <frame>NN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.217" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.217.klacken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klacken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.BA</frame>
+</frames>
+<paraphrases>
+<paraphrase>kurzer, harter Laut</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Die Kugel klackte an die Fensterscheibe.</text> <frame>NN.PP</frame></example>
+<example><text>Etwas hier klackt ganz laut.</text> <frame>NN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.218" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.218.klackern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klackern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.BA</frame>
+</frames>
+<paraphrases>
+<paraphrase>wiederholte kurze harte Töne</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Seine Absätze klackerten laut.</text> <frame>NN.BA</frame></example>
+<example><text>Die roten Fingernägel klackerten auf dem Tresen.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.219" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.219.knallen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>knallen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.219.böllern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>böllern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.219.ballern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ballern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Bl</frame>
+<frame>NN</frame>
+<frame>NE</frame>
+<frame>NN.BS</frame>
+<frame>NE.PP</frame>
+</frames>
+<examples>
+<example><text>Die Tür knallte.</text> <frame>NN</frame></example>
+<example><text>Ein Schuss knallte (im Park).</text> <frame>NN.Bl</frame></example>
+<example><text>Irgendwo hatte es geknallt.</text> <frame>NE</frame></example>
+<example><text>Die Kinder ballern mit ihren Spielzeugpistolen.</text> <frame>NN.BS</frame></example>
+<example><text>An Sylvester wurde bis lange nach Mitternacht geböllert.</text> <frame>NE.PP.BT</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.220" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.220.knallen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>knallen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Durch den Luftzug knallten die Fenster.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.221" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.221.zuknallen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zuknallen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.221.zuballern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zuballern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BL</frame>
+<frame>NN.AN.BM</frame>
+</frames>
+<examples>
+<example><text>Sie knallte die Tür hinter sich zu.</text> <frame>NN.AN.BL</frame></example>
+<example><text>Er ballerte wütend das Garagentor zu.</text> <frame>NN.AN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.222" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.222.surren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>surren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.222.schnurren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schnurren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example><text>Die Bohrmaschine surrt höllisch laut.</text> <frame>NN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.223" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.223.singen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>singen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Die Spindel singt in ihren Händen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.224" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.224.brummen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>brummen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.224.summen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>summen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Diese Geräte brummen sehr stark.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.225" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.225.säuseln2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>säuseln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Der Wind säuselt leise.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.226" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.226.rascheln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rascheln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Die Herbstblätter rascheln im Wind</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.227" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.227.rauschen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rauschen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Wasserfall rauscht.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.228" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.228.dröhnen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dröhnen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DN.BL</frame>
+<frame>NN.BC</frame>
+</frames>
+<examples>
+<example><text>Das Geschrei der Kinder dröhnt ihm in den Ohren.</text> <frame>NN.DN.BL</frame></example>
+<example><text>Die Fabrikhalle dröhnt vom Krach der Maschinen.</text> <frame>NN.BC</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.229" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.229.klappern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klappern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Fensterläden klappern.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.230" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.230.scheppern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>scheppern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Die Töpfe scheppern in der Spülmaschine.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.231" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.231.pochen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pochen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.231.klopfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klopfen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.231.bumpern" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>bumpern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.231.pumpern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pumpern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+<frame>NN.Bl</frame>
+</frames>
+<examples>
+<example><text>Ihr Herz pochte wie wild.</text> <frame>NN.BM</frame></example>
+<example><text>Es klopft (an der Tür).</text> <frame>NN.Bl</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.232" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.232.bumsen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>bumsen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.232.bumpsen" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>bumpsen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.232.rumsen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>rumsen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP.BL</frame>
+<frame>NE</frame>
+</frames>
+<examples>
+<example><text>Er bumste mit dem Fuß gegen das Tor.</text> <frame>NN.PP.BL</frame></example>
+<example><text>Als das Auto gegen das Haus prallte, bumste es.</text> <frame>NE</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.233" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.233.rasseln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rasseln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BS</frame>
+</frames>
+<examples>
+<example>
+<text>Das Baby rasselte mit seinem Spielzeug.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.234" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.234.rappeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rappeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Das Auto rappelt beim Gasgeben.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.235" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.235.ticken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ticken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Der Wecker tickt sehr laut.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.236" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.236.knattern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>knattern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.236.knöttern" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>knöttern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.236.röhren2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>röhren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP.BL</frame>
+<frame>NN</frame>
+</frames>
+<examples>
+<example><text>Die Jugendlichen knattern mit ihren Mopeds durch die Straßen.</text> <frame>NN.PP.BL</frame></example>
+<example><text>Die Maschinengewehre knatterten.</text> <frame>NN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.237" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.237.rumpeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rumpeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Die U-Bahn rumpelt.</text> <frame>NN</frame></example>
+<example><text>Die Pferdekutsche rumpelte durch die Gassen.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.238" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.238.rumoren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rumoren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NE</frame>
+</frames>
+<examples>
+<example><text>Sein Bauch rumort.</text> <frame>NN</frame></example>
+<example><text>Unterm Dach rumorte es.</text> <frame>???NE.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.239" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.239.schlagen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schlagen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Die Glocken schlagen.</text> <frame>NN</frame></example>
+<example><text>Der Hagel schlägt auf die Fenster.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.240" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.240.explodieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>explodieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Bl</frame>
+</frames>
+<examples>
+<example>
+<text>Die Autobombe explodierte (vor der Botschaft).</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.241" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.241.zischen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zischen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Das Bier zischt im Glas.</text> <frame>NN.BL</frame></example>
+<example><text>Die Flasche zischte beim Öffnen.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.242" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.242.läuten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>läuten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NE.PP</frame>
+</frames>
+<examples>
+<example><text>Die Küchenuhr läutet.</text> <frame>NN</frame></example>
+<example><text>Es läutet an der Haustür.</text> <frame>NE.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.243" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.243.gongen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gongen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NE.PP</frame>
+</frames>
+<examples>
+<example><text>Es gongte an der Eingangstür.</text> <frame>NE.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.244" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.244.kreischen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kreischen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BC</frame>
+</frames>
+<examples>
+<example><text>Die Säge kreischt laut.</text> <frame>NN</frame></example>
+<example><text>Die Frau kreischte vor Angst.</text> <frame>NN.BC</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.245" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.245.schnaufen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schnaufen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example><text>Die Lokomotive schnauft laut.</text> <frame>NN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.246" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.246.pfeifen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pfeifen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Beim Atmen pfeift es in meiner Lunge.</text> <frame>NN.PP</frame></example>
+<example><text>Der Junge pfeift durch die Zähne.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.247" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.247.keifen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>keifen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Unsere Nachbarin keift ununterbrochen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.248" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.248.klagen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>klagen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.AN.DN</frame>
+</frames>
+<examples>
+<example><text>Die Frau klagt über ihre toten Kinder.</text> <frame>NN.PP</frame></example>
+<example><text>Sie klagt ihm ihr Leid.</text> <frame>NN.AN.DN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.249" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.249.knurren2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>knurren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Dn</frame>
+</frames>
+<examples>
+<example>
+<text>Mein Magen knurrt (mir).</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.250" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.250.brummen3" orthVar="nein" sense="3" stilMarkierung="nein">
+<orthForm>brummen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Er brummte eine Antwort ins Telefon.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.251" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.251.heulen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>heulen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Sirenen der Feuerwehr heulten.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.252" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.252.schreien2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>schreien</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Das Baby schreit hysterisch.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.253" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.253.schnauben2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>schnauben</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BC</frame>
+</frames>
+<examples>
+<example>
+<text>Ihr Vater schnaubte vor Wut.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.254" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.254.wimmern2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>wimmern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BC</frame>
+</frames>
+<examples>
+<example>
+<text>Die Frau wimmerte vor Schmerzen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.255" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.255.buhen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>buhen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.255.pfeifen3" orthVar="nein" sense="3" stilMarkierung="nein">
+<orthForm>pfeifen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example><text>Die enttäuschten Fans buhten empört.</text> <frame>NN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.256" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.256.gicksen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gicksen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.256.gieksen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gieksen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.256.giksen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>giksen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.256.kicksen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kicksen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BA</frame>
+<frame>NN.BC</frame>
+</frames>
+<paraphrases>
+<paraphrase>mit der Stimme überschnacken</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Das Kind gickste vor Vergnügen.</text> <frame>NN.BC</frame></example>
+<example><text>Die Leute gieksten laut.</text> <frame>NN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.257" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="ja" id="vPerzeption.257.Tiergeräusch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tiergeräusch</orthForm>
+</lexUnit>
+<frames>
+<frame>30</frame>
+</frames>
+</synset>
+<synset id="vPerzeption.258" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.258.schnurren2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>schnurren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BC</frame>
+</frames>
+<examples>
+<example><text>Die Katze schnurrt.</text> <frame>NN</frame></example>
+<example><text>Der Kater schnurrt vor Behagen.</text> <frame>NN.BC</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.259" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.259.trillern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trillern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Kanarienvogel trillert sein Liedchen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.260" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.260.klagen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klagen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Der angeschossene Hirsch klagt am Boden.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.261" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.261.fiepen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fiepen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Das kleine Hündchen fiepte so niedlich.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.262" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.262.fauchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fauchen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example><text>Der Tiger fauchte furchteinflößend.</text> <frame>NN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.263" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.263.blöken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blöken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.263.bähen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bähen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Bl</frame>
+</frames>
+<examples>
+<example>
+<text>Die Schafe blöken (auf der Weide).</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.264" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.264.schnattern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schnattern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BC</frame>
+</frames>
+<examples>
+<example>
+<text>Die Gänse schnattern vor Aufregung.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.265" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.265.meckern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>meckern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Ziegen meckern.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.266" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.266.krächzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>krächzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Raben krächzen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.267" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.267.zirpen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zirpen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Bl</frame>
+</frames>
+<examples>
+<example>
+<text>Die Grillen zirpen (im Gras).</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.268" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.268.gurren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gurren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.268.girren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>girren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Bl</frame>
+</frames>
+<examples>
+<example>
+<text>(Auf dem Dach) gurren die Tauben.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.269" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.269.knurren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>knurren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Der Hund knurrte gefährlich.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.270" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.270.grunzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grunzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Bl</frame>
+</frames>
+<examples>
+<example>
+<text>Die Schweine (im Stall) grunzen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.271" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.271.brummen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>brummen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Der Käfer brummte durchs Zimmer.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.272" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.272.ätschen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ätschen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BA</frame>
+</frames>
+<paraphrases>
+<paraphrase>jägersprachlich für Bekassinenlaut</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Die Sumpfschnepfen ätschten erbärmlich.</text> <frame>NN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.273" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.273.heulen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>heulen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Wölfe heulen wieder.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.274" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.274.muhen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>muhen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Auf der Alm muhten die Kühe.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.275" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.275.miauen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>miauen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.275.maunzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>maunzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Die Kätzchen miauten leise.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.276" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.276.iahen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>iahen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example><text>Der Esel iahte störrisch.</text> <frame>NN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.277" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.277.wiehern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wiehern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BC</frame>
+</frames>
+<examples>
+<example>
+<text>Das Pferd wieherte vor Freude.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.278" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.278.schreien" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schreien</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Die Möwen schreien unaufhörlich.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.279" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.279.röhren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>röhren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.279.orgeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>orgeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BA</frame>
+</frames>
+<examples>
+<example><text>Die Hirsche röhren laut.</text> <frame>NN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.280" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.280.piepsen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>piepsen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.280.piepen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>piepen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Die jungen Vögel im Nest piepsten.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.281" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.281.quaken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>quaken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Die Frösche im Teich quakten fröhlich.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.282" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.282.schnauben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schnauben</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BC</frame>
+</frames>
+<examples>
+<example>
+<text>Der Stier schnaubte vor Wut.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.283" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.283.quieken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>quieken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.283.quieksen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>quieksen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example>
+<text>Die Mäuse quiekten die ganze Nacht.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.284" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.284.quorren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>quorren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.284.quarren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>quarren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BA</frame>
+</frames>
+<examples>
+<example><text>Die Schnepfen quorren unaufhörlich.</text> <frame>NN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.285" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.285.oinken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>oinken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Die Ferkel oinkten vergnügt.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.286" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.286.zwitschern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zwitschern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Die Vögel zwitscherten fröhlich ein Lied.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.287" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.287.tirilieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tirilieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<paraphrases>
+<paraphrase>bei Vögeln</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Die Vöglein tirilieren.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.288" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.288.tschilpen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tschilpen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.288.schilpen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schilpen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<paraphrases>
+<paraphrase>bei Vögeln</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Hansi tschilpt heute sehr laut.</text> <frame>NN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.289" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.289.singen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>singen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Finken sangen ihr Liedchen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.290" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.290.wimmern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wimmern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Die jungen Hunde wimmerten hilflos in ihrem Körbchen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.291" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.291.kläffen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kläffen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.291.bellen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>bellen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Der Hund kläffte aufgeregt.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.292" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.292.jaulen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>jaulen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example>
+<text>Die Katzen jaulten die ganze Nacht hindurch.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.293" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.293.trompeten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trompeten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Elefanten trompeten.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.294" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.294.rufen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rufen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<paraphrases>
+<paraphrase>seine Stimme weit hallend ertönen lassen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Der Kuckuck ruft.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.295" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.295.pfeifen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>pfeifen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Spatzen pfeifen ihr Liedchen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.296" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.296.krähen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>krähen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example>
+<text>Der Hahn kräht jeden Morgen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.297" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.297.riechen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>riechen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+<frame>NN.BL</frame>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>Einen Geruch ausstoßen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Der Käse riecht eklig.</text> <frame>NN.BM</frame></example>
+<example><text>Sie riecht aus dem Mund.</text> <frame>NN.BL</frame></example>
+<example><text>Das Essen roch nach Knoblauch.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.298" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.298.stinken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stinken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Der Fisch stinkt.</text> <frame>NN</frame></example>
+<example><text>Das Wasser stinkt nach Urin.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.299" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.299.miefen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>miefen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.299.muffeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>muffeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.299.müffeln" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>müffeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.299.riechen3" orthVar="nein" sense="3" stilMarkierung="nein">
+<orthForm>riechen</orthForm>
+</lexUnit>
+<frames>
+<frame>NE.PP</frame>
+<frame>NN</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Auf dem Dachboden muffelt es.</text> <frame>????NE.BL</frame></example>
+<example><text>Deine Kleider miefen.</text> <frame>NN</frame></example>
+<example><text>Du müffelst nach Schweiß.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.300" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.300.duften" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>duften</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BM</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Die Orchideen duften.</text> <frame>NN</frame></example>
+<example><text>Das Essen duftet verführerisch.</text> <frame>NN.BM</frame></example>
+<example><text>In der Kirche duftet es nach Weihrauch.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.301" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="ja" id="vPerzeption.301.Licht_aussenden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Licht_aussenden</orthForm>
+</lexUnit>
+<frames>
+<frame>30</frame>
+</frames>
+<paraphrases>
+<paraphrase>Ein optisches Signal aussenden</paraphrase>
+</paraphrases>
+</synset>
+<synset id="vPerzeption.302" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="ja" id="vPerzeption.302.Licht_aussenden2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Licht_aussenden</orthForm>
+</lexUnit>
+<frames>
+<frame>30</frame>
+</frames>
+<paraphrases>
+<paraphrase>passivisch</paraphrase>
+</paraphrases>
+</synset>
+<synset id="vPerzeption.303" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.303.spielen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spielen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Der Edelstein spielt in allen Farben.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.304" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.304.schimmern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schimmern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.304.schillern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schillern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example><text>Der Kristall schillert in allen Farben.</text> <frame>NN.PP</frame></example>
+<example><text>Der Knopf schimmert wie Perlmutt.</text> <frame>NN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.305" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.305.leuchten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leuchten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BC</frame>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>Die Farben ihres Kleides leuchteten.</text> <frame>NN</frame></example>
+<example><text>Seine Augen leuchteten vor Freude.</text> <frame>NN.BC</frame></example>
+<example><text>Das Monument leuchtete im Mondlicht.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.306" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.306.sternen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>sternen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<paraphrases>
+<paraphrase>wie die Sterne leuchten</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Der Schnee sternt.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.307" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.307.strahlen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>strahlen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BC</frame>
+</frames>
+<examples>
+<example><text>Die Sonne strahlt.</text> <frame>NN</frame></example>
+<example><text>Ihre Augen strahlen vor Stolz.</text> <frame>NN.BC</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.308" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.308.erstrahlen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erstrahlen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example><text>Jeden Dezember erstrahlt die Stadt in vollem Glanz.</text> <frame>NN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.309" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.309.aufleuchten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufleuchten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.309.aufscheinen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufscheinen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<paraphrases>
+<paraphrase>hell werden und bleiben</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Wenn das Warnlicht aufleuchtet, sollten Sie die Maschine sofort ausstellen.</text> <frame>NN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.310" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.310.aufblitzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufblitzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<paraphrases>
+<paraphrase>ganz kurz hell werden</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Der Bildschirm blitzte auf und wurde sofort wieder dunkel.</text> <frame>NN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.311" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.311.flackern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>flackern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Bl</frame>
+</frames>
+<examples>
+<example>
+<text>Das Feuer flackerte.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.312" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.312.blinken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blinken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Bl</frame>
+</frames>
+<examples>
+<example>
+<text>Das Licht vom Leuchtturm blinkt nicht mehr.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.313" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.313.funkeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>funkeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Sterne funkeln.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.314" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.314.glimmern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>glimmern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Das Diskolicht glimmert.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.315" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.315.blitzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blitzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BC</frame>
+<frame>NE</frame>
+</frames>
+<examples>
+<example><text>Die Fenster blitzten vor Sauberkeit.</text> <frame>NN.BC</frame></example>
+<example><text>Heute Nacht hat es geblitzt.</text> <frame>NE</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.316" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.316.glitzern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>glitzern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Diamanten glitzerten.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.317" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.317.glänzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>glänzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BC</frame>
+</frames>
+<examples>
+<example><text>Seine Schuhe glänzen.</text> <frame>NN</frame></example>
+<example><text>Sie glänzte vor Glück.</text> <frame>NN.BC</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.318" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.318.glühen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>glühen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BC</frame>
+<frame>NN</frame>
+</frames>
+<examples>
+<example><text>Seine Backen glühten vor Anstrengung.</text> <frame>NN.BC</frame></example>
+<example><text>Die Grillkohle glühte.</text> <frame>NN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.319" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.319.verbergen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verbergen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+<frame>NN.AN.BL</frame>
+</frames>
+<paraphrases>
+<paraphrase>etwas der Sicht entziehen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Die Bäume verbergen den Blick auf den See.</text> <frame>NN.AN.BL</frame></example>
+<example><text>Er verbirgt das Buch hinter seinem Rücken.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.320" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.320.verdecken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verdecken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BS</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Sie verdeckte schnell die Rechnung mit einem Ordner.</text> <frame>NN.AN.BS</frame></example>
+<example><text>Das Kopftuch verdeckt ihr ganzes Gesicht.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.321" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.321.zuhängen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zuhängen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie hängte den Vogelkäfig zu.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.322" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.322.kaschieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kaschieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Er kaschiert seine Unsicherheit hinter markigen Sprüchen.</text> <frame>NN.AN.PP</frame></example>
+<example><text>Ich kann mein Übergewicht gut kaschieren.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.323" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.323.verhüllen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verhüllen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BS</frame>
+</frames>
+<examples>
+<example><text>Sie verhüllten das neue Modell.</text> <frame>NN.AN</frame></example>
+<example><text>Sie verhüllte ihr Gesicht mit einem Schleier.</text> <frame>NN.AN.BS</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.324" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.324.vermummen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vermummen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.324.vermummeln" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>vermummeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DR</frame>
+</frames>
+<examples>
+<example>
+<text>Die Demonstranten hatten sich das Gesicht vermummt.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.325" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.325.abschirmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abschirmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+<frame>NN.AN.BS</frame>
+</frames>
+<examples>
+<example><text>Verdunkelte Fenster schirmten sie vor neugierigen Blicken ab.</text> <frame>NN.AN.PP</frame></example>
+<example><text>Er schirmte sein Gesicht mit einer Zeitung ab.</text> <frame>NN.AN.BS</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.326" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.326.bedecken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bedecken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BS</frame>
+</frames>
+<examples>
+<example>
+<text>Sie bedeckte den Tortenboden mit Kirschen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.327" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.327.verkleiden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verkleiden</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.327.kostümieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kostümieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BR</frame>
+<frame>NN.AR.BS</frame>
+</frames>
+<examples>
+<example><text>Sie verkleidet sich als Clown.</text> <frame>NN.AR.BR</frame></example>
+<example><text>Er verkleidete sich mit alten Klamotten.</text> <frame>NN.AR.BS</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.328" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.328.maskieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>maskieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BS</frame>
+</frames>
+<examples>
+<example>
+<text>Die Bankräuber hatten sich mit Motorradhelmen maskiert.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.329" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.329.camouflieren" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>camouflieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er camoufliert seine wahren Absichten.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.330" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.330.verschleiern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verschleiern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.DR</frame>
+</frames>
+<examples>
+<example><text>Der Präsident verschleierte die Affäre.</text> <frame>NN.AN</frame></example>
+<example><text>Sie verschleierte sich das Gesicht.</text> <frame>NN.AN.DR</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.331" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.331.tarnen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tarnen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AR.BR</frame>
+</frames>
+<examples>
+<example><text>Die Polizei tarnt die Radarfalle.</text> <frame>NN.AN</frame></example>
+<example><text>Der Spion hatte sich als Amerikaner getarnt.</text> <frame>NN.AR.BR</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.332" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.332.vertuschen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vertuschen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.332.verdunkeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verdunkeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BA</frame>
+</frames>
+<examples>
+<example><text>Seine Vergangenheit als Nazirichter wollte er nur zu gern vertuschen.</text> <frame>NN.AN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.333" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.333.anonymisieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anonymisieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>anonym machen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie anonymisierten die jugendlichen Straftäter.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.334" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.334.verstecken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verstecken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BL</frame>
+<frame>NN.AN.PP</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Der Junge versteckte sich im Keller.</text> <frame>NN.AR.BL</frame></example>
+<example><text>Sie versteckte die Fotos vor ihrem Mann.</text> <frame>NN.AN.PP</frame></example>
+<example><text>Ihr Vater hatte die Kreditkarte versteckt.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.335" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.335.vergraben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vergraben</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.Bl</frame>
+</frames>
+<examples>
+<example>
+<text>Sie hat den Schatz (im Garten) vergraben.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.336" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.336.vernebeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vernebeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Rauch vernebelt die Sicht.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.337" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.337.absondern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>absondern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.337.abschotten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abschotten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.337.abkapseln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abkapseln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.Pp</frame>
+<frame>NN.AR.BT</frame>
+</frames>
+<examples>
+<example><text>Sie sondert sich immer mehr (von den anderen) ab.</text> <frame>NN.AR.Pp</frame></example>
+<example><text>Er schottet sich am Wochenende gerne ab.</text> <frame>NN.AR.BT</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.338" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.338.abschließen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abschließen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Sie schließt sich von der Welt ab.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.339" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.339.ausschließen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausschließen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich fernhalten/absondern, nicht mitmachen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Du schließt dich immer von den Treffen aus.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.340" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.340.zeigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zeigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DN</frame>
+<frame>NN.BL</frame>
+<frame>NN.AN.BS</frame>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>jemanden etwas ansehen lassen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Das Kind zeigte ihm seine Zeichnung.</text> <frame>NN.AN.DN</frame></example>
+<example><text>Der Mann zeigte auf den Täter.</text> <frame>NN.BL</frame></example>
+<example><text>Er zeigte mit dem Stock auf den Vogel.</text> <frame>NN.AN.BS</frame></example>
+<example><text>Sie zeigte keine Gefühle.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.341" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.341.vorzeigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorzeigen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.341.herzeigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herzeigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie zeigte ihren Studentenausweis vor.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.342" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.342.herumzeigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herumzeigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BL</frame>
+</frames>
+<examples>
+<example>
+<text>Sie zeigte ihre Urlaubsfotos im Büro herum.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.343" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.343.vorweisen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorweisen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie musste ihr Zeugnis vorweisen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.344" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.344.weisen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weisen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DN</frame>
+<frame>NN.AN.BS</frame>
+<frame>NN.AN.BL</frame>
+</frames>
+<paraphrases>
+<paraphrase>(auf etwas) zeigen, deuten</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er wies dem Fremden den Weg.</text> <frame>NN.AN.DN</frame></example>
+<example><text>Er wies mit der Hand auf eines der Häuser.</text> <frame>NN.AN.BS</frame></example>
+<example><text>Die Schilder weisen den Weg zum Kongresszentrum.</text> <frame>NN.AN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.345" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.345.deuten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>deuten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+<frame>NN.PP.BL</frame>
+</frames>
+<examples>
+<example><text>Sie deutete auf das gelbe Haus.</text> <frame>NN.BL</frame></example>
+<example><text>Er deutet mit dem Finger auf die junge Frau.</text> <frame>NN.PP.BL</frame></example>
+<example><text>Die neuen Beweise deuteten auf einen anderen Verdächtigen.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.346" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.346.hindeuten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hindeuten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Sein Verhalten deutet auf eine Neigung zur Pädophilie hin.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.347" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.347.aufweisen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufweisen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Ware weist Mängel auf.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.348" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.348.hinausweisen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hinausweisen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Der Kellner wies ihn zur Tür hinaus.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.349" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.349.verweisen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verweisen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.349.hinweisen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hinweisen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>aufmerksam machen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Ein Schild verweist auf den Tagungsraum.</text> <frame>NN.BL</frame></example>
+<example><text>Das Merkblatt weist auf Risiken hin.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.350" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.350.zeigen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>zeigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NE.AR</frame>
+</frames>
+<paraphrases>
+<paraphrase>klar werden</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Es zeigt sich, dass die Rechnung falsch war.</text> <frame>NE.AR</frame></example>
+<example><text>Es zeigt sich später, wer richtig gehandelt hat.</text> <frame>NE.AR</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.351" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.351.herausstellen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herausstellen</orthForm>
+</lexUnit>
+<frames>
+<frame>NE.AR</frame>
+<frame>NN.AR.BR</frame>
+</frames>
+<examples>
+<example><text>Es stellte sich heraus, dass er unschuldig war.</text> <frame>NE.AR</frame></example>
+<example><text>Der Film stellte sich als Flop heraus.</text> <frame>NN.AR.BR</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.352" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.352.auffliegen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auffliegen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BR</frame>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example><text>Die Untergrundorganisation flog als Mittäter auf.</text> <frame>NN.BR</frame></example>
+<example><text>Diese üblen Machenschaften müssen endlich mal auffliegen.</text> <frame>NN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.353" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.353.herauskristallisieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herauskristallisieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NE.AR</frame>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example><text>Es kristallisierte sich heraus, wer Herr der Lage war.</text> <frame>NE.AR</frame></example>
+<example><text>Der wahre Meister kristallisierte sich bald heraus.</text> <frame>NN.BT</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.354" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.354.entscheiden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entscheiden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BT</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich endgültig herausstellen/zeigen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Morgen wird sich alles entscheiden.</text> <frame>NN.AR.BT</frame></example>
+<example><text>Der Kampf wird den Nachfolger entscheiden.</text> <frame>NN.AN</frame></example>
+<example><text>Der Test entscheidet, wer für den Posten geeignet ist.</text> <frame>???NN</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.355" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.355.beweisen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beweisen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>erkennen, sichtbar/offenbar werden lassen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie bewies Großmut.</text> <frame>NN.AN</frame></example>
+<example><text>Der Brief bewies die Schuld des Angeklagten.</text> <frame>NN.AN</frame></example>
+<example>
+<text>Sein Verhalten beweist, dass er nicht zurechnungsfähig ist.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.356" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.356.zeigen3" orthVar="nein" sense="3" stilMarkierung="nein">
+<orthForm>zeigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+<frame>NE.AR</frame>
+<frame>NN.AR.BL</frame>
+</frames>
+<paraphrases>
+<paraphrase>sichtbar werden</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Die ersten Knospen zeigen sich.</text> <frame>NN.AR</frame></example>
+<example><text>Es zeigte sich, dass sie sich in ihm getäuscht hatten.</text> <frame>NE.AR</frame></example>
+<example><text>Am Himmel zeigt sich der Mond.</text> <frame>NN.AR.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.357" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.357.manifestieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>manifestieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example><text>Seine wahren Absichten manifestierten sich in den frühen Schriften.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.358" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.358.spiegeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spiegeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.358.widerspiegeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>widerspiegeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BL</frame>
+</frames>
+<examples>
+<example><text>Die Enttäuschung spiegelte sich in seinem Gesicht wider.</text> <frame>NN.AR.BL</frame></example>
+<example><text>In ihren Augen spiegelten sich ihre wahren Gefühle.</text> <frame>NN.AR.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.359" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.359.auftauchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auftauchen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example><text>Am Horizont tauchte ein Schiff auf.</text> <frame>NN.BL</frame></example>
+<example><text>Nach drei Wochen tauchte er wieder auf.</text> <frame>NN.BT</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.360" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.360.auftreten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auftreten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<examples>
+<example><text>In diesen Ländern treten Seuchen schnell auf.</text> <frame>NN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.361" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.361.kommen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kommen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Die ersten Blüten kommen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.362" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.362.hervortreten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hervortreten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example><text>Die Sonne trat hinter den Bergen hervor.</text> <frame>NN.BL</frame></example>
+<example><text>Die roten Pusteln waren plötzlich aufgetreten.</text> <frame>NN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vPerzeption.363" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.363.springen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>springen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+</frames>
+<paraphrases>
+<paraphrase>spritzend/sprudelnd/sprühend (aus etwas) hervortreten</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Blut sprang aus der Wunde.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.364" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.364.präsentieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>präsentieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BR</frame>
+</frames>
+<examples>
+<example>
+<text>Er präsentierte sich als Wohltäter der Obdachlosen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.365" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.365.posieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>posieren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.365.posen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>posen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Er posierte für den Männerkalender.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.366" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.366.bieten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bieten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Unfall bot ein schreckliches Bild.</text>
+</example>
+</examples>
+</synset>
+<synset id="vPerzeption.367" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vPerzeption.367.darbieten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>darbieten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BL</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Ein herrlicher Blick auf das Tal bot sich dar.</text> <frame>NN.AR.BL</frame></example>
+</examples>
+</synset>
+</synsets>

@@ -1,0 +1,2503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd"[
+ ]>
+<synsets>
+<synset id="aPertonym.1" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.1.adverbial" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>adverbial</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.1.adverbiell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>adverbiell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.2" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.2.appositionell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>appositionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.3" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.3.arteriell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>arteriell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.4" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.4.bakteriell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bakteriell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.5" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.5.bronchial" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bronchial</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.6" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.6.dimensional" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dimensional</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.7" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.7.eindimensional" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eindimensional</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.8" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.8.zweidimensional" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zweidimensional</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.9" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.9.dreidimensional" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dreidimensional</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.10" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.10.plastisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>plastisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.11" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.11.experimental" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>experimental</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.11.experimentell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>experimentell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.12" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.12.selektiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>selektiv</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.12.auswählend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auswählend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.13" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.13.figural" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>figural</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.14" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.14.finanziell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>finanziell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.15" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.15.preislich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>preislich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.16" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.16.tariflich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tariflich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.17" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.17.wertmäßig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wertmäßig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.18" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.18.formal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>formal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.19" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.19.fraktionell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fraktionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.20" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.20.funktional" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>funktional</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.20.funktionell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>funktionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.21" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.21.vegetativ" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vegetativ</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>allen Lebewesen gemeinsam</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPertonym.22" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.22.hegemonial" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hegemonial</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.22.hegemonisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hegemonisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.23" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.23.zivilisatorisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zivilisatorisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.24" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.24.börslich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>börslich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.25" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.25.nachbörslich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nachbörslich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>nach Börsenschluss</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPertonym.26" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.26.nachrichtendienstlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nachrichtendienstlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.27" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.27.horizontal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>horizontal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.28" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.28.hormonal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hormonal</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.28.hormonell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hormonell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.29" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.29.industriell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>industriell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.30" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.30.informationell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>informationell</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.30.informativ" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>informativ</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.31" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.31.verfassungsmäßig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verfassungsmäßig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.32" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.32.versicherungstechnisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>versicherungstechnisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.32.versicherungsmäßig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>versicherungsmäßig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.33" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.33.medial" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>medial</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.34" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.34.infrastrukturell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>infrastrukturell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.35" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.35.institutionell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>institutionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.36" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.36.instrumental" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>instrumental</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.37" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.37.instrumentell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>instrumentell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.38" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.38.intentional" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>intentional</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.39" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.39.kantonal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kantonal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.40" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.40.katastrophal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>katastrophal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.41" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.41.pornografisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pornografisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.41.pornographisch" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>pornographisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.42" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.42.kolonial" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kolonial</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.43" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.43.kolossal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kolossal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.44" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.44.kommerziell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kommerziell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.45" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.45.kommunal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kommunal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.46" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.46.konditional" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konditional</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.46.konditionell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konditionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.47" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.47.konfessionell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konfessionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.48" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.48.föderal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>föderal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.49" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.49.föderalistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>föderalistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.50" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.50.zentralistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zentralistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.51" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.51.konjektural" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konjektural</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.52" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.52.konstitutionell1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konstitutionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.53" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.53.konstitutionell2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>konstitutionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.54" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.54.kontextuell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kontextuell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.55" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.55.konventionell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konventionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.56" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.56.konventional" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konventional</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.57" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.57.konzeptionell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konzeptionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.58" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.58.analytisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>analytisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.59" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.59.architektonisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>architektonisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.60" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.60.fikitv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fikitv</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.61" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.61.kulturell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kulturell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.62" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.62.rassisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rassisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.63" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.63.publizistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>publizistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.64" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.64.maschinell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>maschinell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.65" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.65.materiell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>materiell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.66" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.66.ministerial" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ministerial</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.67" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.67.ministeriell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ministeriell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.68" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.68.bischöflich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bischöflich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.69" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.69.erzbischöflich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erzbischöflich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.70" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.70.päpstlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>päpstlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.71" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.71.gerichtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gerichtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.72" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.72.außergerichtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>außergerichtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.73" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.73.staatsanwaltschaftlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>staatsanwaltschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.74" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.74.richterlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>richterlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.75" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.75.höchstrichterlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>höchstrichterlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.76" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.76.monumental" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>monumental</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.77" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.77.nasal1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nasal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.78" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.78.nasal2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>nasal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.79" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.79.national" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>national</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.80" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.80.bundesrepublikanisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bundesrepublikanisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.81" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.81.bundesrepublikanisch2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>bundesrepublikanisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.82" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.82.notariell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>notariell</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.82.notarisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>notarisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.83" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.83.diakonisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>diakonisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.84" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.84.oppositionell1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>oppositionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.85" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.85.oppositionell2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>oppositionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.86" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.86.dialektisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dialektisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.87" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.87.dialektisch2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>dialektisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.88" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.88.pflanzlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pflanzlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.89" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.89.orbital" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>orbital</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.90" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.90.orchestral" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>orchestral</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.91" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.91.philharmonisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>philharmonisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.92" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.92.sinfonisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sinfonisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.92.symphonisch" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>symphonisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.93" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.93.ornamental" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ornamental</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.94" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.94.partizipial" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>partizipial</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.95" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.95.pastoral" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pastoral</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.96" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.96.personell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>personell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.97" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.97.personal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>personal</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.97.personenbezogen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>personenbezogen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.97.persönlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>persönlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.98" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.98.elterlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>elterlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.99" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.99.phänomenal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>phänomenal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.100" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.100.positionell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>positionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.101" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.101.präpositional" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>präpositional</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.102" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.102.prinzipiell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>prinzipiell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.103" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.103.professionell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>professionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.104" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.104.treuhändisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>treuhändisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.104.treuhänderisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>treuhänderisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.105" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.105.professoral" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>professoral</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.106" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.106.pronominal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pronominal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.107" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.107.proportional" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>proportional</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.108" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.108.prozentual" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>prozentual</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.108.prozentuell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>prozentuell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.109" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.109.quantitativ" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>quantitativ</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.110" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.110.rational" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rational</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.111" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.111.redaktionell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>redaktionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.112" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.112.sakramental" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sakramental</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.113" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.113.seriell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>seriell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.114" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.114.sexuell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sexuell</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.114.sexual" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sexual</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.115" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.115.strukturell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>strukturell</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.115.struktural" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>struktural</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.116" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.116.substantiell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>substantiell</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.116.substanziell" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>substanziell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.117" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.117.synagogal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>synagogal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.118" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.118.synodal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>synodal</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.118.synodisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>synodisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.119" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.119.tangential" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tangential</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.120" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.120.tendenziell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tendenziell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.121" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.121.thermal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>thermal</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.121.thermisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>thermisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.122" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.122.museal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>museal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.123" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.123.tonal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tonal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.124" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.124.traditionell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>traditionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.125" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.125.triumphal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>triumphal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.126" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.126.vaginal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vaginal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.127" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.127.vektoriell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vektoriell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.128" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.128.verbal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verbal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.129" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.129.zentrifugal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zentrifugal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.130" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.130.zeremoniell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zeremoniell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.131" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.131.funky" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>funky</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.132" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.132.adjektivisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>adjektivisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.133" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.133.ägyptologisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ägyptologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.134" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.134.archäologisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>archäologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.135" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.135.didaktisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>didaktisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.136" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.136.diagnostisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>diagnostisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.137" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.137.akademisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>akademisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.138" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.138.universitär" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>universitär</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.139" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.139.akrobatisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>akrobatisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.140" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.140.algebraisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>algebraisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.141" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.141.geometrisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geometrisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.142" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.142.alkalisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>alkalisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.143" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.143.alkoholisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>alkoholisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.144" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.144.steinig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>steinig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.145" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.145.alkoholfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>alkoholfrei</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.146" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.146.folkloristisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>folkloristisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.147" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.147.szenisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>szenisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.148" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.148.allegorisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>allegorisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.149" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.149.allergisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>allergisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.150" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.150.alphabetisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>alphabetisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.151" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.151.amphibisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>amphibisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.152" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.152.anglistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anglistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.153" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.153.automatisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>automatisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.154" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.154.vollautomatisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vollautomatisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.155" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.155.halbautomatisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>halbautomatisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.155.semiautomatisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>semiautomatisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.156" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.156.beruflich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beruflich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.157" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.157.gewerblich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gewerblich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.158" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.158.steuerlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>steuerlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.159" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.159.fiskalisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fiskalisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.160" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.160.gastronomisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gastronomisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.161" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.161.biologisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>biologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.162" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.162.zoologisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zoologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.163" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.163.botanisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>botanisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.164" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.164.therapeutisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>therapeutisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.165" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.165.psychotherapeutisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>psychotherapeutisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.166" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.166.psychoanalytisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>psychoanalytisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.167" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.167.volkskundlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>volkskundlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.167.ethnologisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ethnologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.168" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.168.genetisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>genetisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.169" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.169.geografisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geografisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.169.geographisch" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>geographisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.170" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.170.geologisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.171" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.171.chemisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>chemisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.172" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.172.biochemisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>biochemisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.173" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.173.dramaturgisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dramaturgisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.174" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.174.studentisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>studentisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.175" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.175.dominikanisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dominikanisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.176" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.176.franziskanisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>franziskanisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.177" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.177.benediktinisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>benediktinisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.178" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.178.johannitisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>johannitisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.179" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.179.zisterziensisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zisterziensisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.180" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.180.unternehmerisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unternehmerisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.181" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.181.vatikanisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vatikanisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.182" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.182.elektrisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>elektrisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.183" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.183.schattig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schattig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.184" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.184.elektronisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>elektronisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.185" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.185.germanistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>germanistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.186" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.186.geschichtlich1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geschichtlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.186.historisch1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>historisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.187" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.187.zeitgeschichtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zeitgeschichtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.188" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.188.geistesgeschichtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geistesgeschichtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.189" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.189.humanistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>humanistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.190" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.190.wilhelminisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wilhelminisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.191" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.191.viktorianisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>viktorianisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.192" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.192.aufklärerisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufklärerisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.193" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.193.rationalistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rationalistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.194" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.194.behaviouristisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>behaviouristisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.195" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.195.strukturalistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>strukturalistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.196" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.196.romantizistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>romantizistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.197" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.197.kirchengeschichtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kirchengeschichtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.198" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.198.calvinistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>calvinistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.199" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.199.methodistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>methodistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.200" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.200.kulturgeschichtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kulturgeschichtlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.200.kulturhistorisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kulturhistorisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.201" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.201.kunstgeschichtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kunstgeschichtlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.201.kunsthistorisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kunsthistorisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.202" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.202.mittelalterlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mittelalterlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.203" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.203.postmodern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>postmodern</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.204" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.204.frühgeschichtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>frühgeschichtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.205" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.205.vorgeschichtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorgeschichtlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.205.prähistorisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>prähistorisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.206" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.206.ideologisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ideologisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.206.weltanschaulich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weltanschaulich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.207" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.207.inhaltlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>inhaltlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.208" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.208.thematisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>thematisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.209" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.209.journalistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>journalistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.210" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.210.juristisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>juristisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.211" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.211.kolonialistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kolonialistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.212" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.212.gewerkschaftlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gewerkschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.213" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.213.geheimdienstlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geheimdienstlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.214" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.214.genossenschaftlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>genossenschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.215" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.215.künstlerisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>künstlerisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.216" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.216.stimmlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stimmlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.217" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.217.kompositorisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kompositorisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.218" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.218.dadaistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dadaistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.219" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.219.gotisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gotisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.220" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.220.frühgotisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>frühgotisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.221" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.221.spätgotisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spätgotisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.222" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.222.klassizistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klassizistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.223" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.223.surrealistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>surrealistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.224" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.224.impressionistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>impressionistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.225" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.225.expressionistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>expressionistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.226" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.226.barock" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>barock</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.227" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.227.landwirtschaftlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>landwirtschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.228" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.228.betriebswirtschaftlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>betriebswirtschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.229" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.229.volkswirtschaftlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>volkswirtschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.230" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.230.kaufmännisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kaufmännisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.231" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.231.bäuerlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bäuerlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.232" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.232.gesanglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gesanglich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.233" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.233.polizeilich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>polizeilich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.234" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.234.kriminalistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kriminalistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.235" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.235.urkundlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>urkundlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.236" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.236.literarisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>literarisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.237" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.237.lyrisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lyrisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.238" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.238.episch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>episch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.239" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.239.liturgisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>liturgisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.240" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.240.mathematisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mathematisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.241" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.241.arithmetisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>arithmetisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.241.rechnerisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rechnerisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.242" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.242.statistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>statistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.243" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.243.stochastisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stochastisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.244" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.244.medizinal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>medizinal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.245" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.245.gesundheitlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gesundheitlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.245.gesundheitsbezogen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gesundheitsbezogen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.246" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.246.nervlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nervlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.247" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.247.hygienisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hygienisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.247.sanitär" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sanitär</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.248" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.248.ganzheitlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ganzheitlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.249" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.249.militärisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>militärisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.250" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.250.handwerklich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>handwerklich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.251" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.251.militaristisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>militaristisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.252" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.252.musikalisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>musikalisch</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Musik betreffend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPertonym.253" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.253.naturwissenschaftlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>naturwissenschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.254" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.254.geisteswissenschaftlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geisteswissenschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.255" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.255.gesellschaftswissenschaftlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gesellschaftswissenschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.256" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.256.geheimwissenschaftlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geheimwissenschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.257" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.257.esoterisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>esoterisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.258" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.258.okkultistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>okkultistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.259" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.259.soziologisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>soziologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.260" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.260.sozialwissenschaftlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sozialwissenschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.261" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.261.demografisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>demografisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.261.demographisch" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>demographisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.261.bevölkerungswissenschaftlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bevölkerungswissenschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.262" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.262.theologisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>theologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.263" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.263.olympisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>olympisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.264" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.264.weihnachtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weihnachtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.265" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.265.organisatorisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>organisatorisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.266" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.266.pädagogisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pädagogisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.266.erzieherisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erzieherisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.267" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.267.parlamentarisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>parlamentarisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.268" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.268.gesetzgeberisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gesetzgeberisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.269" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.269.praktisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>praktisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.269.praxisbezogen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>praxisbezogen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.269.praxisorientiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>praxisorientiert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.270" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.270.angewandt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>angewandt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.270.anwendungsbezogen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anwendungsbezogen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.271" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.271.anwenderfreundlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anwenderfreundlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.271.benutzerfreundlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>benutzerfreundlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.272" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.272.theoretisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>theoretisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.272.theoriebezogen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>theoriebezogen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.273" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.273.philosophisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>philosophisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.274" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.274.physikalisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>physikalisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.275" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.275.ballistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ballistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.276" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.276.logistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>logistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.277" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.277.poetisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>poetisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.278" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.278.psychologisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>psychologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.279" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.279.rechtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rechtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.280" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.280.kartellrechtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kartellrechtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.281" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.281.disziplinarisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>disziplinarisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.282" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.282.strafrechtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>strafrechtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.283" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.283.zivilrechtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zivilrechtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.284" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.284.steuerrechtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>steuerrechtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.285" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.285.atomrechtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>atomrechtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.286" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.286.baurechtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>baurechtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.287" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.287.völkerrechtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>völkerrechtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.288" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.288.qualitativ" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>qualitativ</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.289" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.289.verfassungsrechtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verfassungsrechtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.290" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.290.arbeitsrechtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>arbeitsrechtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.291" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.291.sprachwissenschaftlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sprachwissenschaftlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.291.linguistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>linguistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.292" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.292.technisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>technisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.293" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.293.technologisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>technologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.294" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.294.gentechnisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gentechnisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.295" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.295.sicherheitstechnisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sicherheitstechnisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.296" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.296.kerntechnisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kerntechnisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.296.atomtechnisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>atomtechnisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.297" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.297.tontechnisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tontechnisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.298" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.298.biotechenisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>biotechenisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.299" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.299.pyrotechnisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pyrotechnisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.300" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.300.elektrotechnisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>elektrotechnisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.301" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.301.flugtechnisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>flugtechnisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.302" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.302.produktionstechnisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>produktionstechnisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.303" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.303.telefonisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>telefonisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.303.telephonisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>telephonisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.304" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.304.biblisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>biblisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.305" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.305.wirtschaftlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wirtschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.306" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.306.gesamtwirtschaftlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gesamtwirtschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.307" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.307.privatwirtschaftlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>privatwirtschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.308" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.308.weltwirtschaftlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weltwirtschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.309" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.309.konjunkturell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konjunkturell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.310" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.310.marktwirtschaftlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>marktwirtschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.311" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.311.psychiatrisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>psychiatrisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.312" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.312.wissenschaftlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wissenschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.313" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.313.methodisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>methodisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.314" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.314.wissenschaftsmethodisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wissenschaftsmethodisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.315" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.315.hermeneutisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hermeneutisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.316" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.316.empirisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>empirisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.317" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.317.induktiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>induktiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.318" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.318.deduktiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>deduktiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.319" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.319.klinisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klinisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.320" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.320.ärztlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.321" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.321.fachärztlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fachärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.322" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.322.zahnärztlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zahnärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.323" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.323.chirurgisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>chirurgisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.324" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.324.gynäkologish" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gynäkologish</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.325" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.325.urologisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>urologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.326" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.326.radiologisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>radiologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.327" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.327.orthopädisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>orthopädisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.328" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.328.internistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>internistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.329" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.329.psychiatrisch2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>psychiatrisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.330" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.330.augenärztlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>augenärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.331" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.331.gerichtsärztlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gerichtsärztlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.331.gerichtsmedizinisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gerichtsmedizinisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.332" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.332.amtsärztlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>amtsärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.333" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.333.tierärztlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tierärztlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.333.veterinärmedizinisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>veterinärmedizinisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.334" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.334.pathologisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pathologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.335" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.335.humanmedizinisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>humanmedizinisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.336" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.336.kassenärztlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kassenärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.337" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.337.kassenzahnärztlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kassenzahnärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.338" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.338.betriebsärztlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>betriebsärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.339" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.339.assistenzärztlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>assistenzärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.340" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.340.krankenhausärztlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>krankenhausärztlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.340.klinikärztlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klinikärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.341" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.341.kurärztlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kurärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.342" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.342.badeärztlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>badeärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.343" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.343.schulärztlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schulärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.344" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.344.vereinsärztlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vereinsärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.345" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.345.stationsärztlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stationsärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.346" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.346.oberärztlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>oberärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.347" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.347.chefärztlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>chefärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.348" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.348.praktikumsärztlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>praktikumsärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.349" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.349.militärärztlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>militärärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.350" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.350.betrieblich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>betrieblich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.351" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.351.touristisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>touristisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.352" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.352.massentouristisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>massentouristisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.353" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.353.ökologisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ökologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.354" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.354.baulich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>baulich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>bauliche Maßnahmen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPertonym.355" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.355.städtebaulich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>städtebaulich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.356" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.356.bebildert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bebildert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.356.illustriert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>illustriert</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit Bilder versehen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPertonym.357" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.357.kosmetisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kosmetisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.358" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.358.hierarchisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hierarchisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.359" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.359.hoheitlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hoheitlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.360" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.360.mechanisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mechanisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.361" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.361.fußballerisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fußballerisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.362" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.362.handballerisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>handballerisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.363" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.363.ursächlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ursächlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.364" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.364.bildlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bildlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.364.bildhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bildhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.364.figurativ" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>figurativ</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.365" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.365.filmisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>filmisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.366" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.366.fotografisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fotografisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.366.photographisch" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>photographisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.367" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.367.menschlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>menschlich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>wie ein Mensch</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPertonym.368" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.368.tierisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tierisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.369" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.369.geistig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geistig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.369.mental" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mental</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.369.psychisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>psychisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.369.spirituell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spirituell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.370" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.370.seelisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>seelisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.371" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.371.körperlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>körperlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.371.physisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>physisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.372" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.372.organisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>organisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.373" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.373.mündlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mündlich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>wie aus dem Mund</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPertonym.374" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.374.schriftlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schriftlich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit Schrift</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPertonym.375" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.375.brieflich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>brieflich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.376" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.376.handschriftlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>handschriftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.377" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.377.äffisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>äffisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.378" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.378.liedhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>liedhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.379" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.379.formelhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>formelhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.380" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.380.sinnbildlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sinnbildlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.380.sinnbildhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sinnbildhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.381" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.381.metaphorisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>metaphorisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.382" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.382.mythisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mythisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.383" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.383.mythologisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mythologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.384" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.384.anekdotenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anekdotenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.385" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.385.bienenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bienenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.386" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.386.dämonenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dämonenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.387" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.387.elfenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>elfenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.388" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.388.engelhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>engelhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.389" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.389.episodenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>episodenhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.389.episodisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>episodisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.390" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.390.feenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>feenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.391" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.391.floskelhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>floskelhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.392" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.392.madonnenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>madonnenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.393" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.393.maskenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>maskenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.394" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.394.modellhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>modellhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.395" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.395.mythenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mythenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.396" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.396.nixenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nixenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.397" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.397.nomadenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nomadenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.398" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.398.nymphenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nymphenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.399" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.399.angelsächsisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>angelsächsisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.400" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.400.anglikanisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anglikanisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.401" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.401.atmosphärisch1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>atmosphärisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.402" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.402.atmosphärisch2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>atmosphärisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.403" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.403.solar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>solar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.404" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.404.lunar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lunar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.405" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.405.marin" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>marin</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.406" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.406.nautisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nautisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.407" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.407.maritim" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>maritim</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.408" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.408.maritim2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>maritim</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.409" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.409.kosmisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kosmisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.409.universal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>universal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.410" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.410.charakterlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>charakterlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.411" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.411.apokalyptisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>apokalyptisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.412" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.412.astronomisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>astronomisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.413" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.413.ehelich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ehelich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.414" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.414.brüderlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>brüderlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.415" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.415.geschwisterlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geschwisterlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.416" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.416.väterlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>väterlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.417" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.417.mütterlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mütterlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.418" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.418.priesterhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>priesterhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.419" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.419.puppenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>puppenhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.419.puppig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>puppig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.420" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.420.skizzenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>skizzenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.421" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.421.schematisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schematisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.422" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.422.argumentativ" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>argumentativ</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.423" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.423.statuenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>statuenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.424" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.424.tantenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tantenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.425" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.425.zigeunerhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zigeunerhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.425.zigeunerisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zigeunerisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.426" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.426.tarifvertraglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tarifvertraglich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.427" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.427.zwitterhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zwitterhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.427.zwittrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zwittrig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.428" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.428.göttergleich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>göttergleich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.429" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.429.atomar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>atomar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.430" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.430.nuklear" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nuklear</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.431" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.431.modular" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>modular</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.432" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.432.molekular" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>molekular</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.433" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.433.stofflich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stofflich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.434" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.434.partikular" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>partikular</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.434.partikulär" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>partikulär</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.435" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.435.planetar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>planetar</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.435.planetarisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>planetarisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.436" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.436.territorial" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>territorial</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.437" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.437.skalar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>skalar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.438" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.438.luxuriös" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>luxuriös</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.439" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.439.glamourös" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>glamourös</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.440" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.440.mafiös" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mafiös</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.440.mafios" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mafios</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.441" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.441.steuerpflichtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>steuerpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.442" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.442.schulpflichtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schulpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.443" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.443.meldepflichtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>meldepflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.444" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.444.haftpflichtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>haftpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.445" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.445.mitteilungspflichtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mitteilungspflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.446" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.446.zustimmungspflichtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zustimmungspflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.447" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.447.pflichtgemäß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pflichtgemäß</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.448" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.448.sinngemäß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sinngemäß</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.449" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.449.turnusgemäß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>turnusgemäß</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.450" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.450.wahrheitsgemäß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wahrheitsgemäß</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.451" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.451.massenweise" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>massenweise</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.452" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.452.probeweise" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>probeweise</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.453" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.453.streckenweise" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>streckenweise</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.454" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.454.versuchsweise" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>versuchsweise</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.455" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.455.wechselweise" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wechselweise</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.456" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.456.zwangsweise" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zwangsweise</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPertonym.457" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPertonym.457.auszugweise" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auszugweise</orthForm>
+</lexUnit>
+</synset>
+</synsets>

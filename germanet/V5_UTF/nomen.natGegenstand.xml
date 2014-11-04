@@ -1,0 +1,2386 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd"[
+ ]>
+<synsets>
+<synset id="nnatGegenstand.1" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.1.Natur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Natur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.2" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="ja" id="nnatGegenstand.2.natürlicher_Gegenstand" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>natürlicher_Gegenstand</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.3" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.3.Land" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Land</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.3.Grund1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Grund</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.4" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.4.Urgrund" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Urgrund</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.5" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.5.Boden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Boden</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.6" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.6.Nährboden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nährboden</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.7" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.7.Mutterboden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mutterboden</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.8" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.8.Humusboden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Humusboden</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.9" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.9.Mull" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mull</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.10" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.10.Waldboden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Waldboden</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.11" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.11.Agrarland" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Agrarland</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.12" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.12.Sandboden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sandboden</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.13" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.13.Grund2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Grund</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Boden eines Gewässers</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatGegenstand.14" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.14.Erdschicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erdschicht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.14.Erdboden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erdboden</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.14.Erdreich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erdreich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.14.Erdkruste" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erdkruste</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.15" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.15.Gesteinsschicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gesteinsschicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.16" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.16.Flöz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Flöz</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.16.Kohlflöz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kohlflöz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.17" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.17.Sohle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sohle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.18" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.18.Formation" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Formation</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.19" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.19.Moräne" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Moräne</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.20" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.20.Ozonschicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ozonschicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.21" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.21.Naturstoff" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Naturstoff</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.22" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.22.Kochsalz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kochsalz</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.22.Salz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Salz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.23" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.23.Meersalz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Meersalz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.24" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.24.Cholesterin" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Cholesterin</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.25" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.25.Schwefel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schwefel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.26" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.26.Erdgas1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erdgas</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.27" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.27.Sand" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sand</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.28" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.28.Wüstensand" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wüstensand</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.29" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.29.Treibsand" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Treibsand</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.30" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.30.Sandkorn" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sandkorn</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.31" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.31.Erde" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erde</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.32" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.32.Humus" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Humus</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.33" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.33.Blumenerde" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Blumenerde</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.34" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.34.Lehm2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Lehm</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.34.Lehmboden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lehmboden</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.35" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.35.Morast" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Morast</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.36" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.36.Schlick" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schlick</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.36.Schlamm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schlamm</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.36.Matsch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Matsch</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.37" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.37.Klärschlamm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Klärschlamm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.38" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.38.Stroh" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Stroh</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.39" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.39.Rohstoff" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rohstoff</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.40" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.40.Harz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Harz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.41" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.41.Rohöl" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rohöl</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.41.Erdöl" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erdöl</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.41.Öl" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Öl</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.42" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.42.Kautschuk" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kautschuk</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.42.Naturkautschuk" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Naturkautschuk</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.43" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.43.Bienenwachs" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bienenwachs</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.43.Wachs" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wachs</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.44" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.44.Holz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Holz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.45" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.45.Holzstück" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Holzstück</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.45.Holzblock" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Holzblock</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.45.Bloch" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>Bloch</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.46" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.46.Brennholz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Brennholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.47" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.47.Holzkohle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Holzkohle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.48" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.48.Brett" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Brett</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.49" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.49.Planke" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Planke</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.50" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.50.Gehölz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gehölz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.51" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.51.Hartholz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hartholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.52" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.52.Tropenholz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tropenholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.53" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.53.Buchsbaum" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Buchsbaum</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.53.Buchsbaumholz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Buchsbaumholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.54" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.54.Ebenholz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ebenholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.55" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.55.Weichholz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Weichholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.56" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.56.Eiche" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Eiche</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.56.Eichenholz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Eichenholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.57" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.57.Teakbaum" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Teakbaum</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.57.Teakholz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Teakholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.58" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.58.Nussbaum" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nussbaum</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.58.Nußbaum" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Nußbaum</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.58.Nussbaumholz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nussbaumholz</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.58.Nußbaumholz" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Nußbaumholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.59" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.59.Birnbaum" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Birnbaum</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.59.Birnbaumholz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Birnbaumholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.60" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.60.Kirschbaum" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kirschbaum</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.60.Kirschbaumholz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kirschbaumholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.61" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.61.Esche" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Esche</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.61.Eschenholz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Eschenholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.62" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.62.Birke" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Birke</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.62.Birkenholz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Birkenholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.63" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.63.Ahorn" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ahorn</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.63.Ahornholz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ahornholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.64" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.64.Kiefer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kiefer</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.64.Kiefernholz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kiefernholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.65" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.65.Fichte" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fichte</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.65.Fichtenholz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fichtenholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.66" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.66.Mahagoni" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mahagoni</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.66.Mahagoniholz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mahagoniholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.67" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.67.Bambus" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bambus</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.68" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.68.Pressspan" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Pressspan</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.68.Preß-Span" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Preß-Span</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.69" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.69.Kohlenmeiler" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kohlenmeiler</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.69.Meiler" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Meiler</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>BedeckterHolzhaufen in dem Holzkohle erzeugt wird</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatGegenstand.70" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.70.Stein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Stein</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.70.Felsenstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Felsenstein</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.70.Gestein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gestein</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.70.Fels" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fels</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.71" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.71.Naturstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Naturstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.72" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.72.Mosaikstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mosaikstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.73" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.73.Urgestein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Urgestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.74" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.74.Felsblock" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Felsblock</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.74.Felsbrocken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Felsbrocken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.74.Gesteinsblock" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gesteinsblock</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.75" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.75.Findling" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Findling</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.76" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.76.Stein1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Stein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.77" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.77.Eckstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Eckstein</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>an der Ecke eines Bauwerks</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatGegenstand.78" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.78.Meilenstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Meilenstein</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>zur Wegabmessung im Abstand von einer Meile aufgestellter Stein</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatGegenstand.79" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.79.Baustein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Baustein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.80" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.80.Ziegelstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ziegelstein</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.80.Backstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Backstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.81" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.81.Klinker" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Klinker</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.82" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.82.Grundstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Grundstein</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>erster gelegter Stein bei einem Bauprojekt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatGegenstand.83" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.83.Kiesel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kiesel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.84" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.84.Kieselstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kieselstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.85" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.85.Diatomit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Diatomit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.86" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.86.Kieselgur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kieselgur</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.86.Diatomeenerde" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Diatomeenerde</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.87" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.87.Pripel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Pripel</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.87.Polierschiefer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Polierschiefer</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.87.Klebschiefer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Klebschiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.88" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.88.Radiolarit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Radiolarit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.89" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.89.Kieselschiefer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kieselschiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.90" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.90.Lydit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lydit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.91" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.91.Kieselsinter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kieselsinter</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.92" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.92.Hornstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hornstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.93" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.93.Versteinerung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Versteinerung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.93.Petrifikation" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Petrifikation</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.93.Fossil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fossil</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.94" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.94.Klippe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Klippe</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.94.Felsklippe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Felsklippe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.95" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.95.Felswand" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Felswand</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.95.Steilwand" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Steilwand</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.95.Wand" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wand</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.96" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.96.Kies" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kies</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.97" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.97.Klamotte" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Klamotte</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Herumliegender Gesteinsbrocken</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatGegenstand.98" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.98.Gesteinsglas" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gesteinsglas</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>amorphes Gesteinsgefüge</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatGegenstand.99" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.99.Bimsstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bimsstein</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.99.Bims" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bims</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.100" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.100.Schlacke2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Schlacke</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.101" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.101.Perlit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Perlit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.101.Perlstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Perlstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.102" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.102.Obsidian" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Obsidian</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.103" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.103.Schneeflocken-Obsidian" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schneeflocken-Obsidian</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.104" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.104.Apachenträne" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Apachenträne</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.105" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.105.Pechstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Pechstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.106" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.106.Meteorit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Meteorit</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>außerirdisches_Gestein</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatGegenstand.107" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.107.Impaktit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Impaktit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.108" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.108.Eisenmeteorit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Eisenmeteorit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.108.Siderit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Siderit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.108.Meteoreisen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Meteoreisen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.109" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.109.Hexaedrit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hexaedrit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.110" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.110.Oktaedrit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Oktaedrit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.111" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.111.Steinmeteorit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Steinmeteorit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.111.Aerolith" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Aerolith</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.111.Meteorstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Meteorstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.112" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.112.Chondrit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Chondrit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.113" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.113.Achondrit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Achondrit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.114" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.114.Stein-Eisen-Meteorit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Stein-Eisen-Meteorit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.115" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.115.Siderophyr" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Siderophyr</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.116" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.116.Pallasit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Pallasit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.117" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.117.Mesosiderit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mesosiderit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.118" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.118.Tektit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tektit</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>gerundeter, glasartiger Stein, entstanden durch Kondensation aus Verdampfungsprodukten beim Einschlag von Riesenmeteoriten</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatGegenstand.119" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.119.Moldavit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Moldavit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.120" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.120.Fulgurit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fulgurit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.120.Blitzröhre" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Blitzröhre</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.121" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.121.Magmatitgestein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Magmatitgestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.122" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.122.Plutonit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Plutonit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.123" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.123.Granit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Granit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.124" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.124.Kugelgranit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kugelgranit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.125" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.125.Rapakivi" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rapakivi</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.125.Rapakivigranit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rapakivigranit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.126" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.126.Granodiorit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Granodiorit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.127" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.127.Trondhjemit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Trondhjemit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.127.Quarz-Glimmer-Diorit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Quarz-Glimmer-Diorit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.128" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.128.Tonalit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tonalit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.128.Quarzdiorit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Quarzdiorit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.129" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.129.Quarzolith" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Quarzolith</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.130" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.130.Greisen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Greisen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.131" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.131.Peracidit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Peracidit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.131.Silexit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Silexit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.132" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.132.Arizonit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Arizonit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.133" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.133.Pfahlquarz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Pfahlquarz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.134" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.134.Syenit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Syenit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.135" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.135.Pulaskit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Pulaskit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.136" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.136.Larvikit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Larvikit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.137" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.137.Monzonit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Monzonit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.138" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.138.Foyait" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Foyait</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.139" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="ja" id="nnatGegenstand.139.DioritGabbro" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Diorit/Gabbro</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.140" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.140.Diorit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Diorit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.141" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.141.Gabbro" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gabbro</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.142" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.142.Norit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Norit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.143" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.143.Troktolith" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Troktolith</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.143.Forellenstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Forellenstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.144" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.144.Anorthosit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Anorthosit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.145" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.145.Essexit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Essexit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.146" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.146.Theralith" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Theralith</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.147" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.147.Peridotit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Peridotit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.148" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.148.Foidolith" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Foidolith</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.149" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.149.Mafitolith" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mafitolith</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.150" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.150.Karbonatit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Karbonatit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.151" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.151.Vulkanit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vulkanit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.152" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.152.Quarzporphyr" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Quarzporphyr</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.153" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.153.Pyroklastit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Pyroklastit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.153.Tuffgestein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tuffgestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.154" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.154.Tuff" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tuff</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.154.Tephra" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tephra</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.155" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.155.Tuffstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tuffstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.156" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.156.Rhyolith" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rhyolith</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.157" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.157.Liparit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Liparit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.158" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.158.Andesit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Andesit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.159" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="ja" id="nnatGegenstand.159.AndesitBasalt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Andesit/Basalt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.160" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.160.Trachyt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Trachyt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.161" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.161.Latit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Latit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.161.Trachytandesit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Trachytandesit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.162" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.162.Phonolith" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Phonolith</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.163" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.163.Porphyrit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Porphyrit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.164" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.164.Dacit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dacit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.165" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.165.Basalt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Basalt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.166" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.166.Melaphyr" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Melaphyr</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.167" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.167.Dolerit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dolerit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.168" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.168.Diabas" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Diabas</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.169" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.169.Tholeiit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tholeiit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.170" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.170.Tephrit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tephrit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.171" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.171.Basanit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Basanit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.172" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.172.Limburgit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Limburgit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.173" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.173.Mühlsteinlava" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mühlsteinlava</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.174" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.174.Pikrit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Pikrit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.175" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.175.Foidit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Foidit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.176" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.176.Nephelinit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nephelinit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.177" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.177.Leucitit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Leucitit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.178" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.178.Mafitit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mafitit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.179" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.179.Ganggestein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ganggestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.180" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.180.Granitporphyr" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Granitporphyr</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.181" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.181.Pegmatit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Pegmatit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.182" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.182.Aplit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Aplit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.183" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.183.Lamprophyr" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lamprophyr</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.184" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.184.Sedimentgestein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sedimentgestein</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.184.Schichtgestein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schichtgestein</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.184.Sediment" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sediment</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.185" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.185.Pelit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Pelit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.186" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.186.Schweb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schweb</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.187" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.187.Ton" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ton</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.187.Tonerde" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tonerde</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.188" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.188.Tonstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tonstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.189" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.189.Lehm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lehm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.190" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.190.Lehmstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lehmstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.191" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.191.Mergel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mergel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.192" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.192.Mergelstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mergelstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.193" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.193.Löß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Löß</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.193.Löss" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Löss</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.194" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.194.Kaolin" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kaolin</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.195" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.195.Schieferton" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schieferton</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.196" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.196.Sedimentärer_Tonschiefer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sedimentärer_Tonschiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.197" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.197.Ölschiefer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ölschiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.198" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.198.Kupferschiefer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kupferschiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.199" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.199.Psammit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Psammit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.200" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.200.Sandstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sandstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.201" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.201.Sedimentärquarzit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sedimentärquarzit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.202" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.202.Arkose" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Arkose</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.203" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.203.Grauwacke" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Grauwacke</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.204" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.204.Kalksandstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kalksandstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.205" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.205.Psephit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Psephit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.206" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.206.Schutt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schutt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.207" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.207.Trümmer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Trümmer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.208" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.208.Bauschutt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bauschutt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.209" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.209.Geröll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Geröll</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.210" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.210.Geschiebe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Geschiebe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.211" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.211.Breccie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Breccie</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.211.Brekzie" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Brekzie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.212" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.212.Konglomerat" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Konglomerat</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.213" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.213.Nagelfluh" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nagelfluh</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.214" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.214.Puddingstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Puddingstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.215" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.215.Schotter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schotter</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.216" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.216.Windkanter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Windkanter</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.217" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.217.Tillit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tillit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.218" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.218.Fanglomerat" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fanglomerat</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.219" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.219.Sintergestein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sintergestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.220" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.220.Travertin" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Travertin</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.221" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.221.Tropfstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tropfstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.222" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.222.Sprudelstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sprudelstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.223" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.223.Erbsenstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erbsenstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.224" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.224.Kalktuff" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kalktuff</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.225" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.225.Salzgestein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Salzgestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.226" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.226.Steinsalz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Steinsalz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.227" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.227.Anhydrit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Anhydrit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.228" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.228.Gipsstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gipsstein</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.228.Gips" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gips</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.229" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.229.Gekrösegips" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gekrösegips</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.229.Schlangengips" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schlangengips</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.230" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.230.Fasergips" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fasergips</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.231" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.231.Gipshut" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gipshut</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.232" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.232.Alabaster" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Alabaster</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.233" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.233.Edelsalz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Edelsalz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.234" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.234.Sylvinit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sylvinit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.235" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.235.Carnallitit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Carnallitit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.236" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.236.Kainitit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kainitit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.237" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.237.Hartsalz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hartsalz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.238" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.238.Kalk" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kalk</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.239" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.239.organogenes_Sediment" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>organogenes_Sediment</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.240" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.240.Kalkstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kalkstein</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.240.Kalkgestein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kalkgestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.241" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.241.Plattenkalk" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Plattenkalk</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.242" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.242.Fossilkalk" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fossilkalk</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.243" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.243.Kalkoolith" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kalkoolith</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.244" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.244.Riffkalk" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Riffkalk</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.245" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.245.Massenkalk" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Massenkalk</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.246" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.246.Kreide" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kreide</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.247" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.247.Kalksinter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kalksinter</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.247.Onyx-Marmor" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Onyx-Marmor</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.247.Marmor-Onyx" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Marmor-Onyx</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.248" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.248.Seekalk" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Seekalk</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.249" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.249.Seekreide" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Seekreide</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.250" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.250.Alm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Alm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.251" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.251.Süßwasserkalk" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Süßwasserkalk</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.252" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.252.Kieselgestein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kieselgestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.253" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.253.Phosphatgestein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Phosphatgestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.254" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.254.Guano" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Guano</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.255" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.255.Phosphorit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Phosphorit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.256" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.256.Eisengestein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Eisengestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.257" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.257.Minette" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Minette</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.258" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.258.Bändererz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bändererz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.259" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.259.Trümmererz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Trümmererz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.260" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.260.Rückstandsgestein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rückstandsgestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.261" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.261.Dolomitstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dolomitstein</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.261.Dolomit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dolomit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.262" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.262.Rauhwacke" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rauhwacke</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.262.Rauchwacke" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rauchwacke</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.262.Zelldolomit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zelldolomit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.263" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.263.Feuerstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Feuerstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.264" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.264.Kohlegestein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kohlegestein</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.264.Kohle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kohle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.265" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.265.Importkohle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Importkohle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.266" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.266.Torf" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Torf</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.267" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.267.Sode" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sode</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.268" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.268.Braunkohle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Braunkohle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.269" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.269.Steinkohle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Steinkohle</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.269.Koks" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Koks</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.270" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.270.Ruhrkohle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ruhrkohle</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Im Ruhrgebiet vorkommende Steinkohle</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatGegenstand.271" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.271.Schlacke" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schlacke</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.272" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.272.Anthrazit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Anthrazit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.273" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.273.Graphit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Graphit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.273.Grafit" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Grafit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.274" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.274.Glanzkohle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Glanzkohle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.275" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.275.Xylit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Xylit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.276" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.276.Metamorphitgestein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Metamorphitgestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.277" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.277.Gneis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gneis</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.278" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.278.Granulit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Granulit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.279" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.279.Charnockit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Charnockit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.280" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.280.Migmatit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Migmatit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.280.Mischgestein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mischgestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.281" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.281.Anatexit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Anatexit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.282" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.282.Schiefer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.283" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.283.Phyllit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Phyllit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.284" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.284.Quarzphyllit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Quarzphyllit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.285" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.285.Serizitphyllit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Serizitphyllit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.286" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.286.Glimmerschiefer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Glimmerschiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.287" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.287.Tonschiefer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tonschiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.288" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.288.Kontaktschiefer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kontaktschiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.289" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.289.Hornblendeschiefer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hornblendeschiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.290" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.290.Grünschiefer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Grünschiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.291" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.291.Talkschiefer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Talkschiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.292" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.292.Glaukophanschiefer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Glaukophanschiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.293" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.293.Prasinit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Prasinit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.294" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.294.Chloritschiefer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Chloritschiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.295" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.295.Aktinolithschiefer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Aktinolithschiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.296" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.296.Felsgestein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Felsgestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.297" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.297.Felsquarzit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Felsquarzit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.297.Metaquarzit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Metaquarzit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.297.Quarzit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Quarzit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.298" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.298.Kalksilikatfels" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kalksilikatfels</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.298.Erlanfels" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erlanfels</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.298.Erlan" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erlan</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.299" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.299.Skarn" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Skarn</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.300" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.300.Amphibolit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Amphibolit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.301" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.301.Eklogit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Eklogit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.302" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.302.Hornfels" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hornfels</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.303" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.303.Adinolfels" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Adinolfels</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.303.Adinolit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Adinolit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.303.Adinol" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Adinol</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.304" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.304.Serpentinit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Serpentinit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.304.Serpentinfels" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Serpentinfels</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.305" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.305.Cipollino" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Cipollino</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.306" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.306.Ophiolith" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ophiolith</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.307" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.307.Marmor" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Marmor</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.307.Calcitmarmor" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Calcitmarmor</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.307.Kalkmarmor" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kalkmarmor</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.308" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.308.Carrara-Marmor" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Carrara-Marmor</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.309" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.309.Dolomitmarmor" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dolomitmarmor</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.310" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.310.Ophicalcit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ophicalcit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.311" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.311.Urkalk" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Urkalk</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.312" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.312.Schmuckstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schmuckstein</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.312.Stein2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Stein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.313" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.313.Edelstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Edelstein</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.313.Juwel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Juwel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.314" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.314.Halbedelstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Halbedelstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.315" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.315.Diamant" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Diamant</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.316" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.316.Brillant" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Brillant</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.317" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.317.Rubin" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rubin</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.318" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.318.Saphir" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Saphir</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.319" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.319.Smaragd" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Smaragd</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.320" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.320.Aquamarin" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Aquamarin</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.321" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.321.Edelberyll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Edelberyll</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.322" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.322.Goldberyll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Goldberyll</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.323" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.323.Goshenit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Goshenit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.324" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.324.Helioder" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Helioder</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.325" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.325.Morganit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Morganit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.326" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.326.Katzenauge" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Katzenauge</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.326.Kymophan" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kymophan</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.327" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.327.Alexandrit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Alexandrit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.328" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.328.Pleonast" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Pleonast</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.328.Ceylanit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ceylanit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.329" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.329.Turmalin" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Turmalin</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.330" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.330.Elbait" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Elbait</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.331" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.331.Dravit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dravit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.332" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.332.Schörl" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schörl</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.333" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.333.Buergerit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Buergerit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.334" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.334.Tsilaisit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tsilaisit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.335" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.335.Uvit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Uvit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.336" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.336.Rauchquarz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rauchquarz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.337" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.337.Achroit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Achroit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.338" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.338.Indigolith" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Indigolith</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.339" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.339.Rubellit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rubellit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.340" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.340.Verdelith" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verdelith</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.341" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.341.Hiddenit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hiddenit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.342" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.342.Kunzit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kunzit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.343" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.343.Rosenquarz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rosenquarz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.344" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.344.Aventurin" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Aventurin</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.344.Aventurinquarz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Aventurinquarz</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.344.Avanturin" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Avanturin</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.345" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.345.Citrin" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Citrin</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.345.Zitrin" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Zitrin</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.346" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.346.Prasiolith" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Prasiolith</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.347" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.347.Prasem" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Prasem</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.347.Smaragdquarz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Smaragdquarz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.348" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.348.Blauquarz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Blauquarz</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.348.Saphirquarz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Saphirquarz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.349" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.349.Jaspis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Jaspis</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.350" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.350.Blutjaspis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Blutjaspis</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.350.Heliotrop" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Heliotrop</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.351" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.351.Amethyst" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Amethyst</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.352" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.352.Goldtopas" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Goldtopas</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>irreführender Handelsname für gelbgebrannten Amethyst</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatGegenstand.353" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.353.Achat" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Achat</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.354" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.354.Bandachat" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bandachat</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.355" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.355.Dendritenachat" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dendritenachat</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.355.Baumstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Baumstein</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.355.Mokkastein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mokkastein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.356" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.356.Enhydros" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Enhydros</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.356.Wasserstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wasserstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.357" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.357.Festungsachat" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Festungsachat</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.358" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.358.Röhrenachat" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Röhrenachat</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.359" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.359.Sardstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sardstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.360" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.360.Trümmerachat" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Trümmerachat</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.361" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.361.Tigerauge" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tigerauge</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.362" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.362.Falkenauge" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Falkenauge</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.363" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.363.Quarzkatzenauge" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Quarzkatzenauge</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.364" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.364.Topas" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Topas</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.365" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.365.Chalzedon" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Chalzedon</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.365.Chalcedon" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Chalcedon</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.366" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.366.Onyx" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Onyx</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.367" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.367.Karneol" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Karneol</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.368" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.368.Sarder" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sarder</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.369" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.369.Mondstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mondstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.370" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.370.Sonnenstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sonnenstein</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.370.Aventurin2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Aventurin</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.370.Avanturin2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Avanturin</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.371" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.371.Lapislazuli" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lapislazuli</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.371.Lasurit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lasurit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.371.Lasurstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lasurstein</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.371.Lapis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lapis</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.372" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.372.Türkis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Türkis</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.372.Kallait" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kallait</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.373" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.373.Zahntürkis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zahntürkis</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.373.Odontolith" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Odontolith</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.374" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.374.Chrysopras" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Chrysopras</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.375" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.375.Opal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Opal</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.376" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.376.Feueropal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Feueropal</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.377" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.377.Holzopal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Holzopal</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.378" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.378.Edelopal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Edelopal</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.379" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.379.Weißer_Opal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Weißer_Opal</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.380" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.380.Schwarzer_Opal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schwarzer_Opal</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.381" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.381.Bernstein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bernstein</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.381.Succinit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Succinit</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>fossiles Harz von Nadelbäumen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatGegenstand.382" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.382.Jadeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Jadeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.383" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.383.Rhodonit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rhodonit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.384" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.384.Runin" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Runin</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.385" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.385.Hyazinth" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hyazinth</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.386" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.386.Starlit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Starlit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.387" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.387.Jargon" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Jargon</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.388" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.388.Zirkonia" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zirkonia</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>synthetischer Edelstein</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nnatGegenstand.389" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.389.Jade" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Jade</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.390" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.390.Peridot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Peridot</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.390.Chrysolith" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Chrysolith</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.391" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.391.Variscit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Variscit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.391.Utahlit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Utahlit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.392" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.392.Koralle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Koralle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.393" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.393.Edelkoralle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Edelkoralle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.394" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.394.Orgelkoralle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Orgelkoralle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.395" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.395.Weiße_Koralle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Weiße_Koralle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.396" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.396.Perle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Perle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.397" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.397.Brutstätte" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Brutstätte</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.397.Nest" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nest</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.397.Vogelnest" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vogelnest</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.398" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.398.Wespennest" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wespennest</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.399" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.399.Horst" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Horst</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.399.Adlerhorst" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Adlerhorst</orthForm>
+</lexUnit>
+</synset>
+<synset id="nnatGegenstand.400" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.400.Spinnwebe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Spinnwebe</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nnatGegenstand.400.Spinnennetz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Spinnennetz</orthForm>
+</lexUnit>
+</synset>
+</synsets>

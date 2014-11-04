@@ -1,0 +1,1469 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd"[
+ ]>
+<synsets>
+<synset id="aSubstanz.1" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aSubstanz.1.substanzspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>substanzspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.2" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aSubstanz.2.beschaffenheitsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beschaffenheitsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.3" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.3.seiden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>seiden</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>beschaffen aus Seide</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aSubstanz.4" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.4.hölzern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hölzern</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>beschaffen aus Holz</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aSubstanz.5" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.5.rinden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rinden</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>beschaffen aus Rinde</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aSubstanz.6" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.6.eisern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eisern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.6.ehern" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>ehern</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>beschaffen aus Eisen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aSubstanz.7" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.7.metallen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>metallen</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>beschaffen aus Metall</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aSubstanz.8" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.8.stählern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stählern</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>beschaffen aus Stahl</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aSubstanz.9" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.9.blechern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blechern</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>beschaffen aus Blech</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aSubstanz.10" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.10.golden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>golden</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>beschaffen aus Gold</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aSubstanz.11" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.11.silbern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>silbern</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>beschaffen aus Silber</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aSubstanz.12" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.12.bleiern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bleiern</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>beschaffen aus Blei</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aSubstanz.13" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.13.kupfern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kupfern</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>beschaffen aus Kupfer</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aSubstanz.14" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.14.gläsern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gläsern</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>beschaffen aus Glas</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aSubstanz.15" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.15.steinern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>steinern</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>beschaffen aus Stein</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aSubstanz.16" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.16.kristallen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kristallen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.16.kristallin" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kristallin</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>beschaffen aus Kristall</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aSubstanz.17" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.17.ledern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ledern</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>beschaffen aus Leder</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aSubstanz.18" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.18.krachledern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>krachledern</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.19" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.19.wollen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wollen</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>beschaffen aus Wolle</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aSubstanz.20" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.20.aschen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aschen</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>beschaffen aus Asche</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aSubstanz.21" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.21.tönern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tönern</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>beschaffen aus Ton</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aSubstanz.22" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.22.metallisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>metallisch</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>beschaffen aus Metall</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aSubstanz.23" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.23.dick1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dick</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.24" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.24.mehrschichtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mehrschichtig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.24.dicklagig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dicklagig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>bei Stoff, Material</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aSubstanz.25" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.25.wattiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wattiert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.26" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.26.grob" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grob</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>grobe Strümpfe/grober Stoff</text>
+</example>
+</examples>
+</synset>
+<synset id="aSubstanz.27" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.27.dicht2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>dicht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.27.undurchsichtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>undurchsichtig</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>dichter Nebel/Dschungel</text>
+</example>
+</examples>
+</synset>
+<synset id="aSubstanz.28" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.28.dünn1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dünn</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>dünnes Kleid/dünne Schuhe</text>
+</example>
+</examples>
+</synset>
+<synset id="aSubstanz.29" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.29.fein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fein</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>feiner Stoff/feine Strümpfe/feine Seide</text>
+</example>
+</examples>
+</synset>
+<synset id="aSubstanz.30" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.30.fragil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fragil</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.30.zerbrechlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zerbrechlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.31" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.31.filigran" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>filigran</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.32" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.32.haardünn" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>haardünn</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.32.hauchdünn" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hauchdünn</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>verstärkt</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>hauchdünnes Papier</text>
+</example>
+</examples>
+</synset>
+<synset id="aSubstanz.33" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.33.natürlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>natürlich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>wie in der Natur</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>natürliche/künstliche Stoffe</text>
+</example>
+</examples>
+</synset>
+<synset id="aSubstanz.34" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.34.naturbelassen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>naturbelassen</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ein naturbelassenes Produkt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aSubstanz.35" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.35.künstlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>künstlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.35.artifiziell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>artifiziell</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.35.unnatürlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unnatürlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.36" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.36.synthetisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>synthetisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.37" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.37.derartig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>derartig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="ja" id="aSubstanz.37.solch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>solch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.37.dergestalt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dergestalt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.38" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.38.expansiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>expansiv</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.38.ausdehnbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausdehnbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.39" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.39.explosiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>explosiv</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.39.entzündbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entzündbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.40" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.40.fossil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fossil</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.40.versteinert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>versteinert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.40.petrifiziert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>petrifiziert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.41" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aSubstanz.41.produktspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>produktspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.42" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.42.selbstgemacht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>selbstgemacht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.42.selbstgebaut" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>selbstgebaut</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.42.hausgemacht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hausgemacht</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.43" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.43.manuell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>manuell</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.43.händisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>händisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.44" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.44.selbstgebastelt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>selbstgebastelt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.45" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.45.selbstgenäht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>selbstgenäht</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.46" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.46.selbstgestrickt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>selbstgestrickt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.47" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.47.selbstgekocht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>selbstgekocht</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.48" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.48.künstlich_erzeugt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>künstlich_erzeugt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.48.maschinell_gefertigt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>maschinell_gefertigt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.49" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aSubstanz.49.zustandsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zustandsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.50" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.50.offen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>offen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.50.geöffnet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geöffnet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.51" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.51.geschlossen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geschlossen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.51.verschlossen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verschlossen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.52" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.52.roh" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>roh</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.53" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.53.gekocht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gekocht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.53.durch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>durch</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>"durch" nur prädikativ</paraphrase>
+</paraphrases>
+<examples>
+<example><text>durch</text> <frame>nurprädikativ'</frame></example>
+</examples>
+</synset>
+<synset id="aSubstanz.54" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.54.medium" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>medium</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.54.halbdurch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>halbdurch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.54.halbgar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>halbgar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.55" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aSubstanz.55.stabilitätsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stabilitätsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.56" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.56.stabil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stabil</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.57" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.57.robust" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>robust</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.58" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.58.kochfest" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kochfest</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.59" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.59.wetterfest" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wetterfest</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.60" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.60.hitzebeständig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hitzebeständig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.61" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.61.kältebeständig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kältebeständig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.62" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.62.unstabil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unstabil</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.62.instabil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>instabil</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.62.desolat" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>desolat</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.63" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.63.dicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dicht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.63.undurchlässig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>undurchlässig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.64" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.64.luftdicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>luftdicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.65" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.65.wasserdicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wasserdicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.66" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.66.luft-und_wasserdicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>luft-und_wasserdicht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.66.hermetisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hermetisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.67" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.67.undicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>undicht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.67.durchlässig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>durchlässig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.68" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.68.leck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leck</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.68.löchrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>löchrig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.69" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.69.marode" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>marode</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.69.marod" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>marod</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.70" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.70.baufällig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>baufällig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>bei Bauwerken</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aSubstanz.71" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.71.rostig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rostig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.71.verrostet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verrostet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.72" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.72.verwittert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verwittert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.73" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.73.wackelig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wackelig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.73.wacklig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wacklig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.74" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aSubstanz.74.konsistenzspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konsistenzspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.75" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.75.fest1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fest</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.75.hart1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hart</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.75.solid" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>solid</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.76" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.76.fest2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>fest</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.76.stramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.77" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.77.locker" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>locker</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.78" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.78.hohl" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hohl</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.79" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.79.klebrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klebrig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.80" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.80.plastisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>plastisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.80.formbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>formbar</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.80.modellierbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>modellierbar</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.80.knetbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>knetbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.81" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.81.saftig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>saftig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.82" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.82.festkochend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>festkochend</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>festkochende Kartoffeln</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aSubstanz.83" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.83.mehlig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mehlig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mehlige Äpfel und Kartoffeln</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aSubstanz.84" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.84.porös" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>porös</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.85" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.85.fluffig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fluffig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.86" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.86.brüchig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>brüchig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.87" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.87.schlabbrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schlabbrig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.87.schlabberig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schlabberig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.88" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.88.morsch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>morsch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.89" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.89.mürb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mürb</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.89.mürbe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mürbe</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.90" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.90.lose" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lose</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.90.los" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>los</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.91" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.91.flüssig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>flüssig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.92" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.92.dünnflüssig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dünnflüssig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.93" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.93.zähflüssig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zähflüssig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.93.zäh" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zäh</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.94" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.94.dick2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>dick</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.94.dickflüssig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dickflüssig</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>dickflüssige Suppe/dicke Tinte</text>
+</example>
+</examples>
+</synset>
+<synset id="aSubstanz.95" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.95.matschig1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>matschig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.95.schlammig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schlammig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.96" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.96.schleimig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schleimig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.97" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.97.sämig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sämig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.98" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.98.geronnnen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geronnnen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.99" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.99.eingedickt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eingedickt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.100" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.100.klumpig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klumpig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.100.klümperig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klümperig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.100.klümprig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klümprig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Klümpchen enthaltend/in Klumpen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>klumpige Soße/klumpiger Reis</text>
+</example>
+</examples>
+</synset>
+<synset id="aSubstanz.101" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.101.dünn2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>dünn</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.102" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.102.faserig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>faserig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.102.fasrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fasrig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>aus Fasern bestehend</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>faseriges Papier</text>
+</example>
+</examples>
+</synset>
+<synset id="aSubstanz.103" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.103.holzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>holzig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit festen Fasern durchsetzt</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>holziger Spargel</text>
+</example>
+</examples>
+</synset>
+<synset id="aSubstanz.104" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.104.weich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.105" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.105.moorig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>moorig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.106" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.106.biegsam" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>biegsam</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.107" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aSubstanz.107.reifespezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>reifespezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.108" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.108.frisch1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>frisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.109" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.109.knackig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>knackig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.110" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.110.knusprig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>knusprig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.111" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.111.reif" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>reif</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.112" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.112.überreif" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überreif</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.113" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.113.matschig2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>matschig</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>matschige Birne</text>
+</example>
+</examples>
+</synset>
+<synset id="aSubstanz.114" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.114.verdorben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verdorben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.115" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.115.faul" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>faul</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.115.verfault" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verfault</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.115.faulig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>faulig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.116" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.116.verschimmelt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verschimmelt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.116.schimmelig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schimmelig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.117" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.117.verrottet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verrottet</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.117.verfallen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verfallen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.118" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.118.abgelaufen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abgelaufen</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>über das Haltbarkeitsdatum hinaus</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aSubstanz.119" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.119.unreif" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unreif</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.120" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.120.grün" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grün</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.121" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.121.obergärig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>obergärig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.122" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.122.untergärig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>untergärig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.123" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aSubstanz.123.feuchtigkeitsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>feuchtigkeitsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.124" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.124.trocken1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trocken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.124.ausgetrocknet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausgetrocknet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.125" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.125.nass1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nass</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.125.naß" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>naß</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.126" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.126.feucht1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>feucht</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.127" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.127.klamm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klamm</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.128" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.128.sumpfig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sumpfig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.129" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aSubstanz.129.reinheitsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>reinheitsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.130" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.130.rein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rein</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.130.pur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pur</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.131" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.131.koscher" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>koscher</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.132" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.132.unrein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unrein</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.132.verunreinigt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verunreinigt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.132.verschmutzt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verschmutzt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.133" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.133.unhygienisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unhygienisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.134" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.134.hygienisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hygienisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.135" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.135.keimfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>keimfrei</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.135.steril" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>steril</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.136" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.136.lupenrein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lupenrein</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.137" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.137.verpanscht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verpanscht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.137.gepanscht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gepanscht</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.138" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.138.verseucht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verseucht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.138.kontaminiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kontaminiert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.139" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.139.schmutzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmutzig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.139.dreckig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dreckig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.139.verdreckt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verdreckt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.139.beschmutzt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beschmutzt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.140" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.140.staubig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>staubig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.140.verstaubt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verstaubt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.141" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.141.verrußt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verrußt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.141.rußig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rußig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.142" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.142.ungefiltert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ungefiltert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.143" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.143.unsauber" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unsauber</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.144" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.144.trüb1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trüb</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>trübes Wasser</text>
+</example>
+</examples>
+</synset>
+<synset id="aSubstanz.145" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.145.fleckig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fleckig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.146" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.146.schwarz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwarz</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von Schmutz ganz dunkel</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>ein schwarzer Hemdkragen</text>
+</example>
+</examples>
+</synset>
+<synset id="aSubstanz.147" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.147.sauber" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sauber</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.148" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.148.klar1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.149" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.149.gefiltert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gefiltert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.150" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.150.absolut" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>absolut</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>absoluter Alkohol</text>
+</example>
+</examples>
+</synset>
+<synset id="aSubstanz.151" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aSubstanz.151.gewichtsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gewichtsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.152" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.152.schwer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwer</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.153" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.153.leicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.154" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.154.massiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>massiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.155" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.155.federleicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>federleicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.156" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.156.luftig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>luftig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.157" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aSubstanz.157.physikspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>physikspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.158" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.158.elektrisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>elektrisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.159" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.159.magnetisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>magnetisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.160" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.160.elektromagnetisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>elektromagnetisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.161" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.161.radioaktiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>radioaktiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.162" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aSubstanz.162.chemiespezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>chemiespezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.163" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.163.kalkhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kalkhaltig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Kalk enhaltend</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>kalkhaltiges Gestein</text>
+</example>
+</examples>
+</synset>
+<synset id="aSubstanz.164" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.164.hart2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>hart</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>hartes Wasser</text>
+</example>
+</examples>
+</synset>
+<synset id="aSubstanz.165" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.165.organisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>organisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.166" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.166.anorganisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anorganisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.167" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.167.asbesthaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>asbesthaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.168" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.168.dioxinhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dioxinhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.169" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.169.ölhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ölhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.170" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.170.alkoholhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>alkoholhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.171" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.171.metallhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>metallhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.172" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.172.schwermetallhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwermetallhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.173" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.173.quecksilberhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>quecksilberhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.174" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.174.uranhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>uranhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.175" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.175.plutoniumhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>plutoniumhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.176" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.176.bleihaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bleihaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.177" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.177.eisenhaltig1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eisenhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.178" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.178.edelmetallhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>edelmetallhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.179" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.179.silberhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>silberhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.180" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.180.goldhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>goldhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.181" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.181.palladiumhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>palladiumhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.182" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.182.schwefelhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwefelhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.183" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.183.salzhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>salzhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.184" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.184.nährstoffhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nährstoffhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.185" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.185.zuckerhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zuckerhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.186" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.186.fetthaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fetthaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.187" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.187.vitaminhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vitaminhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.188" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.188.eiweißhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eiweißhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.189" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.189.fleischhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fleischhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.190" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.190.mineralstoffhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mineralstoffhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.191" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.191.eisenhaltig2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>eisenhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.192" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.192.wasserhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wasserhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.193" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.193.phosphathaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>phosphathaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.194" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.194.stickstoffhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stickstoffhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.195" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.195.sauerstoffhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sauerstoffhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.196" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.196.sauerstoffarm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sauerstoffarm</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.196.stickig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stickig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.197" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.197.halogenhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>halogenhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.198" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.198.chlorhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>chlorhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.199" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.199.bromhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bromhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.200" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.200.säurehaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>säurehaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.201" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.201.kohlensäurehaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kohlensäurehaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.202" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.202.koffeinhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>koffeinhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.203" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.203.halluzinogenhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>halluzinogenhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.204" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.204.lösungsmittelhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lösungsmittelhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.205" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.205.lehmhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lehmhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.206" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.206.holzhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>holzhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.207" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.207.anabolikahaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anabolikahaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.208" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aSubstanz.208.temperaturspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>temperaturspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.209" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.209.warm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>warm</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.210" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.210.heiß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>heiß</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.211" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.211.lau1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lau</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.211.lauwarm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lauwarm</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.212" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.212.kalt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kalt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.213" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.213.kühl" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kühl</orthForm>
+</lexUnit>
+</synset>
+<synset id="aSubstanz.214" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.214.eisig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eisig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.214.eiskalt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eiskalt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.214.eisigkalt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eisigkalt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>verstärkt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aSubstanz.215" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aSubstanz.215.biogen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>biogen</orthForm>
+</lexUnit>
+</synset>
+</synsets>

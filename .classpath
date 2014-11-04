@@ -32,6 +32,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="src/main/resources/ws4j-1.0.1.jar"/>
+	<classpathentry kind="lib" path="jars/ws4j-1.0.1.jar"/>
+	<classpathentry kind="lib" path="jars/gn_api-0.2.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

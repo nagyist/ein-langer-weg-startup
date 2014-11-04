@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd"[
+ ]>
+<synsets>
+<synset id="aBewegung.1" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aBewegung.1.bewegungsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bewegungsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.2" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.2.fließend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fließend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.2.gleitend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gleitend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.2.harmonisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>harmonisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.3" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.3.geschmeidig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geschmeidig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.3.elegant" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>elegant</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>mit den geschmeidigen Bewegungen einer Katze</text>
+</example>
+</examples>
+</synset>
+<synset id="aBewegung.4" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.4.beschwingt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beschwingt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.4.schwungvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwungvoll</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit/voll Schwung</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aBewegung.5" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.5.abgehackt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abgehackt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.5.unharmonisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unharmonisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.6" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.6.eckig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eckig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.6.kantig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kantig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.6.zackig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zackig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.7" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.7.leicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.8" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.8.grazil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grazil</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.8.graziös" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>graziös</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.8.anmutig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anmutig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.9" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.9.heftig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>heftig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.9.vehement" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vehement</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.9.ungestüm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ungestüm</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.10" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.10.turbulent" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>turbulent</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.10.unruhig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unruhig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.11" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.11.furios" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>furios</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.11.mitreißend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mitreißend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.12" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.12.plump" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>plump</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.13" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.13.gravitätisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gravitätisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.13.schwerfällig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwerfällig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.14" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.14.behäbig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>behäbig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.15" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.15.wild" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wild</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.15.zappelig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zappelig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.15.hektisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hektisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.16" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.16.starr" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>starr</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.16.unbeweglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbeweglich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.16.unflexibel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unflexibel</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.16.fest" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fest</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.16.steif" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>steif</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.17" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.17.hölzern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hölzern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.17.holprig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>holprig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.17.staksig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>staksig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.18" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.18.ungelenk" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ungelenk</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.18.ungelenkig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ungelenkig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.19" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.19.gegeben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gegeben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.19.feststehend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>feststehend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.19.fix" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fix</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.20" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.20.steckengeblieben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>steckengeblieben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.21" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.21.stehengeblieben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stehengeblieben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.22" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.22.beweglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beweglich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.22.mobil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mobil</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.23" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.23.rhythmisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rhythmisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.24" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.24.gelenkig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gelenkig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.24.biegsam" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>biegsam</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.25" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.25.flexibel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>flexibel</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.26" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.26.verstellbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verstellbar</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.26.umstellbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>umstellbar</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von Gegenständen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aBewegung.27" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.27.elastisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>elastisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.27.dehnbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dehnbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.28" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aBewegung.28.positionsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>positionsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.29" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.29.sitzend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sitzend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.30" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.30.stehend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stehend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.31" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.31.liegend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>liegend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.32" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.32.hockend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hockend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.32.kauernd" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kauernd</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.33" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.33.ruhend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ruhend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.34" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.34.laufend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>laufend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.35" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.35.fliegend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fliegend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.36" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.36.gehend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gehend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.36.schreitend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schreitend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.37" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.37.rennend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rennend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.37.rasend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rasend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.38" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.38.steigend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>steigend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.38.ansteigend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ansteigend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aBewegung.39" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.39.fallend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fallend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.39.sinkend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sinkend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aBewegung.39.absinkend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>absinkend</orthForm>
+</lexUnit>
+</synset>
+</synsets>

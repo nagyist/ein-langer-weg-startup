@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd"[
+ ]>
+<synsets>
+<synset id="nTops.1" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nTops.1.Entität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Entität</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>konkretes oder abstraktes Objekt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nTops.2" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nTops.2.Objekt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Objekt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nTops.3" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nTops.3.natürliches_Objekt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>natürliches_Objekt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nTops.4" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nTops.4.Lebewesen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lebewesen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nTops.4.Kreatur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kreatur</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nTops.4.Wesen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wesen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nTops.5" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nTops.5.Schöpfung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schöpfung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nTops.5.Geschöpf" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Geschöpf</orthForm>
+</lexUnit>
+</synset>
+<synset id="nTops.6" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nTops.6.Lebensform" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lebensform</orthForm>
+</lexUnit>
+</synset>
+<synset id="nTops.7" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="ja" id="nTops.7.natürliches_Lebewesen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>natürliches_Lebewesen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nTops.7.Organismus" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Organismus</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>tierisches oder pflanzliches Lebewesen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nTops.8" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="ja" id="nTops.8.geschlechtsspezifisches_Lebewesen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geschlechtsspezifisches_Lebewesen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nTops.9" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nTops.9.Zwitter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zwitter</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Lebewesen (Tier oder Pflanze), das seinen geschlechtlichen Eigenschaften und Merkmalen nach sowohl männlich als auch weiblich ist</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nTops.10" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nTops.10.Parasit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Parasit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nTops.10.Schmarotzer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schmarotzer</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Lebewesen (Tier oder Pflanze), das auf Kosten seines Wirtes lebt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nTops.11" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nTops.11.Plankton" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Plankton</orthForm>
+</lexUnit>
+</synset>
+<synset id="nTops.12" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="ja" id="nTops.12.altersspezifisches_Lebewesen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>altersspezifisches_Lebewesen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nTops.13" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nTops.13.übernatürliches_Lebewesen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>übernatürliches_Lebewesen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nTops.13.Anthropomorph" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Anthropomorph</orthForm>
+</lexUnit>
+</synset>
+<synset id="nTops.14" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nTops.14.höheres_Lebewesen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>höheres_Lebewesen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nTops.15" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nTops.15.Subjekt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Subjekt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>denkendes Wesen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nTops.16" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nTops.16.Ding" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ding</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nTops.16.Sache" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sache</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nTops.16.Gegenstand" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gegenstand</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nTops.16.Gebilde" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gebilde</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>festumrissenes Objekt mit räumlicher Ausdehnung</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nTops.17" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nTops.17.Teil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Teil</orthForm>
+</lexUnit>
+</synset>
+</synsets>

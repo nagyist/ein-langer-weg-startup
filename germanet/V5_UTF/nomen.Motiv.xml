@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd"[
+ ]>
+<synsets>
+<synset id="nMotiv.1" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.1.Motiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Motiv</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.1.Intention" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Intention</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.2" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.2.Motivation" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Motivation</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.2.Beweggrund" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Beweggrund</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.2.Veranlassung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Veranlassung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.2.Anlass" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Anlass</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.2.Anlaß" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Anlaß</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.2.Grund" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Grund</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.3" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.3.Indikation" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Indikation</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Grund für einen Schwangerschaftsabbruch</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nMotiv.4" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.4.Notlagenindikation" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Notlagenindikation</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.4.soziale_Indikation" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>soziale_Indikation</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.5" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.5.medizinische_Indikation" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>medizinische_Indikation</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.6" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.6.eugenische_Indikation" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eugenische_Indikation</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.7" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.7.ethische_Indikation" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ethische_Indikation</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.8" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.8.Indikation1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Indikation</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Grund für eine medizinische Untersuchung</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nMotiv.9" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.9.Ursache" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ursache</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.10" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.10.Unfallursache" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unfallursache</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.11" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.11.Todesursache" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Todesursache</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.12" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.12.Brandursache" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Brandursache</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.13" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.13.Unglücksursache" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unglücksursache</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.14" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.14.Absturzursache" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Absturzursache</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.15" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.15.Hauptursache" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hauptursache</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.16" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.16.Zankapfel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zankapfel</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Streitobjekt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nMotiv.17" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.17.Faktor" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Faktor</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.18" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.18.Störfaktor" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Störfaktor</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.19" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.19.Wirtschaftsfaktor" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wirtschaftsfaktor</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.20" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.20.Machtfaktor" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Machtfaktor</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.21" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.21.Kostenfaktor" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kostenfaktor</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.22" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.22.Risikofaktor" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Risikofaktor</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.23" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.23.Unsicherheitsfaktor" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unsicherheitsfaktor</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.24" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.24.Kostengrund" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kostengrund</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Grund sind die (hohen) Kosten</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nMotiv.25" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.25.Kündigungsgrund" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kündigungsgrund</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.26" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.26.Haftgrund" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Haftgrund</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.27" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.27.Altersgründe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Altersgründe</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Pluralwort</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nMotiv.28" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.28.Hauptgrund" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hauptgrund</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.29" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.29.Asylgrund" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Asylgrund</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.30" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.30.Verursachung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verursachung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.30.Verursacher" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verursacher</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.30.Auslöser" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Auslöser</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.31" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.31.Ursprung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ursprung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.32" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.32.Keim" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Keim</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.33" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.33.Leben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Leben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.33.Lebensinhalt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lebensinhalt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.34" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.34.Vereinsleben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vereinsleben</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.35" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.35.Stadtleben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Stadtleben</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.36" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.36.Liebesleben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Liebesleben</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.37" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.37.Eheleben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Eheleben</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.38" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.38.Landleben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Landleben</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.39" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.39.Moral" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Moral</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.39.Moralvorstellung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Moralvorstellung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.39.Ethik" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ethik</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>auch Eigenschaft, Zustand</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nMotiv.40" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.40.Zahlungsmoral" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zahlungsmoral</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.41" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.41.Wertvorstellung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wertvorstellung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.42" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.42.Sitte" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sitte</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.42.Sittlichkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sittlichkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.43" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.43.Trieb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Trieb</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>vom Instinkt gesteuerter innerer Antrieb, der auf die Befriedigung starker, oft lebensnotwendiger Bedürfnisse abzielt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nMotiv.44" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.44.Spieltrieb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Spieltrieb</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.45" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.45.Triebfeder" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Triebfeder</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.45.Antrieb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Antrieb</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.45.Dynamik" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dynamik</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.45.Antriebskraft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Antriebskraft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.46" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.46.Eigendynamik" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Eigendynamik</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.47" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.47.Reiz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Reiz</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.47.Anreiz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Anreiz</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.47.Stimulus" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Stimulus</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.47.Impuls" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Impuls</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.47.Impetus" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Impetus</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.48" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.48.Ansporn" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ansporn</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.49" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.49.Kick" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>Kick</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.50" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.50.Drang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Drang</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.50.Drängen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Drängen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.51" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.51.Tätigkeitsdrang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tätigkeitsdrang</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.51.Aktionismus" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Aktionismus</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.51.Schaffensdrang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schaffensdrang</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.52" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.52.Geltungsdrang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Geltungsdrang</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.53" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.53.Großmannssucht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Großmannssucht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.54" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.54.Anregung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Anregung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.54.Stimulierung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Stimulierung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.55" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.55.Kitzel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kitzel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.56" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.56.Bewegungsdrang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bewegungsdrang</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.57" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.57.Freiheitsdrang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Freiheitsdrang</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.58" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.58.Denkanstoß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Denkanstoß</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.59" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.59.Belebung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Belebung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.60" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.60.Wiederbelebung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wiederbelebung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.61" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.61.Befruchtung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Befruchtung</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>geistige Anregung</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nMotiv.62" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.62.Attraktivität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Attraktivität</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.62.Attraktion" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Attraktion</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.62.Anziehungskraft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Anziehungskraft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.62.Anziehung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Anziehung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.63" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.63.Faszination" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Faszination</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.64" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.64.Anstoß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Anstoß</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.65" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.65.Initiative" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Initiative</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.66" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.66.Eigeninitiative" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Eigeninitiative</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.66.Selbstmotivation" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Selbstmotivation</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.67" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.67.Privatinitiative" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Privatinitiative</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.68" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.68.Unternehmergeist" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unternehmergeist</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.69" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.69.Hauptmotiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hauptmotiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.70" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.70.Leitmotiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Leitmotiv</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.70.Zentralmotiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zentralmotiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.71" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.71.Topos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Topos</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.72" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.72.Motiv2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Motiv</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.72.Bildmotiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bildmotiv</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.72.Bildthema" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bildthema</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.72.Bildthematik" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bildthematik</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.73" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.73.Stillleben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Stillleben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.73.Still-Leben" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Still-Leben</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.74" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.74.Wappentier" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wappentier</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.75" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.75.Putte" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Putte</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.76" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.76.Lieblingsmotiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lieblingsmotiv</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.76.Lieblingsthematik" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lieblingsthematik</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.77" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.77.Anliegen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Anliegen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.78" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.78.Hauptanliegen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hauptanliegen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.79" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.79.Herzensangelegenheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Herzensangelegenheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.80" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.80.unbewusstes_Motiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbewusstes_Motiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.81" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.81.Motto" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Motto</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.81.Thema" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Thema</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.82" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.82.Unternehmensphilosophie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unternehmensphilosophie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.83" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.83.Schwerpunkt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schwerpunkt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.84" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.84.Forschungsschwerpunkt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Forschungsschwerpunkt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.85" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.85.Arbeitsschwerpunkt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Arbeitsschwerpunkt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.86" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.86.Losung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Losung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.87" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.87.Ziel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ziel</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>erstrebter Punkt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nMotiv.88" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.88.Hauptziel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hauptziel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.89" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.89.Lernziel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lernziel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.90" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.90.Nahziel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nahziel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.91" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.91.Klassenziel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Klassenziel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.92" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.92.Kriegsziel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kriegsziel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.93" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.93.Lebensziel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lebensziel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.94" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.94.Wahlziel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wahlziel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.95" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.95.Zweck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zweck</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Ziel einer Handlung</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nMotiv.96" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.96.Verwendungszweck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verwendungszweck</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.97" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.97.Hauptzweck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hauptzweck</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.98" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.98.Bestimmung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bestimmung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.99" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.99.Selbstzweck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Selbstzweck</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.100" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.100.Tatmotiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tatmotiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.101" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.101.rationales_Motiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rationales_Motiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.102" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.102.irrationales_Motiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>irrationales_Motiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.103" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.103.Vernunft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vernunft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.104" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.104.Manie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Manie</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.104.Leidenschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Leidenschaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.104.Besessenheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Besessenheit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.104.Obsession" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Obsession</orthForm>
+</lexUnit>
+</synset>
+<synset id="nMotiv.105" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nMotiv.105.Sammelleidenschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sammelleidenschaft</orthForm>
+</lexUnit>
+</synset>
+</synsets>

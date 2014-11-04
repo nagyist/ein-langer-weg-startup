@@ -1,0 +1,33 @@
+<!-- DTD for GermaNet relation files.--> 
+<!-- Version 1.2, January 2002 -->
+<!-- Last update: March 2002 -->
+<!-- Last update: October 2004 -->
+<!-- Copyright: Sem. f. Sprachwissenschaft der Universitaet Tuebingen -->
+
+<!ELEMENT relations (lex_rel | con_rel)*>
+
+<!ELEMENT lex_rel (locator+, arc+)>
+<!ATTLIST lex_rel name (antonymy | pertonymy | participleOf) #REQUIRED
+	      dir (one | both) #REQUIRED    
+	      sense	CDATA	#REQUIRED
+	      xmlns:xlink CDATA #FIXED 'http://www.w3.org/1999/xlink'
+              xlink:type (extended) #FIXED 'extended'>
+              
+<!ELEMENT con_rel (locator+, arc+)>
+<!ATTLIST con_rel name (hyperonymy | hyponymy | meronymy | holonymy | entailment | 
+			causation | association) #REQUIRED
+	      dir (one | both) #REQUIRED    
+	      xmlns:xlink CDATA #FIXED 'http://www.w3.org/1999/xlink'
+              xlink:type (extended) #FIXED 'extended'>
+
+<!ELEMENT locator EMPTY>
+<!ATTLIST locator xlink:type (locator) #FIXED 'locator'
+	          xlink:href CDATA #REQUIRED
+	          xlink:label CDATA #REQUIRED> 
+	          
+<!ELEMENT arc EMPTY>
+<!ATTLIST arc xlink:type (arc) #FIXED 'arc'
+              xlink:from CDATA #REQUIRED
+      	      xlink:to CDATA #REQUIRED
+	      xlink:actuate (onRequest) #FIXED 'onRequest'
+              xlink:show (other) #FIXED 'other'>

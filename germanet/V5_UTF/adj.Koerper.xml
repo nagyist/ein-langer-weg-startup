@@ -1,0 +1,2456 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd"[
+ ]>
+<synsets>
+<synset id="aKoerper.1" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aKoerper.1.körperspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>körperspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.2" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.2.anatomisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anatomisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.3" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aKoerper.3.belebtheitsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>belebtheitsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.4" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.4.tot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tot</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.5" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.5.mausetot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mausetot</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>verstärkt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.6" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.6.leblos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leblos</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.7" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.7.entseelt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entseelt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.8" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.8.verstorben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verstorben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.8.verblichen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>verblichen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.8.verschieden" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>verschieden</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.8.gestorben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gestorben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.9" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.9.lebendig1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lebendig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.10" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.10.lebend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lebend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.11" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.11.belebt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>belebt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.12" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aKoerper.12.konstitutionsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konstitutionsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.13" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.13.stark" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stark</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.13.kräftig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kräftig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.14" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.14.zäh" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zäh</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.15" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.15.widerstandsfähig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>widerstandsfähig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.16" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.16.hart" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hart</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.16.abgehärtet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abgehärtet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.17" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.17.unverwüstlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unverwüstlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.18" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.18.robust" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>robust</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.18.vital" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vital</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.19" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.19.belastbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>belastbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.20" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.20.kraftvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kraftvoll</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.21" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.21.stabil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stabil</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.21.stramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stramm</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.21.kernig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kernig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.22" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.22.trainiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trainiert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.22.durchtrainiert1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>durchtrainiert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.22.fit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fit</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.23" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.23.konditionsstark" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konditionsstark</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.24" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.24.sportlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sportlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.25" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.25.sportiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sportiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.26" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.26.athletisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>athletisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.27" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.27.schwach" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwach</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.27.kraftlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kraftlos</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.28" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.28.untrainiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>untrainiert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.28.unsportlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unsportlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.29" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.29.schwächlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwächlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.29.mickerig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mickerig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.30" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.30.memmenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>memmenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.31" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.31.schlapp" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schlapp</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.31.schlaff" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schlaff</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.32" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.32.gebrechlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gebrechlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.32.morbide" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>morbide</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.32.hinfällig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hinfällig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.33" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.33.anfällig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anfällig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.34" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.34.zart" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zart</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.35" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aKoerper.35.krankheitsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>krankheitsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.36" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.36.gesund" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gesund</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.37" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.37.kerngesund" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kerngesund</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>verstärkt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.38" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.38.resistent" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>resistent</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.38.immun" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>immun</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.39" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.39.quietschfidel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>quietschfidel</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.40" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.40.klar1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klar</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>eine klare Stimme</text>
+</example>
+</examples>
+</synset>
+<synset id="aKoerper.41" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.41.rüstig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rüstig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>vor allem bei älteren Menschen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.42" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.42.heil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>heil</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.43" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.43.clean" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>clean</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>nicht mehr drogenabhängig</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.44" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.44.unverletzt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unverletzt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.44.unversehrt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unversehrt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.45" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.45.verheilt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verheilt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.45.gesundet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gesundet</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.45.genesen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>genesen</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>wieder gesund</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.46" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.46.geistesklar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geistesklar</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.46.klar2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>klar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.47" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.47.geistesgegenwärtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geistesgegenwärtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.48" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.48.hell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hell</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>In hellen Augenblicken konnte er sich an alles erinnern</text>
+</example>
+</examples>
+</synset>
+<synset id="aKoerper.49" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.49.krank" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>krank</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.50" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.50.ungesund" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ungesund</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.51" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.51.leidend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leidend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.52" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.52.krankhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>krankhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.52.pathologisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pathologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.53" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.53.mondsüchtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mondsüchtig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.53.sonnambul" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sonnambul</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.54" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.54.geplagt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geplagt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.54.geschunden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geschunden</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.54.gequält" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gequält</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.55" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.55.kränklich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kränklich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.56" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.56.kränkelnd" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kränkelnd</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.57" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.57.verletzt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verletzt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.57.verwundet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verwundet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.58" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.58.schwerverletzt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwerverletzt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.58.schwerverwundet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwerverwundet</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.58.krankenhausreif" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>krankenhausreif</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.59" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.59.krebskrank" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>krebskrank</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.60" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.60.herzkrank" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herzkrank</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.61" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.61.zuckerkrank" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zuckerkrank</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.62" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.62.gallenkrank" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gallenkrank</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.63" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.63.leberkrank" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leberkrank</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.64" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.64.nierenkrank" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nierenkrank</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.65" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.65.drüsenkrank" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>drüsenkrank</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.66" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.66.magenkrank" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>magenkrank</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.67" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.67.aidskrank" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aidskrank</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.68" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.68.lungenkrank" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lungenkrank</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.69" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.69.blutig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blutig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.69.blutend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blutend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.70" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.70.lädiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lädiert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.70.blessiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blessiert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.71" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.71.eitrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eitrig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.71.eiternd" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eiternd</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.71.vereitert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vereitert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.72" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.72.wund" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wund</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.72.entzündet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entzündet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.73" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.73.verschorft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verschorft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.74" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.74.erkältet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erkältet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.75" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.75.verschnupft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verschnupft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.76" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.76.verschleimt" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>verschleimt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.77" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.77.anämisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anämisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.77.blutarm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blutarm</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.78" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.78.tuberkular" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tuberkular</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.78.knotig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>knotig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.79" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.79.missgebildet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>missgebildet</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.79.mißgebildet" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>mißgebildet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.80" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.80.beeinträchtigt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beeinträchtigt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.80.körperlich_beeinträchtigt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>körperlich_beeinträchtigt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.81" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.81.kurzsichtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kurzsichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.82" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.82.weitsichtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weitsichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.83" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.83.körperbehindert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>körperbehindert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.83.körperlich_behindert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>körperlich_behindert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.83.versehrt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>versehrt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.84" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.84.geistig_behindert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geistig_behindert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.84.geisteskrank" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geisteskrank</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.85" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.85.seelisch_behindert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>seelisch_behindert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.85.psychisch_krank" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>psychisch_krank</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.86" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.86.depressiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>depressiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.87" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.87.manisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>manisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.88" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.88.manisch-depressiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>manisch-depressiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.89" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.89.schizophren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schizophren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.89.persönlichkeitsgespalten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>persönlichkeitsgespalten</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.90" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.90.psychopathisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>psychopathisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.91" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.91.schizoid" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schizoid</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.92" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.92.paranoid" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>paranoid</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.93" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.93.neurotisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neurotisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.94" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.94.zwanghaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zwanghaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.94.zwangsgestört" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zwangsgestört</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.95" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.95.behindert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>behindert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.96" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.96.blind" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blind</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.97" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.97.taub" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>taub</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.98" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.98.lahm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lahm</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.99" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.99.stumm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stumm</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.100" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.100.taubstumm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>taubstumm</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.101" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.101.schlecht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schlecht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.101.übel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>übel</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.101.schwindlig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwindlig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>nur prädikativer Gebrauch</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>mir ist übel/schlecht</text>
+</example>
+</examples>
+</synset>
+<synset id="aKoerper.102" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.102.mau" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>mau</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.102.flau" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>flau</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.103" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.103.matt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>matt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.104" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.104.magersüchtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>magersüchtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.105" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.105.heiser" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>heiser</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.106" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.106.rauh" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rauh</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.106.rau" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>rau</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.107" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.107.belegt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>belegt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.108" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.108.krüppelhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>krüppelhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.108.krüppelig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>krüppelig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.108.verkrüppelt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verkrüppelt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.109" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.109.gestört" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gestört</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.110" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.110.verhaltensgestört" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verhaltensgestört</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.111" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.111.geistesgestört" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geistesgestört</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.111.verrückt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verrückt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.112" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.112.verwirrt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verwirrt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.112.dement" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dement</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.112.durcheinander" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>durcheinander</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.113" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.113.ohnmächtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ohnmächtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.114" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.114.bewusstlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bewusstlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.114.bewußtlos" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>bewußtlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.114.besinnungslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>besinnungslos</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.115" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.115.komatös" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>komatös</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.116" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aKoerper.116.körpergefühlsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>körpergefühlsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.117" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.117.hungrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hungrig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.118" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.118.ausgehungert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausgehungert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.119" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.119.durstig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>durstig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.120" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.120.betrunken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>betrunken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.120.trunken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trunken</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.121" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.121.angeheitert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>angeheitert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.121.angetrunken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>angetrunken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.121.angesäuselt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>angesäuselt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.121.beschwipst" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beschwipst</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.121.angesoffen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>angesoffen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.122" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.122.blau" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>blau</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.122.schicker" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>schicker</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.122.besoffen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>besoffen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.122.fett" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>fett</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.122.stramm" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>stramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.123" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.123.volltrunken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>volltrunken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.123.vollstramm" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>vollstramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.124" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.124.nüchtern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nüchtern</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.125" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.125.berauscht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>berauscht</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.126" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.126.dicht" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>dicht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.126.bekifft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bekifft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.126.stoned" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>stoned</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.127" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.127.high" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>high</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.127.angetörnt" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>angetörnt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.127.angeturnt" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>angeturnt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.128" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.128.versoffen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>versoffen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.129" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.129.heißhungrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>heißhungrig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>verstärkt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.130" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.130.gefräßig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gefräßig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.130.verfressen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verfressen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.131" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.131.satt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>satt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.132" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.132.gesättigt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gesättigt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.133" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.133.übersättigt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>übersättigt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.134" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.134.pappsatt" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>pappsatt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.135" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.135.voll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>voll</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.136" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.136.vollgefressen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vollgefressen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.136.voll_gefressen" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>voll_gefressen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.136.vollgestopft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vollgestopft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.136.voll_gestopft" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>voll_gestopft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.137" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.137.müde" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>müde</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.138" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.138.todmüde" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>todmüde</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>verstärkt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.139" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.139.schläfrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schläfrig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.140" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.140.verschlafen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verschlafen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.141" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.141.erschöpft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erschöpft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.141.ausgebrannt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausgebrannt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.141.ausgepumpt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausgepumpt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.141.ausgelaugt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausgelaugt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.141.entkräftet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entkräftet</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.141.abgespannt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abgespannt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.141.mitgenommen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mitgenommen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.142" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.142.resigniert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>resigniert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.142.frustriert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>frustriert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.143" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.143.fertig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fertig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.143.groggy" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>groggy</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.143.ausgepowert" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>ausgepowert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.144" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.144.erholungsbedürftig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erholungsbedürftig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.144.urlaubsreif" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>urlaubsreif</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.145" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.145.phlegmatisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>phlegmatisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.145.faul" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>faul</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.146" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.146.lebhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lebhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.147" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.147.wach" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wach</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.148" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.148.hellwach" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hellwach</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>verstärkt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.149" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.149.überdreht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überdreht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.149.aufgedreht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufgedreht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.149.aufgekratzt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufgekratzt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.149.überspannt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überspannt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.150" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.150.munter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>munter</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.151" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.151.putzmunter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>putzmunter</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>verstärkt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.152" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.152.aufgeweckt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufgeweckt</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>ein aufgewecktes Kind</text>
+</example>
+</examples>
+</synset>
+<synset id="aKoerper.153" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.153.lebendig2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>lebendig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.154" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.154.quicklebendig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>quicklebendig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>verstärkt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.155" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.155.gierig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gierig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.155.unersättlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unersättlich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von einem körperlichen Trieb erfasst</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.156" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.156.triebhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>triebhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.156.libidonös" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>libidonös</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.157" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.157.lasziv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lasziv</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.158" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.158.begierig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>begierig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.158.begehrlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>begehrlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.159" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.159.heiß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>heiß</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.160" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.160.geil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geil</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.160.lüstern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lüstern</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.161" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.161.sexhungrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sexhungrig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.161.sexgierig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sexgierig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.161.schwanzgesteuert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwanzgesteuert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.162" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.162.kalt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kalt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.163" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.163.frigid" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>frigid</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.163.frigide" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>frigide</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.164" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aKoerper.164.geschlechtsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geschlechtsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.165" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.165.weiblich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weiblich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.165.feminin" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>feminin</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.166" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.166.männlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>männlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.166.maskulin" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>maskulin</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.167" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aKoerper.167.aussehensspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aussehensspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.168" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.168.nackt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nackt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.168.bloß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bloß</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.168.unbekleidet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbekleidet</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.168.entblößt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entblößt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.168.unverhüllt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unverhüllt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne Kleidung</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.169" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.169.bekleidet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bekleidet</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.169.gekleidet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gekleidet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.170" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.170.livriert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>livriert</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit einer Livree bekleidet</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.171" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.171.uniformiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>uniformiert</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit einer Uniform bekleidet</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.172" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.172.befrackt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>befrackt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit einem Frack bekleidet</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.173" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.173.splitternackt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>splitternackt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.173.splitterfasernackt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>splitterfasernackt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.174" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.174.pudelnackt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pudelnackt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.175" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.175.kniefrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kniefrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>unbekleidetes Knie</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.176" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.176.armfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>armfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>unbekleideter Arm</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.177" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.177.schulterfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schulterfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>unbekleidete Schulter</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.178" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.178.beinfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beinfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>unbekleidetes Bein</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.179" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.179.rückenfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rückenfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>unbekleideter Rücken</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.180" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.180.bauchfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bauchfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>unbekleideter Bauch</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.181" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.181.schön" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schön</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.182" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.182.wunderschön" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wunderschön</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>sehr schön</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.183" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.183.hübsch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hübsch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.184" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.184.wohlgeformt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wohlgeformt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.184.wohl_geformt" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>wohl_geformt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.185" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.185.griffig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>griffig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.186" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.186.bildhübsch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bildhübsch</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>verstärkt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.187" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.187.attraktiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>attraktiv</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.187.anziehend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anziehend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.188" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.188.rassig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rassig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.188.apart" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>apart</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ein rassiges Geschöpf</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.189" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.189.sinnlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sinnlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.190" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.190.fein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fein</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.190.feingeschnitten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>feingeschnitten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.190.fein_geschnitten" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>fein_geschnitten</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>feine Gesichtszüge</text>
+</example>
+<example>
+<text></text>
+</example>
+<example>
+<text>ein feingeschnittenes Profil</text>
+</example>
+</examples>
+</synset>
+<synset id="aKoerper.191" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.191.ansehnlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ansehnlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.191.vorzeigbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorzeigbar</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>vorzeigbar in Jeans und Abendkleid</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.192" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.192.sexy" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sexy</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.192.geil" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>geil</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.192.scharf" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>scharf</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.193" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.193.anmutig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anmutig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.193.graziös" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>graziös</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.194" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.194.hässlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hässlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.194.häßlich" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>häßlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.195" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.195.unansehnlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unansehnlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.196" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.196.unappetitlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unappetitlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.196.ungepflegt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ungepflegt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.196.schmuddelig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmuddelig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.197" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.197.fettig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fettig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.197.strähnig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>strähnig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>bei Haaren</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.198" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.198.ölig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ölig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>bei Haaren</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.199" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.199.verlottert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verlottert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.199.verkommen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verkommen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.200" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.200.vergammelt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vergammelt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.200.verlumpt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verlumpt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.201" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.201.verwahrlost" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verwahrlost</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.202" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.202.verschwitzt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verschwitzt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.203" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.203.lumpig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lumpig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.203.gammlig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gammlig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.203.gammelig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gammelig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.203.abgerissen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abgerissen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.204" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.204.appetitlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>appetitlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.204.gepflegt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gepflegt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.204.adrett" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>adrett</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.205" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.205.unattraktiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unattraktiv</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.205.unscheinbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unscheinbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.206" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.206.verbraucht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verbraucht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.206.verlebt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verlebt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.207" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.207.potthässlich" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>potthässlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.207.potthäßlich" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>potthäßlich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>verstärkt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.208" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.208.ästhetisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ästhetisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.208.ansprechend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ansprechend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.209" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.209.dekorativ" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dekorativ</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.209.schmuck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmuck</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von Gegenständen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.210" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.210.stilvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stilvoll</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.210.geschmackvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geschmackvoll</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von Gegenständen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.211" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.211.formvollendet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>formvollendet</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.211.formschön" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>formschön</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.212" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.212.unästhetisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unästhetisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.212.plump" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>plump</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.213" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.213.unförmig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unförmig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.214" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.214.verwachsen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verwachsen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.214.bucklig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bucklig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.215" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.215.entstellt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entstellt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.216" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.216.pickelig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pickelig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.217" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.217.deformiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>deformiert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.217.verformt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verformt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.218" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.218.zerbeult" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zerbeult</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.219" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.219.dick" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dick</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.219.übergewichtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>übergewichtig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.219.schwergewichtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwergewichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.220" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.220.fleischig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fleischig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.220.wohlbeleibt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wohlbeleibt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.220.wohl_beleibt" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>wohl_beleibt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.220.umfangreich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>umfangreich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.221" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.221.vollschlank" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vollschlank</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.221.füllig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>füllig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.222" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.222.fett" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fett</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.222.fettleibig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fettleibig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.222.feist" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>feist</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.223" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.223.bullig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bullig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.223.bullerig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bullerig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.224" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.224.stattlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stattlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.224.stämmig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stämmig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.225" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.225.barock" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>barock</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.226" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.226.matronenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>matronenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.227" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.227.aufgedunsen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufgedunsen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.227.aufgetrieben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufgetrieben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.228" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.228.korpulent" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>korpulent</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.228.voluminös" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>voluminös</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.228.beleibt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beleibt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.229" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.229.rund" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rund</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.229.rundlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rundlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.229.mollig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mollig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.229.dicklich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dicklich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.230" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.230.üppig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>üppig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.230.vollbusig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vollbusig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.231" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.231.prall" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>prall</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.232" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.232.untersetzt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>untersetzt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.233" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.233.dickwanstig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dickwanstig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.233.dickbäuchig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dickbäuchig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.234" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.234.massig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>massig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.234.kompakt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kompakt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.235" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.235.ultrakompakt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ultrakompakt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.236" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.236.breit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>breit</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.237" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.237.dünn" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dünn</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.237.untergewichtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>untergewichtig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.237.leichtgewichtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leichtgewichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.238" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.238.schmal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.239" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.239.mager" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mager</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.240" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.240.hager" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hager</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.240.knochig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>knochig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.241" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.241.dürr" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dürr</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.242" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.242.schmächtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmächtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.243" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.243.rappeldürr" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rappeldürr</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.243.klapperdürr" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klapperdürr</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.243.spindeldürr" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spindeldürr</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.243.klapprig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klapprig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>verstärkt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.244" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.244.abgemagert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abgemagert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.244.abgemergelt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abgemergelt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.244.ausgemergelt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausgemergelt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.244.abgezehrt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abgezehrt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.244.unterernährt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unterernährt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.245" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.245.schlank" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schlank</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.245.rank" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>rank</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.246" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.246.gertenschlank" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gertenschlank</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>verstärkt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.247" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.247.rosig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rosig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.247.blühend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blühend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.248" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.248.sommersprossig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sommersprossig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.249" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.249.pausbäckig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pausbäckig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.250" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.250.blond" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blond</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.251" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.251.braun" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>braun</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.251.braunhäutig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>braunhäutig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.252" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.252.weißhäutig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weißhäutig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.252.hellhäutig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hellhäutig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.253" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.253.wasserstoffblond" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wasserstoffblond</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.253.weißblond" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weißblond</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.253.hellblond" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hellblond</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.254" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.254.rotblond" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rotblond</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.254.rötlich-blond" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rötlich-blond</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.255" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.255.aschblond" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aschblond</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.255.dunkelblond" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dunkelblond</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.256" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.256.silberblond" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>silberblond</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.257" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.257.goldblond" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>goldblond</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.258" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.258.dunkelhaarig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dunkelhaarig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.259" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.259.brünett" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>brünett</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.259.braunhaarig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>braunhaarig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.260" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.260.kastanienbraun" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kastanienbraun</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.260.rotbraun" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rotbraun</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.261" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.261.dunkelbraun" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dunkelbraun</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.261.schwarzbraun" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwarzbraun</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.262" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.262.kahl" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kahl</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.262.glatzköpfig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>glatzköpfig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.262.kahlköpfig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kahlköpfig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.263" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.263.behaart" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>behaart</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.263.haarig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>haarig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.264" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.264.bärtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bärtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.265" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.265.vollbärtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vollbärtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.266" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.266.unbehaart" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbehaart</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.266.haarlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>haarlos</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.267" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.267.rothaarig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rothaarig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.268" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.268.schwarzhaarig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwarzhaarig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.269" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.269.blauschwarz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blauschwarz</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.270" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.270.grau" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grau</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.270.grauhaarig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grauhaarig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.271" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.271.graumeliert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>graumeliert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.272" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.272.lockig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lockig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.272.kraus" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kraus</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.273" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.273.langhaarig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>langhaarig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.273.langmähnig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>langmähnig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.274" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.274.großgewachsen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>großgewachsen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.274.groß_gewachsen" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>groß_gewachsen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.274.hochgewachsen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hochgewachsen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.274.hoch_gewachsen" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>hoch_gewachsen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.274.langgewachsen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>langgewachsen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.274.lang_gewachsen" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>lang_gewachsen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.274.lang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lang</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>ein großgewachsener/langer Kerl</text>
+</example>
+</examples>
+</synset>
+<synset id="aKoerper.275" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.275.kleingewachsen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kleingewachsen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.275.klein_gewachsen" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>klein_gewachsen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.275.kurzgewachsen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kurzgewachsen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.275.kurz_gewachsen" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>kurz_gewachsen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.275.kurz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kurz</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.276" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.276.breithüftig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>breithüftig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.277" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.277.breitschultrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>breitschultrig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.278" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.278.breitkiefrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>breitkiefrig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.278.breitgesichtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>breitgesichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.279" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.279.schmalhüftig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmalhüftig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.280" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.280.schmalbrüstig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmalbrüstig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.281" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.281.schmalschultrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmalschultrig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.282" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.282.schmallippig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmallippig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.283" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.283.zierlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zierlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.283.grazil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grazil</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.284" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.284.gedrungen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gedrungen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.285" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.285.muskulös" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>muskulös</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.285.durchtrainiert2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>durchtrainiert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.286" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.286.sehnig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sehnig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.287" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.287.drahtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>drahtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.288" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.288.einbeinig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einbeinig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit nur einem Bein</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.289" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.289.x-beinig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>x-beinig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.289.X-beinig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>X-beinig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit X-Beinen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.290" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.290.o-beinig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>o-beinig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.290.O-beinig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>O-beinig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit O-Beinen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.291" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.291.breitbeinig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>breitbeinig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit breiten Beinen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.292" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.292.langbeinig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>langbeinig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit langen Beinen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.293" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.293.kurzbeinig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kurzbeinig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit kurzen Beinen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.294" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.294.plattfüßig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>plattfüßig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit Plattfüßen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.295" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.295.storchbeinig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>storchbeinig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.295.storchenbeinig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>storchenbeinig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.295.dünnbeinig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dünnbeinig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit Beinen wie ein Storch/dünnen Beinen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.296" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.296.glubschäugig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>glubschäugig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit GLubschaugen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.297" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.297.glasig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>glasig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.297.wässrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wässrig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>glasige Augen, glasiger Blick, wässrige Augen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.298" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.298.modisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>modisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.298.schick" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schick</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.298.chic" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>chic</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.299" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.299.hohlwangig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hohlwangig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit schmalem Gesicht</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.300" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.300.extravagant" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>extravagant</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.300.stylisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stylisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.300.ausgefallen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausgefallen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.300.erlesen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erlesen</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ein ausgefallenes Modell</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.301" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aKoerper.301.körperzustandsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>körperzustandsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.302" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.302.fruchtbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fruchtbar</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.302.fortpflanzungsfähig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fortpflanzungsfähig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.302.zeugungsfähig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zeugungsfähig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.303" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.303.unfruchtbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unfruchtbar</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.303.zeugungsunfähig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zeugungsunfähig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.304" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.304.geschlechtsreif" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geschlechtsreif</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.305" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.305.schwanger" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwanger</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.306" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.306.trächtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trächtig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.306.tragend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tragend</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>schwangere Tiere</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aKoerper.307" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.307.menstruell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>menstruell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.308" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.308.prämenstruell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>prämenstruell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.309" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.309.potent" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>potent</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.310" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.310.impotent" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>impotent</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.311" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.311.sexuell_orientiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sexuell_orientiert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.312" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.312.sexuell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sexuell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.313" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.313.asexuell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>asexuell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.314" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.314.heterosexuell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>heterosexuell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.315" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.315.homosexuell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>homosexuell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.316" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.316.schwul" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwul</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.317" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.317.lesbisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lesbisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.318" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.318.bisexuell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bisexuell</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.318.bi" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bi</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.319" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.319.pervers" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pervers</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.319.fetischistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fetischistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.320" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.320.nekrophil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nekrophil</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.321" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.321.pädophil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pädophil</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.322" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.322.masochistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>masochistisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.322.devot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>devot</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.323" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.323.sadistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sadistisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.323.dominant" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dominant</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.324" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aKoerper.324.körperteilspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>körperteilspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.325" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.325.anal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.326" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.326.oral" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>oral</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.327" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.327.rektal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rektal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.328" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.328.dorsal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dorsal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.329" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.329.spinal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spinal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aKoerper.330" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aKoerper.330.zerebral" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zerebral</orthForm>
+</lexUnit>
+</synset>
+</synsets>

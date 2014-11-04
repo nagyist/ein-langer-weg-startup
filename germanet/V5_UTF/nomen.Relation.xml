@@ -1,0 +1,3345 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd"[
+ ]>
+<synsets>
+<synset id="nRelation.1" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.1.Struktur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Struktur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.2" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.2.Gefüge" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gefüge</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.3" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.3.System" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>System</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.3.Regelwerk" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Regelwerk</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.3.Regelsystem" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Regelsystem</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.4" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.4.Gesamtsystem" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gesamtsystem</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.5" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.5.Nachverkehrssystem" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nachverkehrssystem</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.6" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.6.Rundfunksystem" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rundfunksystem</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.7" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.7.Transportsystem" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Transportsystem</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.8" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.8.Vertriebssystem" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vertriebssystem</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.9" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.9.Kodex" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kodex</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.10" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.10.Sittenkodex" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sittenkodex</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.11" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.11.Ehrenkodex" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ehrenkodex</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.12" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.12.Verhaltenskodex" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verhaltenskodex</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.13" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.13.Programm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Programm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.14" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.14.Symbolik" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Symbolik</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.15" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.15.Mechanismus" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mechanismus</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.16" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.16.Wechselkursmechanismus" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wechselkursmechanismus</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.17" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.17.Automatismus" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Automatismus</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.18" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.18.Frühwarnsystem" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Frühwarnsystem</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.19" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.19.Verselbständigung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verselbständigung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.20" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.20.Währungssystem" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Währungssystem</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.21" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.21.Kreditpunktesystem" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kreditpunktesystem</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.22" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.22.Koordinatensystem" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Koordinatensystem</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.23" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.23.Tarifsystem" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tarifsystem</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.24" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.24.Bezahlsystem" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bezahlsystem</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.25" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.25.Bestellsystem" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bestellsystem</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.26" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.26.Kontrollsystem" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kontrollsystem</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.27" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.27.Maschinerie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Maschinerie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.28" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.28.Gesundheitsprogramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gesundheitsprogramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.29" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.29.Verlagsprogramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verlagsprogramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.30" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.30.Konjunkturprogramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Konjunkturprogramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.31" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.31.Beschäftigungsprogramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Beschäftigungsprogramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.32" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.32.Erziehungsprogramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erziehungsprogramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.33" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.33.Forschungsprogramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Forschungsprogramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.34" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.34.Investitionsprogramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Investitionsprogramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.35" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.35.Konstrastprogramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Konstrastprogramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.36" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.36.Atomprogramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Atomprogramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.37" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.37.Rehabilitationsprogramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rehabilitationsprogramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.38" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.38.Parteiprogramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Parteiprogramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.39" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.39.Reformprogramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Reformprogramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.40" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.40.Wirtschaftsprogramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wirtschaftsprogramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.41" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.41.Kulturprogramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kulturprogramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.42" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.42.Förderprogramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Förderprogramm</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.42.Finanzierungsprogramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Finanzierungsprogramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.43" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.43.Hilfsprogramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hilfsprogramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.44" wordClass="nomen">
+<lexUnit Eigenname="ja" artificial="nein" id="nRelation.44.Prager_Eltern-Kind-Programm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Prager_Eltern-Kind-Programm</orthForm>
+</lexUnit>
+<lexUnit Eigenname="ja" artificial="nein" id="nRelation.44.PEKIP" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>PEKIP</orthForm>
+</lexUnit>
+<lexUnit Eigenname="ja" artificial="nein" id="nRelation.44.PEKiP" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>PEKiP</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.45" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.45.Austauschprogramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Austauschprogramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.46" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.46.Schüleraustausch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schüleraustausch</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.47" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.47.Jugendaustausch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Jugendaustausch</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.48" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.48.Ausbildungsprogramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ausbildungsprogramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.49" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.49.Bildungsprogramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bildungsprogramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.50" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.50.Bauprogramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bauprogramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.51" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.51.Entwicklungsprogramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Entwicklungsprogramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.52" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.52.Netzwerk" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Netzwerk</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.52.Netz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Netz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.53" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.53.Verbundnetz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verbundnetz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.54" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.54.Sicherheitsnetz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sicherheitsnetz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.55" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.55.Filialnetz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Filialnetz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.56" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.56.Streckennetz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Streckennetz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.57" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.57.Forschungsnetz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Forschungsnetz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.58" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.58.Kabelnetz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kabelnetz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.59" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.59.Leitungsnetz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Leitungsnetz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.60" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.60.Genomforschungsnetz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Genomforschungsnetz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.61" wordClass="nomen">
+<lexUnit Eigenname="ja" artificial="nein" id="nRelation.61.NGFN" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>NGFN</orthForm>
+</lexUnit>
+<lexUnit Eigenname="ja" artificial="nein" id="nRelation.61.Nationales_Genomforschungsnetz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nationales_Genomforschungsnetz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.62" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.62.Vertriebsnetz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vertriebsnetz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.63" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.63.Datennetz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Datennetz</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.63.Rechnernetz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rechnernetz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.64" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.64.Telefonnetz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Telefonnetz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.65" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.65.Funknetz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Funknetz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.66" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.66.Fernwärmenetz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fernwärmenetz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.67" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.67.Kommunikationsnetz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kommunikationsnetz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.68" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.68.Festnetz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Festnetz</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>für Festanschlüsse</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nRelation.69" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.69.Mobilnetz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mobilnetz</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>für Mobiltelefone</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nRelation.70" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.70.Ortsnetz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ortsnetz</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>örtliches Telefonnetz</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nRelation.71" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.71.Ortsnetz2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Ortsnetz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.72" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.72.Beziehung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Beziehung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.72.Verhältnis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verhältnis</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.72.Relation2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Relation</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.73" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.73.Vertrauensverhältnis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vertrauensverhältnis</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.74" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.74.Beamtenverhältnis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Beamtenverhältnis</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.75" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.75.Vermögensverhältnis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vermögensverhältnis</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.76" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.76.Familienverhältnis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Familienverhältnis</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.77" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.77.Besitzverhältnis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Besitzverhältnis</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.78" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.78.Kräfteverhältnis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kräfteverhältnis</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.79" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.79.Bezug" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bezug</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.80" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.80.Phrasierung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Phrasierung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.81" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.81.Praxisbezug" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Praxisbezug</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.82" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.82.Bezugnahme" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bezugnahme</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.83" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.83.Beziehungslosigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Beziehungslosigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.84" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.84.Relation" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Relation</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.84.Verhältnis2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Verhältnis</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.84.Verhältnismäßigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verhältnismäßigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.85" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.85.Relation3" orthVar="nein" sense="3" stilMarkierung="nein">
+<orthForm>Relation</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Beziehung zwischen denElementen zweier Mengen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nRelation.86" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.86.Größenrelation" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Größenrelation</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.86.Größenverhältnis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Größenverhältnis</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.87" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.87.Torverhältnis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Torverhältnis</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.88" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.88.Mehrheitsverhältnis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mehrheitsverhältnis</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.89" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.89.Rate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rate</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.89.Quote" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Quote</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.89.Anteil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Anteil</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.90" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.90.Arbeitslosenquote" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Arbeitslosenquote</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.91" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.91.Wiederholrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wiederholrate</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.92" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.92.Zeilenfrequenz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zeilenfrequenz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.93" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.93.Parität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Parität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.94" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.94.Vertragsverhältnis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vertragsverhältnis</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.95" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.95.Mietverhältnis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mietverhältnis</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.96" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.96.Dichte" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dichte</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.97" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.97.Bevölkerungsdichte" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bevölkerungsdichte</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.98" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.98.Format" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Format</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.99" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.99.Kleinformat" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kleinformat</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.100" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.100.Großformat" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Großformat</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.101" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.101.Längsformat" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Längsformat</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.102" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.102.Querformat" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Querformat</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.103" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.103.DIN_A4_" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>DIN_A4_</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.103.DIN_A4-Format" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>DIN_A4-Format</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.104" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.104.DIN_A3_" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>DIN_A3_</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.104.DIN_A3-Format" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>DIN_A3-Format</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.105" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.105.DIN_A5_" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>DIN_A5_</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.105.DIN_A5-Format" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>DIN_A5-Format</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.106" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="ja" id="nRelation.106.Zeitrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zeitrate</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.107" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.107.Monatsrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Monatsrate</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.107.Monatsprämie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Monatsprämie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.108" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.108.Jahresrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Jahresrate</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.108.Jahresprämie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Jahresprämie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.109" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.109.Preissteigerungsrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Preissteigerungsrate</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.110" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.110.Klickrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Klickrate</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.111" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.111.Halbjahresrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Halbjahresrate</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.111.Halbjahresprämie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Halbjahresprämie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.112" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.112.Quartalsrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Quartalsrate</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.112.Quartalsprämie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Quartalsprämie</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.112.Vierteljahresrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vierteljahresrate</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.112.Vierteljahresprämie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vierteljahresprämie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.113" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.113.Frauenquote" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Frauenquote</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.114" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.114.Frauenquote2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Frauenquote</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.114.Frauenanteil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Frauenanteil</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.114.Frauenrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Frauenrate</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.115" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.115.Wiederholung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wiederholung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.116" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.116.Einschaltquote" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Einschaltquote</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.116.Zuschauerquote" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zuschauerquote</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.117" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.117.Aufklärungsquote" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Aufklärungsquote</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.117.Aufklärungsrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Aufklärungsrate</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.118" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.118.Geburtsrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Geburtsrate</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.118.Geburtsquote" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Geburtsquote</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.118.Geburtenrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Geburtenrate</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.118.Geburtenquote" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Geburtenquote</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.119" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.119.Säuglingssterblichkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Säuglingssterblichkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.119.Säuglingssterberate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Säuglingssterberate</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.120" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.120.Bevölkerungsrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bevölkerungsrate</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.120.Bevölkerungsquote" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bevölkerungsquote</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.120.Bevölkerungsanteil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bevölkerungsanteil</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.121" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.121.Überbevölkerung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Überbevölkerung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.122" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.122.Rückgangsrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rückgangsrate</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.122.Rückgangsquote" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rückgangsquote</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.123" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.123.Arbeitslosenrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Arbeitslosenrate</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.123.Arbeitslosenzahl" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Arbeitslosenzahl</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.123.Arbeitslosenanteil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Arbeitslosenanteil</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.124" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.124.Ausländeranteil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ausländeranteil</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.124.Ausländerquote" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ausländerquote</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.124.Ausländerrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ausländerrate</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.125" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.125.Strahlungsrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Strahlungsrate</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.125.Strahlungsquote" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Strahlungsquote</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.126" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.126.Bildrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bildrate</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.127" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.127.Verbrechensrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verbrechensrate</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.127.Kriminalitätsrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kriminalitätsrate</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.127.Kriminalität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kriminalität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.128" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.128.Jugendkriminalität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Jugendkriminalität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.129" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.129.Rauschgiftkriminalität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rauschgiftkriminalität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.130" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.130.Erfolgsquote" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erfolgsquote</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.131" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.131.Teuerungsrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Teuerungsrate</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.132" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.132.Trefferquote" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Trefferquote</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.133" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.133.Datentransferrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Datentransferrate</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.134" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.134.Dunkelziffer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dunkelziffer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.135" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.135.Uploadrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Uploadrate</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.136" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.136.Downloadrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Downloadrate</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.137" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.137.Wirtschaftskriminalität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wirtschaftskriminalität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.138" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.138.Drogenkriminalität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Drogenkriminalität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.139" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.139.Beschaffungskriminalität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Beschaffungskriminalität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.140" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.140.Kleinkriminalität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kleinkriminalität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.141" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.141.Todesrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Todesrate</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.141.Sterblichkeitsrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sterblichkeitsrate</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.142" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.142.Inflationsrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Inflationsrate</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.142.Inflationsquote" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Inflationsquote</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.143" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.143.Wachstumsrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wachstumsrate</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.143.Wachstumsquote" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wachstumsquote</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.144" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.144.Zuwachsrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zuwachsrate</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.145" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.145.Beschleunigungsrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Beschleunigungsrate</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.145.Beschleunigungsquote" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Beschleunigungsquote</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.146" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.146.Geschwindigkeitsrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Geschwindigkeitsrate</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.146.Geschwindigkeitsquote" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Geschwindigkeitsquote</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.147" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.147.Häufigkeitsrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Häufigkeitsrate</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.147.Frequenz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Frequenz</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.147.Häufigkeitsquote" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Häufigkeitsquote</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.147.Häufigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Häufigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.148" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.148.Penetranz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Penetranz</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>In der Genetik die Durchschlagskraft einzelner Merkmale</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nRelation.149" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.149.Zuschauerrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zuschauerrate</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.150" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.150.Überfremdung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Überfremdung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.151" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.151.Asylantenrate" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Asylantenrate</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.151.Asylantenquote" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Asylantenquote</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.151.Asylantenanteil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Asylantenanteil</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.152" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.152.Seltenheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Seltenheit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.152.Seltenheitswert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Seltenheitswert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.152.Rarität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rarität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.153" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.153.Funktion" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Funktion</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.154" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.154.Doppelrolle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Doppelrolle</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.154.Doppelfunktion" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Doppelfunktion</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.155" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.155.Funktion2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Funktion</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.155.Abbildung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Abbildung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.155.Operator" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Operator</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Eine Relation, die jedemElement einer Definitionsmenge genau ein Element einer Wertemenge zuweist</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nRelation.156" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.156.Vorbildfunktion" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vorbildfunktion</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.157" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.157.Kontrollfunktion" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kontrollfunktion</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.158" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.158.Sprachfunktion" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sprachfunktion</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.159" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.159.Hauptstadtfunktion" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hauptstadtfunktion</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.160" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.160.Archivfunktion" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Archivfunktion</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.161" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.161.Zoomfunktion" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zoomfunktion</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.162" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.162.Ordnung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ordnung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.163" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.163.Schweinerei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schweinerei</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.164" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.164.Sitzordnung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sitzordnung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.165" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.165.Nachkriegsordnung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nachkriegsordnung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.166" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.166.Wirtschaftsordnung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wirtschaftsordnung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.167" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.167.Dirigismus" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dirigismus</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.168" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.168.Gesellschaftsordnung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gesellschaftsordnung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.169" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.169.Unordnung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unordnung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.170" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.170.Wirtschaftsstruktur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wirtschaftsstruktur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.171" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.171.Bevölkerungsstruktur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bevölkerungsstruktur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.172" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.172.Kostenstruktur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kostenstruktur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.173" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.173.Kommandostruktur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kommandostruktur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.174" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.174.Monostruktur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Monostruktur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.175" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.175.Sozialstruktur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sozialstruktur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.176" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.176.Altersstruktur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Altersstruktur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.177" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.177.Chaos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Chaos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.177.Desorganisation" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Desorganisation</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.178" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.178.Verkehrschaos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verkehrschaos</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.179" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.179.Gewühl" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gewühl</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.180" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.180.Gewusel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gewusel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.181" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.181.Gewirr" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gewirr</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.182" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.182.Getümmel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Getümmel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.183" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.183.Tohuwabohu" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tohuwabohu</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.184" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.184.Stimmgewirr" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Stimmgewirr</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.185" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.185.Unübersichtlichkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unübersichtlichkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.186" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.186.Wirrwarr" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wirrwarr</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.187" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.187.Überlappung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Überlappung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.188" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.188.Unverbundenheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unverbundenheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.189" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.189.Infrastruktur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Infrastruktur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.190" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.190.Verwaltungsstruktur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verwaltungsstruktur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.191" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.191.Unternehmensstruktur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unternehmensstruktur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.192" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.192.Tarifstruktur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tarifstruktur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.193" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.193.Persönlichkeitsstruktur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Persönlichkeitsstruktur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.194" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.194.Machtstruktur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Machtstruktur</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.194.Machtgefüge" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Machtgefüge</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.195" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.195.Führungsstruktur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Führungsstruktur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.196" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.196.Personalstruktur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Personalstruktur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.197" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.197.Parteistruktur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Parteistruktur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.198" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.198.Ganzes" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ganzes</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.199" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.199.Teil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Teil</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.200" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.200.Teilstück" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Teilstück</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.201" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.201.Stumpf" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Stumpf</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Nach einer Abtrennung verbliebenes kurzes Teilstück</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nRelation.202" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.202.Baumstumpf" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Baumstumpf</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.203" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.203.Modul" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Modul</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.204" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.204.Ausbildungsmodul" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ausbildungsmodul</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.205" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.205.Programmteil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Programmteil</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.206" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.206.Wirtschaftsteil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wirtschaftsteil</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.207" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.207.Adressteil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Adressteil</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.208" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.208.Teilbereich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Teilbereich</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.209" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.209.Mitglied" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mitglied</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.210" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.210.Hauptteil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hauptteil</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.210.Kernstück" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kernstück</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.210.Herzstück" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Herzstück</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.211" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.211.Teilmenge" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Teilmenge</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.212" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.212.Auswahl" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Auswahl</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.212.Auslese" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Auslese</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.213" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.213.Bestandteil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bestandteil</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.214" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.214.Hauptbestandteil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hauptbestandteil</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.215" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.215.Betriebsteil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Betriebsteil</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.216" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.216.Glied" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Glied</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.217" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.217.Verbindungsglied" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verbindungsglied</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.217.Zwischenglied" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zwischenglied</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.218" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.218.Landverbindung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Landverbindung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.219" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.219.Komponente" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Komponente</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.219.Element" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Element</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.220" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.220.Baustein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Baustein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.221" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.221.Transceiver" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Transceiver</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.222" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.222.Ergänzung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ergänzung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.222.Zusatz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zusatz</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.222.Vervollständigung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vervollständigung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.223" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.223.Verfassungszusatz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verfassungszusatz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.224" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.224.Drumherum" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Drumherum</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.225" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.225.Zugang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zugang</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.226" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.226.Neuzugang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Neuzugang</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.227" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.227.Faktor" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Faktor</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.228" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.228.Konfiguration" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Konfiguration</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.229" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.229.Grundform" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Grundform</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.229.Grundstruktur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Grundstruktur</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.229.Grundtyp" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Grundtyp</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.230" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.230.Blutgruppe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Blutgruppe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.231" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.231.Charaktertyp" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Charaktertyp</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.232" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.232.Opposition1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Opposition</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Gegenstellung des Daumens zu den anderen Fingern</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nRelation.233" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.233.Opposition2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Opposition</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Schachstellung, bei der sich die beiden Könige auf der selben Linie oder Reihe so gegenüberstehen, dass nur ein Feld dazwischen liegt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nRelation.234" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.234.Verbindung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verbindung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.234.Kombination" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kombination</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.234.Bindung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bindung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.234.Korrelation" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Korrelation</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.235" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.235.Zusammenhalt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zusammenhalt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.236" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.236.Vereinigung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vereinigung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.237" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.237.Vermischung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vermischung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.238" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.238.Kopplung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kopplung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.238.Koppelung" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Koppelung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.239" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.239.Kraft-Wärme-Koppelung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kraft-Wärme-Koppelung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.240" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.240.Verschmelzung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verschmelzung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.241" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.241.Zwangsvereinigung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zwangsvereinigung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.242" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.242.Kernfusion" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kernfusion</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.243" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.243.Synthese" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Synthese</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.244" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.244.Zusammenhang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zusammenhang</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.245" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.245.Kohärenz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kohärenz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.246" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.246.Kausalität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kausalität</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.246.Ursächlichkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ursächlichkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.247" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.247.Verwicklung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verwicklung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.248" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.248.Verfilzung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verfilzung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.249" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.249.Verstrickung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verstrickung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.250" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.250.Verquickung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verquickung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.251" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.251.Integration" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Integration</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.252" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.252.Verknüpfung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verknüpfung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.253" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.253.Symbiose" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Symbiose</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.254" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.254.Kontinuum" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kontinuum</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.255" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.255.Patchwork" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Patchwork</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>eine aus ursprünglich nichtzusammengehörenden Teilen entstandene Einheit, z.B. Patchwork-Familie</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nRelation.256" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.256.Verkehrsanbindung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verkehrsanbindung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.257" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.257.Bahnverbindung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bahnverbindung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.258" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.258.Verkehrsverbindung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verkehrsverbindung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.259" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.259.Direktverbindung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Direktverbindung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.260" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.260.Zugverbindung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zugverbindung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.261" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.261.Junktim" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Junktim</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.262" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.262.Geflecht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Geflecht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.263" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.263.Verflechtung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verflechtung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.264" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.264.Beziehungsgeflecht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Beziehungsgeflecht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.265" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.265.Verzahnung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verzahnung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.266" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.266.Verlinkung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verlinkung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.266.Vernetzung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vernetzung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.267" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.267.Schaltung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schaltung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.268" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.268.Kontakt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kontakt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.269" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.269.Komplizenschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Komplizenschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.270" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.270.Zweierbeziehung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zweierbeziehung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.271" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.271.Wechselbeziehung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wechselbeziehung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.272" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.272.Partnerschaft2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Partnerschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.273" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.273.Zusammenleben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zusammenleben</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.274" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.274.Beziehungskiste" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Beziehungskiste</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.275" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.275.Städtepartnerschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Städtepartnerschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.276" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.276.Verbindungsstelle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verbindungsstelle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.277" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.277.Nahtstelle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nahtstelle</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.277.Schnittstelle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schnittstelle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.278" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.278.Bruchstelle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bruchstelle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.279" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.279.Nachfolge" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nachfolge</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.280" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.280.Erbfolge" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erbfolge</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.281" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.281.Rechtsnachfolge" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rechtsnachfolge</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.282" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.282.Listenverbindung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Listenverbindung</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Zusammenschluss von Listen zu einergrößeren Einheit, die bei einer Wahl antritt.</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nRelation.283" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.283.Äquivalent" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Äquivalent</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.284" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.284.Gleichsetzung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gleichsetzung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.285" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.285.Chancengleichheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Chancengleichheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.286" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.286.Gegenüber" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gegenüber</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.287" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.287.Gegenstück" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gegenstück</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.287.Pendant" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Pendant</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.287.Gegenseite" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gegenseite</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.287.Gegenbild" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gegenbild</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.288" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.288.Gegenwert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gegenwert</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.289" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.289.Ersatz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ersatz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.290" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.290.Notnagel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Notnagel</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>abwertend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nRelation.291" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.291.Provisorium" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Provisorium</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.292" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.292.Trostpflaster" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Trostpflaster</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.293" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.293.zwischenmenschliche_Beziehung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zwischenmenschliche_Beziehung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.294" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.294.Bekanntschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bekanntschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.295" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.295.Anschluß2" orthVar="ja" sense="2" stilMarkierung="nein">
+<orthForm>Anschluß</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.295.Anschluss2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Anschluss</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.296" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.296.Annäherung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Annäherung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.296.Annäherungsversuch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Annäherungsversuch</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.297" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.297.Flirt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Flirt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.298" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.298.Avance" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>Avance</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.298.Offerte" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>Offerte</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.298.Angebot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Angebot</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.298.Antrag" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Antrag</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.299" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.299.Heiratsantrag" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Heiratsantrag</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.300" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.300.Umgang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Umgang</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.300.Kontakt2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Kontakt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.301" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.301.Kontaktfreudigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kontaktfreudigkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.301.Kontaktfreude" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kontaktfreude</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.301.Geselligkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Geselligkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.302" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.302.Kontaktarmut" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kontaktarmut</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.302.Kontaktschwierigkeiten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kontaktschwierigkeiten</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.303" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.303.Geistesverwandtschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Geistesverwandtschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.304" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.304.Seelenverwandtschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Seelenverwandtschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.305" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.305.Parallele" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Parallele</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.306" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.306.Zusammengehörigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zusammengehörigkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.306.Gemeinsamkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gemeinsamkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.307" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.307.Nachbarschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nachbarschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.308" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.308.Kollegenschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kollegenschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.309" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.309.Kameradschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kameradschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.310" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.310.Freundschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Freundschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.311" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.311.Feindschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Feindschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.312" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.312.Gegnerschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gegnerschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.313" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.313.Rivalität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rivalität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.314" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.314.Liebesbeziehung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Liebesbeziehung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.315" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.315.Inzest" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Inzest</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.316" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.316.Hassliebe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hassliebe</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.316.Haßliebe" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Haßliebe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.317" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.317.Gegenliebe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gegenliebe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.318" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.318.Völkerfreundschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Völkerfreundschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.319" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.319.Männerfreundschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Männerfreundschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.320" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.320.Gastfreundschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gastfreundschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.321" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.321.Abhängigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Abhängigkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.321.Gebundenheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gebundenheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.322" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.322.Freiheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Freiheit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.322.Unabhängigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unabhängigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.323" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.323.Blockfreiheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Blockfreiheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.324" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.324.Pressefreiheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Pressefreiheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.325" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.325.Narrenfreiheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Narrenfreiheit</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>gilt für Personen, die nicht für voll genommen werden</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nRelation.326" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.326.Zensur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zensur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.327" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.327.Meinungsfreiheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Meinungsfreiheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.328" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.328.Pressezensur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Pressezensur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.329" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.329.Maulkorb" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>Maulkorb</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.329.Meinungsäußerungsverbot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Meinungsäußerungsverbot</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.330" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.330.Unterwerfung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unterwerfung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.330.Unterdrückung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unterdrückung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.331" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.331.Repression" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Repression</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.332" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.332.Bevormundung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bevormundung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.333" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.333.Gängelung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gängelung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.334" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.334.Freiheitseinzug" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Freiheitseinzug</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.335" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.335.Gefangenschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gefangenschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.336" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.336.Kriegsgefangenschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kriegsgefangenschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.337" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.337.Joch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Joch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.337.Knechtschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Knechtschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.338" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.338.Sklaverei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sklaverei</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.339" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.339.Unterjochung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unterjochung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.340" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.340.Leibeigenschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Leibeigenschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.341" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.341.Versklavung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Versklavung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.342" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.342.Unfreiheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unfreiheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.343" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.343.Gefängnishaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gefängnishaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.343.Haft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Haft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.344" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.344.Strafvollzug" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Strafvollzug</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.344.Vollzug" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vollzug</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.345" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.345.Freizeitarrest" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Freizeitarrest</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.345.Wochenendarrest" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wochenendarrest</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.346" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.346.Einzelhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Einzelhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.347" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.347.Geiselhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Geiselhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.348" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.348.Beugehaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Beugehaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.349" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.349.Untersuchungshaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Untersuchungshaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.349.U-Haft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>U-Haft</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Inhaftierung bis zum Gerichtsprozess</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nRelation.350" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.350.Internierung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Internierung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.351" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.351.Partnerschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Partnerschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.352" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.352.Mitgliedschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mitgliedschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.353" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.353.Vollmitgliedschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vollmitgliedschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.354" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.354.Teilmitgliedschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Teilmitgliedschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.355" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.355.Arbeitsverhältnis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Arbeitsverhältnis</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.356" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.356.Paarbeziehung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Paarbeziehung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.357" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.357.Ehe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ehe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.358" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.358.Verlobung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verlobung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.359" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.359.sexuelles_Verhältnis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sexuelles_Verhältnis</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.360" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.360.Zweisamkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zweisamkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.361" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.361.Hierarchie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hierarchie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.362" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.362.Rangfolge" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rangfolge</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.362.Hackordnung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hackordnung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.362.Skala" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Skala</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.363" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.363.Gesamtklassement" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gesamtklassement</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.364" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.364.Überordnung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Überordnung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.365" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.365.Unterordnung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unterordnung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.366" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.366.Gleichstellung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gleichstellung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.367" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.367.Nebenordnung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nebenordnung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.368" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.368.Niveau" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Niveau</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.369" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.369.Karriereleiter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Karriereleiter</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.370" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.370.Vorsitz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vorsitz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.371" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.371.Fraktionsvorsitz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fraktionsvorsitz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.372" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.372.Verwandtschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verwandtschaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.372.Sippschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sippschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.373" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.373.Wahlverwandtschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wahlverwandtschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.374" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.374.Blutsbrüderschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Blutsbrüderschaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.374.Bruderschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bruderschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.375" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.375.Blutsverwandtschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Blutsverwandtschaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.375.Blutsbande" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Blutsbande</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.375.Familienbande" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Familienbande</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.376" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.376.Rollenbeziehung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rollenbeziehung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.376.Rollenverteilung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rollenverteilung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.377" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.377.Lehrer-Schüler-Beziehung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lehrer-Schüler-Beziehung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.378" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.378.Arzt-Patient-Beziehung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Arzt-Patient-Beziehung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.379" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.379.Eltern-Kind-Beziehung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Eltern-Kind-Beziehung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.380" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.380.Verkäufer-Käufer-Beziehung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verkäufer-Käufer-Beziehung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.381" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.381.Lehrer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lehrer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.382" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.382.Schüler" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schüler</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.383" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.383.Eltern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Eltern</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.384" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.384.Kind" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kind</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.385" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.385.Verkäufer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verkäufer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.386" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.386.Käufer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Käufer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.387" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.387.Verbindung1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verbindung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.388" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.388.Kommunikation" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kommunikation</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>er stand in reger Kommunikation mit den literarischen Strömungen seiner Zeit</text>
+</example>
+</examples>
+</synset>
+<synset id="nRelation.389" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.389.Anschluß" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Anschluß</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.389.Anschluss" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Anschluss</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.390" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.390.Verkabelung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verkabelung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.391" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.391.Rapport" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rapport</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>unmittelbarer Kontakt zwischen zwei Menschen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nRelation.392" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.392.Sprachverbindung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sprachverbindung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.393" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.393.Blickkontakt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Blickkontakt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.394" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.394.Körperkontakt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Körperkontakt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.395" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.395.Funkkontakt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Funkkontakt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.396" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.396.Geschäftsbeziehung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Geschäftsbeziehung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.397" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.397.Stammhaus" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Stammhaus</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.397.Zentrale" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zentrale</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.398" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.398.Notdienstzentrale" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Notdienstzentrale</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.399" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.399.Wirtschaftsbeziehung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wirtschaftsbeziehung</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>meist im Plural</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nRelation.400" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.400.Außenhandelsbeziehung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Außenhandelsbeziehung</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>meist im Plural</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nRelation.401" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.401.Auslandsbeziehung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Auslandsbeziehung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.402" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.402.Außenbeziehung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Außenbeziehung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.403" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.403.Tonalität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tonalität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.404" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.404.Atonalität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Atonalität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.405" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.405.Konkurrenz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Konkurrenz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.406" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.406.Preiskrieg" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Preiskrieg</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.407" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.407.Gleichheit1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gleichheit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.407.Gleichartigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gleichartigkeit</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>zwei Entitäten sind identisch, od. ähnlich, od. analog etc.</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nRelation.408" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.408.Ähnlichkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ähnlichkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.409" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.409.Vergleich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vergleich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.409.Vergleichbarkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vergleichbarkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.410" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.410.Anklang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Anklang</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.410.Reminiszenz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Reminiszenz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.411" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.411.Anlehnung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Anlehnung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.412" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.412.Übereinstimmung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Übereinstimmung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.412.Identität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Identität</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.412.Dieselbigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dieselbigkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.412.Analogie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Analogie</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.412.Entsprechung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Entsprechung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.413" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.413.Einstimmigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Einstimmigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.414" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.414.Konvergenz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Konvergenz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.415" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.415.Gleichzeitigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gleichzeitigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.416" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.416.Kongruenz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kongruenz</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.416.Deckungsgleichheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Deckungsgleichheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.417" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.417.Parität2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Parität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.418" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.418.Homogenität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Homogenität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.419" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.419.Gleichheit2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Gleichheit</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>zwei Entitäten sind mathematisch strikt identisch</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nRelation.420" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.420.Gleichung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gleichung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.420.mathematische_Gleichung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mathematische_Gleichung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.421" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.421.Ungleichheit1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ungleichheit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.421.Andersartigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Andersartigkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.421.Unterschiedlichkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unterschiedlichkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.421.Unterschied" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unterschied</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.422" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.422.Klassenunterschied" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Klassenunterschied</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.423" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.423.Verschiedenheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verschiedenheit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.423.Verschiedenartigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verschiedenartigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.424" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.424.Vielfalt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vielfalt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.424.Vielfältigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vielfältigkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.424.Mannigfaltigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mannigfaltigkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.424.Varianz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Varianz</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.424.Abwechslung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Abwechslung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.425" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.425.Diversifizierung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Diversifizierung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.425.Diversifikation" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Diversifikation</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.426" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.426.Erfindungsreichtum" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erfindungsreichtum</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.427" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.427.Meinungsvielfalt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Meinungsvielfalt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.428" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.428.Artenvielfalt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Artenvielfalt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.429" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.429.Gefälle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gefälle</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.429.Kluft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kluft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.429.Spaltung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Spaltung</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>in Bezug auf soziale Unterschiede</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nRelation.430" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.430.Wohlstandsgefälle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wohlstandsgefälle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.431" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.431.Nuance" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nuance</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.432" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.432.Abweichung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Abweichung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.432.Differenz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Differenz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.433" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.433.Meinungsverschiedenheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Meinungsverschiedenheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.434" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.434.Gegenteil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gegenteil</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.434.Gegensatz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gegensatz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.435" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.435.Kontrapunkt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kontrapunkt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.436" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.436.Antagonismus" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Antagonismus</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.437" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.437.Widerspruch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Widerspruch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.437.Paradox" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Paradox</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.437.Paradoxon" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Paradoxon</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.438" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.438.Gegensätzlichkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gegensätzlichkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.438.Dialektik" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dialektik</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.439" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.439.Divergenz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Divergenz</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.439.Diskrepanz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Diskrepanz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.440" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.440.Inkongruenz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Inkongruenz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.441" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.441.Heterogenität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Heterogenität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.442" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.442.Varietät" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Varietät</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.443" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.443.Variation" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Variation</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.443.Spielart" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Spielart</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.443.Variante" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Variante</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.444" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.444.Version" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Version</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.444.Ausführung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ausführung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.444.Fassung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fassung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.445" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.445.Originalversion" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Originalversion</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.445.Urversion" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Urversion</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.445.Erstversion" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erstversion</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.445.Erstfassung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erstfassung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.445.Urfassung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Urfassung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.446" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.446.Bühnenfassung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bühnenfassung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.447" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.447.Fernsehfassung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fernsehfassung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.448" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.448.Buchfassung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Buchfassung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.449" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.449.Abart" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Abart</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.450" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.450.Abstufung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Abstufung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.450.Abtönung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Abtönung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.450.Schattierung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schattierung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.451" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.451.mathematische_Beziehung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mathematische_Beziehung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.452" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.452.Ungleichheit2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Ungleichheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.453" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.453.Proportion" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Proportion</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.453.Proportionalität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Proportionalität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.454" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.454.sprachliche_Relation" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sprachliche_Relation</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.455" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.455.grammatische_Relation" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grammatische_Relation</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.455.syntaktische_Relation" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>syntaktische_Relation</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.456" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.456.Valenz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Valenz</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.456.Wertigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wertigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.457" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.457.semantische_Relation" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>semantische_Relation</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.458" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.458.Inkompatibilität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Inkompatibilität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.459" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.459.Komplementarität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Komplementarität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.460" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.460.lexikalisch-semantische_Relation" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lexikalisch-semantische_Relation</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.461" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.461.Referenz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Referenz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.462" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.462.Anapher" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Anapher</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.463" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.463.Antonymie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Antonymie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.464" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.464.Synonymie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Synonymie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.465" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.465.Konversheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Konversheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.466" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.466.Opposition3" orthVar="nein" sense="3" stilMarkierung="nein">
+<orthForm>Opposition</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.467" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.467.Kontrast" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kontrast</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.468" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.468.Gegengewicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gegengewicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.469" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.469.Hyperonymie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hyperonymie</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.469.Superordination" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Superordination</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.469.Überordnung1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Überordnung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.469.Hypernymie" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Hypernymie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.470" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.470.Hyponymie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hyponymie</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.470.Unterordnung1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unterordnung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.470.Subordination" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Subordination</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.471" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.471.Meronymie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Meronymie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.472" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.472.logische_Relation" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>logische_Relation</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.473" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.473.Verneinung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verneinung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.473.Negation" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Negation</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.474" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.474.Entailment" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Entailment</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.474.Implikation" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Implikation</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.475" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.475.Präsupposition" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Präsupposition</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.475.Voraussetzung2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Voraussetzung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.476" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="ja" id="nRelation.476.juristische_Beziehung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>juristische_Beziehung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.477" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.477.soziale_Beziehung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>soziale_Beziehung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.477.Miteinander" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Miteinander</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.477.Gemeinschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gemeinschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.478" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.478.Nebeneinander" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nebeneinander</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.479" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.479.Beschäftigungsverhältnis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Beschäftigungsverhältnis</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.480" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.480.Angestelltenverhältnis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Angestelltenverhältnis</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.481" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="ja" id="nRelation.481.qualitative_Beziehung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>qualitative_Beziehung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.482" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.482.Verbundenheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verbundenheit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.482.Bezogenheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bezogenheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.483" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.483.Heimatverbundenheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Heimatverbundenheit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.483.Heimatliebe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Heimatliebe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.484" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.484.Erdverbundenheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erdverbundenheit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.484.Bodenständigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bodenständigkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.484.Verwurzelung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verwurzelung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.485" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.485.Solidarität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Solidarität</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.485.Gemeinschaftssinn" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gemeinschaftssinn</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.486" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.486.Zugehörigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zugehörigkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.486.Angehörigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Angehörigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.487" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.487.Betriebszugehörigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Betriebszugehörigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.488" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.488.Staatsangehörigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Staatsangehörigkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.488.Staatszugehörigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Staatszugehörigkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.488.Nationalität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nationalität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.489" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.489.Internationalität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Internationalität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.490" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.490.Volkszugehörigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Volkszugehörigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.491" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.491.Religionsangehörigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Religionsangehörigkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.491.Religionszugehörigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Religionszugehörigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.492" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.492.Parteiangehörigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Parteiangehörigkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.492.Parteizugehörigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Parteizugehörigkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.492.Parteimitgliedschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Parteimitgliedschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.493" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.493.Gewerkschaftsangehörigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gewerkschaftsangehörigkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.493.Gewerkschaftszugehörigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gewerkschaftszugehörigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.494" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.494.Harmonie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Harmonie</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.494.Eintracht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Eintracht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.494.Einigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Einigkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.494.Einklang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Einklang</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.494.Einmütigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Einmütigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.495" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.495.Versöhnung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Versöhnung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.496" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.496.Verbrüderung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verbrüderung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.497" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.497.Verschwisterung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verschwisterung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.498" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.498.Frieden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Frieden</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.498.Friede" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Friede</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.499" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.499.Rechtsfrieden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rechtsfrieden</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.500" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.500.Weltfrieden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Weltfrieden</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.501" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.501.Haussegen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Haussegen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.502" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.502.Streit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Streit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.502.Zwietracht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zwietracht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.502.Zerstrittenheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zerstrittenheit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.502.Knatsch" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>Knatsch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.502.Stunk" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>Stunk</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.502.Zoff" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>Zoff</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.502.Krach" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>Krach</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.503" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.503.Fehde" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fehde</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.504" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.504.Familienstreit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Familienstreit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.504.Familienkrach" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Familienkrach</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.505" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.505.Ehekrach" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ehekrach</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.505.Ehestreit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ehestreit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.506" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.506.Koalitionsstreit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Koalitionsstreit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.507" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.507.Meinungsstreit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Meinungsstreit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.508" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.508.Parteienstreit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Parteienstreit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.509" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.509.Dauerstreit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dauerstreit</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>über einen längeren Zeitraum</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nRelation.510" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.510.Querele" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Querele</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.511" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.511.Clinch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Clinch</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.512" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.512.Gezänk" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gezänk</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.512.Zank" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zank</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.512.Zwist" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zwist</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.512.Hader" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hader</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.512.Händel" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>Händel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.513" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.513.Uneinigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Uneinigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.514" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.514.Reibereien" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Reibereien</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.515" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.515.Fürsorge" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fürsorge</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.516" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.516.Verwöhnung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verwöhnung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.516.Verhätschelung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verhätschelung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.517" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.517.Dominanz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dominanz</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.517.Kontrolle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kontrolle</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.517.Herrschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Herrschaft</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>die Herrschaft über jmd./etw. erlangen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nRelation.518" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.518.Übermacht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Übermacht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.519" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.519.Weltherrschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Weltherrschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.520" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.520.Beherrschung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Beherrschung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.520.Beherrschen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Beherrschen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.521" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.521.Regentschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Regentschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.522" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.522.Vorherrschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vorherrschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.523" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.523.Fremdherrschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fremdherrschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.524" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.524.Einparteienherrschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Einparteienherrschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.525" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.525.Gewaltherrschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gewaltherrschaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.525.Despotie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Despotie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.526" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.526.Kolonialherrschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kolonialherrschaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.527" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.527.Staatsgewalt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Staatsgewalt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.528" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.528.Hoheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hoheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.529" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.529.Oberhoheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Oberhoheit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.529.Souveränität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Souveränität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.530" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.530.Kulturhoheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kulturhoheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.531" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.531.Schreckensherrschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schreckensherrschaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.531.Tyrannei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tyrannei</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.532" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.532.Klassenherrschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Klassenherrschaft</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Herrschaft einer bestimmten gesellschaftlichen Klasse</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nRelation.533" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.533.Schirmherrschaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schirmherrschaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.533.Protektorat" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Protektorat</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.533.Patronat" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Patronat</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.533.Ägide" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>Ägide</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.534" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.534.Widerstand" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Widerstand</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.534.Opposition" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Opposition</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.534.Auflehnung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Auflehnung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nRelation.535" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nRelation.535.Ungehorsam" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ungehorsam</orthForm>
+</lexUnit>
+</synset>
+</synsets>

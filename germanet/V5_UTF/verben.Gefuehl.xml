@@ -1,0 +1,5250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd"[
+ ]>
+<synsets>
+<synset id="vGefuehl.1" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.1.empfinden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>empfinden</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.1.fühlen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fühlen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BA</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich (in einem bestimmten inneren Zustand) befinden</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie fühlt sich glücklich/krank.</text> <frame>NN.AR.BATop</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.2" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.2.ankommen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>ankommen</orthForm>
+</lexUnit>
+<frames>
+<frame>NE.DN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>wichtig sein (für jmdn)</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Es kam ihr nicht auf sein vieles Geld an.</text> <frame>NE.DN.PP</frame></example>
+<example><text>Es kam ihm darauf an, dass sie ihr Studium beendete.</text> <frame>???</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.3" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.3.nachempfinden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nachempfinden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er kann ihre Trauer nachempfinden.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.4" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.4.spüren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spüren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>seelisch empfinden</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er spürte ihre Unruhe.</text> <frame>NN.AN</frame></example>
+<example>
+<text>Sie spürte, dass sie traurig war.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.5" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.5.fühlen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>fühlen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BM</frame>
+<frame>NN.AR.BR</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich halten für</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er fühlt sich schuldig/verantwortlich.</text> <frame>NN.AR.BM</frame></example>
+<example><text>Er fühlt sich als großzügiger Spender.</text> <frame>NN.AR.BR</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.6" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.6.gehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NE.DN.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich in einem seelischen oder körperlichen Zustand befinden</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Es geht ihr wieder besser.</text>
+</example>
+<example>
+<text>Es geht ihr total schlecht.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.7" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.7.sein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sein</orthForm>
+</lexUnit>
+<frames>
+<frame>NE.DN.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>ein bestimmtes Befinden haben</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Es ist mir schlecht.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.8" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.8.sein2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>sein</orthForm>
+</lexUnit>
+<frames>
+<frame>NE.DN.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>jmdm ist, als ob ...,jmd hat das unbestimmte Gefühl, dass/als ob ...</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Mir ist, als ob ich ein Geräusch gehört hätte.</text>
+</example>
+<example><text>Es ist ihm, als ob er sie schon einmal gesehen hätte.</text> <frame>???</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.9" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.9.meinen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>meinen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.AZ</frame>
+</frames>
+<examples>
+<example><text>Ich meine, ihn heute morgen gesehen zu haben.</text> <frame>NN.AN.AZ</frame></example>
+<example><text>Sie meint, dass sie ihn schon seit Tagen nicht mehr gesehen hat.</text> <frame>???</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.10" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.10.sein3" orthVar="nein" sense="3" stilMarkierung="nein">
+<orthForm>sein</orthForm>
+</lexUnit>
+<frames>
+<frame>NE.DN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>jmdm ist nach etwas,jmd hat im Augenblick Lust zu etwas</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Mir ist nicht nach Feiern.</text>
+</example>
+<example>
+<text>Es ist ihr gerade nach Eis mit Sahne.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.11" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.11.wundern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wundern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+<frame>NE.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>(über etwas Unerwartetes) überrascht/erstaunt/befremdet sein</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Ich wundere mich über seine klugen Antworten.</text> <frame>NN.AR.PP</frame></example>
+<example><text>Es wunderte sie, dass er nicht gekommen war.</text> <frame>???dass-SatzNN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.12" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.12.staunen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>staunen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.12.verwundern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verwundern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NE.AN</frame>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example><text>Sie staunte über seine Fortschritte.</text> <frame>NN.PP</frame></example>
+<example><text>Es verwunderte sie, dass er nichts gesagt hatte.</text> <frame>NE.AN???dass</frame></example>
+<example><text>Sie haben sich über seinen Vortrag sehr verwundert.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.13" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.13.hängen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hängen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>jmdm/einer Sache sehr zugetan sein</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er hängt sehr an seiner Heimat.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.14" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.14.herabsehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herabsehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Sie sieht auf ihre Kolleginnen herab.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.15" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.15.locken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>locken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BL</frame>
+</frames>
+<paraphrases>
+<paraphrase>so gut oder angenehm erscheinen, dass man die betreffende Sache gern tun,haben oder sich damit beschäftigen möchte</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Diese Arbeit lockt mich nicht.</text> <frame>NN.AN</frame></example>
+<example><text>Die Sonne lockte sie an den Strand.</text> <frame>NN.AN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.16" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.16.reizen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>reizen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NE.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Das Steilwandklettern reizte ihn.</text>
+</example>
+<example><text>Es reizte ihn, sich einfach davon zu machen.</text> <frame>???eigentlichNE.AN.AZ</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.17" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.17.nehmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nehmen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.17.übernehmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>übernehmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase> auf sich nehmen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er nahm die Schuld auf sich.</text> <frame>NN.AN</frame></example>
+<example><text>Sie übernahm die Verantwortung für diesen Fehler.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.18" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.18.ausstehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausstehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie hatte schwierige Zeiten ausgestanden.</text>
+</example>
+<example>
+<text>Sie musste schlimme Schmerzen ausstehen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.19" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.19.antun" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>antun</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+</frames>
+<examples>
+<example>
+<text>Das tu ich mir nicht an!</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.20" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.20.durchstehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>durchstehen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.20.durchmachen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>durchmachen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Eltern standen den Prozess tapfer durch.</text>
+</example>
+<example>
+<text>Das Mädchen hat eine schlimme Krankheit durchgemacht.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.21" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.21.aussitzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aussitzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Er war dafür bekannt, dass er die Probleme einfach aussaß.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.22" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.22.dulden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dulden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BL</frame>
+<frame>NN.AN.PP.BM</frame>
+<frame>NN.AN.AZ</frame>
+</frames>
+<paraphrases>
+<paraphrase>gelten lassen,ertragen müssen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie duldete keine Kinder in ihrem Garten.</text> <frame>NN.AN.BL</frame></example>
+<example><text>Er duldete ergeben die feindlichen Soldaten in seinem Haus.</text> <frame>NN.AN.PP.BM</frame></example>
+<example><text>Sie duldete den Hund, ohne sich darüber aufzuregen.</text> <frame>NN.AN.AZ</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.23" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.23.einstecken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einstecken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.23.wegstecken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wegstecken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP.BM</frame>
+<frame>NN.AN.Bl</frame>
+</frames>
+<examples>
+<example><text>Er hat in der Schule viel eingesteckt.</text> <frame>NN.PP.BM</frame></example>
+<example><text>Sie hat (zuhause) Schläge eingesteckt.</text> <frame>NN.AN.BlDerJungeiststark,derkanndaswegstecken,NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.24" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.24.ergeben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ergeben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.24.schicken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schicken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.DN</frame>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example><text>Der Vater hat sich dem Alkohol ergeben.</text> <frame>NN.AR.DN</frame></example>
+<example><text>Sie hat sich ihrem Geliebten total ergeben.</text> <frame>NN.AR.DN</frame></example>
+<example><text>Sie hat sich in ihr Schicksal ergeben.</text> <frame>NN.AR.PP</frame></example>
+<example><text>Er schickte sich in die neuen Umständen.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.25" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.25.erleiden2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>erleiden</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.25.erdulden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erdulden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er erduldete ihre ständigen Sticheleien.</text>
+</example>
+<example>
+<text>Er hat als Kind viel Ungerechtes erlitten.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.26" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.26.ertragen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ertragen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.26.hinnehmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hinnehmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BM</frame>
+</frames>
+<examples>
+<example><text>Sie erträgt die Launen ihres Chefs nicht mehr.</text> <frame>NN.AN</frame></example>
+<example><text>Der Trainer nahm die Niederlage ruhig hin.</text> <frame>NN.AN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.27" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.27.fügen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fügen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.DN</frame>
+<frame>NN.AR.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>etwas gefasst auf sich nehmen, ertragen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er fügt sich den neuen Bestimmungen.</text> <frame>NN.AR.DN</frame></example>
+<example><text>Sie fügte sich in ihr Schicksal.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.28" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.28.aushalten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aushalten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie hält das Geschrei der Kinder nicht mehr aus.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.29" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.29.schlucken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schlucken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.29.verdauen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verdauen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Er schluckte ihre giftige Bemerkung.</text> <frame>NN.AN</frame></example>
+<example><text>Er schluckte an der Versetzung seines Kollegen.</text> <frame>NN.PP</frame></example>
+<example><text>Sie hatte seine Vorwürfe noch nicht verdaut.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.30" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.30.tragen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tragen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>auf eine bestimmte Art ertragen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er trug seine Krankheit mit Gelassenheit.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.31" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.31.verkraften" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verkraften</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.31.verschmerzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verschmerzen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.31.vertragen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vertragen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BM</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Sie verschmerzte den Tod ihres Vaters nur schwer.</text> <frame>NN.AN.BM</frame></example>
+<example><text>Er hat den Prüfungsstress verkraftet.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.32" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.32.einhandeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einhandeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.AN</frame>
+</frames>
+<examples>
+<example><text>Bei dieser Arbeit hat er sich eine Lungenentzündung eingehandelt.</text> <frame>NN.AR.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.33" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.33.abhängen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abhängen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>(von jmdm/etwas) abhängig sein</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Wir hängen alle von ihrer guten Laune ab.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.34" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.34.richten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>richten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>von anderen Bedingungen abhängen und entsprechend verlaufen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Die Bezahlung richtet sich nach der Leistung.</text>
+</example>
+<example>
+<text>Er richtet sich nach ihr.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.35" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.35.ankommen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ankommen</orthForm>
+</lexUnit>
+<frames>
+<frame>NE.PP</frame>
+<frame>NE.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>abhängen (von jmdm/etwas)</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Es kommt nur auf dich an.</text> <frame>NN.PP</frame></example>
+<example><text>Es kommt darauf an, wie er gelaunt sein wird.</text> <frame>NN.AN???ok</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.36" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.36.abhängen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>abhängen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>(durch jmdn/etwas) bedingt sein</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Das hängt vom Wetter morgen ab.</text>
+</example>
+<example>
+<text>Die Zusage für die Stelle hängt von ihren Noten im Diplom ab.</text>
+</example>
+<example><text>Es hängt davon ab, wie das Wetter morgen wird.</text> <frame>???</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.37" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.37.freuen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>freuen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+<frame>NN.AR.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>Freude empfinden</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Ich freue mich.</text> <frame>NN.AR</frame></example>
+<example><text>Das Kind freute sich über das Geschenk.</text> <frame>NN.AN.PP</frame></example>
+<example>
+<text>Er freute sich, dass sie gekommen war.</text>
+</example>
+<example>
+<text>Es freute sie, dass er es geschafft hatte.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.38" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.38.vergnügen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vergnügen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BL</frame>
+<frame>NN.AR.BO</frame>
+</frames>
+<examples>
+<example><text>Sie vergnügten sich auf dem Ball.</text> <frame>NN.AR.BL</frame></example>
+<example><text>Er vergnügte sich mit seinen Kindern (im Schnee).</text> <frame>NN.AR.BO</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.39" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.39.verlustieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verlustieren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.39.amüsieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>amüsieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BO</frame>
+<frame>NN.AR.BL</frame>
+</frames>
+<examples>
+<example><text>Wir verlustierten uns in diversen Clubs.</text> <frame>NN.AR.BL</frame></example>
+<example><text>Amüsiert euch doch mit euresgleichen!</text> <frame>NN.AR.BO</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.40" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.40.unternehmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unternehmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BT</frame>
+<frame>NN.AN.Bl</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich irgendwohin begeben und etwas tun, was Spaß macht</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Was unternehmen wir heute Abend?</text> <frame>NN.AN.BT</frame></example>
+<example><text>Sie unternahmen einen Ausflug (an die See).</text> <frame>NN.AN.Bl</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.41" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.41.unterhalten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unterhalten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BL</frame>
+<frame>NN.AR.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich auf angenehme Weise die Zeit vertreiben</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er hat sich im Theater gut unterhalten.</text> <frame>NN.AR.BL</frame></example>
+<example><text>Sie hat sich blendend unterhalten.</text> <frame>NN.AR.BM</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.42" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.42.begeistern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>begeistern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example><text>Ich begeistere mich nicht für Fußball.</text> <frame>NN.AR.PP</frame></example>
+<example><text>Er begeisterte sich an der hügeligen Landschaft.</text> <frame>NN.AR.PP</frame></example>
+<example><text>Es begeisterte ihn, dass so viele teilgenommen hatten.</text> <frame>???</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.43" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.43.abfahren" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>abfahren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Er fährt total auf Schwarzenegger ab.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.44" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.44.schwärmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwärmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Sie schwärmt für die Backstreet Boys.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.45" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.45.erwärmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erwärmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Sie kann sich für die moderne Kunst nicht erwärmen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.46" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.46.entbrennen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entbrennen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.46.entflammen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entflammen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.46.enflammieren" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>enflammieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP </frame>
+</frames>
+<paraphrases>
+<paraphrase>in Leidenschaft/Liebe entbrennen/entflammen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er entbrannte in Begierde für sie.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.47" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.47.ausflippen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausflippen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BC</frame>
+<frame>NN.BT</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Er flippte vor lauter Freude aus.</text> <frame>NN.BC</frame></example>
+<example><text>Als die Lichter ausgingen, flippten die Partygäste aus.</text> <frame>NN.BT</frame></example>
+<example><text>Der Chef flippt bei der kleinsten Störung aus.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.48" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.48.exaltieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>exaltieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich überschwenglich begeistern, sich verzückt gebärden</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Sie haben sich über ihn und seinen Vortrag exaltiert.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.49" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.49.erfreuen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>erfreuen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Ich erfreue mich bester Gesundheit.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.50" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.50.ergötzen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>ergötzen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.50.triumphieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>triumphieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.BC</frame>
+</frames>
+<examples>
+<example><text>Sein peinliches Verhalten ergötzte sie.</text> <frame>NN.AN</frame></example>
+<example><text>Sie triumphierte wegen seines Patzers.</text> <frame>NN.BC</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.51" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.51.schmeicheln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmeicheln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DN</frame>
+</frames>
+<paraphrases>
+<paraphrase>jmdn freuen, jmds Selbstbewusstsein heben</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Dieses Lob schmeichelte ihm.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.52" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.52.freuen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>freuen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>(jmdm) Freude bereiten</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Das Geschenk freut mich.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.53" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.53.erheitern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erheitern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Geschichten ihres Enkels erheiterten sie.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.54" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.54.beglücken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beglücken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BS</frame>
+</frames>
+<examples>
+<example>
+<text>Er beglückte sie mit einem romantischen Essen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.55" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.55.Bange_machen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bange_machen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.55.ängstigen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>ängstigen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.55.Angst_machen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Angst_machen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DN</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Es macht ihm Spaß, kleine Kinder bange zu machen.</text> <frame>NN.AN</frame></example>
+<example><text>Mir machst du keine Angst.</text> <frame>NN.DN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.56" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.56.genießen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>genießen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>mit Freude/Vergnügen/Wohlbehagen auf sich wirken lassen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er genoss die herrliche Aussicht.</text>
+</example>
+<example>
+<text>Die Gäste genossen den guten Rotwein.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.57" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.57.suhlen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>suhlen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.57.sonnen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sonnen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example><text>Er suhlte sich im Applaus der Massen.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.58" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.58.auskosten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auskosten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.58.durchkosten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>durchkosten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie hat ihre freien Tage ausgekostet.</text>
+</example>
+<example>
+<text>Das Ehepaar durchkostete alle Tiefen und Höhen des Lebens.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.59" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.59.erfreuen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erfreuen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.59.ergötzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ergötzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Ich erfreue mich an dem schönen Wetter.</text>
+</example>
+<example>
+<text>Er ergötzte sich an diesem schönen Kunstwerk.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.60" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.60.weiden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weiden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Er weidete sich am Anblick des Meeres.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.61" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.61.aufheitern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufheitern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BS</frame>
+</frames>
+<examples>
+<example>
+<text>Ihre Tochter heiterte sie mit komischen Grimassen auf.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.62" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.62.belustigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>belustigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Rolle des gehörnten Ehemanns belustigte das Publikum.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.63" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.63.genießen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>genießen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>(einer Sache) teilhaftig werden, sie bekommen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Sie hat eine gründliche Ausbildung genossen.</text>
+</example>
+<example>
+<text>Er genießt mein vollstes Vertrauen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.64" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.64.vergnügen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>vergnügen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.64.amüsieren2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>amüsieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Ihre Angst und Panik hatte den Mörder vergnügt.</text>
+</example>
+<example>
+<text>Der Vorschlag seines Sohnes amüsierte ihn.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.65" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.65.unterhalten2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>unterhalten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BS</frame>
+</frames>
+<paraphrases>
+<paraphrase>für Zerstreuung/Zeitvertreib sorgen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er unterhielt seine Gäste mit Musik und Spielen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.66" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.66.erfreuen3" orthVar="nein" sense="3" stilMarkierung="nein">
+<orthForm>erfreuen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.66.erheitern2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>erheitern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BS</frame>
+</frames>
+<examples>
+<example>
+<text>Er erfreute die Gäste mit seinen Anekdoten.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.67" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.67.begeistern2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>begeistern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>in freudige Erregung versetzen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Seine Rede begeisterte alle.</text>
+</example>
+<example>
+<text>Ich habe ihn endlich fürs Schwimmen begeistert.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.68" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.68.anmachen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anmachen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Das Bungeejumping macht sie an.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.69" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.69.aufpeitschen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufpeitschen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.69.fanatisieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fanatisieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Musik peitschte die Fans auf.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.70" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.70.aufputschen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufputschen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BS</frame>
+</frames>
+<examples>
+<example>
+<text>Das Publikum putschte die Sportler durch Beifall auf.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.71" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.71.bannen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bannen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Aufführung bannte die Zuschauer.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.72" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.72.berauschen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>berauschen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Macht der Politik berauschte ihn.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.73" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.73.entzücken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entzücken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Das Blumengesteck entzückte sie.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.74" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.74.fesseln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fesseln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.74.gefangennehmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gefangennehmen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.74.gefangen_nehmen" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>gefangen_nehmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Das Buch fesselte sie.</text>
+</example>
+<example>
+<text>Die Arbeit im Büro nahm sie gefangen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.75" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.75.faszinieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>faszinieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Ihre Schönheit faszinierte ihn.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.76" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.76.flashen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>flashen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Welcher Rapper flasht euch gerade?</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.77" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.77.betören" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>betören</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.77.verzaubern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verzaubern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.77.bezaubern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bezaubern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Das Ballett verzaubert ihn noch immer.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.78" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.78.umgarnen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>umgarnen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.78.einwickeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einwickeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Er konnte mich nicht umgarnen.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.79" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.79.verhexen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verhexen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.79.behexen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>behexen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er hatte sie total verhext.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.80" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.80.hinreißen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hinreißen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Die Präsentation riss das Publikum zu einem stürmischen Beifall hin.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.81" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.81.verzücken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verzücken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>in Verzückung versetzen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Ihre Klugheit verzückte ihn.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.82" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.82.mitreißen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mitreißen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Ihre Begeisterung riss ihn mit.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.83" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.83.zünden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zünden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Seine Ideen zündeten.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.84" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.84.zufrieden_sein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zufrieden_sein</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Sie war mit seinen Fortschritten zufrieden.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.85" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.85.begnügen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>begnügen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.85.zufriedengeben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zufriedengeben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.85.zufrieden_geben" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>zufrieden_geben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.85.bescheiden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bescheiden</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.85.vorliebnehmen" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>vorliebnehmen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.85.vorlieb_nehmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorlieb_nehmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Er begnügte sich mit einem Glas Wein.</text> <frame>NN.AR.PP</frame></example>
+<example><text>Er gab sich mit einem Lächeln zufrieden.</text> <frame>NN.AR.PP</frame></example>
+<example><text>Sie nahm mit einem Platz in den hinteren Reihen vorlieb.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.86" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.86.fürchten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fürchten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AR.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>Furcht haben (vor jmdm/etwas)</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er fürchtete den Tod.</text> <frame>NN.AN</frame></example>
+<example><text>Er fürchtete sich vor dem Hund.</text> <frame>NN.AR.PP</frame></example>
+<example><text>Sie fürchtet, dass etwas Schreckliches passiert ist.</text> <frame>???</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.87" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.87.ekeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ekeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Sie ekelt sich vor Schlangen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.88" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.88.ängstigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ängstigen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.88.schrecken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schrecken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.88.ängsten" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>ängsten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+<frame>NN.AR.PP</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Wenn es dunkel ist, ängstigt sie sich.</text> <frame>NN.AR</frame></example>
+<example><text>Die Mutter ängstigte sich um ihre Kinder.</text> <frame>NN.AR.PP</frame></example>
+<example><text>Er ängstigte sich vor ihrer Reaktion.</text> <frame>NN.AR.PP</frame></example>
+<example><text>Das Gejaule der Hunde schreckte ihn.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.89" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.89.schaudern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schaudern</orthForm>
+</lexUnit>
+<frames>
+<frame>NE.DN.PP</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Ihr schauderte vor ihm.</text> <frame>NE.DN.PP</frame></example>
+<example><text>Sie schauderte vor ihm.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.90" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.90.grauen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grauen</orthForm>
+</lexUnit>
+<frames>
+<frame>NE.DN</frame>
+<frame>NE.DN.PP</frame>
+</frames>
+<examples>
+<example><text>Es graut ihr.</text> <frame>NE.DNIhmgrautvordemTod.NE.DN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.91" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.91.erschrecken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erschrecken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AR</frame>
+</frames>
+<paraphrases>
+<paraphrase>in Schrecken versetzen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sein Anblick erschreckte ihn.</text> <frame>NN.AN</frame></example>
+<example><text>Ich habe mich erschreckt.</text> <frame>NN.AR</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.92" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.92.graulen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>graulen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.92.grausen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grausen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.92.gruseln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gruseln</orthForm>
+</lexUnit>
+<frames>
+<frame>NE.DN.PP</frame>
+<frame>NN.AR.PP</frame>
+<frame>NE.AN</frame>
+</frames>
+<examples>
+<example><text>Das Kind gruselte sich vor dunklen Kellern.</text> <frame>NN.AR.PP</frame></example>
+<example><text>Es gruselte ihr vor Parhäusern.</text> <frame>NE.DN.PP</frame></example>
+<example><text>Es grauste ihn vor der Gegenüberstellung.</text> <frame>???eigentlichNE.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.93" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.93.befürchten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>befürchten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Ich befürchte das Schlimmste.</text>
+</example>
+<example>
+<text>Sie befürchtete, dass er aufgeben würde.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.94" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.94.argwöhnen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>argwöhnen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Sie argwöhnte ein Komplott gegen ihr Unternehmen.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.95" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.95.scheuen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>scheuen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example><text>Er scheute eine Rede in der Öffentlichkeit.</text> <frame>NN.AN</frame></example>
+<example><text>Die Bauern scheuten sich vor den Rebellen.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.96" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.96.entsetzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entsetzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Ihre radikalen Ansichten entsetzten ihren Vater.</text> <frame>NN.AN</frame></example>
+<example><text>Der Lehrer entsetzte sich über ihren Kommentar.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.97" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.97.entgeistern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entgeistern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Diese schlechten Aussichten entgeisterten ihn.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.98" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.98.zurückscheuen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zurückscheuen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.98.zurückschrecken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zurückschrecken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Sie schreckte vor härteren Methoden zurück.</text> <frame>NN.PP</frame></example>
+<example><text>Die Drohungen der Leitung schreckten ihn zurück.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.99" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.99.fürchten2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>fürchten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AZ</frame>
+<frame>NN.AR.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>die Befürchtung haben</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie fürchtete, sich daneben benommen zu haben.</text> <frame>NN.AZ</frame></example>
+<example><text>Er fürchtete sich vor einer Kündigung.</text> <frame>NN.PP</frame></example>
+<example><text>Ich fürchte, dass er heute nicht mehr kommt.</text> <frame>???</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.100" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.100.sorgen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sorgen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich,in Sorge sein</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Sie sorgte sich um ihre Tochter.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.101" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.101.bangen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bangen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Er bangte um sein Leben.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.102" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.102.fürchten3" orthVar="nein" sense="3" stilMarkierung="nein">
+<orthForm>fürchten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>in Sorge sein (um jmdn/etwas)</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Sie fürchtete für seine Gesundheit.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.103" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.103.schämen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schämen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+<frame>NN.AR.AZ</frame>
+<frame>NN.AR.PP</frame>
+<frame>NN.AR.BC</frame>
+</frames>
+<examples>
+<example><text>Sie schämt sich, weil sie in die Hose gemacht hat.</text> <frame>NN.AR</frame></example>
+<example><text>Er schämt sich, sie mit den Kindern sitzen gelassen zu haben.</text> <frame>NN.AR.AZ</frame></example>
+<example><text>Sie schämte sich für das Verhalten ihres Kindes.</text> <frame>NN.AR.PP</frame></example>
+<example><text>Er schämt sich wegen seiner Eltern.</text> <frame>NN.AR.BC</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.104" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.104.genieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>genieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example><text>Er geniert sich wegen seiner Schweißfüße.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.105" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.105.mögen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mögen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.105.leiden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leiden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BM</frame>
+<frame>NN.AN.BA</frame>
+<frame>NN.AN</frame>
+<frame>NN.AI</frame>
+</frames>
+<examples>
+<example><text>Das Kind mag ihren Opa sehr.</text> <frame>NN.AN.BA</frame></example>
+<example><text>Sie kann ihre Nachbarin gut leiden.</text> <frame>NN.AN.BM</frame></example>
+<example><text>Sie mögen Kalbsbraten mit Salzkartoffeln.</text> <frame>NN.AN</frame></example>
+<example><text>Er mag essen gehen.</text> <frame>NN.AI</frame></example>
+<example><text>Sie kann es nicht leiden, wenn er sie </text> <frame>Dickerchennennt.???</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.106" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.106.lieben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lieben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.106.liebhaben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>liebhaben</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BM</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Er liebt seine Kinder über alles.</text> <frame>NN.AN.BM</frame></example>
+<example><text>Das Mädchen hat ihren Teddy lieb.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.107" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.107.verehren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verehren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Jugendlichen verehren diese Band.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.108" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.108.vergöttern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vergöttern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.108.anbeten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anbeten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie vergötterte ihren Vater.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.109" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.109.huldigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>huldigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DN</frame>
+</frames>
+<examples>
+<example><text>Noch am Grabe huldigten sie ihrem Lehrer.</text> <frame>NN.DN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.110" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.110.verfallen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verfallen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DN</frame>
+</frames>
+<examples>
+<example>
+<text>Er verfiel ihr mit Haut und Haar.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.111" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.111.sympathisieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sympathisieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Er sympathisierte mit ihm.</text>
+</example>
+<example>
+<text>Sie sympathisierte mit den Freiheitskämpfern.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.112" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.112.bewundern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bewundern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er bewunderte ihren Mut.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.113" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.113.beneiden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beneiden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BC</frame>
+</frames>
+<examples>
+<example><text>Sie beneidet die offenen und natürliche Art ihrer Schwester.</text> <frame>NN.AN</frame></example>
+<example><text>Sie beneidet sie wegen ihrer Ausstrahlung.</text> <frame>NN.AN.BC</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.114" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.114.neiden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neiden</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.114.missgönnen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>missgönnen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.114.mißgönnen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>mißgönnen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie neidete ihm den Erfolg.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.115" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.115.eifersüchteln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eifersüchteln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example><text>Er eifersüchtelt ziemlich stark.</text> <frame>NN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.116" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.116.gönnen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gönnen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.116.vergönnen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vergönnen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DN</frame>
+</frames>
+<examples>
+<example>
+<text>Ich gönne dir diesen großen Erfolg.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.117" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.117.verlieben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verlieben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.117.verknallen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>verknallen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.117.verschießen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>verschießen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example><text>Er hat sich total verliebt und ist deshalb nicht zurechnungsfähig!</text> <frame>NN.AR</frame></example>
+<example><text>Sie hat sich in ihren Kollegen verliebt.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.118" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.118.entfremden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entfremden</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.118.alienieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>alienieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+<frame>NN.AR.BA</frame>
+</frames>
+<examples>
+<example><text>Er alienierte sich von der Position seiner einstigen Weggefährten.</text> <frame>NN.AR.PP</frame></example>
+<example><text>Die Eheleute entfremdeten sich zusehends.</text> <frame>NN.AR.BA</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.119" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.119.auseinander_leben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auseinander_leben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.119.auseinanderleben" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>auseinanderleben</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+</frames>
+<examples>
+<example><text>Wir haben uns auseindergelebt.</text> <frame>NN.AR</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.120" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.120.auseinander_driften" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auseinander_driften</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.120.auseinanderdriften" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auseinanderdriften</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BA</frame>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example><text>Unsere Standpunkte drifteten zusehends auseinander.</text> <frame>NN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.121" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.121.hassen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hassen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BA</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Sie hasste ihn abgrundtief.</text> <frame>NN.AN.BA</frame></example>
+<example><text>Er hasste diese Arbeit.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.122" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.122.verabscheuen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verabscheuen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er verabscheute ihre Art.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.123" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.123.leiden2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>leiden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BA</frame>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>einen Zustand von schwerer Krankheit/seelischemLeiden/Schmerzen zu ertragen haben</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er leidet fürchterlich.</text> <frame>NN.BA</frame></example>
+<example><text>Sie litt unter dieser ausweglosen Situation.</text> <frame>NN.PP</frame></example>
+<example><text>Die Blumen hatten durch den eisigen Frost gelitten.</text> <frame>NN.BC</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.124" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.124.durchleiden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>durchleiden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie hat eine schreckliche Zeit durchlitten.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.125" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.125.erleiden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erleiden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er hat einen Schock erlitten.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.126" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.126.trauern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trauern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Das Kind trauert um seinen toten Vogel.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.127" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.127.grämen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grämen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+<frame>NN.AR.PP</frame>
+<frame>NN.AR.BM</frame>
+</frames>
+<examples>
+<example><text>Er grämte sich sehr über den Tod seiner Frau.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.128" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.128.betrauern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>betrauern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie betrauerte ihren toten Vater.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.129" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.129.bestürzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bestürzen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.129.erschüttern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erschüttern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Die Nachricht bestürzte die ganze Familie.</text> <frame>NN.AN</frame></example>
+<example><text>Es erschütterte ihn, dass kein Passagier überlebt hatte.</text> <frame>???</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.130" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.130.mitnehmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mitnehmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BM</frame>
+</frames>
+<examples>
+<example><text>Die Schmutzkampage gegen mich hat mich sehr mitgenommen.</text> <frame>NN.AN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.131" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.131.verstören" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verstören</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BA</frame>
+</frames>
+<examples>
+<example><text>Die Nachricht von der Katastrophe verstörte mich zutiefst.</text> <frame>NN.AN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.132" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.132.treffen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>treffen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Todesnachricht hat ihn furchtbar getroffen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.133" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.133.traumatisieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>traumatisieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Das Schockerlebnis traumatisierte sie.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.134" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.134.schocken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schocken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.134.schockieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schockieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Aufmachung ihres Freundes schockierte sie.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.135" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.135.lähmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lähmen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.135.paralysieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>paralysieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Angst vor ihm lähmte sie.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.136" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.136.bemitleiden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bemitleiden</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.136.bedauern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bedauern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BC</frame>
+</frames>
+<paraphrases>
+<paraphrase>Mitgefühl empfinden/äußern</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie bemitleidete ihre kranke Mutter.</text> <frame>NN.AN</frame></example>
+<example><text>Er bedauerte den Verlauf der Dinge.</text> <frame>NN.AN</frame></example>
+<example><text>Man bemitleidete ihn wegen seiner Behinderung.</text> <frame>NN.AN.BC</frame></example>
+<example><text>Sie bedauerte zutiefst, dass sie ihr nicht mehr helfen konnte.</text> <frame>???</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.137" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.137.dauern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dauern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>jmds Mitleid erregen,jmdm Leid tun</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Das alte Pferd dauerte ihn.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.138" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.138.erbarmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erbarmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Er erbarmte sich für die Kinder aus dem Waisenheim.</text> <frame>NN.AR.PP</frame></example>
+<example><text>Der halbtote Obdachlose erbarmte ihn.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.139" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.139.leid_tun" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>leid_tun</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.139.Leid_tun" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Leid_tun</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DR</frame>
+<frame>NN.DR.BA</frame>
+</frames>
+<examples>
+<example><text>Er tut mir so leid.</text> <frame>NN.DR.BA</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.140" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.140.bereuen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bereuen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.140.bedauern2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>bedauern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.140.reuen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>reuen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.AZ</frame>
+</frames>
+<paraphrases>
+<paraphrase>ausdrücken, dass einem etwas Leid tut</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er bedauerte den Vorfall sehr.</text> <frame>NN.AN</frame></example>
+<example><text>Er bedauerte im Alter, seine Jugend so vergeudet zu haben.</text> <frame>NN.AN.AZ</frame></example>
+<example><text>Sie bereute es später ihr nicht geholfen zu haben.</text> <frame>NN.AN.AZ</frame></example>
+<example><text>Er bereute, dass er so unfreundlich zu ihr gewesen war.</text> <frame>???</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.141" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.141.entschuldigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entschuldigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example><text>Er entschuldigte seine Reaktion.</text> <frame>NN.AN</frame></example>
+<example><text>Sie entschuldigte sich (bei ihr) für die Verspätung.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.142" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.142.mitfühlen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mitfühlen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie fühlte den Kummer der Angehörigen mit.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.143" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.143.teilnehmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>teilnehmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>Teilnahme/Interesse zeigen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Ihre Familie nahm an ihrem Schmerz teil.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.144" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.144.interessieren2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>interessieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>Interesse haben,sich für etwas/eine Sache interessieren</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie interessierte sich für das Schicksal der Kinder.</text> <frame>NN.AR.PP</frame></example>
+<example><text>Die politischen Eskapaden des Diktators interessierte die ganze Welt.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.145" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.145.langweilen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>langweilen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.145.anöden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anöden</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.145.öden" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>öden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>jmdm Langeweile bereiten</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Der Zeichentrickfilm langweilt die Kinder.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.146" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.146.langweilen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>langweilen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+</frames>
+<paraphrases>
+<paraphrase>Langeweile haben/empfinden</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er hockt auf seinem Sofa und langweilt sich.</text> <frame>NN.AR</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.147" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.147.nerven2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>nerven</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Er nervt mich mit seinen Geschichten von früher.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.148" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.148.mopsen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>mopsen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.Pp</frame>
+</frames>
+<examples>
+<example>
+<text>Er mopste sich (beim Vortrag des Dozenten).</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.149" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.149.aufregen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufregen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.149.ärgern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ärgern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example><text>Sie regte sich über sein peinliches Verhalten auf.</text> <frame>NN.AR.PP</frame></example>
+<example><text>Es ärgerte sie, dass sie ihm nicht ihre Meinung gesagt hatte.</text> <frame>???</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.150" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.150.alterieren" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>alterieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BC</frame>
+</frames>
+<examples>
+<example><text>Er alterierte wegen der Zurücksetzung.</text> <frame>NN.BC</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.151" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.151.empören" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>empören</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.151.entrüsten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entrüsten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example><text>Sein undiplomatisches Auftreten empörte die Nation.</text> <frame>NN.AN</frame></example>
+<example><text>Die Zuschauer empörten sich über die schlechte Aufführung.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.152" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.152.übel_nehmen" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>übel_nehmen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.152.krumm_nehmen" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>krumm_nehmen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.152.übelnehmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>übelnehmen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.152.krummnehmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>krummnehmen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.152.verübeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verübeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DN</frame>
+</frames>
+<examples>
+<example>
+<text>Ich nehme Dir die Ohrfeige übel.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.153" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.153.nachtragen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nachtragen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.153.verargen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verargen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DN</frame>
+</frames>
+<examples>
+<example>
+<text>Ich trug ihm seine ewigen Affairen nach.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.154" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.154.grollen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grollen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DN</frame>
+<frame>NN.AN.DN</frame>
+</frames>
+<examples>
+<example><text>Er grollte seinem Schicksal.</text> <frame>NN.DN</frame></example>
+<example><text>Sie grollte ihm sein Überlegenheitsgetue.</text> <frame>NN.AN.DN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.155" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.155.schmollen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmollen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.DN.PP</frame>
+</frames>
+<examples>
+<example><text>Er schmollt.</text> <frame>NN</frame></example>
+<example><text>Er schmollte mit mir wegen der Absage.</text> <frame>NN.DN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.156" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.156.verdenken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verdenken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DN</frame>
+</frames>
+<examples>
+<example>
+<text>Ich kann dir deine Wut nicht verdenken.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.157" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.157.explodieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>explodieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Nachdem er den Brief durchgelesen hatte, explodierte er und konnte sich nicht beruhigen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.158" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.158.erregen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erregen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example><text>Sein Vortrag erregte die Fachwelt.</text> <frame>NN.AN</frame></example>
+<example><text>Die Wissenschaftler erregten sich über seine neue Theorie.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.159" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.159.exaltieren2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>exaltieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich hysterisch erregen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er exaltierte sich über die unmöglichen Bemerkungen seines Mitarbeiters.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.160" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.160.kochen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kochen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>wütend sein, vor Wut kochen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Ihre Mutter kochte vor Wut, weil ihre Schwester nicht zu Hause war.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.161" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.161.schäumen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schäumen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Er schäumte vor Ärger.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.162" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.162.vergessen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vergessen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>die Beherrschung verlieren</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>In seinem Zorn vergaß er sich völlig.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.163" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.163.beruhigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beruhigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich beruhigen,zur Ruhe kommen/ruhig werden</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Der Sturm beruhigte sich allmählich.</text> <frame>NN.AR.BM</frame></example>
+<example>
+<text>Das Kind beruhigte sich schließlich doch noch.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.164" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.164.entspannen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entspannen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.164.normalisieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>normalisieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+<frame>NN.AR.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>von Situationen und Lagen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Die Situation entspannte sich.</text> <frame>NN.AR</frame></example>
+<example><text>Die Lage normalisierte sich allmählich.</text> <frame>NN.AR.BM</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.165" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.165.besänftigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>besänftigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.Pp</frame>
+</frames>
+<examples>
+<example>
+<text>Er besänftigte sich (mit Musik).</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.166" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.166.befrieden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>befrieden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Ihre Politik befriedete das Land.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.167" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.167.begöschen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>begöschen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BS</frame>
+</frames>
+<paraphrases>
+<paraphrase>durch andauerndes Zureden beruhigend einwirken</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er begöschte das plärrende Kind.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.168" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.168.fassen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fassen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+</frames>
+<paraphrases>
+<paraphrase>sein inneres Gleichgewicht/seine Haltung wiederfinden</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Sie hat sich schnell wieder gefasst.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.169" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.169.fangen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fangen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+</frames>
+<examples>
+<example>
+<text>Er hat sich wieder gefangen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.170" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.170.einkriegen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einkriegen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.170.berappeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>berappeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+<frame>NN.AR.BT</frame>
+<frame>NN.AR.BA</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich nach einer unangenehmen Situation wieder beruhigen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er kriegte sich nur schlecht wieder ein.</text> <frame>NN.AR.BA</frame></example>
+<example><text>Nach der schweren Krise  hat sie sich wieder berappelt.</text> <frame>NN.AR.BT</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.171" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.171.abreagieren2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>abreagieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+<frame>NN</frame>
+</frames>
+<paraphrases>
+<paraphrase>durch eine ableitende Reaktion ruhiger/ausgeglichener/gelassener werden</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie muss sich abreagieren.</text> <frame>NN</frame></example>
+<example><text>Er reagierte seinen Launen an den Kindern ab.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.172" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.172.legen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>legen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR</frame>
+</frames>
+<examples>
+<example>
+<text>Die Aufregung hat sich schon wieder gelegt.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.173" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.173.erholen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erholen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Er erholte sich von der Aufregung über das Gerichtsverfahren.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.174" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.174.trösten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trösten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Er tröstete sich mit einem guten Schluck Wein.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.175" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.175.Gefühle_ausdrücken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gefühle_ausdrücken</orthForm>
+</lexUnit>
+<frames>
+<frame>30</frame>
+</frames>
+</synset>
+<synset id="vGefuehl.176" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.176.klagen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klagen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>(über etwas Bestimmtes) Klage führen, Unzufriedenheit äußern</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er klagt über Knieschmerzen.</text>
+</example>
+<example>
+<text>Sie klagte über ihr Schicksal.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.177" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.177.wehklagen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wehklagen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BA</frame>
+</frames>
+<examples>
+<example><text>Die Trauerweiber wehklagten laut.</text> <frame>NN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.178" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.178.lamentieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lamentieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example>
+<text>Sie lamentierte ständig.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.179" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.179.murren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>murren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.Pp</frame>
+</frames>
+<examples>
+<example>
+<text>Sie murrte ständig (über ihre Nachbarn).</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.180" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.180.jammern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>jammern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Sie jammerte über die viele Hausarbeit.</text> <frame>NN.PP</frame></example>
+<example><text>Die Kinder jammerten nach ihrer Mutter.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.181" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.181.ächzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ächzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example>
+<text>Die alte Frau ächzte beim Treppensteigen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.182" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.182.stöhnen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stöhnen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Er stöhnte vor Verzweiflung.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.183" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.183.beklagen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beklagen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>als traurig empfinden, schmerzlich bedauern</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Sie beklagte seinen Tod.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.184" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.184.beklagen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>beklagen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>Empfinden des Schmerzes/Bedauerns äußern</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er beklagte die Milliardenverluste.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.185" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.185.bejammern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bejammern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.185.beseufzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beseufzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie bejammert ständig ihr Schicksal.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.186" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.186.nachtrauern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nachtrauern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.186.nachweinen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nachweinen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie trauerte ihrer toten Katze nach.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.187" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.187.toben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>toben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.187.rasen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rasen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BR</frame>
+<frame>NN.BC</frame>
+</frames>
+<examples>
+<example><text>Ihr Vater tobte wie ein Wilder als er die Nachricht erfuhr.</text> <frame>NN.BR</frame></example>
+<example><text>Ihre Freundin tobte vor Wut.</text> <frame>NN.BC</frame></example>
+<example><text>Er raste vor Eifersucht.</text> <frame>NN.BC</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.188" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.188.berserkern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>berserkern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BR</frame>
+</frames>
+<examples>
+<example><text>Er berserkerte wie ein Irrer.</text> <frame>NN.BR</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.189" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.189.ausrasten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausrasten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.189.durchdrehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>durchdrehen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.189.überschnappen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überschnappen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BC</frame>
+</frames>
+<examples>
+<example><text>Wegen der Nachricht rastete er aus.</text> <frame>NN.BC</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.190" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.190.entgleisen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entgleisen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BC</frame>
+</frames>
+<examples>
+<example><text>Vor Wut entgleiste er.</text> <frame>NN.BC</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.191" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.191.wüten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wüten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.BR</frame>
+</frames>
+<examples>
+<example><text>Er wütete wie ein Geisteskranker.</text> <frame>NN.BR</frame></example>
+<example><text>Sie wüteten durch das Gelände.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.192" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.192.lachen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lachen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.BC</frame>
+<frame>NN</frame>
+</frames>
+<examples>
+<example><text>Sie haben über meinen Witz laut gelacht.</text> <frame>NN.PP</frame></example>
+<example><text>Die Kinder lachten vor Freude.</text> <frame>NN.BC</frame></example>
+<example><text>Als der Clown hinfiel, lachten alle Zuschauer.</text> <frame>NN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.193" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.193.ausschütten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausschütten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.193.kringeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kringeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.Pp</frame>
+</frames>
+<examples>
+<example>
+<text>Sie kringelte sich (vor Lachen).</text>
+</example>
+<example>
+<text>Er schüttete sich aus (vor Lachen).</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.194" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.194.belächeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>belächeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Der Beamte belächelte sein Deutsch.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.195" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.195.feixen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>feixen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.DN.PP</frame>
+</frames>
+<examples>
+<example><text>Sie feixte über das ganze Gesicht.</text> <frame>NN.PP</frame></example>
+<example><text>Die Kinder feixten dem alten Opa ins Gesicht.</text> <frame>NN.DN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.196" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.196.grienen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grienen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Der Angeklagte griente dreckig.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.197" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.197.grinsen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grinsen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.197.lächeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lächeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.197.schmunzeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmunzeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.DN.BL</frame>
+<frame>NN</frame>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example><text>Er grinste über ihre Tollpatschigkeit.</text> <frame>NN.PP</frame></example>
+<example><text>Der Lehrer lächelte beim Anblick seines Schülers.</text> <frame>NN.PP</frame></example>
+<example><text>Er grinste seiner Mutter ins Gesicht.</text> <frame>NN.DN.BL</frame></example>
+<example><text>Sie lächelte ihm ins Gesicht.</text> <frame>NN.DN.BL</frame></example>
+<example><text>Die Kinder grinsten, als er hereinkam.</text> <frame>NN</frame></example>
+<example><text>Der Polizist lächelte ironisch.</text> <frame>NN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.198" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.198.brüllen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>brüllen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Sie brüllte vor Lachen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.199" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.199.gackern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gackern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.199.giggeln" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>giggeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.199.giggern" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>giggern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.199.gickeln" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>gickeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BR</frame>
+<frame>NN</frame>
+</frames>
+<examples>
+<example><text>Die Jugendlichen saßen vor der Schule und gackerten.</text> <frame>NN</frame></example>
+<example><text>Die jungen Mädchen giggerten wie die Hühner.</text> <frame>NN.BR</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.200" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.200.wiehern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wiehern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BC</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Sie wieherte vor Lachen.</text> <frame>NN.BC</frame></example>
+<example><text>Die Kinder wieherten über seinen Streich.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.201" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.201.kichern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kichern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN</frame>
+</frames>
+<examples>
+<example><text>Als der Lehrer hereinkam, kicherten die Schüler.</text> <frame>NN</frame></example>
+<example><text>Die Frauen kicherten über ihren Kollegen.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.202" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.202.gickern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gickern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.202.gickeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gickeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BA</frame>
+</frames>
+<examples>
+<example><text>Die Kinder gickelten laut.</text> <frame>NN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.203" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.203.prusten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>prusten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Sein Freund prustete vor Lachen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.204" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.204.auslachen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auslachen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.204.verlachen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verlachen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BC</frame>
+</frames>
+<examples>
+<example><text>Seine Freunde lachten ihn aus.</text> <frame>NN.AN</frame></example>
+<example><text>Sie lachten ihn wegen seiner roten Haare aus.</text> <frame>NN.AN.BC</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.205" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.205.ätschten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ätschten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.205.ausätschen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausätschen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Die gehässigen Mitschüler ätschten mich wieder aus.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.206" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.206.lustig_machen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lustig_machen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich über jemanden lustig machen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Mach dich nicht immer über mich lustig!</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.207" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.207.veralbern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>veralbern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.207.veräppeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>veräppeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.207.verscheißern" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>verscheißern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.207.narren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>narren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie veralberten ihn nach Strich und Faden.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.208" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.208.vergackeiern" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>vergackeiern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.208.verhohnepipeln" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>verhohnepipeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Das Kollegium vergackeierte den Neuen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.209" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.209.ballhornisieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ballhornisieren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.209.verballhornen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verballhornen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Wir verballhornten die Platitüden der Politiker.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.210" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.210.auflachen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auflachen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Ihr Nachbar lachte höhnisch auf.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.211" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.211.loslachen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>loslachen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.211.herausplatzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herausplatzen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.211.losplatzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>losplatzen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.211.losprusten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>losprusten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.211.losbrüllen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>losbrüllen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.211.loslatzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>loslatzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.Pp</frame>
+</frames>
+<examples>
+<example><text>Die Zuschauer lachten plötzlich los.</text> <frame>NN</frame></example>
+<example><text>Ihr Kollege prustete (beim Anblick seines Chefs) los.</text> <frame>NN.Pp</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.212" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.212.weinen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>weinen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.212.heulen2" orthVar="nein" sense="2" stilMarkierung="ja">
+<orthForm>heulen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.212.flennen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>flennen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.212.greinen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>greinen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.212.plärren" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>plärren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.212.plieren" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>plieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.AN</frame>
+<frame>NN.BC</frame>
+<frame>NN.BR</frame>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example><text>Das Kind weint beim kleinsten Anlass.</text> <frame>NN.PP</frame></example>
+<example><text>Die alte Frau weint um ihren Ehemann.</text> <frame>NN.PP</frame></example>
+<example><text>Das Mädchen weinte dicke Tränen.</text> <frame>NN.AN</frame></example>
+<example><text>Er weinte vor Freude.</text> <frame>NN.BC</frame></example>
+<example><text>Sie weinte wie ein Schlosshund.</text> <frame>NN.BR</frame></example>
+<example><text>Das Baby weinte sich in den Schlaf.</text> <frame>NN.AR.PP</frame></example>
+<example>
+<text>Sie pliert ständig!</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.213" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.213.vergießen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vergießen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BC</frame>
+</frames>
+<paraphrases>
+<paraphrase>Tränen vergießen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er vergoss viele Tränen um sie.</text> <frame>NN.AN.BC</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.214" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.214.beweinen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beweinen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie beweinten ihren langjährigen Freund.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.215" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.215.ausweinen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausweinen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.215.ausheulen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>ausheulen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example><text>Sie weinte sich bei ihrer Freundin aus.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.216" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.216.schluchzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schluchzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Der Angeklagte schluchzte bitterlich.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.217" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.217.winseln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>winseln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.217.wimmern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wimmern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.BC</frame>
+</frames>
+<examples>
+<example><text>Der Gefangene winselte um Gnade.</text> <frame>NN.PP</frame></example>
+<example><text>Das Kind wimmerte vor lauter Furcht.</text> <frame>NN.BC</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.218" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.218.schreien" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schreien</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BC</frame>
+<frame>NN.AN.DR.BL</frame>
+<frame>NN.AR.BM</frame>
+<frame>    NN.BR</frame>
+<frame>NN.PP</frame>
+<frame>NN.DN.BL</frame>
+</frames>
+<examples>
+<example><text>Er schreit vor Angst.</text> <frame>NN.BC</frame></example>
+<example><text>Sie schrie sich die Wut aus dem Bauch.</text> <frame>NN.AN.DR.BL</frame></example>
+<example><text>Die Kinder haben sich müde geschrien.</text> <frame>NN.AR.BM</frame></example>
+<example><text>Er schrie wie ein Verrückter.</text> <frame>NN.BR</frame></example>
+<example><text>Die Kinder schrien nach Sckokoladenkuchen.</text> <frame>NN.PP</frame></example>
+<example><text>Er schrie ihm ins Gesicht.</text> <frame>NN.DN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.219" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.219.jubeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>jubeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.219.jubilieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>jubilieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BC</frame>
+</frames>
+<examples>
+<example><text>Die Zuschauer jubelten, als das erste Tor fiel.</text> <frame>NN</frame></example>
+<example><text>Die Prüfungskandidatin jubelte vor Freude.</text> <frame>NN.BC</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.220" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.220.bejubeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bejubeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Das Publikum bejubelte die Sieger.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.221" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.221.krakeelen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>krakeelen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Er krakeelte lauthals.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.222" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.222.kreischen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kreischen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BC</frame>
+<frame>NN.BR</frame>
+</frames>
+<examples>
+<example><text>Sie kreischt vor Freude.</text> <frame>NN.BC</frame></example>
+<example><text>Sie kreischte wie ein aufgescheuchtes Huhn.</text> <frame>NN.BR</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.223" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.223.grölen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grölen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BC</frame>
+</frames>
+<examples>
+<example>
+<text>Sie grölt vor Begeisterung.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.224" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.224.bölken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bölken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Bölken Sie nicht so laut!</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.225" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.225.brüllen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>brüllen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BC</frame>
+</frames>
+<examples>
+<example>
+<text>Ihr Vater brüllte vor Wut.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.226" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.226.jauchzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>jauchzen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.226.juchzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>juchzen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.226.juchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>juchen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BC</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Sie jauchzt vor Glück.</text> <frame>NN.BC</frame></example>
+<example><text>Er jauchzte über diese Freudenbotschaft.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.227" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.227.frohlocken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>frohlocken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+</frames>
+<examples>
+<example><text>Die Demokraten streiten sich und die Rechten frohlocken.</text> <frame>NN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.228" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.228.herauslassen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herauslassen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.228.rauslassen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>rauslassen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Jetzt ließ er seine ganze Wut heraus</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.229" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.229.zetern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zetern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.229.rumzetern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rumzetern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example>
+<text>Die alte Frau am Fenster zetert den ganzen Tag.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.230" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.230.meckern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>meckern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.230.maulen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>maulen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.230.zicken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zicken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.230.herumzicken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herumzicken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Er meckert ständig und ist nie zufrieden.</text> <frame>NN.BM</frame></example>
+<example><text>Er meckert über die Bedienung im Restaurant.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.231" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.231.granteln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>granteln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.231.nörgeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nörgeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.231.nölen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nölen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.231.grummeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grummeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.231.brummeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>brummeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.231.mäkeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mäkeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BM</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Er grantelt ständig.</text> <frame>NN.BM</frame></example>
+<example><text>Er nörgelte über all meine Vorschläge.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.232" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.232.stänkern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stänkern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.BM</frame>
+</frames>
+<examples>
+<example><text>Er stänkert über alles und jeden.</text> <frame>NN.PP</frame></example>
+<example><text>Chefs stänkern gern.</text> <frame>NN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.233" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.233.mosern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mosern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+<frame>NN.BT</frame>
+</frames>
+<examples>
+<example><text>Er mosert den ganzen Tag.</text> <frame>NN.BT</frame></example>
+<example><text>Er moserte über die neue Regierung.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.234" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.234.abreagieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abreagieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>(eine seelische Spannung) durch eine ableitende Reaktion vermindern oder zum Verschwinden bringen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Er reagierte seine Wut an ihr ab.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.235" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="ja" id="vGefuehl.235.Gefühle_verursachen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gefühle_verursachen</orthForm>
+</lexUnit>
+<frames>
+<frame>30</frame>
+</frames>
+</synset>
+<synset id="vGefuehl.236" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.236.bewirken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bewirken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Mit seinem Geschrei bewirkte er bei ihr nur, dass sie ihm nicht mehr zuhörte.</text> <frame>???dassundeigentlichNN.AN.PP.BS</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.237" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.237.bereiten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bereiten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.DN</frame>
+</frames>
+<paraphrases>
+<paraphrase>jmdm Freude/Kummer bereiten</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Mit einem Geschenk bereitete er ihr Freude.</text> <frame>???eigentlichNN.AN.DN.BS</frame></example>
+<example><text>Meine Tochter bereitet mir großen Kummer.</text> <frame>NN.AN.DN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.238" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.238.bewegen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bewegen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BM</frame>
+</frames>
+<paraphrases>
+<paraphrase>ein Gefühl des Ergriffenseins (in jmdm) wecken</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Die Nachricht bewegte alle tief.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.239" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.239.ergreifen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ergreifen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.239.berühren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>berühren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.239.anrühren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anrühren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.239.rühren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rühren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.239.beseelen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beseelen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Film hat die Zuschauer ergriffen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.240" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.240.aufwühlen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufwühlen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Tod des Schauspielers wühlte das Volk auf.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.241" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.241.befallen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>befallen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.241.erfassen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erfassen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.241.überkommen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überkommen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>(als heftige Empfindung von jmdm) Besitz ergreifen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Tränen überkamen ihn, als er das Baby sah.</text>
+</example>
+<example>
+<text>Die Angst vor dem Sterben erfasste ihn.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.242" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.242.ankommen3" orthVar="nein" sense="3" stilMarkierung="nein">
+<orthForm>ankommen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>von etwas innerlich ergriffen werden</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Wissbegierde kam ihn an.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.243" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.243.überfallen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überfallen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>(von Gedanken/Gefühlen/körperlichen Zuständen) überkommen werden</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Plötzlich überfiel mich die Müdigkeit.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.244" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.244.betreffen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>betreffen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich (auf jmdn/etwas) beziehen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Die Streichung der Gelder betrifft uns alle.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.245" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.245.angehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>angehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich auf jmdn/etwas beziehen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Der Umweltschutz geht uns alle an.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.246" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.246.anlangen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anlangen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.246.belangen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>belangen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.246.anbelangen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anbelangen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Was diese Frage anlangt, so ist das meine Anwort.</text>
+</example>
+<example>
+<text>Soweit es mich (an)belangt, bin ich einverstanden.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.247" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.247.beziehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beziehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich,in Zusammenhang oder in Verbindung stehen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Der Vorwurf bezieht sich nur auf deine Arbeit.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.248" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.248.drehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>drehen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.248.handeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>handeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NE.AR</frame>
+<frame>NN.AR.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>sich drehen/handeln um</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Es dreht sich um die Straßenkinder.</text> <frame>???eigentlichNE.AR.PP</frame></example>
+<example><text>Die Diskussion dreht sich um den neuen Kollegen.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.249" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.249.scheren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>scheren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example><text>Er scherte sich nicht um die geltenden Vorschriften.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.250" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.250.tangieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tangieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Dieses Problem tangiert mich nicht.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.251" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.251.treffen3" orthVar="nein" sense="3" stilMarkierung="nein">
+<orthForm>treffen</orthForm>
+</lexUnit>
+<frames>
+<frame>NE.AN</frame>
+</frames>
+<examples>
+<example><text>Es trifft ihn, sie gehen zu sehen.</text> <frame>NE.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.252" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.252.zusammenhängen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zusammenhängen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BO</frame>
+</frames>
+<examples>
+<example>
+<text>Das Problem der Kriminalität hängt mit der Lebensqualität zusammen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.253" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.253.interessieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>interessieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>Interesse hervorrufen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Das Schicksal des Mannes interessierte ihn.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.254" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.254.sensibilisieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sensibilisieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Er hatte mich für die Nöte der Aborigines sensibilisiert.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.255" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.255.hypersensiblisieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hypersensiblisieren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.255.übersensiblisieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>übersensiblisieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>übermäßig sensibilisieren</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Die Medien hypersensiblisieren die Leser.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.256" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.256.beeindrucken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beeindrucken</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Ihr Talent beeindruckte ihn.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.257" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.257.blenden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blenden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>durch äußerliche Vorzüge beeindrucken</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sein geschicktes Auftreten blendet die Kunden.</text> <frame>NN.AN</frame></example>
+<example><text>Sie blendete ihn durch ihr sicheres Auftreten.</text> <frame>NN.AN.BS</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.258" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.258.überwältigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überwältigen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.258.umwerfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>umwerfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Erfolg warf sie um.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.259" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.259.zerstreuen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zerstreuen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Der Liebesfilm zerstreute sie.</text> <frame>NN.AN</frame></example>
+<example><text>Er zerstreut sich beim Squashspielen.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.260" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.260.bedrücken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bedrücken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.260.betrüben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>betrüben</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Angst vorm Tod bedrückte die Gefangenen.</text> <frame>NN.AN</frame></example>
+<example><text>Sie betrübte ihn mit dieser schlechten Nachricht.</text> <frame>NN.AN.PP</frame></example>
+<example><text>Es bedrückte ihn, dass er ihnen finanziell nicht helfen konnte.</text> <frame>???</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.261" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.261.bekümmern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bekümmern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>jmdm Kummer/Sorge bereiten</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Sein gesundheitlicher Zustand bekümmerte seine Frau.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.262" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.262.anfechten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anfechten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Das ficht mich nicht an.</text>
+</example>
+<example>
+<text>Finanzielle Sorgen fechten sie an.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.263" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.263.drücken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>drücken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.263.lasten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lasten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.BL</frame>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>lastend (auf jmdm) liegen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Eine große Verantwortung lastet auf ihm.</text> <frame>NN.BL</frame></example>
+<example><text>Ein Berg Schulden drückte ihn.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.264" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.264.martern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>martern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.264.quälen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>quälen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.264.peinigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>peinigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example><text>Der gleiche Alptraum quälte ihn seit Jahren.</text> <frame>NN.AN</frame></example>
+<example><text>Der Polizist quälte sie mit lästigen Fragen.</text> <frame>NN.AN.PP</frame></example>
+<example><text>Er quälte sich mit den Erinnerungen.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.265" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.265.bedrängen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bedrängen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.265.bedrücken2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>bedrücken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.265.bekümmern2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>bekümmern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>keine Ruhe lassen, Gedanken/Sorgen bedrängen jmdn</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Die Sorge um seine Tochter bedrängte ihn.</text>
+</example>
+<example>
+<text>Der Gedanke an den Tod bekümmerte ihn.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.266" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.266.inspirieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>inspirieren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.266.anregen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>anregen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+<frame>NN.AN.BM</frame>
+</frames>
+<examples>
+<example><text>Diese karge Landschaft inspirierte schon viele Künstler.</text> <frame>NN.AN</frame></example>
+<example><text>Das Meer inspirierte ihn zu einem neuen Motiv.</text> <frame>NN.AN.PP</frame></example>
+<example><text>Die Atmosphäre am Hafen inspirierte ihn künstlerisch.</text> <frame>NN.AN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.267" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.267.ermuntern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ermuntern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.267.ermutigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ermutigen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.267.animieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>animieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Ihre gute Laune ermunterte ihn etwas.</text> <frame>NN.AN</frame></example>
+<example><text>Er animierte sie zu einem Mondspaziergang.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.268" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.268.anregen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anregen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Die Rede regte das Publikum zum Nachdenken an.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.269" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.269.verführen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verführen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.269.verleiten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verleiten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Seine Freunde verleiten ihn immer zu Streichen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.270" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.270.antreiben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>antreiben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.270.anspornen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anspornen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.AZ</frame>
+<frame>NN.AN.PP</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Die Neugier trieb ihn an, an der Tür zu lauschen.</text> <frame>NN.AN.AZ</frame></example>
+<example><text>Ihr Trainer spornte sie zu Höchstleistungen an.</text> <frame>NN.AN.PP</frame></example>
+<example><text>Sein Ehrgeiz spornte alle an.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.271" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.271.spornen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spornen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er spornte sein Pferd.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.272" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.272.anfeuern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anfeuern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.272.anstacheln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anstacheln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BS</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Das Publikum feuerte seine Mannschaft an.</text> <frame>NN.AN</frame></example>
+<example><text>Durch die Beförderung wurde seine Motivation angestachelt.</text> <frame>NN.AN.BS</frame></example>
+<example><text>Das Lob der Eltern hat ihn zu besseren Noten angestachelt.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.273" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.273.euphorisieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>euphorisieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Lottogewinn euphoriserte mich.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.274" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.274.beseligen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beseligen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Hoffnung auf einen neuen Anfang beseligte ihn.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.275" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.275.aufmuntern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufmuntern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Die Witze der Lehrerin munterten die Schüler auf.</text> <frame>NN.AN</frame></example>
+<example><text>Der Erfolg munterte das Team auf.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.276" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.276.enttäuschen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>enttäuschen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er hat mich sehr enttäuscht.</text>
+</example>
+<example>
+<text>Ich will sein Vertrauen nicht enttäuschen.</text>
+</example>
+<example><text>Es enttäuschte sie, dass er ihren Geburtstag vergessen hatte.</text> <frame>???</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.277" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.277.verprellen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verprellen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.Pp</frame>
+</frames>
+<examples>
+<example>
+<text>(durch seinen Kommentar) er verprellte seine Kollegen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.278" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.278.frustrieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>frustrieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NE.AN</frame>
+</frames>
+<examples>
+<example><text>Seine schlechten Leistungen frustrierten ihn.</text> <frame>NN.AN</frame></example>
+<example><text>Es frustrierte ihn, den Kindern nicht mehr helfen zu können.</text> <frame>???eigentlichNE.AN.AZ</frame></example>
+<example><text>Es frustrierte ihn, dass er nichts erreicht hatte.</text> <frame>???</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.279" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.279.kränken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kränken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.279.verletzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verletzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.Pp</frame>
+</frames>
+<examples>
+<example><text>Sein Verhalten kränkte ihn.</text> <frame>NN.AN</frame></example>
+<example><text>Die Stichelei hatte sie in ihrer Eitelkeit gekränkt.</text> <frame>NN.AN.Pp</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.280" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.280.treffen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>treffen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BM</frame>
+<frame>NN.AN.BL</frame>
+</frames>
+<examples>
+<example><text>Ihre Worte trafen ihn schwer.</text> <frame>NN.AN.BM</frame></example>
+<example><text>Sein Verrat traf ihn bis ins Innerste.</text> <frame>NN.AN.BL</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.281" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.281.beleidigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beleidigen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.281.verunglimpfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verunglimpfen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.281.insultieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>insultieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BM</frame>
+</frames>
+<examples>
+<example>
+<text>Sein Freund hatte ihn tief beleidigt.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.282" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.282.brüskieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>brüskieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BS</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Sein Verhalten brüskierte die ganze Familie.</text> <frame>NN.AN</frame></example>
+<example><text>Er brüskierte sie mit dieser unhöflichen Frage.</text> <frame>NN.AN.BS</frame></example>
+<example><text>Er brüskierte die Japaner durch sein Auftreten.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.283" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.283.schmähen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmähen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BR</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Der König schmähte den Bischof.</text> <frame>NN.AN</frame></example>
+<example><text>Der Bischof schmähte ihn als Ketzer.</text> <frame>NN.AN.BR</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.284" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.284.verwunden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verwunden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Redner verwundete die Gefühle seiner Zuhörer.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.285" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.285.aufregen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>aufregen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.285.ärgern2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>ärgern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.285.nerven" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nerven</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.285.stressen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stressen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NE.AN</frame>
+<frame>NN.AR.PP</frame>
+</frames>
+<examples>
+<example><text>Der Artikel in der Zeitung regte ihn auf.</text> <frame>NN.AN</frame></example>
+<example><text>Es regte ihn auf, dass er nicht auf ihn hörte.</text> <frame>NE.AN???dass-Satz</frame></example>
+<example><text>Sie ärgerte sich über ihre Tollpatschigkeit.</text> <frame>NN.AR.PP</frame></example>
+<example><text>Ihre neugierigen Blicke ärgerten ihn.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.286" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.286.fuchsen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fuchsen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Bemerkung fuchste sie schrecklich.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.287" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.287.wurmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wurmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die ständigen Nackenschläge wurmten sie.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.288" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.288.abstoßen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abstoßen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.288.anwidern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anwidern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Dein Verhalten widert mich an.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.289" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.289.zuwider_sein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zuwider_sein</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DN</frame>
+</frames>
+<examples>
+<example>
+<text>Hirsebrei ist mir zuwider.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.290" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.290.ekeln2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>ekeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.290.anekeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anekeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.290.degoutieren" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>degoutieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Seine Ungepflegtheit ekelt sie.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.291" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.291.aufbringen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufbringen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Die Rede brachte das Volk gegen sie auf.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.292" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.292.aufstacheln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufstacheln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.292.aufhetzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufhetzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie stachelte das Volk gegen die Unterdrücker auf.</text>
+</example>
+<example><text>Er hetzte die ganze Meute auf.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.293" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.293.beunruhigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beunruhigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AR.BC</frame>
+</frames>
+<paraphrases>
+<paraphrase>unruhig/in Sorge sein</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Das lange Ausbleiben der Kinder beunruhigte die Eltern.</text> <frame>NN.AN</frame></example>
+<example><text>Sie beunruhigten sich wegen ihrer Kinder.</text> <frame>NN.AR.BC</frame></example>
+<example><text>Es beunruhigte sie, dass er sich nicht meldete.</text> <frame>???</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.294" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.294.alarmieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>alarmieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die neuen Bombenanngriffe alarmierte die Politiker.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.295" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.295.verwirren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verwirren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Fragen der Journalisten hatten ihn verwirrt.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.296" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.296.empören2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>empören</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.296.entrüsten2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>entrüsten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Reaktion der Lehrer hatten die Schüler empört.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.297" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.297.erregen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>erregen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Brief von seiner Schwester hatte ihn erregt.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.298" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.298.erbittern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erbittern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Not der Kinder erbitterte sie.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.299" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.299.zürnen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zürnen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.DN</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Der Mann hatte ihm gezürnt.</text> <frame>NN.DN</frame></example>
+<example><text>Sie hatte mit ihrer Tochter gezürnt.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.300" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.300.erbosen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erbosen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.300.erzürnen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erzürnen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Der Gedanke an ihre Schwiegermutter erboste sie.</text> <frame>NN.AN</frame></example>
+<example><text>Sie erboste sich über den Streich der Kinder.</text> <frame>NN.AR.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.301" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.301.verdrießen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verdrießen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.301.verärgern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verärgern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Seine üble Laune hat seine Kollegen verdrossen.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.302" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.302.verstimmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verstimmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Die plötzliche Flaute verstimmte ihn.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.303" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.303.deprimieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>deprimieren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.303.niederdrücken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>niederdrücken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.303.entmutigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entmutigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BA</frame>
+</frames>
+<examples>
+<example><text>Das Wetter im November deprimierte ihn.</text> <frame>NN.AN</frame></example>
+<example><text>Der Tod seines besten Freundes drückt ihn nieder.</text> <frame>NN.AN.BA</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.304" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.304.frusten" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>frusten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BM</frame>
+</frames>
+<examples>
+<example><text>Die ständigen Zurückweisungen frusten mich sehr.</text> <frame>NN.AN.BM</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.305" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.305.desillusionieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>desillusionieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Begründung des Urteils desillusionierte ihn.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.306" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.306.ernüchtern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ernüchtern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die klaren Worte seines Chefs ernüchterten ihn.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.307" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.307.dämpfen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>dämpfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Versprecher dämpfte seine Redelust.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.308" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.308.schaffen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schaffen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BT</frame>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>nervös/müde machen, zur Verzweiflung bringen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Die Stimmung im Büro hat mich heute geschafft.</text> <frame>NN.AN.BT</frame></example>
+<example><text>Er schaffte sie alle.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.309" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.309.schikanieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schikanieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BM</frame>
+<frame>NN.AN.BS</frame>
+</frames>
+<examples>
+<example><text>Die Kinder schikanieren ihre Großeltern gern.</text> <frame>NN.AN.BM</frame></example>
+<example><text>Er schikanierte sie mit seinen Fragen.</text> <frame>NN.AN.BS</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.310" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.310.aufziehen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufziehen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>jemanden wegen einer Schwäche aufziehen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie zogen mich wegen meiner großen Füße auf.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.311" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.311.necken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>necken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.311.foppen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>foppen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Fopp die Kleinen nicht!</text> <frame>NN.AN</frame></example>
+<example><text>Er neckte seine Freundin wegen ihres Lispeln.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.312" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.312.vernatzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vernatzen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.312.hänseln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hänseln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Die ganze Klasse hänselte den kleinen Franz.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.313" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.313.vorführen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorführen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.313.bloßstellen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bloßstellen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.313.blamieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blamieren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.313.entblößen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entblößen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.PP</frame>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Er führte ihn vor versammelter Belegschaft vor.</text> <frame>NN.AN.PP</frame></example>
+<example><text>Er hat uns alle blamiert.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.314" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.314.schänden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schänden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>Schande bringen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Arbeit schändet nicht.</text> <frame>NN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.315" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.315.kompromittieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kompromittieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>in Verlegenheit bringen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sie kompromittierte mich vor der gesamten Belegschaft.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.316" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.316.desavouieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>desavouieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example><text>Sie desavouierten mich coram publico.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.317" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.317.beruhigen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>beruhigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>ruhig machen, allmählich wieder zur Ruhe bringen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Die Stimme der Mutter beruhigte das Baby.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.318" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.318.abwiegeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abwiegeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er wiegelte die Anschuldigungen ab.</text>
+</example>
+<example>
+<text>Sie wiegelte die aufgebrachten Studenten ab.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.319" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.319.bändigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bändigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Opa bändigte die Kinder.</text>
+</example>
+<example>
+<text>Sie bändigte das aufgescheuchte Pferd.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.320" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.320.begütigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>begütigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Polizistin begütigte die aufgebrachte Frau.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.321" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.321.besänftigen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>besänftigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Der Arzt besänftigte die Mutter des Kindes.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.322" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.322.beschwichtigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beschwichtigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.BS</frame>
+</frames>
+<examples>
+<example><text>Er beschwichtigte seinen Vater mit großen Erklärungen.</text> <frame>NN.AN.BS</frame></example>
+<example><text>Sie beschwichtigte ihre besorgte Mutter.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.323" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.323.einlullen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einlullen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BS</frame>
+</frames>
+<examples>
+<example>
+<text>Sie lullte das Kind mit einem Liedchen ein.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.324" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.324.einschläfern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einschläfern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Das Rauschen des Zuges schläferte sie ein.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.325" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.325.dämpfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dämpfen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Musik dämpfte seine Wut.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.326" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.326.vermitteln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vermitteln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Sie vermittelte zwischen den verstrittenen Brüdern.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.327" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.327.schlichten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schlichten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+</frames>
+<examples>
+<example>
+<text>Er schlichtete den Streit zwischen den Schwestern.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.328" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.328.erstaunen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erstaunen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Ihr sicheres Auftreten erstaunte ihre Lehrer.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.329" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.329.befremden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>befremden</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Das Verhalten des Mannes befremdete die Leute auf der Straße.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.330" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.330.verwundern2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>verwundern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.330.wundern2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>wundern</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>jmds Erwartungen nicht entsprechen, ihn darum erstaunen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Sein Verhalten verwundert seine Freunde.</text>
+</example>
+<example><text>Es verwunderte sie, dass er das nicht wusste.</text> <frame>???</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.331" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.331.überraschen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überraschen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.PP</frame>
+</frames>
+<paraphrases>
+<paraphrase>mit etwas Unerwartetem in Erstaunen versetzen</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Sein Absage hat mich nicht überrascht.</text> <frame>NN.AN</frame></example>
+<example><text>Er überraschte durch professionelles Auftreten.</text> <frame>NN.PP</frame></example>
+<example><text>Es überraschte ihn, dass so wenige gekommen waren.</text> <frame>???</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.332" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.332.konsternieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konsternieren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.332.verblüffen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verblüffen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.332.bestürzen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>bestürzen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AN.PP</frame>
+<frame>NN.AN.BM</frame>
+</frames>
+<examples>
+<example><text>Die neue Entwicklung konsterniert mich zutiefst.</text> <frame>NN.AN.BM</frame></example>
+<example><text>Er verblüfft mich mit dieser Eröffnung.</text> <frame>NN.AN.PP</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.333" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.333.frappieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>frappieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<paraphrases>
+<paraphrase>stutzig machen</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Sein Verhalten hatte mich frappiert.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.334" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.334.beherrschen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beherrschen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN.BA</frame>
+<frame>NN.AR.BA</frame>
+</frames>
+<paraphrases>
+<paraphrase>in der Gewalt haben,unter Kontrolle halten</paraphrase>
+</paraphrases>
+<examples>
+<example><text>Er beherrscht seine Gefühle sehr gut.</text> <frame>NN.AN.BA</frame></example>
+<example><text>Ihr Vater konnte sich gut beherrschen.</text> <frame>NN.AR.BA</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.335" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.335.bändigen2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>bändigen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.335.zähmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zähmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Sie bändigte ihre Wut.</text>
+</example>
+<example>
+<text>Er zähmte seine Neugier und fragte nicht nach.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.336" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.336.zügeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zügeln</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Zügel deine Ungeduld.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.337" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.337.domestizieren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>domestizieren</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example><text>Ich wollte ihn domestizieren.</text> <frame>NN.AN</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.338" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.338.bezähmen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bezähmen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Die Gefangenen bezähmten ihren Hunger.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.339" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.339.mäßigen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mäßigen</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+</frames>
+<examples>
+<example>
+<text>Er mäßigte seine Ungeduld.</text>
+</example>
+</examples>
+</synset>
+<synset id="vGefuehl.340" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.340.zurückhalten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zurückhalten</orthForm>
+</lexUnit>
+<frames>
+<frame>NN.AN</frame>
+<frame>NN.AR.AZ</frame>
+</frames>
+<examples>
+<example><text>Der Verkäufer hielt seinen Zorn zurück.</text> <frame>NN.AN</frame></example>
+<example><text>Sie hielt sich zurück um keinen Streit zu provozieren.</text> <frame>NN.AR.AZ</frame></example>
+</examples>
+</synset>
+<synset id="vGefuehl.341" wordClass="verben">
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.341.fremdeln" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fremdeln</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.341.fremden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fremden</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="vGefuehl.341.fremdtun" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fremdtun</orthForm>
+</lexUnit>
+<frames>
+<frame>NN</frame>
+<frame>NN.PP</frame>
+</frames>
+<examples>
+<example><text>Die Kinder fremdelten in der neuen Umgebung.</text> <frame>NN.PP</frame></example>
+</examples>
+</synset>
+</synsets>

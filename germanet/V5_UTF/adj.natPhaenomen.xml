@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd"[
+ ]>
+<synsets>
+<synset id="anatPhaenomen.1" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="anatPhaenomen.1.witterungsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>witterungsspezifisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.1.klimatisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klimatisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.2" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="anatPhaenomen.2.landschaftsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>landschaftsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.3" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.3.landschaftlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>landschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.4" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.4.gebirgig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gebirgig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.4.bergig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bergig</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.5" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.5.bergisch" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>bergisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.6" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.6.hügelig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hügelig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.6.mittelgebirgig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mittelgebirgig</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.7" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.7.flach" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>flach</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.7.eben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.7.platt" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>platt</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.8" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.8.fruchtbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fruchtbar</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.8.urbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>urbar</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.8.blühend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blühend</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.9" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.9.bewohnbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bewohnbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.10" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.10.unfruchtbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unfruchtbar</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.10.öde" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>öde</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.11" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.11.seenreich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>seenreich</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.12" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.12.karg" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>karg</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.12.kahl" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kahl</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.13" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.13.unbewohnbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbewohnbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.14" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.14.üppig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>üppig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.14.satt" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>satt</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.15" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.15.trocken2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>trocken</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.16" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.16.trocken-kalt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trocken-kalt</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.17" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.17.feucht2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>feucht</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.18" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.18.nass" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nass</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.18.naß" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>naß</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.19" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.19.feuchtwarm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>feuchtwarm</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.20" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.20.regnerisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>regnerisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.21" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.21.gewittrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gewittrig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.21.gewitterig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gewitterig</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.22" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.22.wechselhaft-regnerisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wechselhaft-regnerisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.23" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.23.schwül" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwül</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.23.schwülwarm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwülwarm</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.24" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.24.schwülheiß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwülheiß</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.25" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.25.drückend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>drückend</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.26" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.26.lau2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>lau</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.26.mild" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mild</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.26.lind" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lind</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.27" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.27.frisch2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>frisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.28" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.28.frostig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>frostig</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.29" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.29.nasskalt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nasskalt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.29.naßkalt" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>naßkalt</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.30" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.30.nasskühl" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nasskühl</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.30.naßkühl" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>naßkühl</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.31" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.31.sonnig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sonnig</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.32" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.32.strahlend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>strahlend</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.33" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.33.heiter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>heiter</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.34" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.34.sommerlich-sonnig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sommerlich-sonnig</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.35" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.35.bewölkt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bewölkt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.35.wolkig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wolkig</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.36" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.36.bedeckt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bedeckt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.36.schattig" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>schattig</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.37" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.37.neblig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neblig</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.38" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.38.nebelverhangen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nebelverhangen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.38.vernebelt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vernebelt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.38.verhangen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verhangen</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.39" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.39.trüb2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>trüb</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.40" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.40.diesig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>diesig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.40.dunstig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dunstig</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.41" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.41.diesig-kalt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>diesig-kalt</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.42" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.42.nebligtrüb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nebligtrüb</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.43" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.43.klar2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>klar</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.43.wolkenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wolkenlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne Wolken</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>ein wolkenloser Himmel</text>
+</example>
+</examples>
+</synset>
+<synset id="anatPhaenomen.44" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.44.windig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>windig</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.45" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.45.stürmisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stürmisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.46" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.46.böig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>böig</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.47" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.47.windstill" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>windstill</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.48" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.48.frühlingshaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>frühlingshaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.49" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.49.vorfrühlingshaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorfrühlingshaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.50" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.50.sommerlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sommerlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.51" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.51.hochsommerlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hochsommerlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.52" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.52.spätsommerlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spätsommerlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.53" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.53.winterlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>winterlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.54" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.54.herbstlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herbstlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.55" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.55.mediterran" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mediterran</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>wie im Mittelmeerraum</paraphrase>
+</paraphrases>
+</synset>
+<synset id="anatPhaenomen.56" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.56.kalifornisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kalifornisch</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>wie in Kalifornien</paraphrase>
+</paraphrases>
+</synset>
+<synset id="anatPhaenomen.57" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.57.föhnig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>föhnig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>vom Föhnwind beeinflusst</paraphrase>
+</paraphrases>
+</synset>
+<synset id="anatPhaenomen.58" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.58.tropisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tropisch</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>wie in den Tropen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="anatPhaenomen.59" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.59.subtropisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>subtropisch</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>wie in den Subtropen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="anatPhaenomen.60" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.60.rauh" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rauh</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.60.rau" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>rau</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.60.unwirtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unwirtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="anatPhaenomen.61" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="anatPhaenomen.61.arktisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>arktisch</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>wie in der Arktis</paraphrase>
+</paraphrases>
+</synset>
+</synsets>

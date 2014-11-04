@@ -1,0 +1,3023 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd"[
+ ]>
+<synsets>
+<synset id="aGefuehl.1" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aGefuehl.1.gefühlsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gefühlsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.2" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aGefuehl.2.Gefühl_empfindend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gefühl_empfindend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.2.gestimmt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gestimmt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Gefühl empfindend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.3" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.3.gefühlsmäßig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gefühlsmäßig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.4" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.4.instinktiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>instinktiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.5" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.5.instinktgetrieben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>instinktgetrieben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.5.instinktgesteuert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>instinktgesteuert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.6" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.6.gefühlvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gefühlvoll</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>voll Gefühl</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.7" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.7.feierlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>feierlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.8" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.8.pathetisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pathetisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.8.schwülstig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwülstig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>übertrieben</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.9" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.9.gemütsvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gemütsvoll</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.10" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.10.romantisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>romantisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.11" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.11.emotional" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>emotional</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.11.emotionell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>emotionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.12" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.12.beseelt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beseelt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.12.seelenvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>seelenvoll</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.13" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.13.herzlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herzlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.13.innig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>innig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.14" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.14.sensibel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sensibel</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.14.einfühlsam" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einfühlsam</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.14.intuitiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>intuitiv</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.14.mitfühlend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mitfühlend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.15" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.15.mitleidend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mitleidend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.16" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.16.tröstlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tröstlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.16.tröstend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tröstend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.16.trostspendend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trostspendend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.17" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.17.verständig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verständig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.17.verständnisvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verständnisvoll</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.18" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.18.augenzwinkernd" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>augenzwinkernd</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.19" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.19.nachsichtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nachsichtig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.19.rücksichtsvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rücksichtsvoll</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.20" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.20.empfindlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>empfindlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.20.empfindsam" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>empfindsam</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.21" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.21.verletzlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verletzlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.21.verletzbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verletzbar</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.21.verwundbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verwundbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.22" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.22.mimosenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mimosenhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.22.zimperlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zimperlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.23" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.23.dünnhäutig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dünnhäutig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.23.zartbesaitet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zartbesaitet</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.23.zart_besaitet" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>zart_besaitet</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.23.überempfindlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überempfindlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.24" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.24.feinnervig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>feinnervig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.24.feinfühlig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>feinfühlig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.25" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.25.mitleidig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mitleidig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.26" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.26.sentimental1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sentimental</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.26.rührselig1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rührselig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>übertrieben gefühlvoll</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>ein sentimentaler Mensch</text>
+</example>
+</examples>
+</synset>
+<synset id="aGefuehl.27" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.27.sehnsüchtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sehnsüchtig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.27.sehnsuchtsvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sehnsuchtsvoll</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.28" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.28.nostalgisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nostalgisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.29" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.29.gefühllos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gefühllos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.29.gefühlsarm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gefühlsarm</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.29.gefühlskalt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gefühlskalt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne Gefühl</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.30" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.30.kühl" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kühl</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.30.unterkühlt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unterkühlt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.31" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.31.sachlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sachlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.31.knochentrocken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>knochentrocken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.31.dröge1" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>dröge</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.32" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.32.hartherzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hartherzig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.32.hart" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hart</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.32.kalt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kalt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.32.kaltherzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kaltherzig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.33" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.33.verletzend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verletzend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.33.unsensibel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unsensibel</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.34" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.34.schroff" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schroff</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.34.brüsk" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>brüsk</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.35" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.35.unempfindlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unempfindlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.35.unverwundbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unverwundbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.36" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.36.dickfellig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dickfellig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.36.dickhäutig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dickhäutig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.37" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.37.unantastbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unantastbar</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.37.unangreifbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unangreifbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.38" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.38.unerschütterlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unerschütterlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.38.unerschrocken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unerschrocken</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.39" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.39.glücklich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>glücklich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.40" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.40.strahlend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>strahlend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.40.glückstrahlend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>glückstrahlend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.41" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.41.überglücklich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überglücklich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.41.seelig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>seelig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.42" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.42.froh" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>froh</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.42.frohgestimmt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>frohgestimmt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.42.froh_gestimmt" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>froh_gestimmt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.43" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.43.zufrieden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zufrieden</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.44" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.44.ungetrübt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ungetrübt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.45" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.45.hochzufrieden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hochzufrieden</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.46" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.46.fröhlich1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fröhlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.46.vergnügt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vergnügt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Fröhlichkeit empfindend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.47" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.47.quietschvergnügt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>quietschvergnügt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.48" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.48.beschwingt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beschwingt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.49" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.49.heiter1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>heiter</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.50" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.50.fidel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fidel</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.51" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.51.unbeschwert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbeschwert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.52" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.52.ausgelassen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausgelassen</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>in ausgelassener Stimmung</text>
+</example>
+</examples>
+</synset>
+<synset id="aGefuehl.53" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.53.euphorisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>euphorisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.54" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.54.überschäumend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überschäumend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.54.überbordend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überbordend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.55" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.55.leichtsinnig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leichtsinnig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.55.leichtfertig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leichtfertig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit Leichtsinn</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.56" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.56.übermütig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>übermütig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>voll Übermut</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.57" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.57.gutgelaunt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gutgelaunt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.57.gut_gelaunt" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>gut_gelaunt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.57.gut_aufgelegt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gut_aufgelegt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.57.launig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>launig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>gute Laune haben</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.58" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.58.frohgemut" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>frohgemut</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frohen Mutes sein</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.59" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.59.leichtfüßig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leichtfüßig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.60" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.60.aufgekratzt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufgekratzt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.60.aufgedreht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufgedreht</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.61" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.61.überschwänglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überschwänglich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.61.überschwenglich" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>überschwenglich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.62" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.62.lebenslustig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lebenslustig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.62.lebensfroh" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lebensfroh</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.62.lebensbejahend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lebensbejahend</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>voller Lebensmut</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.63" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.63.lustbetont" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lustbetont</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.63.lustvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lustvoll</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.64" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.64.erleichtert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erleichtert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.65" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.65.heilfroh" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>heilfroh</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.66" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.66.befreit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>befreit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.66.erlöst" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erlöst</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.67" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.67.beruhigt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beruhigt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.68" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.68.dankbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dankbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.69" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.69.ernst1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ernst</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.69.ernsthaft1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ernsthaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.70" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.70.schlechtgelaunt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schlechtgelaunt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.70.schlecht_gelaunt" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>schlecht_gelaunt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.70.übellaunig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>übellaunig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>schlechte Laune haben</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.71" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.71.grantig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grantig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.71.grimmig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grimmig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.72" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.72.mürrisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mürrisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.72.verdrossen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verdrossen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.73" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.73.missgestimmt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>missgestimmt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.73.mißgestimmt" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>mißgestimmt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.73.muffig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>muffig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.73.misslaunig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>misslaunig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.73.mißlaunig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>mißlaunig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.73.missgelaunt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>missgelaunt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.73.mißgelaunt" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>mißgelaunt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.73.verstimmt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verstimmt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.74" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.74.knatschig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>knatschig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.74.quengelig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>quengelig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.75" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.75.nörgelig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nörgelig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.75.nölig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nölig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.75.nörglerisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nörglerisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.76" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.76.traurig1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>traurig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.76.freudlos1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>freudlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Trauer empfindend</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>ein trauriges Kind</text>
+</example>
+</examples>
+</synset>
+<synset id="aGefuehl.77" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.77.verbittert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verbittert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.77.bitter1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bitter</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Bitterkeit empfindend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.78" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.78.verhärtet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verhärtet</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.78.vergrämt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vergrämt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.78.vergrätzt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vergrätzt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.79" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.79.unglücklich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unglücklich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.80" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.80.unzufrieden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unzufrieden</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.81" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.81.todunglücklich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>todunglücklich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.81.todtraurig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>todtraurig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.82" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.82.bedrückt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bedrückt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.83" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.83.einsam" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einsam</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.83.allein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>allein</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.84" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.84.reumütig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>reumütig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.85" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.85.verlassen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verlassen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.86" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.86.vereinsamt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vereinsamt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.86.vereinzelt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vereinzelt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.87" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.87.tieftraurig1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tieftraurig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.87.tief_traurig1" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>tief_traurig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.88" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.88.untröstlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>untröstlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.89" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.89.betroffen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>betroffen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.89.leidtragend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leidtragend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.89.Leid_tragend" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Leid_tragend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.90" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.90.bedröppelt" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>bedröppelt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.90.begossen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>begossen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.90.gelackmeiert" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>gelackmeiert</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>wie ein begossener Pudel</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.91" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.91.beschämt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beschämt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.92" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.92.wehmütig1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wehmütig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.93" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.93.bekümmert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bekümmert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.94" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.94.melancholisch1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>melancholisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.94.deprimiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>deprimiert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.94.schwermütig1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwermütig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.95" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.95.grüblerisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grüblerisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.95.nachdenklich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nachdenklich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.95.versonnen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>versonnen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.96" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.96.gedankenverloren" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gedankenverloren</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.96.gedankenvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gedankenvoll</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.97" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.97.versunken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>versunken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.97.kontemplativ" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kontemplativ</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.98" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.98.meditativ" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>meditativ</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.99" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.99.trübsinnig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trübsinnig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Trübsinn empfindend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.100" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.100.verärgert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verärgert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.100.ärgerlich1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ärgerlich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Ärger empfindend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.101" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.101.wütend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wütend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.101.wild" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wild</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.102" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.102.zornig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zornig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.102.erzürnt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erzürnt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.103" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.103.empört" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>empört</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.103.entrüstet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entrüstet</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.103.indigniert" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>indigniert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.104" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.104.böse" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>böse</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.104.bös" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>bös</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.105" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.105.bitterböse" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bitterböse</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.106" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.106.beleidigt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beleidigt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.106.gekränkt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gekränkt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.106.sauer" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>sauer</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.106.verletzt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verletzt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.106.pikiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pikiert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.106.eingeschnappt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eingeschnappt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.107" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.107.nachtragend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nachtragend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.107.unversöhnlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unversöhnlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.108" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.108.vorwurfsvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorwurfsvoll</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.109" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.109.erbost" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erbost</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.110" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.110.aufgebracht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufgebracht</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.111" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.111.schockiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schockiert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.111.geschockt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geschockt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.112" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.112.paralysiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>paralysiert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.112.gelähmt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gelähmt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.113" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.113.erbittert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erbittert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.114" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.114.fuchsteufelswild" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>fuchsteufelswild</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.114.fuchsig" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>fuchsig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.115" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.115.optimistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>optimistisch</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Optimismus empfindend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.116" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.116.hoffnungsvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hoffnungsvoll</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.116.erwartungsvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erwartungsvoll</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.116.hoffnungsfroh" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hoffnungsfroh</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>voller Hoffnung</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.117" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.117.zuversichtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zuversichtlich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>voller Zuversicht</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.118" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.118.sorgenfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sorgenfrei</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.118.sorglos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sorglos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von Sorgen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.119" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.119.leichtherzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leichtherzig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.120" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.120.unbekümmert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbekümmert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.121" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.121.versöhnlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>versöhnlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.122" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.122.sicher" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sicher</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.122.fest" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fest</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.123" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.123.überzeugt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überzeugt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>eine überzeugte Christin</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.124" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.124.bombensicher" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bombensicher</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.124.felsenfest" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>felsenfest</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.125" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.125.untrüglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>untrüglich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.126" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.126.unbestritten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbestritten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.126.unstrittig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unstrittig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.126.unumstritten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unumstritten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.126.unangefochten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unangefochten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.126.unfraglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unfraglich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.127" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.127.unzweifelhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unzweifelhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.128" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.128.ungefährdet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ungefährdet</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ein zu keinem Zeitpunkt gefährdeter Sieg</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.129" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.129.unumstößlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unumstößlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.129.unbestreitbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbestreitbar</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.129.unanfechtbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unanfechtbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.130" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.130.eifersüchtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eifersüchtig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>dunkles Gefühl empfindend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.131" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.131.missgünstig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>missgünstig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.131.neidisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neidisch</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>dunkles Gefühl empfindend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.132" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.132.rachsüchtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rachsüchtig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>dunkles Gefühl empfindend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.133" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.133.pessimistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pessimistisch</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Pessmismus empfindend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.134" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.134.hoffnungslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hoffnungslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne Hoffnung</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.135" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.135.verzweifelt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verzweifelt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.136" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.136.niedergeschlagen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>niedergeschlagen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.136.niedergedrückt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>niedergedrückt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.136.gedrückt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gedrückt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.136.down" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>down</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.137" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.137.gebrochen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gebrochen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.137.geknickt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geknickt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.138" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.138.besorgt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>besorgt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.138.sorgenvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sorgenvoll</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von Sorge erfüllt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.139" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.139.beunruhigt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beunruhigt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.140" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.140.zweifelnd" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zweifelnd</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.140.unsicher" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unsicher</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von Zweifel erfüllt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.141" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.141.mutlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mutlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne Mut</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.142" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.142.zuversichtslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zuversichtslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne Zuversicht</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.143" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.143.lebensmüde" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lebensmüde</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne Lebensmut</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.144" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.144.erregt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erregt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.145" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.145.entspannt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entspannt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.145.relaxed" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>relaxed</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.145.chillig" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>chillig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.145.ausgeruht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausgeruht</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.146" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.146.gespannt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gespannt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Spannung empfindend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.147" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.147.angespannt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>angespannt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.147.überspannt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überspannt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.147.belastet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>belastet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.148" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.148.überlastet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überlastet</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.148.überbelastet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überbelastet</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.148.überfordert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überfordert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.149" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.149.überarbeitet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überarbeitet</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.149.überdreht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überdreht</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.150" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.150.aufgeregt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufgeregt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Aufregung empfindend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.151" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.151.panisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>panisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.151.panikartig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>panikartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.152" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.152.exaltiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>exaltiert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.152.überkandidelt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überkandidelt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>übertrieben aufgeregt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.153" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.153.theatralisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>theatralisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.153.übertrieben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>übertrieben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.154" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.154.ergriffen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ergriffen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.154.bewegt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bewegt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.155" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.155.verzückt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verzückt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.155.entrückt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entrückt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.155.verzaubert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verzaubert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.156" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.156.ekstatisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ekstatisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.157" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.157.tiefbewegt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tiefbewegt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.157.tief_bewegt" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>tief_bewegt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.158" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.158.erschüttert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erschüttert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.159" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.159.krisenerschüttert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>krisenerschüttert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.159.krisengeschüttelt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>krisengeschüttelt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.159.krisengebeutelt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>krisengebeutelt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>auch von Gruppen und Regionen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.160" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.160.erstaunt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erstaunt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.160.überrascht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überrascht</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.161" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.161.verblüfft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verblüfft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.161.verdutzt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verdutzt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.162" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.162.kopfschüttelnd" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kopfschüttelnd</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.163" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.163.überwältigt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überwältigt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.163.übermannt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>übermannt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.164" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.164.interessiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>interessiert</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Interesse empfindend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.165" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.165.angeregt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>angeregt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.165.motiviert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>motiviert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.166" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.166.kritisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kritisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.167" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.167.gleichgültig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gleichgültig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.167.uninteressiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>uninteressiert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.167.desinteressiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>desinteressiert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.167.indifferent" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>indifferent</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.168" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.168.selbstkritisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>selbstkritisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.169" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.169.unmotiviert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unmotiviert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.169.demotiviert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>demotiviert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.170" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.170.unkritisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unkritisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.170.schweigend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schweigend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.171" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.171.gelangweilt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gelangweilt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.172" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.172.egal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>egal</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>nur prädikativ</paraphrase>
+</paraphrases>
+<examples>
+<example><text>mir ist alles egal</text> <frame>'nurprädikativ'</frame></example>
+</examples>
+</synset>
+<synset id="aGefuehl.173" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.173.wurstig" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>wurstig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.174" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.174.apathisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>apathisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.175" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.175.beeindruckt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beeindruckt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.176" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.176.fasziniert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fasziniert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.177" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.177.hingerissen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hingerissen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.178" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.178.neugierig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neugierig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.179" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.179.wissensdurstig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wissensdurstig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.179.wißbegierig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wißbegierig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.180" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.180.ästhetisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ästhetisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.180.feinsinnig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>feinsinnig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.180.feingeistig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>feingeistig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.181" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.181.begeistert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>begeistert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.182" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.182.musikbegeistert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>musikbegeistert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.182.musikinteressiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>musikinteressiert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.183" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.183.sportbegeistert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sportbegeistert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.183.sportinteressiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sportinteressiert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.184" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.184.literaturbegeistert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>literaturbegeistert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.184.literaturinteressiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>literaturinteressiert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.185" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.185.kunstbegeistert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kunstbegeistert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.185.kunstinteressiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kunstinteressiert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.186" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.186.theaterbegeistert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>theaterbegeistert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.186.theaterinteressiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>theaterinteressiert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.187" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.187.filmbegeistert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>filmbegeistert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.187.filminteressiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>filminteressiert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.188" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.188.enthusiastisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>enthusiastisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.189" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.189.idealistisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>idealistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.190" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.190.glühend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>glühend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.190.leidenschaftlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leidenschaftlich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ein leidenschaftlicher Verfechter der Menschenrechte</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.191" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.191.frenetisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>frenetisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.191.rasend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rasend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.191.heftig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>heftig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.191.furios" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>furios</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.192" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.192.inbrünstig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>inbrünstig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.193" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.193.schwärmerisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwärmerisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.194" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.194.träumerisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>träumerisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.195" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.195.verwirrt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verwirrt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Verwirrung empfindend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.196" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.196.seltsam1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>seltsam</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.196.komisch1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>komisch</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Verwirrung empfindend</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>Ich fühle mich seltsam/komisch</text>
+</example>
+</examples>
+</synset>
+<synset id="aGefuehl.197" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.197.ratlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ratlos</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.198" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.198.hilflos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hilflos</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.199" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aGefuehl.199.Gefühl_erweckend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gefühl_erweckend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.200" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.200.traurig2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>traurig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.200.freudlos2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>freudlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Trauer erweckend</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>ein trauriges Lied</text>
+</example>
+</examples>
+</synset>
+<synset id="aGefuehl.201" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.201.tieftraurig2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>tieftraurig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.201.tief_traurig2" orthVar="ja" sense="2" stilMarkierung="nein">
+<orthForm>tief_traurig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.202" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.202.trostlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trostlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.202.trist" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trist</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne Trost</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>ein trostloses Wetter</text>
+</example>
+</examples>
+</synset>
+<synset id="aGefuehl.203" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.203.enttäuscht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>enttäuscht</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.204" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.204.trübselig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trübselig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.204.betrübt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>betrübt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Trübsal erweckend</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>eine trübselige Gegend</text>
+</example>
+</examples>
+</synset>
+<synset id="aGefuehl.205" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.205.melancholisch2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>melancholisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.205.deprimierend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>deprimierend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.205.schwermütig2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>schwermütig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Melancholie/Schwermut erweckend</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>eine schwermütige Geschichte</text>
+</example>
+</examples>
+</synset>
+<synset id="aGefuehl.206" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.206.unerfreulich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unerfreulich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.206.misslich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>misslich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.206.mißlich" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>mißlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.207" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.207.schade" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schade</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.207.bedauerlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bedauerlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.207.bedauernswert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bedauernswert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.208" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.208.unerquicklich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unerquicklich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.209" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.209.entmutigend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entmutigend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.209.demoralisierend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>demoralisierend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.210" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.210.niederschmetternd" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>niederschmetternd</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.211" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.211.froh2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>froh</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.212" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.212.wehmütig2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>wehmütig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.213" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.213.freudig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>freudig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.213.erfreulich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erfreulich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Freude erweckend</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>ein freudiges Ereignis</text>
+</example>
+</examples>
+</synset>
+<synset id="aGefuehl.214" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.214.erquicklich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erquicklich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.215" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.215.fröhlich2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>fröhlich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Fröhlichkeit erweckend</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>ein fröhliches Lied</text>
+</example>
+</examples>
+</synset>
+<synset id="aGefuehl.216" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.216.heiter2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>heiter</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Heiterkeit erweckend</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>ein heiteres Lied</text>
+</example>
+</examples>
+</synset>
+<synset id="aGefuehl.217" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.217.lustig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lustig</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>ein lustiges Lied</text>
+</example>
+</examples>
+</synset>
+<synset id="aGefuehl.218" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.218.witzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>witzig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.218.komisch2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>komisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.218.spaßig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spaßig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.218.spaßhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spaßhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.219" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.219.scherzhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>scherzhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.220" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.220.tragikomisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tragikomisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.221" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.221.saukomisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>saukomisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.221.urkomisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>urkomisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.222" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.222.lächerlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lächerlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.222.lachhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lachhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.223" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.223.drollig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>drollig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.224" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.224.humorvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>humorvoll</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.224.humorig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>humorig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>voll Humor</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>In humorvoller Weise führte er durch den Reiseweg</text>
+</example>
+</examples>
+</synset>
+<synset id="aGefuehl.225" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.225.possenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>possenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.226" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.226.ernst2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>ernst</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.226.ernsthaft2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>ernsthaft</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Ernsthaftigkeit erweckend</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>ein ernstes Lied</text>
+</example>
+</examples>
+</synset>
+<synset id="aGefuehl.227" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.227.humorlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>humorlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne Humor</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.228" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.228.bitter2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>bitter</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Bitterkeit erweckend</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>ein bitterer Schicksalsschlag</text>
+</example>
+</examples>
+</synset>
+<synset id="aGefuehl.229" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.229.ärgerlich2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>ärgerlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.230" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.230.lächerlich2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>lächerlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.230.peinlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>peinlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.231" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.231.schmählich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmählich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.231.schmachvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmachvoll</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.232" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.232.zweifelhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zweifelhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.232.fraglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fraglich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.232.anfechtbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anfechtbar</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.232.angreifbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>angreifbar</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.232.fragwürdig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fragwürdig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Zweifel erweckend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.233" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.233.umstritten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>umstritten</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.233.kontrovers" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kontrovers</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.233.strittig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>strittig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.234" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.234.streitig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>streitig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ein streitiger Punkt in der Debatte</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.235" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.235.erregend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erregend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.236" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.236.erotisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erotisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.236.stimulierend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stimulierend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.237" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.237.unerotisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unerotisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.238" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.238.Mitleid_erregend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mitleid_erregend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.238.mitleiderregend" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>mitleiderregend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.239" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.239.ergreifend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ergreifend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.239.bewegend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bewegend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.239.rührend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rührend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.240" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.240.herzbewegend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herzbewegend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.240.herzzerreißend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herzzerreißend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.240.herzergreifend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herzergreifend</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>ein herzzerreißender Film</text>
+</example>
+</examples>
+</synset>
+<synset id="aGefuehl.241" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.241.erschütternd" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erschütternd</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.242" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.242.sentimental2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>sentimental</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.242.rührselig2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>rührselig</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>ein sentimentaler/rührseliger Film</text>
+</example>
+</examples>
+</synset>
+<synset id="aGefuehl.243" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.243.anregend2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>anregend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.244" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.244.erfrischend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erfrischend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.244.ermunternd" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ermunternd</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.245" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.245.erqickend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erqickend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.245.erlabend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erlabend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.246" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.246.belebend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>belebend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.246.aktivierend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aktivierend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.247" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.247.peinigend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>peinigend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.248" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.248.leidvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leidvoll</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.249" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.249.leidgeplagt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leidgeplagt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.249.leidgeprüft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leidgeprüft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.250" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.250.qualvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>qualvoll</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.250.grausam" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grausam</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.251" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.251.quälend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>quälend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.251.bohrend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bohrend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.252" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.252.schmerzhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmerzhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.252.schmerzvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmerzvoll</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.252.schmerzlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmerzlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.252.weh" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weh</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.253" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.253.langweilig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>langweilig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.253.uninteressant" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>uninteressant</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Langeweile erweckend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.254" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.254.fade" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fade</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.255" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.255.öde" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>öde</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.256" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.256.eintönig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eintönig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.256.einförmig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einförmig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.256.monoton" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>monoton</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.257" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.257.trocken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trocken</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.257.dröge2" orthVar="nein" sense="2" stilMarkierung="ja">
+<orthForm>dröge</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>ein trockener Vortrag</text>
+</example>
+</examples>
+</synset>
+<synset id="aGefuehl.258" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.258.geisttötend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geisttötend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.259" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.259.ermüdend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ermüdend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.260" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.260.reizlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>reizlos</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.261" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.261.grau" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grau</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.262" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.262.stinklangweilig" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>stinklangweilig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.262.sterbenslangweilig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sterbenslangweilig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.263" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.263.nichtssagend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nichtssagend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.263.nichts_sagend" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>nichts_sagend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.264" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.264.interessant" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>interessant</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Interesse erweckend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.265" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.265.lesenswert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lesenswert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.265.lesbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lesbar</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ein lesenswerter Roman</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.266" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.266.abwechslungsreich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abwechslungsreich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.267" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.267.lehrreich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lehrreich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.268" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.268.vielseitig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vielseitig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.269" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.269.variabel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>variabel</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.270" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.270.einseitig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einseitig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.271" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.271.ansprechend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ansprechend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.272" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.272.einnehmend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einnehmend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.272.gewinnend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gewinnend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.273" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.273.sympathisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sympathisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.273.sympathieerweckend" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>sympathieerweckend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.273.Sympathie_erweckend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sympathie_erweckend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.274" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.274.mannigfaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mannigfaltig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.274.vielfältig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vielfältig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.274.reichhaltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>reichhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.275" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.275.facettenreich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>facettenreich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.276" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.276.faszinierend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>faszinierend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.276.fesselnd" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fesselnd</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.276.begeisternd" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>begeisternd</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.277" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.277.anregend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anregend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.277.erbaulich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erbaulich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.278" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.278.sehenswert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sehenswert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.278.sehenswürdig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sehenswürdig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.279" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.279.besinnlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>besinnlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.279.stimmungsvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stimmungsvoll</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.280" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.280.anziehend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anziehend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.280.attraktiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>attraktiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.281" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.281.charismatisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>charismatisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.282" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.282.lieblich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lieblich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.282.liebreizend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>liebreizend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.283" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.283.begehrenswert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>begehrenswert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.283.unwiderstehlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unwiderstehlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.284" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.284.betörend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>betörend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.285" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.285.verführerisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verführerisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.285.kokett" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kokett</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.286" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.286.charmant" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>charmant</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.286.scharmant" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>scharmant</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.287" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.287.reizend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>reizend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.288" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.288.entzückend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entzückend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.288.bezückend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bezückend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.289" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.289.hinreißend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hinreißend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.290" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.290.zauberhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zauberhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.290.bezaubernd" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bezaubernd</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.291" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.291.beeindruckend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beeindruckend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.291.eindrucksvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eindrucksvoll</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.292" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.292.eindrücklich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eindrücklich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.293" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.293.erstaunlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erstaunlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.293.überraschend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überraschend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.294" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.294.verblüffend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verblüffend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.295" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.295.ausdrucksvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausdrucksvoll</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.295.ausdrucksstark" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausdrucksstark</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.295.expressiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>expressiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.296" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.296.enttäuschend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>enttäuschend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.297" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.297.erschreckend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erschreckend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.298" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.298.schockierend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schockierend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.299" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.299.skandalös" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>skandalös</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.299.skandalträchtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>skandalträchtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.300" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.300.unterhaltsam" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unterhaltsam</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.300.kurzweilig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kurzweilig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.301" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.301.bunt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bunt</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>eine bunte Veranstaltung</text>
+</example>
+</examples>
+</synset>
+<synset id="aGefuehl.302" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.302.aufregend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aufregend</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Aufregung erweckend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.303" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.303.spektakulär" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spektakulär</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.303.Aufsehen_erregend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Aufsehen_erregend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.303.aufsehenerregend" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>aufsehenerregend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.304" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.304.abenteuerlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abenteuerlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.305" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.305.spannend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spannend</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Spannung erweckend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.306" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.306.dramatisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dramatisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.307" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.307.packend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>packend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.308" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.308.prickelnd" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>prickelnd</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.308.reizvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>reizvoll</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.309" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.309.nervenzerreißend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nervenzerreißend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.310" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.310.atemberaubend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>atemberaubend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.310.atemraubend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>atemraubend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.311" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.311.schwindelerregend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwindelerregend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.312" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.312.imposant" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>imposant</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.312.imponierend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>imponierend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.313" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.313.bemerkenswert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bemerkenswert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.313.bewundernswert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bewundernswert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.314" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.314.umwerfend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>umwerfend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.315" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.315.überwältigend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überwältigend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.316" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.316.frappierend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>frappierend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.317" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.317.angenehm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>angenehm</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.318" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.318.gemütlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gemütlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.318.behaglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>behaglich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.318.geruhsam" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geruhsam</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Gemütlichkeit erweckend</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>ein gemütliches Zimmer</text>
+</example>
+</examples>
+</synset>
+<synset id="aGefuehl.319" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.319.heimelig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>heimelig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.320" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.320.eindladend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eindladend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.321" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.321.bequem" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bequem</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.321.komfortabel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>komfortabel</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>ein bequemer Stuhl/bequeme Hose</text>
+</example>
+</examples>
+</synset>
+<synset id="aGefuehl.322" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.322.wohltuend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wohltuend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.322.wohlig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wohlig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.323" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.323.befriedigend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>befriedigend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.323.zufriedenstellend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zufriedenstellend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.324" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.324.unangenehm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unangenehm</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.325" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.325.unbequem" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbequem</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.326" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.326.unbefriedigend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbefriedigend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.327" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.327.ungemütlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ungemütlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.327.unbehaglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbehaglich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.328" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.328.unsympatisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unsympatisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.329" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.329.abstoßend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abstoßend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.330" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.330.mulmig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mulmig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ein mulmiges Gefühl</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.331" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.331.belastend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>belastend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.331.bedrückend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bedrückend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.332" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.332.erdrückend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erdrückend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.333" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.333.schal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schal</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>schaler Beigeschmack/Nachgeschmack</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aGefuehl.334" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.334.beklemmend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beklemmend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.334.befremdlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>befremdlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.335" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.335.beängstigend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beängstigend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.336" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.336.unheilvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unheilvoll</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.336.unheilschwanger" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unheilschwanger</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.336.unheilverheißend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unheilverheißend</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>unheilvolle Gedanken</text>
+</example>
+</examples>
+</synset>
+<synset id="aGefuehl.337" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.337.unheilig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unheilig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.337.unselig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unselig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.338" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.338.düster" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>düster</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.338.schwarz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwarz</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.339" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.339.besorgniserregend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>besorgniserregend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.339.alarmierend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>alarmierend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.340" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.340.unheimlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unheimlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.340.ungeheuer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ungeheuer</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.341" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.341.makaber" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>makaber</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.342" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.342.beunruhigend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beunruhigend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.343" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.343.bedenklich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bedenklich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.344" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.344.alptraumartig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>alptraumartig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.344.alptraumhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>alptraumhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.345" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.345.schaudervoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schaudervoll</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.345.schauderhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schauderhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.345.schauerhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schauerhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.345.schauerlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schauerlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.346" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.346.gruselig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gruselig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.347" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.347.schaurig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schaurig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.347.gespenstig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gespenstig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.348" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.348.grauenerregend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grauenerregend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.348.Grauen_erregend" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Grauen_erregend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.349" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.349.geisterhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geisterhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.349.gespensterhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gespensterhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.349.gespenstisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gespenstisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.349.spukhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spukhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.350" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.350.schreckenerregend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schreckenerregend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.350.Schrecken_erregend" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Schrecken_erregend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.351" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.351.schrecklich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schrecklich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.352" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.352.furchtbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>furchtbar</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.352.fürchterlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fürchterlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.353" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.353.tragisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tragisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.354" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.354.Angst_erregend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Angst_erregend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.354.Furcht_erregend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Furcht_erregend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.354.angsterregend" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>angsterregend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.354.furchterregend" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>furchterregend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.355" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.355.Ekel_erregend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ekel_erregend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.355.ekelerregend" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>ekelerregend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.355.ekelhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ekelhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.356" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.356.widerlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>widerlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.356.widerwärtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>widerwärtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.357" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.357.abscheulich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abscheulich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.357.verabscheuungswürdig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verabscheuungswürdig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.358" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.358.scheußlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>scheußlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.359" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.359.entsetzlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entsetzlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.360" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.360.grauenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grauenhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.360.grauenvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grauenvoll</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.360.grausig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grausig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.361" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.361.grässlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grässlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.361.gräßlich" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>gräßlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.362" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.362.gefährlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gefährlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.363" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.363.bedrohlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bedrohlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.364" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.364.verhängnisvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verhängnisvoll</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.364.fatal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fatal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.365" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.365.lästig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lästig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.365.nervig" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>nervig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.366" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.366.leidig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leidig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.366.verdrießlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verdrießlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.367" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.367.seltsam2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>seltsam</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.367.komisch3" orthVar="nein" sense="3" stilMarkierung="nein">
+<orthForm>komisch</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Verwirrung erweckend</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>ein seltsamer/komischer Mensch</text>
+</example>
+</examples>
+</synset>
+<synset id="aGefuehl.368" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.368.geheimnisvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geheimnisvoll</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.369" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.369.magisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>magisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.369.mystisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mystisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.369.okkult" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>okkult</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.370" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.370.hermetisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hermetisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.370.dunkel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dunkel</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.370.undurchdringlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>undurchdringlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.371" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.371.rätselhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rätselhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.372" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.372.schleierhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schleierhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aGefuehl.373" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aGefuehl.373.beschämend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beschämend</orthForm>
+</lexUnit>
+</synset>
+</synsets>

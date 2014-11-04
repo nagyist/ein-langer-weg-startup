@@ -8,7 +8,7 @@
 	src="scripts/functions.js"></script>
 <script
 	src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-<title>Startseite - bouchnafa.de</title>
+<title wicket:id="title">Startseite - bouchnafa.de</title>
 <style type="text/css">
 .results {
 margin-top: 20px; 
@@ -50,7 +50,7 @@ display: none;
 			<p
 				style="font-size: 30px; color: gray; margin-top: 250px; font-family: 'Times New Roman', Times, serif;">AdaBoost
 				Search Engine with Feedback</p>
-			<form wicket:id="searchForm" method="GET">
+			<form wicket:id="searchForm" method="GET" action="">
 				<input wicket:id="searchQuery" id="searchQuery" name="q" type="text"
 					style="font-size: 25px; height: 30px; width: 500px; align: center" />
 				<input wicket:id="submitButton" id="submitButton" type="submit"
@@ -60,13 +60,13 @@ display: none;
 			<p wicket:id="query" class="results" style="color: red">
 				result go here..
 			</p>
-			<p wicket:id="evalResultLabel1" class="results" style="color: black">
+			<p wicket:id="persons" class="results" style="color: black">
 				result go here..
 			</p>
-			<p wicket:id="evalResultLabel2" class="results" style="color: green"> 
+			<p wicket:id="intention" class="results" style="color: chocolate"> 
 				result go here..
 			</p>
-			<p wicket:id="evalResultLabel3" class="results" style="color: yellow"> 
+			<p wicket:id="locations" class="results" style="color: green"> 
 				result go here..
 			</p>
 			<p wicket:id="instance" class="results" style="color: gray">

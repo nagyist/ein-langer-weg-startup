@@ -1,0 +1,1715 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd"[
+ ]>
+<synsets>
+<synset id="nForm.1" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="ja" id="nForm.1.materielle_Beschaffenheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>materielle_Beschaffenheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.2" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.2.Konsistenz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Konsistenz</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Grad und Art des Zusammenhalts eines Stoffs</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nForm.3" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.3.Flüssigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Flüssigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.4" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.4.Brüchigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Brüchigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.5" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.5.Bröckeligkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bröckeligkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.6" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.6.Trockenheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Trockenheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.7" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.7.Durchlässigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Durchlässigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.8" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.8.Porosität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Porosität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.9" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.9.Mürbheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mürbheit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.9.Mürbe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mürbe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.10" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.10.Schwammigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schwammigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.11" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.11.Sprödigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sprödigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.12" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.12.Puder" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Puder</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.12.Pulver" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Pulver</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.13" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.13.Feuchtigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Feuchtigkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.13.Feuchte" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Feuchte</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.14" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.14.Zusammensetzung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zusammensetzung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.15" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.15.Weichheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Weichheit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.15.Weiche" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Weiche</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.16" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.16.Elastizität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Elastizität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.17" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.17.Geschmeidigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Geschmeidigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.18" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.18.Härte" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Härte</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.18.Festigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Festigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.19" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.19.Stabilität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Stabilität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.20" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.20.Instabilität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Instabilität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.21" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.21.Solidität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Solidität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.22" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.22.Oberflächenbeschaffenheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Oberflächenbeschaffenheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.23" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.23.Muster" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Muster</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.24" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.24.Grundmuster" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Grundmuster</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.25" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.25.Textur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Textur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.26" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.26.Relief" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Relief</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.27" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.27.Karo" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Karo</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.28" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.28.Streifen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Streifen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.29" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.29.Nadelstreifen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nadelstreifen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.30" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.30.Mittelstreifen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mittelstreifen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.31" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.31.Hahnentritt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hahnentritt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.32" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.32.Farbe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Farbe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.33" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.33.Farbton" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Farbton</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.34" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.34.Spektralfarbe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Spektralfarbe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.35" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.35.Grundfarbe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Grundfarbe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.36" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.36.Mischfarbe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mischfarbe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.37" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.37.Rot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rot</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.38" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.38.Blau" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Blau</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.39" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.39.Azur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Azur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.40" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.40.Gelb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gelb</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.41" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.41.Grün" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Grün</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.42" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.42.Orange" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Orange</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.43" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.43.Violett" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Violett</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.44" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.44.Weiß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Weiß</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.45" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.45.Braun" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Braun</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.46" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.46.Rosa" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rosa</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.47" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.47.Grau" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Grau</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.48" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.48.Glanz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Glanz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.49" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.49.Mattheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mattheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.50" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.50.Hochglanz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hochglanz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.51" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.51.Form" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Form</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.51.Figur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Figur</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.51.Gestalt1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gestalt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.52" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.52.Gestaltung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gestaltung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.52.Ausgestaltung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ausgestaltung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.53" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.53.Linienführung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Linienführung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.54" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.54.Schriftbild" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schriftbild</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.55" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.55.Erscheinungsform" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erscheinungsform</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.56" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.56.Kurzform" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kurzform</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.57" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.57.Buchform" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Buchform</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>Der Aufsatz liegt in Buchform vor.</text>
+</example>
+</examples>
+</synset>
+<synset id="nForm.58" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.58.Umriss" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Umriss</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.58.Umriß" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Umriß</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.58.Grundriss" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Grundriss</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.58.Grundriß" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Grundriß</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.59" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.59.Kontur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kontur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.60" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.60.Organisationsform" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Organisationsform</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.61" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.61.Polster" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Polster</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Form einer Pflanze, z.B. Moospolster</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nForm.62" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.62.Schablone" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schablone</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.62.Vorlage" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vorlage</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.63" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.63.Schnittmuster" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schnittmuster</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.64" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.64.Oberflächenschicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Oberflächenschicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.65" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.65.Lackierung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lackierung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.66" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.66.Politur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Politur</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.66.Polierung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Polierung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.67" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.67.Schliff" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schliff</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.68" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.68.Glasur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Glasur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.69" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.69.Lasur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lasur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.70" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.70.Zuckerguss" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zuckerguss</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.70.Zuckerguß" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Zuckerguß</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.71" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.71.Putz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Putz</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.71.Verkleidung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verkleidung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.72" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.72.Außenhaut" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Außenhaut</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.73" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.73.Körperform" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Körperform</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.74" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.74.Gestalt2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Gestalt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.74.Körperbau" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Körperbau</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.74.Wuchs" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wuchs</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.74.Statur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Statur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.75" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.75.Schlankheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schlankheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.76" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.76.Dickheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dickheit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.76.Dickleibigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dickleibigkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.76.Fettleibigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fettleibigkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.76.Üppigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Üppigkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.76.Rundlichkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rundlichkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.77" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.77.Hohlheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hohlheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.78" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.78.Massivität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Massivität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.79" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.79.Körperdichte" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Körperdichte</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.79.Dichte" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dichte</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.80" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.80.Dimension" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dimension</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.80.Ausmaß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ausmaß</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.81" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.81.Abmessung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Abmessung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.82" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.82.Ausdehnung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ausdehnung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.82.Rauminhalt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rauminhalt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.82.Volumen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Volumen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.83" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.83.Verbreitung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verbreitung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.83.Ausbreitung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ausbreitung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.84" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.84.Umfang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Umfang</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.85" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.85.Durchmesser" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Durchmesser</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.86" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.86.Kaliber" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kaliber</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Durchmesser von Rohren, Uhrwerken oder Geschossen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nForm.87" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.87.Kaliber2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Kaliber</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Form eines Uhrwerks</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nForm.88" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.88.Kapazität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kapazität</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.88.Fassungsvermögen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fassungsvermögen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.89" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.89.Überkapazität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Überkapazität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.90" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.90.Größe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Größe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.91" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.91.Jahreskapazität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Jahreskapazität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.92" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.92.Länge" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Länge</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.93" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.93.Gesamtlänge" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gesamtlänge</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.94" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.94.Kürze" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kürze</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.95" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.95.Knappheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Knappheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.96" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.96.Breite" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Breite</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.97" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.97.Spannweite" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Spannweite</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.98" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.98.Höhe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Höhe</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Dimension nach oben</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nForm.99" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.99.Tiefe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tiefe</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Dimension nach unten</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nForm.100" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.100.Wassertiefe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wassertiefe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.101" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.101.Dünne" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dünne</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.102" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.102.Dicke" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dicke</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.103" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.103.Tiefgang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tiefgang</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.104" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.104.Dimensionalität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dimensionalität</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>dimensional sein/Dimensionen haben</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nForm.105" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.105.Radius" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Radius</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.106" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.106.Schriftgröße" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schriftgröße</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.107" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.107.Mikro" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mikro</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.108" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.108.dreidimensionale_Form" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dreidimensionale_Form</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.109" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.109.zweidimensionale_Form" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zweidimensionale_Form</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.110" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.110.eindimensionale_Form" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eindimensionale_Form</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.111" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.111.Punkt1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Punkt</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.112" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.112.amorphe_Form" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>amorphe_Form</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.113" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.113.solide_Form" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>solide_Form</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.113.Körper" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Körper</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.114" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.114.Linie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Linie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.115" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.115.Parallele" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Parallele</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Linie, die im immer gleichen Abstand zu einer anderen Linie verläuft</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nForm.116" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.116.Strich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Strich</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.117" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.117.Naht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Naht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.118" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.118.Schweißnaht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schweißnaht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.119" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.119.Ziernaht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ziernaht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.120" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.120.Schnörkel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schnörkel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.121" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.121.Biese" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Biese</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.122" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.122.Schlussstrich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schlussstrich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.122.Schluss-Strich" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Schluss-Strich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.122.Schlußstrich" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Schlußstrich</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.123" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.123.Schrägstrich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schrägstrich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.123.Querstrich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Querstrich</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.124" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.124.Abstrich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Abstrich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>nach unten</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nForm.125" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.125.Bindestrich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Bindestrich</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.126" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.126.Gedankenstrich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gedankenstrich</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.127" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.127.Tangente" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tangente</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.128" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.128.Vektor" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vektor</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mathematische Größe, die als Strecke bestimmter Lage u. Richtung definiert ist</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nForm.129" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.129.Fläche" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fläche</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.129.Ebene" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ebene</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.130" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.130.Sohle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sohle</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.130.Förderebene" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Förderebene</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.131" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.131.Schräge" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schräge</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.132" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.132.Wölbung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wölbung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.133" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.133.Höhlung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Höhlung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.133.Aushöhlung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Aushöhlung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.134" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.134.Polyeder" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Polyeder</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.135" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.135.Block" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Block</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.136" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.136.Ring" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ring</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.137" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.137.Zylinder" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zylinder</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.138" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.138.Kugel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kugel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.139" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.139.Feuerball" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Feuerball</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.140" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.140.Schneeball" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schneeball</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.141" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.141.Kügelchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kügelchen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.142" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.142.Halbkugel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Halbkugel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.143" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.143.Schlinge" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schlinge</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.143.Schleife" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schleife</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.144" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.144.Masche" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Masche</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.145" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.145.Kegel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kegel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.146" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.146.Scheibe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Scheibe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.147" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.147.Korn" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Korn</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.148" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.148.Rad" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rad</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.149" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.149.Helix" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Helix</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.149.Wendel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wendel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.150" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.150.Spirale" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Spirale</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.151" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.151.Schraube" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schraube</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.152" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.152.Klangkörper" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Klangkörper</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.153" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.153.Erhebung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Erhebung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.153.Rundung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rundung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.153.Krümmung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Krümmung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.154" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.154.Ausbuchtung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ausbuchtung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.155" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.155.Anhöhe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Anhöhe</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.155.Berghöhe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Berghöhe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.156" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.156.Vertiefung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vertiefung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.156.Einsenkung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Einsenkung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.156.Einbuchtung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Einbuchtung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.157" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.157.Kuhle" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kuhle</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.158" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.158.Nische" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nische</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.158.Ecke" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ecke</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.158.Eck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Eck</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.159" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.159.Einschnitt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Einschnitt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.159.Einkerbung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Einkerbung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.159.Kerbe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kerbe</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.160" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.160.Grube" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Grube</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.161" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.161.Graben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Graben</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.162" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.162.Prisma" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Prisma</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.163" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.163.Tetraeder" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tetraeder</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.164" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.164.Pyramide" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Pyramide</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.165" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.165.Oktraeder" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Oktraeder</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.166" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.166.Falte1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Falte</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.167" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.167.Falte2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Falte</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.168" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.168.Spalt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Spalt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.168.Spalte" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Spalte</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.168.Ritze" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ritze</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.169" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.169.Furche" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Furche</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.170" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.170.Runzel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Runzel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.171" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.171.Würfel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Würfel</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.171.Kubus" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kubus</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.171.Hexaeder" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hexaeder</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.172" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.172.Eiswürfel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Eiswürfel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.173" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.173.Quader" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Quader</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.174" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.174.Traditionslinie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Traditionslinie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.175" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.175.Lebenslinie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Lebenslinie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.176" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.176.Schicksalslinie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schicksalslinie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.177" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.177.Körperlinie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Körperlinie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.178" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.178.Silhouette" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Silhouette</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.179" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.179.Profil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Profil</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.180" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.180.Falte" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Falte</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.180.Falz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Falz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.181" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.181.Herz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Herz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.182" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.182.Stern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Stern</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.183" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.183.Kreuz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kreuz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.184" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.184.Fadenkreuz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fadenkreuz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.185" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.185.Baum" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Baum</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.185.Baumstruktur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Baumstruktur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.186" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.186.Polygon" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Polygon</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.187" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.187.konische_Figur" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konische_Figur</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.188" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.188.Hexagramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hexagramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.189" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.189.Pentagramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Pentagramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.190" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.190.Dreieck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dreieck</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.191" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.191.Viereck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Viereck</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.191.Karree" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>Karree</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.192" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.192.Pentagon" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Pentagon</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.193" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.193.Geviert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Geviert</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.194" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.194.Hexagon" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hexagon</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.195" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.195.Oval" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Oval</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.196" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.196.Ellipse" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ellipse</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.197" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.197.Orbit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Orbit</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>elliptische Umlaufbahn eines Himmelskörpers</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nForm.198" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.198.Kreis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kreis</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.198.Zirkel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zirkel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.199" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.199.Kranz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kranz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.200" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.200.Haarkranz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Haarkranz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.201" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.201.Blumenkranz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Blumenkranz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.202" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.202.Strahlenkranz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Strahlenkranz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.203" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.203.Heiligenschein" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Heiligenschein</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.204" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.204.Halbkreis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Halbkreis</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.205" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.205.Parabel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Parabel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.206" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.206.Fleck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fleck</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.207" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.207.Blutfleck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Blutfleck</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.208" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.208.Zwickel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zwickel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.209" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.209.Punkt2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Punkt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>kleiner runder Fleck</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nForm.210" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.210.Tupfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tupfen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.210.Tupfer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tupfer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.211" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.211.Tüpfelchen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tüpfelchen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.212" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.212.Farbtupfer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Farbtupfer</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.213" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.213.Rechteck" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rechteck</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.213.Kästchen" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>Kästchen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.214" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.214.Quadrat" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Quadrat</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.215" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.215.Parallelogramm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Parallelogramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.216" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.216.Trapez" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Trapez</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.217" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.217.Raute" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Raute</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.218" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.218.Horizontale" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Horizontale</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.219" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.219.Vertikale" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Vertikale</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.220" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.220.Kreislinie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kreislinie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.221" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.221.gerade_Linie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gerade_Linie</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.221.Gerade" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gerade</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.222" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.222.Zielgerade" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zielgerade</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.223" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.223.Schenkel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schenkel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.224" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.224.Strecke" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Strecke</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.225" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.225.Diagonale" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Diagonale</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.226" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.226.Zickzack" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zickzack</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.227" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.227.Begrenzungslinie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Begrenzungslinie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.228" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.228.Ziellinie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Ziellinie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.229" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.229.Waffenstillstandslinie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Waffenstillstandslinie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.230" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.230.Seitenlinie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Seitenlinie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.231" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.231.Trennungslinie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Trennungslinie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.232" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.232.Nulllinie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Nulllinie</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.232.Null-Linie" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>Null-Linie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.233" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.233.Wellenlinie" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wellenlinie</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.234" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.234.Rand" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Rand</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.235" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.235.Wegrand" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wegrand</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.235.Wegesrand" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wegesrand</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.236" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.236.Ecke2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Ecke</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.236.Eck2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Eck</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.237" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.237.Kante" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kante</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.238" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.238.Saum1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Saum</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>Das Reh bewegt sich am Saum des Waldes.</text>
+</example>
+</examples>
+</synset>
+<synset id="nForm.239" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.239.Stoffrand" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Stoffrand</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.240" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.240.Saum" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Saum</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.241" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.241.Raum" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Raum</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.242" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.242.Hohlraum" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Hohlraum</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.243" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.243.Winkel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Winkel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.244" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.244.Leere" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Leere</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.245" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.245.Loch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Loch</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.246" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.246.Beule" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Beule</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.247" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.247.Blase" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Blase</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.248" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.248.Seifenblase" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Seifenblase</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.249" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.249.Luftblase" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Luftblase</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.250" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.250.Tropfen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tropfen</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.251" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.251.Kringel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Kringel</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.252" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="ja" id="nForm.252.physikalisches_Attribut" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>physikalisches_Attribut</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.253" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.253.Gewicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Gewicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.254" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.254.Eigengewicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Eigengewicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.255" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.255.Körpergewicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Körpergewicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.256" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.256.Leichtigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Leichtigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.257" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.257.Schwere" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schwere</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.258" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.258.Verpackungsgewicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verpackungsgewicht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.258.Tara" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Tara</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.259" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.259.Abtropfgewicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Abtropfgewicht</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Gewicht einer Dosenware ohne Lake</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nForm.260" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.260.Münzgewicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Münzgewicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.261" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.261.Schrot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schrot</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.262" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.262.Masse" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Masse</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.263" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.263.Elektronenspin" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Elektronenspin</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.264" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.264.Wertigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wertigkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.264.Valenz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Valenz</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.265" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="ja" id="nForm.265.physischer_Zustand" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>physischer_Zustand</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.266" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.266.Sauberkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sauberkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.267" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.267.Frische" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Frische</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.267.Frischheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Frischheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.268" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.268.Reinheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Reinheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.269" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.269.Sterilität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Sterilität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.270" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.270.Insterilität" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Insterilität</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.271" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.271.Unsauberkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unsauberkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.271.Dreckigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Dreckigkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.271.Schmutzigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Schmutzigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.272" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.272.Unerschlossenheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unerschlossenheit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.272.Unpassierbarkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unpassierbarkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.272.Unwegsamkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unwegsamkeit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.272.Unzugänglichkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Unzugänglichkeit</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von Gebieten</paraphrase>
+</paraphrases>
+</synset>
+<synset id="nForm.273" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.273.Wurmstichigkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Wurmstichigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.274" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.274.Undichte" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Undichte</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.275" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.275.Aggregatzustand" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Aggregatzustand</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.276" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.276.Baufälligkeit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Baufälligkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.277" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.277.physischer_Prozess" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>physischer_Prozess</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.277.physischer_Prozeß" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>physischer_Prozeß</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.278" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.278.Verfall" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verfall</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.279" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.279.Degeneration" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Degeneration</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.280" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.280.Zersetzung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Zersetzung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.281" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.281.Verformung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verformung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.281.Deformiertheit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Deformiertheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.282" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.282.Korrosion" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Korrosion</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.283" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.283.Auflösung2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>Auflösung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.284" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.284.Fäulnis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Fäulnis</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.285" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.285.Abbau" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Abbau</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.286" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.286.Mumifizierung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Mumifizierung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.287" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.287.Verwesung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Verwesung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.288" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.288.Petrifizierung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Petrifizierung</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.288.Versteinerung" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Versteinerung</orthForm>
+</lexUnit>
+</synset>
+<synset id="nForm.289" wordClass="nomen">
+<lexUnit Eigenname="nein" artificial="nein" id="nForm.289.Weißglut" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>Weißglut</orthForm>
+</lexUnit>
+</synset>
+</synsets>

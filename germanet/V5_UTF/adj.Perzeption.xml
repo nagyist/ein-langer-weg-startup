@@ -1,0 +1,1682 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd"[
+ ]>
+<synsets>
+<synset id="aPerzeption.1" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aPerzeption.1.wahrnehmungsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wahrnehmungsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.2" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.2.multimedial" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>multimedial</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.3" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.3.audiovisuell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>audiovisuell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.4" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.4.wahrnehmbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wahrnehmbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.5" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aPerzeption.5.sichtspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sichtspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.6" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.6.optisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>optisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.6.visuell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>visuell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.7" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.7.sichtbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sichtbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.8" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.8.unsichtbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unsichtbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.9" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.9.unerkennbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unerkennbar</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.9.unkenntlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unkenntlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.10" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.10.erkennbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erkennbar</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.10.ersichtlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ersichtlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.10.kenntlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kenntlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.11" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.11.erfahrbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erfahrbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.12" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.12.recherchierbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>recherchierbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.13" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.13.exponiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>exponiert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.14" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.14.deutlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>deutlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.15" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.15.überdeutlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überdeutlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.16" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.16.lesbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lesbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.17" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.17.ablesbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ablesbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.18" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.18.auslesbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auslesbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.19" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.19.unleserlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unleserlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.20" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.20.scharf" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>scharf</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>scharfes Bild</text>
+</example>
+</examples>
+</synset>
+<synset id="aPerzeption.21" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.21.undeutlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>undeutlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.22" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.22.diffus" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>diffus</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.23" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.23.durchsichtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>durchsichtig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.23.transparent" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>transparent</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.24" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.24.opak" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>opak</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.24.undurchsichtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>undurchsichtig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.24.blickdicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blickdicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.25" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.25.milchig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>milchig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.26" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.26.verschwommen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verschwommen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.27" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.27.schemenhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schemenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.28" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.28.belebt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>belebt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ein belebter Platz, eine unbelebte Gegend</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.29" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.29.unbelebt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbelebt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.30" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.30.besiedelt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>besiedelt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.30.bewohnt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bewohnt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.31" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.31.unbesiedelt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbesiedelt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.31.unbewohnt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbewohnt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.32" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.32.spürbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spürbar</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.32.fühlbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fühlbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.33" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.33.unhörbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unhörbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.34" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.34.hörbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hörbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.35" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.35.unüberhörbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unüberhörbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.36" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.36.unübersehbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unübersehbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.37" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.37.unignorierbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unignorierbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.38" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.38.bemerkbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bemerkbar</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.38.merklich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>merklich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.39" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.39.unmerklich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unmerklich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.40" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.40.feststellbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>feststellbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.41" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.41.wahrgenommen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wahrgenommen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.42" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.42.beobachtet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beobachtet</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.42.bemerkt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bemerkt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.43" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aPerzeption.43.helligkeitsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>helligkeitsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.44" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.44.hell1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.45" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.45.grell1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.46" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.46.lichterloh" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lichterloh</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.47" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.47.dunkel1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dunkel</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.48" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.48.düster" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>düster</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.48.duster" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>duster</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.48.finster" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>finster</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.49" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.49.zappenduster" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zappenduster</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.49.stockdunkel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stockdunkel</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.49.stockfinster" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stockfinster</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.50" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.50.dämmerig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dämmerig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.50.dämmrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dämmrig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.51" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.51.halbdunkel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>halbdunkel</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.51.schummerig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schummerig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.51.schummrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schummrig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.52" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.52.beleuchtet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beleuchtet</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.52.erleuchtet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erleuchtet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.53" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.53.unbeleuchtet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbeleuchtet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.54" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aPerzeption.54.farbspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>farbspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.55" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.55.farblich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>farblich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.56" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.56.farbig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>farbig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.57" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.57.bunt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bunt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.57.mehrfarbig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mehrfarbig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.57.vielfarbig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vielfarbig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.58" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.58.farbenprächtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>farbenprächtig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.58.farbenfroh" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>farbenfroh</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.59" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.59.kunterbunt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kunterbunt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.60" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.60.knallig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>knallig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.60.knallbunt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>knallbunt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.60.poppig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>poppig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.61" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.61.regenbogenfarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>regenbogenfarben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.62" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.62.gemustert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gemustert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.63" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.63.gestreift" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gestreift</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.64" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.64.quergestreift" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>quergestreift</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.64.quer_gestreift" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>quer_gestreift</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.65" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.65.längsgestreift" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>längsgestreift</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.65.längs_gestreift" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>längs_gestreift</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.66" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.66.kariert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kariert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.67" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.67.gepunktet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gepunktet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.68" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.68.gefleckt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gefleckt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.68.fleckig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fleckig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.69" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.69.gesprenkelt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gesprenkelt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.70" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.70.geblümt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geblümt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.71" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.71.texturiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>texturiert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.72" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.72.gemasert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gemasert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.73" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.73.marmoriert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>marmoriert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.74" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.74.einfarbig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einfarbig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.74.uni" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>uni</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.75" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.75.gedämpft1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gedämpft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.76" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.76.pastellfarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pastellfarben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.76.pastellig" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>pastellig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.76.pastell" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pastell</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.77" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.77.aquarellfarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aquarellfarben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.78" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.78.weiß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weiß</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.79" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.79.schneeweiß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schneeweiß</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.80" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.80.schwarz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwarz</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.81" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.81.rabenschwarz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rabenschwarz</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.81.pechschwarz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pechschwarz</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.81.kohlrabenschwarz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kohlrabenschwarz</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.82" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.82.rot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rot</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.83" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.83.blutrot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blutrot</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.83.rubinrot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rubinrot</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.84" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.84.knallrot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>knallrot</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.85" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.85.rötlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rötlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.86" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.86.kastanienrot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kastanienrot</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>rot wie eine Kastanie</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.87" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.87.rostrot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rostrot</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.87.bräunlichrot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bräunlichrot</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>rot wie Rost</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.88" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.88.braun" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>braun</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.89" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.89.rostbraun" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rostbraun</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.89.rötlichbraun" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rötlichbraun</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.89.rostfarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rostfarben</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>wie Rost</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.90" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.90.kaffeebraun" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kaffeebraun</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>wie Kaffee</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.91" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.91.hellrot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hellrot</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von hellem Rot</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.92" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.92.magmarot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>magmarot</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.92.glühendrot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>glühendrot</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>vom Rot des Magmas/von glühendem Rot</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.93" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.93.orange" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>orange</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.93.orangefarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>orangefarben</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>rot wie eine Orange</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.94" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.94.dunkelrot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dunkelrot</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.94.tiefrot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tiefrot</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von dunklem Rot</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.95" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.95.rosa" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rosa</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.95.rosafarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rosafarben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.96" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.96.rosig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rosig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>rosiger Teint</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.97" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.97.altrosa" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>altrosa</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.97.altrosafarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>altrosafarben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.98" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.98.pink" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pink</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.98.pinkfarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pinkfarben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.99" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.99.purpurrot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>purpurrot</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.99.purpurfarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>purpurfarben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.99.purpurfarbig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>purpurfarbig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.99.sattrot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sattrot</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von kräftigem Rot</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.100" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.100.blau" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blau</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.101" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.101.dunkelblau" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dunkelblau</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.101.tiefblau" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tiefblau</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von dunklem Blau</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.102" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.102.marine" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>marine</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.102.marineblau" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>marineblau</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.103" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.103.hellblau" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hellblau</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von hellem Blau</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.104" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.104.himmelblau" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>himmelblau</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.104.azurblau" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>azurblau</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>vom Blau des Himmels</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.105" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.105.pastellblau" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pastellblau</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.106" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.106.violett" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>violett</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.106.veilchenfarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>veilchenfarben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.107" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.107.gelb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gelb</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.108" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.108.zitronengelb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zitronengelb</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.109" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.109.falb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>falb</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von fahlem Gelb</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.110" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.110.grün" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grün</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.111" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.111.hellgrün" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hellgrün</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.111.giftgrün" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>giftgrün</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von hellem Grün</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.112" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.112.grasgrün" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grasgrün</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von der Farbe frischen Grases</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.113" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.113.dunkelgrün" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dunkelgrün</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von dunklem Grün</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.114" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.114.tannengrün" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tannengrün</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.114.flaschengrün" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>flaschengrün</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>vom Grün dunkler Tannen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.115" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.115.khaki" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>khaki</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.115.kaki" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>kaki</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.115.khakifarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>khakifarben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.115.oliv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>oliv</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.115.olivgrün" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>olivgrün</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.116" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.116.blassrosa" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blassrosa</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.116.blaßrosa" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>blaßrosa</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von blassem Rosa</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.117" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.117.metallfarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>metallfarben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.118" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.118.silberfarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>silberfarben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.119" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.119.goldfarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>goldfarben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.120" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.120.bronzefarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bronzefarben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.121" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.121.kupferfarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kupferfarben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.122" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.122.hautfarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hautfarben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.122.fleischfarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fleischfarben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.123" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.123.türkis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>türkis</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.123.türkisfarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>türkisfarben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.123.blaugrün" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blaugrün</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.124" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.124.lila" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lila</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.124.lilafarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lilafarben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.125" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.125.fliederfarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fliederfarben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.126" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.126.grau" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grau</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.127" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.127.anthrazit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anthrazit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.127.anthrazitfarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anthrazitfarben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.128" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.128.aschgrau" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aschgrau</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.129" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.129.silbergrau" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>silbergrau</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.129.metallicgrau" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>metallicgrau</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.130" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.130.sandfarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sandfarben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.131" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.131.erdfarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erdfarben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.132" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.132.ockerfarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ockerfarben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.132.ockergelb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ockergelb</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.133" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.133.cremefarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>cremefarben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.134" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.134.beige" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beige</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.134.beigefarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beigefarben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.135" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.135.lachsfarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lachsfarben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.136" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.136.pfirsichfarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pfirsichfarben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.137" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.137.apricot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>apricot</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.138" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.138.neonfarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neonfarben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.139" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.139.auberginefarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auberginefarben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.140" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.140.safranfarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>safranfarben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.141" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.141.magentafarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>magentafarben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.142" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.142.bernsteinfarben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bernsteinfarben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.143" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.143.neongrün" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neongrün</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von leuchtendem Grün</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.144" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.144.leuchtendrot" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leuchtendrot</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von leuchtendem Rot</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.145" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.145.farblos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>farblos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.145.achromatisch" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>achromatisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.146" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.146.fahl" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fahl</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.147" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.147.aschfahl" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aschfahl</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>grau wie Asche</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>sein Gesicht wurde aschfahl vor Angst</text>
+</example>
+</examples>
+</synset>
+<synset id="aPerzeption.148" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.148.schwarzweiß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwarzweiß</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>mein Fernseher/Monitor ist schwarzweiß</text>
+</example>
+</examples>
+</synset>
+<synset id="aPerzeption.149" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.149.blass" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blass</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.149.blaß" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>blaß</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.149.bleich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bleich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.150" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.150.dezent" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dezent</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.150.zurückhaltend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zurückhaltend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.150.unauffällig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unauffällig</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>sie hatte eine Vorliebe für dezente Farben</text>
+</example>
+</examples>
+</synset>
+<synset id="aPerzeption.151" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.151.verschossen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verschossen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.152" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.152.ausgebleicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausgebleicht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.152.gebleicht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gebleicht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.152.verblichen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verblichen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.152.verblasst" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verblasst</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.152.verblaßt" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>verblaßt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.153" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.153.auffällig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auffällig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.154" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.154.kräftig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kräftig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.154.lebhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lebhaft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.154.lebendig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lebendig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.155" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.155.leuchtend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leuchtend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.156" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.156.grell2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>grell</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.156.schreiend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schreiend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.157" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.157.akustisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>akustisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.157.klanglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klanglich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.158" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.158.auditorisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auditorisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.158.auditiv" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auditiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.159" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aPerzeption.159.geräuschspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geräuschspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.160" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.160.laut" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>laut</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.161" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.161.geräuschvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geräuschvoll</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.162" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.162.dröhnend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dröhnend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.163" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.163.vernehmlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vernehmlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.164" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.164.ohrenbetäubend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ohrenbetäubend</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>verstärkt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.165" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.165.schrill" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schrill</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.165.durchdringend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>durchdringend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.166" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.166.leise" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leise</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.167" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.167.ruhig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ruhig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.168" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.168.still" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>still</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.169" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.169.geräuschlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geräuschlos</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.170" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.170.sacht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sacht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.170.sachte" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>sachte</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.171" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.171.hell2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>hell</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>ihr helles Lachen war im ganzen Haus zu hören</text>
+</example>
+</examples>
+</synset>
+<synset id="aPerzeption.172" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.172.dunkel2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>dunkel</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.173" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.173.metallisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>metallisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.174" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.174.dumpf" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dumpf</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.174.gedämpft2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>gedämpft</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>das dumpfe Grollen des Donners</text>
+</example>
+</examples>
+</synset>
+<synset id="aPerzeption.175" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.175.harmonisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>harmonisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.176" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.176.wohlklingend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wohlklingend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.176.melodisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>melodisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.177" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.177.unharmonisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unharmonisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.178" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.178.dissonant" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dissonant</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.179" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.179.einstimmig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einstimmig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.179.unisono" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unisono</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.180" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.180.gregorianisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gregorianisch</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>gregorianischer Gesang</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.181" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.181.mehrstimmig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mehrstimmig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.182" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aPerzeption.182.geschmacksspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geschmacksspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.183" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.183.süß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>süß</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.184" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.184.süßlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>süßlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.185" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.185.zuckersüß" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zuckersüß</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.186" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.186.sauer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sauer</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.187" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.187.säuerlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>säuerlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.188" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.188.salzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>salzig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.189" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.189.versalzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>versalzen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.189.übersalzen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>übersalzen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.190" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.190.bitter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bitter</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.191" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.191.zartbitter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zartbitter</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.192" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.192.herb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herb</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.193" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.193.scharf1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>scharf</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.194" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.194.geschmackvoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geschmackvoll</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.195" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.195.würzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>würzig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.196" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.196.pikant" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pikant</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.197" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.197.megascharf" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>megascharf</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.198" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.198.deftig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>deftig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.198.herzhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herzhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.199" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.199.geschmacklos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geschmacklos</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.200" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.200.fade" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fade</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.201" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.201.wässerig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wässerig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.201.wässrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wässrig</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>wässrige Suppe/Erdbeeren</text>
+</example>
+</examples>
+</synset>
+<synset id="aPerzeption.202" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.202.mild" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mild</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.203" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.203.wohlschmeckend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wohlschmeckend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.203.köstlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>köstlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.203.lecker" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lecker</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.203.schmackhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmackhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.204" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.204.kulinarisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kulinarisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.204.feinschmeckerisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>feinschmeckerisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.205" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.205.süffig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>süffig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ein süffiger Wein</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.206" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.206.trocken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trocken</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ein trockener Wein</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.207" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.207.fruchtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fruchtig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ein fruchtiger Wein</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.208" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.208.spritzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spritzig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.208.erfrischend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erfrischend</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ein spritziger Sekt</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.209" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aPerzeption.209.geruchsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geruchsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.210" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.210.brenzelig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>brenzelig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.210.brenzlig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>brenzlig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.210.verbrannt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verbrannt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.211" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.211.aromatisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aromatisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.212" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.212.streng" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>streng</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.213" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.213.stechend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stechend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.213.beißend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beißend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.213.scharf2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>scharf</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.214" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.214.ätzend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ätzend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.215" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.215.muffig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>muffig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.215.miefig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>miefig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.216" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.216.moschusartig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>moschusartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.217" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.217.erdig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erdig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.218" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aPerzeption.218.oberflächenspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>oberflächenspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.219" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.219.rauh" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rauh</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.219.rau" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>rau</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.220" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.220.weich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.221" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.221.rutschig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rutschig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.221.glatt2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>glatt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.222" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.222.glitschig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>glitschig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.222.glibberig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>glibberig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.223" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.223.rutschfest" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rutschfest</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.224" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.224.flauschig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>flauschig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.225" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.225.eben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.225.glatt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>glatt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.225.plan" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>plan</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.226" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.226.seidig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>seidig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.227" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.227.uneben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>uneben</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.228" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.228.runzelig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>runzelig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.228.runzlig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>runzlig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit Runzeln</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>der Apfel hat eine runzlige Schale</text>
+</example>
+</examples>
+</synset>
+<synset id="aPerzeption.229" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.229.faltig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>faltig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit Falten</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>faltige/straffe Haut</text>
+</example>
+</examples>
+</synset>
+<synset id="aPerzeption.230" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.230.schrumpelig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schrumpelig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.230.schrumplig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schrumplig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.230.verschrumpelt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verschrumpelt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.231" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.231.straff" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>straff</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne Falten</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.232" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.232.glänzend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>glänzend</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit Glanz</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>glänzendes/mattes Gold</text>
+</example>
+</examples>
+</synset>
+<synset id="aPerzeption.233" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.233.schillernd" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schillernd</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.233.changierend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>changierend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.233.schimmernd" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schimmernd</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.234" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.234.matt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>matt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne Glanz</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aPerzeption.235" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.235.stumpf" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stumpf</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne Glanz</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>stumpfes Haar</text>
+</example>
+</examples>
+</synset>
+<synset id="aPerzeption.236" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.236.blank" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blank</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.237" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.237.blankgeputzt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blankgeputzt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.237.gewienert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gewienert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aPerzeption.238" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.238.blitzbank" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blitzbank</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aPerzeption.238.blitzebank" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>blitzebank</orthForm>
+</lexUnit>
+</synset>
+</synsets>

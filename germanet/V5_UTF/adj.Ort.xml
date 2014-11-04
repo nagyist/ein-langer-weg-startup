@@ -1,0 +1,1416 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd"[
+ ]>
+<synsets>
+<synset id="aOrt.1" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aOrt.1.ortsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ortsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.2" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aOrt.2.dimensionsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dimensionsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.3" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.3.lang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lang</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.4" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.4.langgefasst" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>langgefasst</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.4.langgefaßt" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>langgefaßt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.4.lang_gefasst" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>lang_gefasst</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.4.lang_gefaßt" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>lang_gefaßt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.5" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.5.kilometerlang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kilometerlang</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.6" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.6.meilenlang" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>meilenlang</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.7" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.7.weit2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>weit</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>ein weiter Weg</text>
+</example>
+</examples>
+</synset>
+<synset id="aOrt.8" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.8.kilometerweit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kilometerweit</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.9" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.9.meilenweit" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>meilenweit</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.10" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.10.endlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>endlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.10.unendlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unendlich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne räumliches Ende</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>eine endlose Schlange vor dem Kassenschalter</text>
+</example>
+</examples>
+</synset>
+<synset id="aOrt.11" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.11.langstielig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>langstielig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit langem Stiel</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aOrt.12" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.12.kurz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kurz</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.13" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.13.knapp1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>knapp</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>knappe(r) Rock/Hosen/Socken</text>
+</example>
+</examples>
+</synset>
+<synset id="aOrt.14" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.14.kurzstielig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kurzstielig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit kurzem Stiel</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aOrt.15" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.15.flach1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>flach</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.15.niedrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>niedrig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.15.nieder" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nieder</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>ein flaches/niedriges/hohes Haus</text>
+</example>
+</examples>
+</synset>
+<synset id="aOrt.16" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.16.hoch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hoch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.17" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.17.haushoch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>haushoch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.18" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.18.steil" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>steil</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.19" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.19.erhöht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erhöht</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.20" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.20.flach2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>flach</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>ein flaches/tiefes Gewässer</text>
+</example>
+</examples>
+</synset>
+<synset id="aOrt.21" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.21.tief" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tief</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.22" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.22.abgrundtief" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abgrundtief</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.22.bodenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bodenlos</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.23" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.23.eng" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eng</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>eine enge Schlucht</text>
+</example>
+</examples>
+</synset>
+<synset id="aOrt.24" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.24.weit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weit</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>eine weite Schlucht</text>
+</example>
+<example>
+<text></text>
+</example>
+<example>
+<text>eine weite Hose</text>
+</example>
+</examples>
+</synset>
+<synset id="aOrt.25" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.25.weitläufig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weitläufig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.26" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.26.weiträumig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weiträumig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.27" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.27.verbreitet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verbreitet</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.27.verzweigt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verzweigt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.28" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.28.weltweit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weltweit</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.29" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.29.europaweit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>europaweit</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.30" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.30.deutschlandweit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>deutschlandweit</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.30.bundesweit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bundesweit</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.31" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.31.weltumfassend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weltumfassend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.31.weltumspannend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weltumspannend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.32" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.32.schmal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmal</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>ein(e) schmale(r,s) Weg/Haus/Straße...</text>
+</example>
+</examples>
+</synset>
+<synset id="aOrt.33" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.33.breit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>breit</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.34" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.34.einspurig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einspurig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.35" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.35.zweispurig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zweispurig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.36" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.36.vierspurig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vierspurig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.37" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.37.sechsspurig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sechsspurig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.38" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.38.achtspurig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>achtspurig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.39" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.39.umfassend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>umfassend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.40" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.40.allumfassend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>allumfassend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.41" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.41.global" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>global</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.42" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.42.lokal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lokal</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>das lokale Verkehrsnetz</text>
+</example>
+</examples>
+</synset>
+<synset id="aOrt.43" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.43.räumlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>räumlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.44" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.44.flächig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>flächig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.45" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.45.großflächig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>großflächig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.46" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.46.breitflächig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>breitflächig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.47" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.47.sperrig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sperrig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.47.klobig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klobig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.47.klotzig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klotzig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.48" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.48.großräumig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>großräumig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.49" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.49.geräumig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geräumig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.50" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.50.grenzüberschreitend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grenzüberschreitend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.51" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.51.kleinräumig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kleinräumig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.52" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aOrt.52.richtungsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>richtungsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.53" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.53.nördlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nördlich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von/nach Norden</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aOrt.54" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.54.südlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>südlich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von/nach Süden</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aOrt.55" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.55.westlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>westlich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von/nach Westen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aOrt.56" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.56.nordwestlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nordwestlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.57" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.57.südwestlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>südwestlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.58" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.58.östlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>östlich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von/nach Osten</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aOrt.59" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.59.nordöstlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nordöstlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.60" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.60.südöstlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>südöstlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.61" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.61.frontal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>frontal</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>von vorne</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>ein frontaler Zusammenstoß</text>
+</example>
+</examples>
+</synset>
+<synset id="aOrt.62" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.62.seitlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>seitlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.62.kollateral" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>kollateral</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.63" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aOrt.63.link" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>link</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.64" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aOrt.64.recht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>recht</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.65" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.65.parallel" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>parallel</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>in gleichem Abstand und gleicher Richtung</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aOrt.66" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aOrt.66.lokalisationsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lokalisationsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.67" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.67.frei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>frei</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.68" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.68.gefangen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gefangen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.68.unfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unfrei</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.69" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.69.gefangengenommen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gefangengenommen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.69.gefangengehalten" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gefangengehalten</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.70" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.70.eingefangen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eingefangen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.70.festgefangen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>festgefangen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.70.dingfest" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dingfest</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.71" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.71.gekidnapt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gekidnapt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.71.entführt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entführt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.72" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.72.verhaftet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verhaftet</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.72.inhaftiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>inhaftiert</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.72.festgenommen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>festgenommen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.72.arretiert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>arretiert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.73" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.73.nah1" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nah</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.73.nahe" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nahe</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.74" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.74.knapp2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>knapp</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>mit geringem Abstand</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aOrt.75" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.75.haarscharf" orthVar="nein" sense="1" stilMarkierung="ja">
+<orthForm>haarscharf</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.76" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.76.ortsnah" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ortsnah</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.76.nahegelegen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nahegelegen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.76.naheliegend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>naheliegend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.77" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.77.nebenstehend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nebenstehend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.78" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.78.umliegend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>umliegend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.79" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.79.unweit" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unweit</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.80" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.80.benachbart" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>benachbart</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.80.angrenzend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>angrenzend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.81" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.81.naturnah" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>naturnah</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.82" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.82.fern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.82.entfernt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entfernt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.83" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.83.entfernt2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>entfernt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.83.abgelegen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abgelegen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.83.einsam" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einsam</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.84" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.84.jenseitig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>jenseitig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.85" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.85.diesseitig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>diesseitig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.86" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.86.überseeisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überseeisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.87" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aOrt.87.vorder" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorder</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.88" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aOrt.88.hinter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hinter</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.89" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aOrt.89.ober" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ober</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.90" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.90.obig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>obig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.91" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.91.oberst" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>oberst</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.92" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aOrt.92.unter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unter</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.93" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aOrt.93.inner" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>inner</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.94" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.94.innerlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>innerlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.95" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.95.medial" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>medial</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.95.mittig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mittig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.96" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.96.äußerlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>äußerlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.97" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.97.intern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>intern</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.97.innerhalb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>innerhalb</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.98" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.98.innerbetrieblich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>innerbetrieblich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.99" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.99.inneruniversitär" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>inneruniversitär</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.100" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.100.innerparteilich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>innerparteilich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.100.parteiintern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>parteiintern</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.101" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.101.außerbetrieblich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>außerbetrieblich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.101.überbetrieblich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überbetrieblich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.101.betriebsübergreifend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>betriebsübergreifend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.102" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.102.außerparteilich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>außerparteilich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.102.überparteilich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überparteilich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.102.parteiübergreifend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>parteiübergreifend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.103" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aOrt.103.äußer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>äußer</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.104" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.104.zentral" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zentral</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>im Zentrum</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>das Haus liegt sehr zentral</text>
+</example>
+</examples>
+</synset>
+<synset id="aOrt.105" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.105.dezentral" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dezentral</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.106" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.106.peripher" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>peripher</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.107" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.107.erreichbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erreichbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.108" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.108.unterirdisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unterirdisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.109" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.109.überirdisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überirdisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.109.oberirdisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>oberirdisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.110" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.110.extraterrestrisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>extraterrestrisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.110.außerirdisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>außerirdisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.111" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.111.irdisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>irdisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.112" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aOrt.112.herkunftsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herkunftsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.113" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.113.einheimisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einheimisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.113.heimisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>heimisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.113.beheimatet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beheimatet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.114" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.114.hiesig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hiesig</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>hiesige Kartoffeln/Erdbeeren</text>
+</example>
+</examples>
+</synset>
+<synset id="aOrt.115" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.115.außerhalb" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>außerhalb</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.115.extern" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>extern</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.116" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.116.auswärtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auswärtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.117" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.117.ansässig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ansässig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.117.gebürtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gebürtig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.117.ortsansässig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ortsansässig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.118" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.118.fremdstämmig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fremdstämmig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.119" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.119.deutschstämmig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>deutschstämmig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.120" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.120.fremdartig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fremdartig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.120.exotisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>exotisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.121" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.121.unbekannt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbekannt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.121.fremd" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fremd</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>er ist fremd/bekannt in der Stadt</text>
+</example>
+</examples>
+</synset>
+<synset id="aOrt.122" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.122.unerforscht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unerforscht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.122.unerkundet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unerkundet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.123" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.123.dortig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dortig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.124" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.124.anonym" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anonym</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.125" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.125.ungenannt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ungenannt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.126" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.126.bekannt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bekannt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.127" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.127.vertraut" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vertraut</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.127.geläufig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geläufig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.127.traut" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>traut</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.127.gängig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gängig</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>das Verfahren ist mir vertraut/geläufig</text>
+</example>
+</examples>
+</synset>
+<synset id="aOrt.128" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.128.familiär" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>familiär</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.129" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.129.erforscht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erforscht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.129.erkundet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erkundet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.130" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.130.berühmt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>berühmt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.130.prominent" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>prominent</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.131" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.131.weltberühmt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weltberühmt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.132" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.132.namentlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>namentlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.133" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.133.ausländisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausländisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.134" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.134.inländisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>inländisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.135" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.135.alteingesessen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>alteingesessen</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.136" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.136.ursprünglich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ursprünglich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.137" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.137.archaisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>archaisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.137.frühzeitlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>frühzeitlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.137.altertümlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>altertümlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.138" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.138.original" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>original</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.139" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.139.genuin" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>genuin</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.140" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aOrt.140.raumverteilungsspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>raumverteilungsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.141" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.141.voll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>voll</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.142" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.142.überfüllt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überfüllt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.142.übervoll" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>übervoll</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.143" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.143.leer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leer</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.144" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.144.verstopft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verstopft</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.145" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.145.schütter" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schütter</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.145.spärlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spärlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.145.licht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>licht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.145.dünn" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dünn</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>schütteres/spärliches Haar</text>
+</example>
+</examples>
+</synset>
+<synset id="aOrt.146" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.146.unbesetzt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbesetzt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.146.frei2" orthVar="nein" sense="2" stilMarkierung="nein">
+<orthForm>frei</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.146.unbelegt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbelegt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.147" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.147.verkehrsberuhigt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verkehrsberuhigt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.148" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.148.besetzt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>besetzt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.148.belegt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>belegt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.149" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.149.vollbesetzt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vollbesetzt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.150" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.150.überbelegt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überbelegt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.151" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.151.ausgebucht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausgebucht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.151.ausverkauft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausverkauft</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ausgebuchte Reise,ausverkauftes Konzert</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aOrt.152" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aOrt.152.formspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>formspezifisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="ja" id="aOrt.152.förmig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>förmig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.153" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.153.x-förmig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>x-förmig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.153.X-förmig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>X-förmig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.154" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.154.u-förmig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>u-förmig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.154.U-förmig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>U-förmig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.155" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.155.o-förmig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>o-förmig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.155.O-förmig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>O-förmig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.156" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.156.s-förmig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>s-förmig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.156.S-förmig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>S-förmig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.157" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.157.stromlinienförmig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stromlinienförmig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.157.schnittig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schnittig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.158" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.158.rund" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rund</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.158.kreisförmig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kreisförmig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.159" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.159.zirkular" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zirkular</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.159.zirkulär" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zirkulär</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.160" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.160.oval" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>oval</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.160.elliptisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>elliptisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.160.eirund" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eirund</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.160.eiförmig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eiförmig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.161" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.161.pyramidal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pyramidal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.162" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.162.gerade" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gerade</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.162.eben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.162.grade" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grade</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.162.linear" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>linear</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.163" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.163.kerzengerade" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kerzengerade</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.164" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.164.schnurgerade" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schnurgerade</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.165" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.165.krumm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>krumm</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.166" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.166.diagonal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>diagonal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.167" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.167.quer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>quer</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.168" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.168.senkrecht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>senkrecht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.168.vertikal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vertikal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.169" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.169.waagrecht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>waagrecht</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.169.horizontal" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>horizontal</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.170" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.170.wellig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wellig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.170.gewellt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gewellt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.171" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.171.schief" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schief</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.172" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.172.schräg" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schräg</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.172.abgeschrägt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abgeschrägt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.173" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.173.windschief" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>windschief</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.174" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.174.geknickt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geknickt</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.175" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.175.winkelig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>winkelig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.175.winklig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>winklig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.176" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.176.rechtwinkelig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rechtwinkelig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.176.rechtwinklig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rechtwinklig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.177" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.177.spitzwinkelig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spitzwinkelig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.177.spitzwinklig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spitzwinklig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.178" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.178.stumpfwinkelig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stumpfwinkelig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.178.stumpfwinklig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stumpfwinklig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.179" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.179.eckig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eckig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.180" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.180.dreieckig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dreieckig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.180.3-eckig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>3-eckig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.181" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.181.viereckig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>viereckig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.181.4-eckig" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>4-eckig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.182" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.182.rechteckig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rechteckig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.183" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.183.quadratisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>quadratisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.184" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.184.spitz" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spitz</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.185" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.185.scharf" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>scharf</orthForm>
+</lexUnit>
+<examples>
+<example>
+<text>scharfe Kante/Messer/Gegenstand</text>
+</example>
+</examples>
+</synset>
+<synset id="aOrt.186" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.186.stumpf" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stumpf</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.187" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.187.abgestuft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abgestuft</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.187.stufenartig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stufenartig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.187.stufig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stufig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.187.stufenförmig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stufenförmig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.188" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.188.treppenartig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>treppenartig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.188.treppenförmig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>treppenförmig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.189" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.189.terrassenartig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>terrassenartig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.189.terrassenförmig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>terrassenförmig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.190" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.190.hochhackig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hochhackig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>bei Schuhen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aOrt.191" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aOrt.191.existenzspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>existenzspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.192" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.192.vorhanden" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorhanden</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.192.existent" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>existent</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.193" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.193.bestehend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bestehend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.193.vorliegend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorliegend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.194" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.194.anwesend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anwesend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.194.präsent" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>präsent</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.195" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.195.teilnehmend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>teilnehmend</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.195.partizipierend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>partizipierend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.196" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.196.allgegenwärtig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>allgegenwärtig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.196.allzugegen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>allzugegen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.196.omnipräsent" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>omnipräsent</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.197" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.197.abwesend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abwesend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.198" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.198.mangelnd" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mangelnd</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.198.fehlend" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fehlend</orthForm>
+</lexUnit>
+</synset>
+<synset id="aOrt.199" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.199.befindlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>befindlich</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aOrt.199.auffindbar" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>auffindbar</orthForm>
+</lexUnit>
+</synset>
+</synsets>

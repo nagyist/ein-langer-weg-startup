@@ -1,0 +1,3054 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd"[
+ ]>
+<synsets>
+<synset id="aprivativ.1" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="ja" id="aprivativ.1.privativspezifisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>privativspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="aprivativ.2" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.2.grenzenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grenzenlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.2.schrankenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schrankenlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.3" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.3.obdachlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>obdachlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.3.wohnungslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wohnungslos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.3.nicht_seßhaft" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nicht_seßhaft</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.4" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.4.torlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>torlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.5" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.5.fristlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fristlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.6" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.6.fassungslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fassungslos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.6.entsetzt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entsetzt</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.6.entgeistert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entgeistert</orthForm>
+</lexUnit>
+</synset>
+<synset id="aprivativ.7" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.7.bewusstlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bewusstlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.7.bewußtlos" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>bewußtlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.8" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.8.zinslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zinslos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.8.zinsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zinsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.9" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.9.makellos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>makellos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.9.ebenmäßig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ebenmäßig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.10" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.10.maßlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>maßlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.10.unmäßig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unmäßig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.10.übermäßig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>übermäßig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.11" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.11.übertrieben" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>übertrieben</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.11.überzogen" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überzogen</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.11.überhöht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>überhöht</orthForm>
+</lexUnit>
+</synset>
+<synset id="aprivativ.12" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.12.bedingungslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bedingungslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.13" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.13.klanglos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klanglos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.14" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.14.ersatzlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ersatzlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.15" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.15.wahllos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wahllos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Adverb:wahllos zugreifen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.16" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.16.wirkungslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wirkungslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.17" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.17.lückenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lückenlos</orthForm>
+</lexUnit>
+</synset>
+<synset id="aprivativ.18" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.18.verantwortungslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verantwortungslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.19" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.19.rücksichtslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rücksichtslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.20" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.20.schamlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schamlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.20.ruchlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ruchlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.21" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.21.pausenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pausenlos</orthForm>
+</lexUnit>
+</synset>
+<synset id="aprivativ.22" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.22.bedeutungslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bedeutungslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.23" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.23.sprachlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sprachlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.23.stumm" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stumm</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.24" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.24.gewaltlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gewaltlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.25" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.25.geschmacklos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geschmacklos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.25.stillos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stillos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.26" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.26.kitschig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kitschig</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.26.billig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>billig</orthForm>
+</lexUnit>
+</synset>
+<synset id="aprivativ.27" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.27.vorbehaltlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorbehaltlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.28" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.28.grundlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>grundlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.29" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.29.trostlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trostlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.29.trist" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trist</orthForm>
+</lexUnit>
+</synset>
+<synset id="aprivativ.30" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.30.belanglos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>belanglos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.31" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.31.kompromisslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kompromisslos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.31.kompromißlos" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>kompromißlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.32" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.32.gegenstandslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gegenstandslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.33" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.33.schnurlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schnurlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.34" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.34.schadlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schadlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.35" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.35.namenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>namenlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.36" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.36.folgenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>folgenlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.37" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.37.ahnungslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ahnungslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.38" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.38.fraktionslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fraktionslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.39" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.39.kommentarlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kommentarlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.40" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.40.lautlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lautlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.41" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.41.bedenkenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bedenkenlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.42" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.42.schonungslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schonungslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.43" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.43.schlaflos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schlaflos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.44" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.44.lustlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lustlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.44.freudlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>freudlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.45" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.45.zwanglos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zwanglos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.46" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.46.achtlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>achtlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.47" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.47.schutzlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schutzlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.47.wehrlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wehrlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.48" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.48.wertlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wertlos</orthForm>
+</lexUnit>
+</synset>
+<synset id="aprivativ.49" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.49.konkurrenzlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konkurrenzlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.50" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.50.zeitlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zeitlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.51" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.51.kinderlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kinderlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.52" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.52.wortlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wortlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.53" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.53.drahtlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>drahtlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.54" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.54.kritiklos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kritiklos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.55" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.55.haltlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>haltlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.56" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.56.ausweglos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausweglos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.57" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.57.leblos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leblos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.58" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.58.hirnlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hirnlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.59" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.59.schuldlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schuldlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.60" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.60.klaglos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klaglos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.61" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.61.farblos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>farblos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.62" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.62.gedankenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gedankenlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.62.unbedacht" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbedacht</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.63" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.63.fruchtlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fruchtlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.64" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.64.glanzlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>glanzlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.65" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.65.formlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>formlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.66" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.66.erwerbslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>erwerbslos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.66.arbeitslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>arbeitslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.67" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.67.ziellos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ziellos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.68" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.68.atemlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>atemlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.68.außer_Atem" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>außer_Atem</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.69" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.69.schmerzlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmerzlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.70" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.70.neidlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>neidlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.71" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.71.kostenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kostenlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.71.kostenfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kostenfrei</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.71.gratis" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gratis</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.71.umsonst" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>umsonst</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.71.unentgeltlich" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unentgeltlich</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne zu zahlen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.72" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.72.lieblos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lieblos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.73" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.73.fensterlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fensterlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.74" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.74.einfallslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einfallslos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.74.ideenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ideenlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.75" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.75.kraftlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kraftlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.76" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.76.respektlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>respektlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.77" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.77.heimatlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>heimatlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.77.vaterlandslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vaterlandslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.78" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.78.gewissenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gewissenlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.78.skrupellos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>skrupellos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.79" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.79.niveaulos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>niveaulos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.79.geistlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geistlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.80" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.80.klassenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>klassenlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.81" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.81.gesichtslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gesichtslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.82" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.82.zahnlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zahnlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.83" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.83.verständnislos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verständnislos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.84" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.84.orientierungslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>orientierungslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.85" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.85.gehörlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gehörlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.86" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.86.teilnahmslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>teilnahmslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.87" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.87.witzlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>witzlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.88" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.88.schmucklos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmucklos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.89" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.89.risikolos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>risikolos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.89.gefahrlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gefahrlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.90" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.90.inhaltslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>inhaltslos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.90.inhaltsleer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>inhaltsleer</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.91" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.91.spurlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spurlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.92" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.92.sinnlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sinnlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.93" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.93.konzeptionslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konzeptionslos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.93.planlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>planlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.93.konfus" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konfus</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.94" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.94.fehlerlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fehlerlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.94.fehlerfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fehlerfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.95" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.95.ärmellos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ärmellos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.96" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.96.unterschiedslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unterschiedslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.97" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.97.parteilos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>parteilos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.97.parteifrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>parteifrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.98" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.98.anspruchslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anspruchslos</orthForm>
+</lexUnit>
+</synset>
+<synset id="aprivativ.99" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.99.zügellos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zügellos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.99.hemmungslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hemmungslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.100" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.100.taktlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>taktlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.101" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.101.humorlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>humorlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.102" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.102.wunschlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wunschlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>auch als Adverb</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.103" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.103.willenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>willenlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.104" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.104.rückhaltlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rückhaltlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.105" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.105.herzlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herzlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.105.seelenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>seelenlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.106" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.106.geschichtslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geschichtslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.107" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.107.übergangslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>übergangslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.108" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.108.stufenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stufenlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.109" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.109.schwerelos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwerelos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.110" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.110.arglos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>arglos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.111" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.111.zusammenhanglos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zusammenhanglos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.112" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.112.staatenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>staatenlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.113" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.113.rechtlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rechtlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.114" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.114.phantasielos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>phantasielos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.115" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.115.geräuschlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geräuschlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.116" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.116.uferlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>uferlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.116.bodenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bodenlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.116.heillos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>heillos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.116.kopflos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kopflos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.117" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.117.mutlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mutlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.118" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.118.bruchlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bruchlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.119" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.119.beschäftigungslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beschäftigungslos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.119.unbeschäftigt" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbeschäftigt</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.120" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.120.schnörkellos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schnörkellos</orthForm>
+</lexUnit>
+</synset>
+<synset id="aprivativ.121" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.121.mühelos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mühelos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.121.anstrengungslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anstrengungslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.122" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.122.bewegungslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bewegungslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.123" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.123.waffenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>waffenlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.123.unbewaffnet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unbewaffnet</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.124" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.124.bewaffnet" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bewaffnet</orthForm>
+</lexUnit>
+</synset>
+<synset id="aprivativ.125" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.125.ruhelos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ruhelos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.125.rastlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rastlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.126" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.126.beziehungslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beziehungslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.127" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.127.wolkenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wolkenlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.127.wolkenfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wolkenfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.128" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.128.reglos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>reglos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.128.regungslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>regungslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.129" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.129.gefühllos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gefühllos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.129.emotionslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>emotionslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.130" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.130.baumlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>baumlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.131" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.131.richtungslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>richtungslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.132" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.132.rettungslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rettungslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>auch als Adverb</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.133" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.133.profillos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>profillos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.134" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.134.perspektivlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>perspektivlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.134.aussichtslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>aussichtslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.135" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.135.herrschaftslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herrschaftslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.136" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.136.einflusslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einflusslos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.136.einflußlos" orthVar="ja" sense="1" stilMarkierung="nein">
+<orthForm>einflußlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.137" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.137.würdelos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>würdelos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.137.unwürdig" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unwürdig</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.138" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.138.langzeitarbeitslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>langzeitarbeitslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.139" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.139.ausnahmslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausnahmslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.140" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.140.tonlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tonlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.141" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.141.leidenschaftslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leidenschaftslos</orthForm>
+</lexUnit>
+</synset>
+<synset id="aprivativ.142" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.142.kulturlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kulturlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.143" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.143.illusionslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>illusionslos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.143.desillusioniert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>desillusioniert</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.144" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.144.gesetzlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gesetzlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.144.vogelfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vogelfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.145" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.145.furchtlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>furchtlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.145.angstlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>angstlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.145.unerschrocken" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unerschrocken</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.146" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.146.fleischlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fleischlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.146.vegetarisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vegetarisch</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.147" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.147.charakterlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>charakterlos</orthForm>
+</lexUnit>
+</synset>
+<synset id="aprivativ.148" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.148.berufslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>berufslos</orthForm>
+</lexUnit>
+</synset>
+<synset id="aprivativ.149" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.149.bartlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bartlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.150" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.150.steuerlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>steuerlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.150.steuerfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>steuerfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.151" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.151.schufafrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schufafrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.152" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.152.reizlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>reizlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.153" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.153.regellos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>regellos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.154" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.154.prinzipienlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>prinzipienlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.155" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.155.mitleidlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mitleidlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.156" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.156.geruchlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geruchlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.157" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.157.führerlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>führerlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.157.herrenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herrenlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.158" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.158.ehrlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ehrlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.159" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.159.brotlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>brotlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.160" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.160.absichtslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>absichtslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.161" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.161.substanzlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>substanzlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.162" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.162.stromlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stromlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.163" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.163.lichtlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lichtlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.164" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.164.körperlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>körperlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.165" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.165.konfliktlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konfliktlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.166" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.166.konfessionslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konfessionslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.167" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.167.komplikationslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>komplikationslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.168" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.168.fugenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fugenlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.169" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.169.disziplinlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>disziplinlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.170" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.170.vorurteilslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorurteilslos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.170.vorurteilsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorurteilsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.171" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.171.verfassungslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verfassungslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.172" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.172.vaterlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vaterlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.173" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.173.traumlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>traumlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.174" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.174.stimmrechtslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stimmrechtslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.175" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.175.schwanzlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwanzlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.176" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.176.schattenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schattenlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.177" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.177.ruhmlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ruhmlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.178" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.178.randlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>randlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.179" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.179.pietätlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pietätlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.179.gottlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gottlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.180" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.180.gestaltlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gestaltlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.181" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.181.geschlechtslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>geschlechtslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.182" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.182.führungslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>führungslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.183" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.183.friedlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>friedlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.184" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.184.fraglos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fraglos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.185" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.185.ereignislos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ereignislos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.186" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.186.ehelos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ehelos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.187" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.187.diskussionslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>diskussionslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.188" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.188.bedürfnislos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bedürfnislos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.189" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.189.ausdruckslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ausdruckslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.190" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.190.voraussetzungslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>voraussetzungslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.191" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.191.spannungslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spannungslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.192" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.192.schlackenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schlackenlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.193" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.193.interesselos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>interesselos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.193.interessenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>interessenlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.194" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.194.hüllenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hüllenlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.195" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.195.entschädigungslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>entschädigungslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.196" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.196.elternlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>elternlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.197" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.197.bundfaltenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bundfaltenlos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.198" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.198.besitzlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>besitzlos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.198.mittellos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mittellos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.199" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.199.anstandslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anstandslos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne Beanstandung</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.200" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.200.frei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>frei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von</paraphrase>
+</paraphrases>
+<examples>
+<example>
+<text>ein freier Parkplatz</text>
+</example>
+</examples>
+</synset>
+<synset id="aprivativ.201" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.201.einwandfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>einwandfrei</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.201.tadellos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tadellos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.202" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.202.spielfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spielfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.203" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.203.gewaltfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gewaltfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.204" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.204.kreisfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kreisfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.205" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.205.autofrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>autofrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.206" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.206.straffrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>straffrei</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.206.straflos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>straflos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.207" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.207.alkoholfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>alkoholfrei</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.207.nichtalkoholisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nichtalkoholisch</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.207.antialkoholisch" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>antialkoholisch</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.208" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.208.gebührenfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gebührenfrei</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.208.gebührenlos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gebührenlos</orthForm>
+</lexUnit>
+</synset>
+<synset id="aprivativ.209" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.209.verlustpunktfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verlustpunktfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.210" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.210.niederschlagsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>niederschlagsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.211" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.211.wertfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wertfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.212" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.212.rechtsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rechtsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.213" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.213.verfolgungsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verfolgungsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.214" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.214.rauchfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rauchfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.215" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.215.zollfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zollfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.216" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.216.frostfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>frostfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.217" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.217.bleifrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bleifrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.218" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.218.schuldenfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schuldenfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.219" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.219.drogenfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>drogenfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.220" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.220.schulfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schulfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.221" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.221.hitzefrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hitzefrei</orthForm>
+</lexUnit>
+</synset>
+<synset id="aprivativ.222" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.222.mietfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mietfrei</orthForm>
+</lexUnit>
+</synset>
+<synset id="aprivativ.223" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.223.arbeitsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>arbeitsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.224" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.224.blockfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blockfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.225" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.225.hierarchiefrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>hierarchiefrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.226" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.226.störungsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>störungsfrei</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.226.störungslos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>störungslos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.226.ungestört" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ungestört</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.227" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.227.schmerzfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schmerzfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.228" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.228.unterrichtsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>unterrichtsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.229" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.229.stressfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>stressfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.230" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.230.sorgenfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sorgenfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.231" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.231.konfliktfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konfliktfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.232" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.232.keimfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>keimfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.233" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.233.angstfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>angstfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.234" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.234.sinnfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sinnfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.235" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.235.beschwerdefrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beschwerdefrei</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.235.beschwerdenfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beschwerdenfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.236" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.236.atomwaffenfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>atomwaffenfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.237" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.237.rostfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rostfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.238" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.238.jugendfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>jugendfrei</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.238.kinderfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kinderfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>freigegeben für Minderjährige</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.239" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.239.akzentfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>akzentfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.240" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.240.abgasfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abgasfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.241" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.241.ideologiefrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ideologiefrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.242" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.242.vorlesungsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorlesungsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.243" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.243.schwindelfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schwindelfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.244" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.244.rezeptfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rezeptfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.245" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.245.beitragsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>beitragsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.246" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.246.risikofrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>risikofrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.247" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.247.nikotinfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>nikotinfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.248" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.248.werbefrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>werbefrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.249" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.249.wartungsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wartungsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.250" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.250.kreuzungsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kreuzungsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.251" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.251.dopingfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dopingfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.252" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.252.schneefrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schneefrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.253" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.253.lösungsmittelfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lösungsmittelfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.254" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.254.eisfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>eisfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.255" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.255.umsteigefrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>umsteigefrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.256" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.256.schienenfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schienenfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.257" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.257.schadstofffrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schadstofffrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.258" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.258.rückstandsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rückstandsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.259" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.259.regelfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>regelfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.260" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.260.müllfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>müllfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.261" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.261.genehmigungsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>genehmigungsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.262" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.262.zerstörungsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zerstörungsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.263" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.263.zeilenfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zeilenfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>zeilenfreies Fernsehen</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.264" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.264.wahlfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wahlfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei in der Wahl </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.265" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.265.spannungsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spannungsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.266" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.266.schadenfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schadenfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.267" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.267.regenfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>regenfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.268" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.268.herrschaftsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>herrschaftsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.269" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.269.chlorfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>chlorfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.270" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.270.chemiefrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>chemiefrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.271" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.271.verlustfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verlustfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.272" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.272.tilgungsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tilgungsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.273" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.273.textilfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>textilfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.274" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.274.machtfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>machtfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.275" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.275.kriegsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kriegsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.276" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.276.ermüdungsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ermüdungsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.277" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.277.dienstfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>dienstfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.278" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.278.asbestfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>asbestfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.279" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.279.zugfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zugfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.280" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.280.weichmacherfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>weichmacherfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.281" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.281.vortragsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vortragsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.282" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.282.verkehrsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verkehrsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.283" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.283.verantwortungsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verantwortungsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.284" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.284.holzfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>holzfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.285" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.285.tropenholzfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tropenholzfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.286" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.286.tabufrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tabufrei</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.286.tabulos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tabulos</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.287" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.287.tabakrauchfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>tabakrauchfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.288" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.288.staatsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>staatsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.289" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.289.rußfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rußfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.290" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.290.rauschfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>rauschfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.291" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.291.portofrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>portofrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.292" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.292.gemafrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gemafrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.293" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.293.niederlagenfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>niederlagenfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.294" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.294.mangelfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>mangelfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.295" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.295.kalkfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kalkfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.296" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.296.inflationsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>inflationsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.297" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.297.giftfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>giftfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.298" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.298.flüchtlingsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>flüchtlingsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.299" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.299.bündnisfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bündnisfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.300" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.300.atomenergiefrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>atomenergiefrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.301" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.301.ampelfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ampelfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.302" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.302.ölfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>ölfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.303" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.303.wissensfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wissensfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.304" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.304.wettbewerbsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wettbewerbsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.305" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.305.wasserfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>wasserfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.306" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.306.waffenfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>waffenfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.307" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.307.vorstellungsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>vorstellungsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.308" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.308.verschleißfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verschleißfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.309" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.309.verletzungsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>verletzungsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.310" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.310.trainingsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>trainingsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.311" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.311.sündenfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sündenfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.312" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.312.spesenfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>spesenfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.313" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.313.sozialversicherungsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sozialversicherungsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.314" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.314.sitzungsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sitzungsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.315" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.315.seifenfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>seifenfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.316" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.316.schadensfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>schadensfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.317" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.317.repressionsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>repressionsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.318" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.318.politikfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>politikfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.319" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.319.plastikfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>plastikfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.320" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.320.phosphatfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>phosphatfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.321" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.321.pfändungsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>pfändungsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.322" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.322.männerfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>männerfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.323" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.323.lösemittelfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lösemittelfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.324" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.324.lärmfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>lärmfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.325" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.325.leistungsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leistungsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.326" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.326.kündigungsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kündigungsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.327" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.327.kunstfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kunstfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.328" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.328.kriminalitätsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kriminalitätsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.329" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.329.kratzerfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kratzerfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.330" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.330.korruptionsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>korruptionsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.331" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.331.konzernfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konzernfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.332" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.332.konfrontationsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>konfrontationsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.333" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.333.kommunistenfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kommunistenfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.334" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.334.kohlendioxidfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>kohlendioxidfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.335" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.335.knitterfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>knitterfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.336" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.336.halbfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>halbfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.337" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.337.glaubensfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>glaubensfrei</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.337.religionsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>religionsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>Freiheit des Glaubens</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.338" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.338.gemeindefrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>gemeindefrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.339" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.339.frauenfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>frauenfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.340" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.340.floskelfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>floskelfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.341" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.341.flimmerfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>flimmerfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.342" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.342.fieberfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fieberfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.343" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.343.fettfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>fettfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.344" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.344.emotionsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>emotionsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.345" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.345.bügelfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>bügelfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.346" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.346.berührungsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>berührungsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.347" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.347.barrierefrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>barrierefrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.348" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.348.anrechnungsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>anrechnungsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.349" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.349.altlastenfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>altlastenfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.350" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.350.abzugsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abzugsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.351" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.351.abgabefrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abgabefrei</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.351.abgabenfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>abgabenfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>frei von </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.352" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.352.leer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>leer</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne jmd./etw. sein</paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.353" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.353.menschenleer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>menschenleer</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.354" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.354.luftleer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>luftleer</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.355" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.355.halbleer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>halbleer</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.356" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.356.sinnleer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sinnleer</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.356.sinnentleert" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>sinnentleert</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.357" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.357.blutleer" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>blutleer</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne </paraphrase>
+</paraphrases>
+</synset>
+<synset id="aprivativ.358" wordClass="adj">
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.358.zweifellos" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zweifellos</orthForm>
+</lexUnit>
+<lexUnit Eigenname="nein" artificial="nein" id="aprivativ.358.zweifelsfrei" orthVar="nein" sense="1" stilMarkierung="nein">
+<orthForm>zweifelsfrei</orthForm>
+</lexUnit>
+<paraphrases>
+<paraphrase>ohne Zweifel</paraphrase>
+</paraphrases>
+</synset>
+</synsets>
