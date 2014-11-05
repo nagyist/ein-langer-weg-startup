@@ -31,7 +31,7 @@ public class Interpretation {
 	public static Map<String, Object> interpretQuery(String query)
 			throws IOException {
 		Map<String, Object> INTERPRETATION_VALUES = null;
-		List<String> person_names = extractAllPersonNamesFromXML(query);
+		List<String> person_names = extractEntitiesFromXML(query, "person_name_lc", permutations(query));
 		if (person_names.size() > 0) {
 			INTERPRETATION_VALUES = new HashMap<String, Object>();
 			INTERPRETATION_VALUES.put("query", query);
@@ -44,20 +44,17 @@ public class Interpretation {
 			person_names.addAll(namesHS);
 			INTERPRETATION_VALUES.put("names", person_names);
 			query = removeEntitiesFromQuery(query, person_names);
-
-			List<String> extractLocations = extractAllLocationNamesFromXML(query);
+			List<String> locations = new ArrayList<String>();
+			for(String str : query.split("\\s+")) locations.add(str);
+			List<String> extractLocations = extractEntitiesFromXML(query, "location_name", locations);
 			HashSet<String> locationHS = new HashSet<String>();
 			locationHS.addAll(extractLocations);
 			extractLocations.clear();
 			extractLocations.addAll(locationHS);
-
 			INTERPRETATION_VALUES.put("location_found",
 					extractLocations.size() > 0);
 			INTERPRETATION_VALUES.put("locations", extractLocations);
-
 			INTERPRETATION_VALUES.put("intention", query);
-			
-
 		}
 		return INTERPRETATION_VALUES;
 	}
@@ -94,26 +91,23 @@ public class Interpretation {
 		return rs;
 	}
 
-	private static List<String> extractAllPersonNamesFromXML(String query)
+	private static List<String> extractEntitiesFromXML(String query, String label, List<String> qList)
 			throws IOException {
 		String solr_query = "";
-		List<String> split = permutations(query);
-		for (String str : split)
-			solr_query += "person_name_lc%3A\""
+		for (String str : qList)
+			solr_query += label + "%3A\""
 					+ URLEncoder.encode(str, "UTF-8") + "\"%20OR%20";
 		solr_query = solr_query.substring(0, solr_query.length() - 8);
-		String url = MessageFormat.format(SOLR_URL, solr_query,
-				"person_name_lc");
+		String url = MessageFormat.format(SOLR_URL, solr_query, label);
 		URL link = new URL(url);
 		HttpURLConnection connection = (HttpURLConnection) link
 				.openConnection();
 		connection.setRequestMethod("GET");
 		connection.setDoOutput(true);
 		connection.connect();
-		List<String> persons = new ArrayList<String>();
+		List<String> entitiesList = new ArrayList<String>();
 
 		try {
-
 			DocumentBuilderFactory dbFactory = DocumentBuilderFactory
 					.newInstance();
 			DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
@@ -129,58 +123,14 @@ public class Interpretation {
 				for (int j = 0; j < nList2.getLength(); j++) {
 					innerNode = nList2.item(j);
 					if (innerNode.hasAttributes())
-						persons.add(WordUtils.capitalize(node.getTextContent()
+						entitiesList.add(WordUtils.capitalize(node.getTextContent()
 								.trim()));
 				}
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-		return persons;
-	}
-
-	public static List<String> extractAllLocationNamesFromXML(String query)
-			throws IOException {
-		String solr_query = "";
-		String[] split = query.split("\\s+");
-		for (String str : split)
-			solr_query += "location_name%3A\""
-					+ URLEncoder.encode(str, "UTF-8") + "\"%20OR%20";
-		solr_query = solr_query.substring(0, solr_query.length() - 8);
-		String url = MessageFormat
-				.format(SOLR_URL, solr_query, "location_name");
-		URL link = new URL(url);
-		HttpURLConnection connection = (HttpURLConnection) link
-				.openConnection();
-		connection.setRequestMethod("GET");
-		connection.setDoOutput(true);
-		connection.connect();
-		List<String> locations = new ArrayList<String>();
-
-		try {
-
-			DocumentBuilderFactory dbFactory = DocumentBuilderFactory
-					.newInstance();
-			DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
-			InputStream in = connection.getInputStream();
-			Document doc = dBuilder.parse(in);
-
-			NodeList nList = doc.getElementsByTagName("doc");
-			Node node = null, innerNode = null;
-			int limitDocs = nList.getLength();
-			for (int i = 0; i < limitDocs; i++) {
-				node = nList.item(i);
-				NodeList nList2 = node.getChildNodes();
-				for (int j = 0; j < nList2.getLength(); j++) {
-					innerNode = nList2.item(j);
-					if (innerNode.hasAttributes())
-						locations.add(node.getTextContent().trim());
-				}
-			}
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
-		return locations;
+		return entitiesList;
 	}
 
 	/**
