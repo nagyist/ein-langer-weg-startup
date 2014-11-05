@@ -30,9 +30,10 @@ public class Interpretation {
 
 	public static Map<String, Object> interpretQuery(String query)
 			throws IOException {
-		Map<String, Object> INTERPRETATION_VALUES = new HashMap<String, Object>();
+		Map<String, Object> INTERPRETATION_VALUES = null;
 		List<String> person_names = extractAllPersonNamesFromXML(query);
 		if (person_names.size() > 0) {
+			INTERPRETATION_VALUES = new HashMap<String, Object>();
 			INTERPRETATION_VALUES.put("query", query);
 			String lang = LangDetector.detectLang(query);
 			INTERPRETATION_VALUES.put("language", lang);

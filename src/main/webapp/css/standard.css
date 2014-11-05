@@ -64,11 +64,12 @@ span {
 }
 
 p#hour {
-	font-size: 15px;
+	font-size: 20px;
 	float: right;
 	padding: 4px;
+	margin-top:19px;
 	margin-right: 5px;
-	color: yellow;
+	color: #009682;
 	font-family: Verdana, Arial, sans-serif;
 }
 
@@ -95,13 +96,14 @@ div#menu {
 #head {
 	float: left;
 	font-size: 20px;
-	color: yellow;
+	color: #009682;
 	font-family: Verdana, Arial, sans-serif;
 	margin-left: 20px;
 	margin-top: 12px;
 }
 
 div#header {
+	background-color: #cccccc;
 	-webkit-border-radius: 5px;
 	-webkit-border-bottom-right-radius: 5px;
 }
