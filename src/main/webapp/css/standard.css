@@ -67,7 +67,7 @@ p#hour {
 	font-size: 20px;
 	float: right;
 	padding: 4px;
-	margin-top:19px;
+	margin-top: 19px;
 	margin-right: 5px;
 	color: #009682;
 	font-family: Verdana, Arial, sans-serif;
@@ -82,6 +82,7 @@ div#inhalt {
 	float: right;
 	height: 100%;
 }
+
 div#menu {
 	position: relative;
 	display: block;
@@ -90,7 +91,7 @@ div#menu {
 	width: 19%;
 	background-color: #111;
 	padding: 10px;
-/* 	height: 350px; */
+	/* 	height: 350px; */
 }
 
 #head {
@@ -139,6 +140,7 @@ div#menu ul {
 div#nav ul {
 	margin-left: -20px;
 }
+
 div#nav {
 	position: relative;
 	height: 30px;

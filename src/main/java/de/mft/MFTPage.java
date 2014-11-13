@@ -5,11 +5,13 @@ import org.apache.wicket.request.mapper.parameter.PageParameters;
 import org.apache.wicket.behavior.AttributeAppender;
 import org.apache.wicket.markup.html.basic.Label;
 import org.apache.wicket.markup.html.form.Button;
+import org.apache.wicket.markup.html.form.DropDownChoice;
 import org.apache.wicket.markup.html.form.Form;
 import org.apache.wicket.markup.html.form.TextField;
 import org.apache.wicket.markup.html.panel.FeedbackPanel;
 import org.apache.wicket.markup.html.WebPage;
 import org.apache.wicket.model.Model;
+import org.apache.wicket.model.PropertyModel;
 
 import de.mft.interpretation.Interpretation;
 import de.mft.similarity.GNETSimilarity;
@@ -31,6 +33,9 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 public class MFTPage extends WebPage {
@@ -42,31 +47,46 @@ public class MFTPage extends WebPage {
 	private Label persons, locations, intention, instance, result,
 			feedback_panel, title, texte, instances;
 	
+	private static final List<String> MODELS = Arrays.asList(new String[] {
+			"MUSIK/RESSOURCEN", "LAND/ORT", "SPORT/KARRIERE" }); 
+	private Map<String, Integer> modelsIntanceLength = null;
+	
+
+	private String selected = "LAND/ORT";
+	private DropDownChoice<String> listModels;
+	
+	private String classFileName = "musik_ressourcen";
+	
 	private Button SUBMIT, TRUE, FALSE, SAVE, TOGGLE;
 	private Instances inst = null;
 	private AdaBoostM1 cls = null;
 	private static GNETSimilarity gnet = GNETSimilarity.getInstance();
 	private Map<String, Object> INTERPRETATION_VALUES = null;
-	private double similarity_to_location = 0.0;
-	private double similarity_to_lokation = 0.0;
+	private Instance instanceExample = null;
+	private int instanceExampleLength = 0;
 	
+	private double similarity_to_class_en = 0.0;
+	private double similarity_to_class_de = 0.0;
 	private String location_found = "?", klassifikation, 
 			positiv_class = "LAND/ORT",
 			negativ_class = "NACHRICHTEN/INFORMATION";
 	
-	private Instance iExample = null;
 
 	public MFTPage(final PageParameters parameters) throws Exception {
+		
 		super(parameters);
+		modelsIntanceLength = new HashMap<String, Integer>();
+		modelsIntanceLength.put("MUSIK/RESSOURCEN", 6);
+		modelsIntanceLength.put("LAND/ORT", 4);
+		modelsIntanceLength.put("SPORT/KARRIERE", 4);
 
 		initializeLabels();
 		final String arr[] = { "false", "true" };
 		initilizeButtons(arr);
-		hiteInformationText();
-		loadTrainedAlgorithm();
-		evaluateModell();
+		hideInformationText();
 
 		Form<?> searchForm = initializeSearchForm();
+
 		Form<?> feedbackForm = new Form<String>("feedbackForm");
 		Form<?> saveForm = new Form<String>("saveForm");
 		feedbackForm.add(TRUE);
@@ -76,8 +96,26 @@ public class MFTPage extends WebPage {
 		saveForm.add(TOGGLE);
 		addLabelToHomepage();
 		addFormsToHomepage(searchForm, feedbackForm, saveForm);
+			
 	}
 
+	private String convertToModelName(String className) {
+		String rs = null;
+		switch (className) {
+			case "MUSIK/RESSOURCEN":
+				rs = "musik_ressourcen";
+				break;
+			case "LAND/ORT":
+				rs = "land_ort";
+				break;
+			case "SPORT/KARRIERE":
+				rs = "sport_karriere";
+				break;
+			default:
+				break;
+		}
+		return rs;
+	}
 	private void addFormsToHomepage(Form<?> searchForm, Form<?> feedbackForm,
 			Form<?> saveForm) {
 		add(searchForm);
@@ -102,6 +140,21 @@ public class MFTPage extends WebPage {
 		Form<?> searchForm = new Form<String>("searchForm");
 		searchQuery = new TextField<String>("searchQuery", Model.of(""));
 		searchForm.add(searchQuery);
+
+		listModels = new DropDownChoice<String>(
+				"models", new PropertyModel<String>(this, "selected"), MODELS);
+		searchForm.add(listModels);
+		
+		String model_name = convertToModelName(searchForm.get("models").getDefaultModelObjectAsString());
+		instanceExampleLength = modelsIntanceLength.get(searchForm.get("models").getDefaultModelObjectAsString());
+		selected = model_name;
+		try {
+			loadTrainedAlgorithm(selected);			
+			evaluateModell();
+		} catch (Exception e) {
+			System.out.println(selected);
+			System.exit(0);
+		}
 		
 		SUBMIT = new Button("submitButton") {
 			@SuppressWarnings("deprecation")
@@ -113,11 +166,11 @@ public class MFTPage extends WebPage {
 							.interpretQuery(WordUtils.capitalize(searchQuery
 									.getModelObject()));
 					
-					similarity_to_location = (new WS4JSimilarity())
+					similarity_to_class_en = (new WS4JSimilarity())
 							.calculateSimilarityToAllClasses(
 									(String) INTERPRETATION_VALUES
 											.get("intention")).get("LAND/ORT");
-					similarity_to_lokation = gnet
+					similarity_to_class_de = gnet
 							.calculateSimilarityToAllClasses(
 									(String) INTERPRETATION_VALUES
 											.get("intention")).get("LAND/ORT");
@@ -134,13 +187,13 @@ public class MFTPage extends WebPage {
 				}
 				
 				try {
-					iExample = new Instance(4);
-					iExample.setDataset(inst);
-					iExample.setValue(0, location_found);
-					iExample.setValue(1, similarity_to_location);
-					iExample.setValue(2, similarity_to_lokation);
-					iExample.setValue(3, negativ_class);
-					double p = cls.classifyInstance(iExample);
+					instanceExample = new Instance(instanceExampleLength);
+					instanceExample.setDataset(inst);
+					instanceExample.setValue(0, location_found);
+					instanceExample.setValue(1, similarity_to_class_en);
+					instanceExample.setValue(2, similarity_to_class_de);
+					instanceExample.setValue(3, negativ_class);
+					double p = cls.classifyInstance(instanceExample);
 					klassifikation = inst.classAttribute().value((int) p);
 					
 					persons.setDefaultModelObject("Persons Found: "
@@ -153,7 +206,7 @@ public class MFTPage extends WebPage {
 					title.setDefaultModelObject(searchQuery.getModelObject()
 							+ " - Results");
 					instance.setDefaultModelObject("Dataset: "
-							+ iExample.toString().replace(negativ_class, "?"));
+							+ instanceExample.toString().replace(negativ_class, "?"));
 					result.setDefaultModelObject("Query classified as: "
 							+ klassifikation);
 					TRUE.add(new AttributeAppender("class", true,
@@ -172,6 +225,7 @@ public class MFTPage extends WebPage {
 
 		};
 		searchForm.add(SUBMIT);
+		
 		return searchForm;
 	}
 
@@ -184,8 +238,8 @@ public class MFTPage extends WebPage {
 		eval.evaluateModel(cls, inst);
 	}
 
-	private void loadTrainedAlgorithm() {
-		String modelPath = "models/AdaBoostM1_location_found_location_class_location_klasse.model";
+	private void loadTrainedAlgorithm(String model) {
+		String modelPath = "models/"+model+".model";
 		try {
 			cls = (AdaBoostM1) SerializationHelper.read(modelPath);
 		} catch (Exception e1) {
@@ -194,7 +248,7 @@ public class MFTPage extends WebPage {
 		}
 	}
 
-	private void hiteInformationText() {
+	private void hideInformationText() {
 		texte = new Label("texte", new Model<String>(""));
 		texte.setEscapeModelStrings(false);
 		texte.setDefaultModelObject("Die Suchmachine verwendet einen schon trainierten Klassifikator "
@@ -220,7 +274,7 @@ public class MFTPage extends WebPage {
 			@SuppressWarnings("deprecation")
 			@Override
 			public void onSubmit() {
-				String feedBack = "Datensatz \"<span style='color:deepPink'>" + iExample.toString() + "</span>\" wurde erfolgreich gespeichert";
+				String feedBack = "Datensatz \"<span style='color:deepPink'>" + instanceExample.toString() + "</span>\" wurde erfolgreich gespeichert";
 				feedback_panel.setEscapeModelStrings(false);
 				feedback_panel.setDefaultModelObject(feedBack);
 				SAVE.add(new AttributeAppender("class", true,
@@ -234,7 +288,7 @@ public class MFTPage extends WebPage {
 					while((line = br.readLine()) != null) {
 						sb.append(line+"\n");
 					}
-					sb.append(iExample.toString()+"\n");
+					sb.append(instanceExample.toString()+"\n");
 					insts = sb.toString();
 					br.close();
 					out = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("java_files/feedback_instances.arff"), "UTF8"));
@@ -258,12 +312,12 @@ public class MFTPage extends WebPage {
 			@SuppressWarnings("deprecation")
 			@Override
 			public void onSubmit() {
-				if (iExample != null) {
+				if (instanceExample != null) {
 					feedback_panel.setDefaultModelObject("Orakel Datansatz: "
-							+ arr[(int) iExample.value(0)] + ","
-							+ iExample.value(1) + "," + iExample.value(2) + ","
+							+ arr[(int) instanceExample.value(0)] + ","
+							+ instanceExample.value(1) + "," + instanceExample.value(2) + ","
 							+ klassifikation);
-					iExample.setClassValue(klassifikation);
+					instanceExample.setClassValue(klassifikation);
 				}
 				SAVE.add(new AttributeAppender("class", true,
 						new Model<String>("saveButton-make-visible"), " "));
@@ -276,12 +330,12 @@ public class MFTPage extends WebPage {
 			@SuppressWarnings("deprecation")
 			@Override
 			public void onSubmit() {
-				if (iExample != null) {
+				if (instanceExample != null) {
 					feedback_panel.setDefaultModelObject("Orakel Datansatz: "
-							+ arr[(int) iExample.value(0)] + ","
-							+ iExample.value(1) + "," + iExample.value(2) + ","
+							+ arr[(int) instanceExample.value(0)] + ","
+							+ instanceExample.value(1) + "," + instanceExample.value(2) + ","
 							+ contraKlassifikation(klassifikation));
-					iExample.setClassValue(contraKlassifikation(klassifikation));
+					instanceExample.setClassValue(contraKlassifikation(klassifikation));
 				}
 				SAVE.add(new AttributeAppender("class", true,
 						new Model<String>("saveButton-make-visible"), " "));
@@ -389,4 +443,5 @@ public class MFTPage extends WebPage {
 		}
 		return modelName;
 	}
+	
 }
