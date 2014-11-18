@@ -1,0 +1,14 @@
+@relation musik_ressourcen_feedback_instances 
+
+
+@attribute location_found {false, true}
+@attribute similarity_to_music_en numeric
+@attribute similarity_to_music_de numeric
+@attribute similarity_to_location_de numeric
+@attribute similarity_to_family_de numeric
+@attribute valueOfAllOtherClasses numeric
+@attribute class {MUSIK_RESSOURCEN,NO_MR}
+
+
+@data 
+

@@ -13,12 +13,12 @@
 <script> 
 $(document).ready(function(){
   $("#toggle").click(function(){
-    $("#instances").toggle();
+    $("#instances").slideToggle();
   });
 });
 $(document).ready(function(){
   $("#flip").click(function(){
-    $("#panel").toggle();
+    $("#panel").toggle("slow");
   });
 });
 
@@ -26,29 +26,6 @@ $(document).ready(function(){
     $("select").css("height", "35px", "margin-bottom", "15px");
 });
 </script>
-<style type="text/css">
-p#headerofSerach {
-	font-size: 30px; color: gray; margin-top: 250px; font-family: 'Times New Roman', Times, serif;
-}
-div#content-div {
-	text-align: center ;
-	width: 720px;
-	margin-left: auto;
-    margin-right: auto;
-}
-
-input[type="radio"] {
-	text-align: center ;
-    display: list-item;
-    float: left;
-}
-label {
-    display: inline;
-	float: left;
-}
-
-
-</style>
 </head>
 <body onload="updateClock()">
 	<div id="container" style="align:center" >
@@ -60,14 +37,17 @@ label {
 			</p>
 			<p id="hour"></p>
 		</div>
-		<div id="content-div">
-			<p id="headerofSerach">AdaBoost Search Engine with Feedback</p>
+		<center>
+			<p
+				style="font-size: 30px; color: gray; margin-top: 250px; font-family: 'Times New Roman', Times, serif;">AdaBoost
+				Search Engine with Feedback</p>
 			<form wicket:id="searchForm" method="GET" action="">
 				<input wicket:id="searchQuery" id="searchQuery" name="q" type="text"
 					style="font-size: 25px; height: 30px; width: 500px; align: center" />
+<!-- 			    <select wicket:id="models" id="models" style="margin-top:-10px;vertical-align:middle;" name="class_to_be_classified"> -->
+<!-- 			    </select> -->
 				<input wicket:id="submitButton" id="submitButton" type="submit"
 					value="" class="button" />
-				<div style="margin-top:10px;margin-left:75px;"><span wicket:id="radioGroup"></span></div>
 			</form>
 
 			<div id="flip">Information will be added below! Click here to
@@ -84,10 +64,9 @@ label {
 				<p wicket:id="result" class="results" style="color: blue">
 					result go here..</p>
 			</div>
-			
 			<div id="feedback-div">
 				<form wicket:id="feedbackForm" method="GET" action="">
-					<table style="margin-top:20px;text-align:center;margin-left: auto;margin-right: auto">
+					<table style="margin-top: 20px">
 						<tr>
 							<td style="width: 200px; height: 200px"><input type="submit"
 								id="true" wicket:id="true" class="hidden-buttons"
@@ -100,12 +79,11 @@ label {
 					</table>
 				</form>
 			</div>
-			
 			<form wicket:id="saveForm" method="GET" action="">
-				<table style="text-align:center;margin-left: auto;margin-right: auto;margin-top: 20px">
+				<table style="margin-top: 20px">
 					<tr>
 						<td>
-							<p wicket:id="feedback_instance" class="results"
+							<p wicket:id="feedback_panel" class="results"
 								style="color: #009682">result go here..</p>
 						</td>
 						<td><input wicket:id="save" type="submit" id="saveButton"
@@ -117,7 +95,8 @@ label {
 			</form>
 			<div wicket:id="instances" id="instances"></div>
 			<p wicket:id="texte" id="texte" class="texte"></p>
-		</div>
+			<span wicket:id="feedback">feedbackmessages will be put here..</span>
+		</center>
 	</div>
 </body>
 </html>

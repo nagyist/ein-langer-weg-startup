@@ -13,8 +13,8 @@ import org.apache.wicket.markup.html.WebPage;
 import org.apache.wicket.model.Model;
 import org.apache.wicket.model.PropertyModel;
 
-import de.mft.data.Klasse;
 import de.mft.interpretation.Interpretation;
+import de.mft.model.Klasse;
 import de.mft.similarity.GNETSimilarity;
 import de.mft.similarity.WS4JSimilarity;
 
@@ -149,10 +149,11 @@ public class HomePage extends WebPage {
 		
 		List<String> choices = new ArrayList<String>();
 		for(Klasse k : models) choices.add(k.getName());
-		String selected = "LAND/ORT";
-		 
+		
+		System.out.println(choices);
+		
 		final DropDownChoice<String> listModels = new DropDownChoice<String>(
-				"models", new PropertyModel<String>(this, "selected"), choices);
+				"models", new PropertyModel<String>(this, "models"), choices);
 		searchForm.add(listModels);
 		
 		submit = new Button("submitButton") {
@@ -171,12 +172,14 @@ public class HomePage extends WebPage {
 					
 					instanceExample = new Instance(instanceLength);
 					instanceExample.setDataset(inst);
+					
 					Map<String, Object> results = new HashMap<String, Object>();
 					for(String attribute : models.get(1).getAttributeNames()) {
 						results.put(attribute, null);
 					}
 					
 					for(int i = 0; i < results.size(); i++) {
+						instanceExample.setValue(i, (double) results.get(i));
 						instanceExample.setValue(i, (double) results.get(i));
 					}
 					
@@ -203,22 +206,15 @@ public class HomePage extends WebPage {
 					texte.add(new AttributeAppender("class", true,
 							new Model<String>("texte-after-submit"), " "));
 					
-					
-					
 				} catch (NullPointerException e) {
 					System.out.println("NullPointerException: Submit");
 				}
 				catch (Exception e) {
 					System.out.println("Exception: Submit");
 				}
-				
-				
 			}
-
-			
-
 		};
-		
+		searchForm.add(submit);
 		return searchForm;
 	}
 
@@ -329,8 +325,4 @@ public class HomePage extends WebPage {
 				+ "wird dann beobachtet.");
 	}
 	
-//	public static void main(String[] args) {
-//		System.out.println(HomePage.models);
-//	}
-
 }

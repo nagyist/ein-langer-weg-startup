@@ -7,11 +7,13 @@ option {
 
 
 .results {
-	margin-top: 20px;
-	margin-bottom: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 	font-family: Verdana;
-	font-size: 20px
+	font-size: 20px;
+	text-align:center;margin-left: auto;margin-right: auto
 }
+
 
 p#positiv-feedback {
 	color: #009682;
@@ -122,21 +124,21 @@ input#false:hover {
 }
 
 #instances {
-	padding: 50px;
+	width: 89.5%;
+	text-align:center;margin-left: auto;margin-right: auto;
 	display: none;
 }
 
 #panel,#flip {
 	width: 80%;
 	padding: 5px;
-	align:center;
-	text-align: center;
 	font-size: 15px;
 	font-family: Verdana;
 	background-color: #e5eecc;
 	border: solid 1px #c3c3c3;
 	-webkit-border-radius: 5px;
 	-webkit-border-bottom-right-radius: 5px;
+	text-align:center;margin-left: auto;margin-right: auto
 }
 
 #flip {
@@ -151,6 +153,6 @@ input#false:hover {
 }
 
 #panel {
-	padding: 50px;
+	width: 89.5%;
 	display: none;
 }

@@ -23,6 +23,9 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
+import de.mft.similarity.GNETSimilarity;
+import de.mft.similarity.WS4JSimilarity;
+
 
 public class Interpretation {
 
@@ -30,19 +33,19 @@ public class Interpretation {
 
 	public static Map<String, Object> interpretQuery(String query)
 			throws IOException {
-		Map<String, Object> INTERPRETATION_VALUES = null;
+		Map<String, Object> interpretation = null;
 		List<String> person_names = extractEntitiesFromXML(query, "person_name_lc", permutations(query));
 		if (person_names.size() > 0) {
-			INTERPRETATION_VALUES = new HashMap<String, Object>();
-			INTERPRETATION_VALUES.put("query", query);
+			interpretation = new HashMap<String, Object>();
+			interpretation.put("query", query);
 			String lang = LangDetector.detectLang(query);
-			INTERPRETATION_VALUES.put("language", lang);
+			interpretation.put("language", lang);
 			query = StopWordsRemover.removeStopWords(query);
 			HashSet<String> namesHS = new HashSet<String>();
 			namesHS.addAll(person_names);
 			person_names.clear();
 			person_names.addAll(namesHS);
-			INTERPRETATION_VALUES.put("names", person_names);
+			interpretation.put("names", person_names);
 			query = removeEntitiesFromQuery(query, person_names);
 			List<String> locations = new ArrayList<String>();
 			for(String str : query.split("\\s+")) locations.add(str);
@@ -51,12 +54,16 @@ public class Interpretation {
 			locationHS.addAll(extractLocations);
 			extractLocations.clear();
 			extractLocations.addAll(locationHS);
-			INTERPRETATION_VALUES.put("location_found",
+			interpretation.put("location_found",
 					extractLocations.size() > 0);
-			INTERPRETATION_VALUES.put("locations", extractLocations);
-			INTERPRETATION_VALUES.put("intention", query);
+			interpretation.put("locations", extractLocations);
+			interpretation.put("intention", query);
+//			Map<String, Double> de_similarities = gnet.calculateSimilarityToAllClasses(query);
+//			Map<String, Double> en_similarities = (new WS4JSimilarity()).calculateSimilarityToAllClasses(query);
+//			interpretation.put("en_similarities", en_similarities);
+//			interpretation.put("de_similarities", de_similarities);
 		}
-		return INTERPRETATION_VALUES;
+		return interpretation;
 	}
 
 	private static String removeEntitiesFromQuery(String query,
@@ -141,7 +148,7 @@ public class Interpretation {
 	public static void main(String[] args) throws IOException, SQLException {
 
 		String search = "Michael Jackson Chicago";
-
+		GNETSimilarity gnet = GNETSimilarity.getInstance();
 		try {
 			Map<String, Object> map = interpretQuery(search);
 			System.out.println(map);

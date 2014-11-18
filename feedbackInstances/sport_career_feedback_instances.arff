@@ -1,0 +1,8 @@
+@relation sport_class_feedback_instances 
+
+@attribute similarity_to_sport_class_en numeric
+@attribute similarity_to_sport_class_de numeric
+@attribute class {SPORT_KARRIERE, NO_SK}
+
+@data
+
