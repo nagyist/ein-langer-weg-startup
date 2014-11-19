@@ -57,22 +57,39 @@ p#negativ-feedback {
 	background-color: #eee;
 }
 
+.musik_ressourcen {
+	visibility: visible;
+	font-size: 20px;
+	font-family: Verdana;
+	text-align: center;
+	cursor: pointer;
+	width: 100%;
+	height: 100%;
+    background:url(../images/musik_ressourcen.png) no-repeat right top; 
+}
+.land_ort {
+	visibility: visible;
+	font-size: 20px;
+	font-family: Verdana;
+	text-align: center;
+	cursor: pointer;
+	width: 100%;
+	height: 100%;
+    background:url(../images/land_ort.png) no-repeat right top; 
+}
+.sport_career {
+	visibility: visible;
+	font-size: 20px;
+	font-family: Verdana;
+	text-align: center;
+	cursor: pointer;
+	width: 100%;
+	height: 100%;
+    background:url(../images/sport_career.png) no-repeat right top; 
+}
+
 input#true {
 	margin-right: 25px;
-}
-
-input#false {
-	margin-left: 25px;
-}
-
-input#true:hover {
-	color: #111;
-	background-color: #009682;
-}
-
-input#false:hover {
-	color: yellow;
-	background-color: #880000;
 }
 
 #submitButton {
@@ -129,7 +146,7 @@ input#false:hover {
 	display: none;
 }
 
-#panel,#flip {
+#panel,#flip,#toggleInstances {
 	width: 80%;
 	padding: 5px;
 	font-size: 15px;
@@ -141,13 +158,13 @@ input#false:hover {
 	text-align:center;margin-left: auto;margin-right: auto
 }
 
-#flip {
+#flip, #toggleInstances {
 	margin-top: 30px;
 	cursor: pointer;
 	width: 89.5%;
 }
 
-#flip:hover {
+#flip:hover, #toggleInstances:hover {
 	background-color: #009286;
 	color: orange;
 }

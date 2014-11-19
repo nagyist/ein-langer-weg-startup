@@ -14,13 +14,11 @@ import org.apache.wicket.model.PropertyModel;
 
 import de.mft.interpretation.Interpretation;
 import de.mft.model.Klasse;
-import de.mft.similarity.GNETSimilarity;
+import de.mft.similarity.GNETManager;
 import de.mft.similarity.WS4JSimilarity;
 
-import weka.classifiers.Classifier;
 import weka.classifiers.Evaluation;
 import weka.classifiers.meta.AdaBoostM1;
-import weka.core.Attribute;
 import weka.core.Instance;
 import weka.core.Instances;
 import weka.core.SerializationHelper;
@@ -38,41 +36,36 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.Map.Entry;
 
 public class MFTPage extends WebPage {
 
 	private static final long serialVersionUID = 1L;
 	private TextField<String> searchQuery;
-	
+
 	private Label persons, locations, intention, instance, result,
-			feedback_instance, title, texte, instances;
-	
+				title, texte, instances;
+
 	private RadioChoice<String> radio;
 
-	private Button submitButton, positivFeedbackButton, negativFeedbackButton, saveButton, toggleButton;
+	private Button submitButton, positivFeedbackButton;
 	private Instances inst = null;
 	private AdaBoostM1 cls = null;
-	private static GNETSimilarity gnet = GNETSimilarity.getInstance();
+	private static GNETManager gnet = GNETManager.getInstance();
 	private static WS4JSimilarity ws4j = new WS4JSimilarity();
-	
+
 	private Map<String, Object> interpretation = null;
 	private Instance instanceExample = null;
-	
-	private double similarity_to_class_en = 0.0;
-	private double similarity_to_class_de = 0.0;
-	private String location_found = "?", klassifikation, 
-			positiv_class;
-	private static String negativ_class = "NO_";
-	private String selected = Klasse.landOrtClass;
-	
-	private Map<String, Object> results; 
-	
-	
-	private Form<?> searchForm, saveForm, feedbackForm;
+
+	private String klassifikation, positiv_class;
+	private static String negativ_class;
+	private String selected = Klasse.musicClass;
+
+	private static boolean positiverFeedBack = false;
+
+	private Form<?> searchForm, feedbackForm;
 
 	public MFTPage(final PageParameters parameters) throws Exception {
-		
+
 		super(parameters);
 		initializeLabels();
 		final String arr[] = { "false", "true" };
@@ -81,25 +74,6 @@ public class MFTPage extends WebPage {
 
 		searchForm = initializeSearchForm();
 
-		feedbackForm = new Form<String>("feedbackForm");
-		saveForm = new Form<String>("saveForm");
-		feedbackForm.add(positivFeedbackButton);
-		feedbackForm.add(negativFeedbackButton);
-		saveForm.add(feedback_instance);
-		saveForm.add(saveButton);
-		saveForm.add(toggleButton);
-		addLabelsToHomepage();
-		addFormsToHomepage();
-			
-	}
-
-	private void addFormsToHomepage() {
-		add(searchForm);
-		add(feedbackForm);
-		add(saveForm);
-	}
-
-	private void addLabelsToHomepage() {
 		add(persons);
 		add(locations);
 		add(intention);
@@ -108,146 +82,193 @@ public class MFTPage extends WebPage {
 		add(title);
 		add(texte);
 		add(instances);
+		feedbackForm = new Form<String>("feedbackForm");
+		feedbackForm.add(positivFeedbackButton);
+		add(searchForm);
+		add(feedbackForm);
 	}
 
+	@SuppressWarnings("serial")
 	private Form<?> initializeSearchForm() {
-		// Add a form with an onSubmit implementation that sets a message
 		Form<?> searchForm = new Form<String>("searchForm");
 		searchQuery = new TextField<String>("searchQuery", Model.of(""));
 		searchForm.add(searchQuery);
 
-		radio = new RadioChoice<String>("radioGroup", new PropertyModel<String>(
-				this, "selected"), Arrays.asList(new String[] {
-				Klasse.musicClass, Klasse.landOrtClass, Klasse.sportClass }));
+		radio = new RadioChoice<String>("radioGroup",
+				new PropertyModel<String>(this, "selected"),
+				Arrays.asList(new String[] { Klasse.musicClass,
+						Klasse.landOrtClass, Klasse.sportClass }));
 		searchForm.add(radio);
-		
-		positiv_class = selected;
-		negativ_class += String.valueOf(positiv_class.charAt(0)) + String.valueOf(positiv_class.charAt(positiv_class.indexOf("_") + 1));
-		
-		loadTrainedAlgorithm(getModelName(selected));			
-		evaluateModell(getModelName(selected));
-		
+
 		submitButton = new Button("submitButton") {
-			@SuppressWarnings("deprecation")
 			@Override
 			public void onSubmit() {
-				String indexClass = positiv_class.replace("_", "/");
+
+				fillFeedbackInstancesField();
+				System.out.println("Feedback Instances number " + countFeedbackInstances());
+				loadTrainedAlgorithm(getModelName(selected));
+				evaluateModell(getModelName(selected));
+				positiv_class = selected;
+				negativ_class = "NO_"
+						+ String.valueOf(positiv_class.charAt(0))
+						+ String.valueOf(positiv_class.charAt(positiv_class
+								.indexOf("_") + 1));
+				
+				if (!positiverFeedBack && instanceExample != null) {
+					instanceExample.setClassValue(contraKlassifikation());
+					saveFeedbackInstance();
+				}
 				try {
-					interpretation = Interpretation
-							.interpretQuery(WordUtils.capitalize(searchQuery
-									.getModelObject()));
-					
-					results = getResultsForClass(selected, interpretation);
-					for(String key : results.keySet()) {
+					interpretation = Interpretation.interpretQuery(WordUtils
+							.capitalize(searchQuery.getModelObject()));
+
+					Map<String, Object> results = getResultsForClass(selected,
+							interpretation);
+					for (String key : results.keySet()) {
 						if ("Infinity".equals(results.get(key).toString()))
 							results.put(key, new Double(10));
 					}
-//					similarity_to_class_en = ws4j
-//							.calculateSimilarityToAllClasses(
-//									(String) interpretation
-//											.get("intention")).get(indexClass);
-//					similarity_to_class_de = gnet
-//							.calculateSimilarityToAllClasses(
-//									(String) interpretation
-//											.get("intention")).get(indexClass);
-//					location_found = interpretation
-//							.get("location_found").toString();
+					int sizeOfInstance = results.size();
+					instanceExample = new Instance(sizeOfInstance);
+					instanceExample.setDataset(inst);
+
+					initializeInstanceExample(results);
+					double p = cls.classifyInstance(instanceExample);
+					klassifikation = inst.classAttribute().value((int) p);
 				} catch (IOException e1) {
 					System.out.println("WordNet v GermaNet Fehler...");
 				} catch (NullPointerException e1) {
-					locations.setEscapeModelStrings(false);
-					locations.setDefaultModelObject("<center><span style='text-align:center;font-size:50px;color:#009682;font-weight: bold;'>Person not found 404, Please try another Person</span></center>");
-					texte.add(new AttributeAppender("class", true,
-							new Model<String>("texte-after-submit"), " "));
-					title.setDefaultModelObject("No Results Found for Query " + searchQuery.getModelObject());
-					instance.setDefaultModelObject("");
-					result.setDefaultModelObject("");
-					persons.setDefaultModelObject("");
-					intention.setDefaultModelObject("");
-					System.out.println("Interpretation Fehler: No Person Found or Solr is not started ...");
-				}
-				
-				try {
-//					int sizeOfInstance = 4;
-					int sizeOfInstance = results.size();
-					instanceExample = new Instance(sizeOfInstance);
-					List<String> attris = (new Klasse(selected)).getAttributeNames();
-
-					for(String str : attris) {
-						instanceExample.setValue(new Attribute(str), results.get(str).toString());							
-					}
-					System.out.println(instanceExample.toString());
-//					instanceExample.setDataset(inst);
-//					instanceExample.setValue(0, location_found);
-//					instanceExample.setValue(1, similarity_to_class_en);
-//					instanceExample.setValue(2, similarity_to_class_de);
-//					instanceExample.setValue(3, negativ_class);
-					double p = cls.classifyInstance(instanceExample);
-					klassifikation = inst.classAttribute().value((int) p);
+					noPersonFoundCase();
 				} catch (Exception e) {
-					System.out.println(instanceExample.numAttributes());
-					System.out.println(instanceExample.toString());
 					System.out.println("Classification Fehler: 1");
-				}	
+				}
+
 				try {
-					persons.setDefaultModelObject("Persons Found: "
-							+ interpretation.get("names"));
-					intention
-							.setDefaultModelObject("The intention of the Searcher: "
-									+ interpretation.get("intention"));
-					locations.setDefaultModelObject("Locations Found: "
-							+ interpretation.get("locations"));
-					title.setDefaultModelObject(searchQuery.getModelObject()
-							+ " - Results");
-					instance.setDefaultModelObject("Dataset: "
-							+ instanceExample.toString().replace(negativ_class, "?"));
-					result.setDefaultModelObject("Query classified as: "
-							+ klassifikation);
-					positivFeedbackButton.add(new AttributeAppender("class", true,
-							new Model<String>("visible-buttons"), " "));
-					negativFeedbackButton.add(new AttributeAppender("class", true,
-							new Model<String>("visible-buttons"), " "));
-					texte.add(new AttributeAppender("class", true,
-							new Model<String>("texte-after-submit"), " "));
+					writeSubmitResultsToFeedbackPannel();
 				} catch (NullPointerException e) {
-					System.out.println("Interpretation Fehler: NullPointer ...");
+					System.out
+							.println("Interpretation Fehler: NullPointer ...");
 				} catch (Exception e) {
 					System.out.println("Classification Fehler: 2");
 				}
 
 			}
-
 		};
 		searchForm.add(submitButton);
-		
+
 		return searchForm;
 	}
 
+	
+	private void initializeInstanceExample(Map<String, Object> results) {
+		if (Klasse.musicClass.equals(selected)) {
+			instanceExample.setValue(0,
+					results.get("location_found").toString());
+			instanceExample.setValue(1,
+					(double) results.get("similarity_to_music_en"));
+			instanceExample.setValue(2,
+					(double) results.get("similarity_to_music_de"));
+			instanceExample.setValue(3, (double) results
+					.get("similarity_to_location_de"));
+			instanceExample
+					.setValue(4, (double) results
+							.get("similarity_to_family_de"));
+			instanceExample.setValue(5,
+					(double) results.get("valueOfAllOtherClasses"));
+			instanceExample.setClassValue(results.get("class")
+					.toString());
+		} else if (Klasse.landOrtClass.equals(selected)) {
+			instanceExample.setValue(0,
+					results.get("location_found").toString());
+			instanceExample.setValue(1, (double) results
+					.get("similarity_to_location_en"));
+			instanceExample.setValue(2, (double) results
+					.get("similarity_to_location_de"));
+			instanceExample.setClassValue(results.get("class")
+					.toString());
+		} else if (Klasse.sportClass.equals(selected)) {
+			instanceExample.setValue(0,
+					(double) results.get("similarity_to_sport_en"));
+			instanceExample.setValue(1,
+					(double) results.get("similarity_to_sport_de"));
+			instanceExample.setClassValue(results.get("class")
+					.toString());
+		}
+	}
+	@SuppressWarnings({ "deprecation" })	
+	private void noPersonFoundCase() {
+		locations.setEscapeModelStrings(false);
+		locations
+				.setDefaultModelObject("<center><span style='text-align:center;font-size:50px;color:#009682;font-weight: bold;'>Person not found 404, Please try another Person</span></center>");
+		texte.add(new AttributeAppender("class", true,
+				new Model<String>("texte-after-submit"), " "));
+		title.setDefaultModelObject("No Results Found for Query "
+				+ searchQuery.getModelObject());
+		instance.setDefaultModelObject("");
+		result.setDefaultModelObject("");
+		persons.setDefaultModelObject("");
+		intention.setDefaultModelObject("");
+		System.out
+				.println("Interpretation Fehler: No Person Found or Solr is not started ...");
+	}
+	@SuppressWarnings({ "deprecation" })
+	private void writeSubmitResultsToFeedbackPannel() {
+		persons.setDefaultModelObject("Persons Found: "
+				+ interpretation.get("names"));
+		intention
+				.setDefaultModelObject("The intention of the Searcher: "
+						+ interpretation.get("intention"));
+		locations.setDefaultModelObject("Locations Found: "
+				+ interpretation.get("locations"));
+		title.setDefaultModelObject(searchQuery.getModelObject()
+				+ " - Results");
+		instance.setDefaultModelObject("Dataset: "
+				+ instanceExample.toString().replace(negativ_class,
+						"?"));
+		result.setDefaultModelObject("Query classified as: "
+				+ klassifikation);
+		positivFeedbackButton.add(new AttributeAppender("class",
+				true, new Model<String>(getModelName(selected)), " "));
+		texte.add(new AttributeAppender("class", true,
+				new Model<String>("texte-after-submit"), " "));
+	}
+	
 	private static Map<String, Object> getResultsForClass(String selected,
 			Map<String, Object> interpretation) {
 		Map<String, Object> rs = new HashMap<String, Object>();
 		List<String> attris = (new Klasse(selected)).getAttributeNames();
-		for(String attr : attris)  {
+		Map<String, Double> de = gnet
+				.calculateSimilarityToAllClasses((String) interpretation
+						.get("intention"));
+		Map<String, Double> en = ws4j
+				.calculateSimilarityToAllClasses((String) interpretation
+						.get("intention"));
+		for (String attr : attris) {
 			if (attr.endsWith("_de")) {
-				rs.put(attr, gnet
-							.calculateSimilarityToAllClasses(
-									(String) interpretation
-											.get("intention")).get(Klasse.attributesOriginalNames.get(attr)));				
-			} else if(attr.endsWith("_en")) {
-				rs.put(attr, ws4j
-						.calculateSimilarityToAllClasses(
-								(String) interpretation
-										.get("intention")).get(Klasse.attributesOriginalNames.get(attr)));				
-
+				rs.put(attr, de.get(Klasse.attributesOriginalNames.get(attr)));
+			} else if (attr.endsWith("_en")) {
+				rs.put(attr, en.get(Klasse.attributesOriginalNames.get(attr)));
 			} else if (attr.equals("class")) {
 				rs.put(attr, negativ_class);
+			} else if (attr.equals("valueOfAllOtherClasses")) {
+				String[] arr = { "MUSIK/RESSOURCEN", "NACHRICHTEN/INFORMATION",
+						"SPORT/KARRIERE", "KÖRPER/MENSCH",
+						"FAMILIE/PRIVATSPHÄRE", "LAND/ORT" };
+				double temp = 0;
+				Map<String, Double> de_similarities = gnet
+						.calculateSimilarityToAllClasses((String) interpretation
+								.get("intention"));
+				for (String str : arr) {
+					temp += de_similarities.get(str);
+				}
+				rs.put(attr, temp / arr.length);
 			} else {
 				rs.put(attr, interpretation.get(attr));
 			}
 		}
 		return rs;
 	}
-	
+
 	private String getModelName(String name) {
 		String modelName = null;
 		switch (name) {
@@ -268,7 +289,7 @@ public class MFTPage extends WebPage {
 
 	private void evaluateModell(String modelName) {
 		// Evaluate Algorithm
-		String testingsdata = "trainTestData/"+modelName+"_test_data.arff";
+		String testingsdata = "trainTestData/" + modelName + "_test_data.arff";
 		inst = createInstancesFromData(testingsdata);
 		inst.setClassIndex(inst.numAttributes() - 1);
 		Evaluation eval;
@@ -282,7 +303,7 @@ public class MFTPage extends WebPage {
 	}
 
 	private void loadTrainedAlgorithm(String model) {
-		String modelPath = "models/"+model+".model";
+		String modelPath = "models/" + model + ".model";
 		try {
 			cls = (AdaBoostM1) SerializationHelper.read(modelPath);
 		} catch (Exception e1) {
@@ -307,90 +328,113 @@ public class MFTPage extends WebPage {
 
 	@SuppressWarnings("serial")
 	private void initilizeButtons(final String[] arr) {
-		toggleButton = new Button("toggle") {
-			@Override
-			public void onSubmit() {
-				
-			}
-		};
-		saveButton = new Button("save") {
-			@SuppressWarnings("deprecation")
-			@Override
-			public void onSubmit() {
-				String feedBack = "Datensatz \"<span style='color:deepPink'>" + instanceExample.toString() + "</span>\" wurde erfolgreich gespeichert";
-				feedback_instance.setEscapeModelStrings(false);
-				feedback_instance.setDefaultModelObject(feedBack);
-				saveButton.add(new AttributeAppender("class", true,
-						new Model<String>("hidden-buttons"), " "));
-				BufferedReader br;
-				Writer out;
-				String line, insts = "";
-				StringBuffer sb = new StringBuffer();
-				try {
-					br = new BufferedReader(new FileReader(new File("" +
-							"feedbackInstances/" + getModelName(selected) + "_feedback_instances.arff")));
-					while((line = br.readLine()) != null) {
-						sb.append(line+"\n");
-					}
-					sb.append(instanceExample.toString()+"\n");
-					insts = sb.toString();
-					br.close();
-					out = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("java_files/feedback_instances.arff"), "UTF8"));
-					out.append(sb.toString());
-					out.flush();
-					out.close();
-				} catch (FileNotFoundException e) {
-					// TODO Auto-generated catch block
-					e.printStackTrace();
-				} catch (IOException e) {
-					// TODO Auto-generated catch block
-					e.printStackTrace();
-				}
-				insts = "<p  class=\"results\" style='text-align:left;margin-top:10px;margin-buttom:10px'>" + insts.replaceAll("\n", "<br />") + "</p>";
-				instances.setEscapeModelStrings(false);
-				instances.setDefaultModelObject(insts);
-			}
-		};
-		
-		positivFeedbackButton = new Button("true") {
-			@SuppressWarnings("deprecation")
-			@Override
-			public void onSubmit() {
-				if (instanceExample != null) {
-					feedback_instance.setDefaultModelObject("Orakel Datansatz: "
-							+ arr[(int) instanceExample.value(0)] + ","
-							+ instanceExample.value(1) + "," + instanceExample.value(2) + ","
-							+ klassifikation);
-					instanceExample.setClassValue(klassifikation);
-				}
-				saveButton.add(new AttributeAppender("class", true,
-						new Model<String>("saveButton-make-visible"), " "));
-				toggleButton.add(new AttributeAppender("class", true,
-						new Model<String>("toggleButton-make-visible"), " "));
-			}
-		};
 
-		negativFeedbackButton = new Button("false") {
-			@SuppressWarnings("deprecation")
+		positivFeedbackButton = new Button("true") {
 			@Override
 			public void onSubmit() {
-				if (instanceExample != null) {
-					feedback_instance.setDefaultModelObject("Orakel Datansatz: "
-							+ arr[(int) instanceExample.value(0)] + ","
-							+ instanceExample.value(1) + "," + instanceExample.value(2) + ","
-							+ contraKlassifikation(klassifikation));
-					instanceExample.setClassValue(contraKlassifikation(klassifikation));
-				}
-				saveButton.add(new AttributeAppender("class", true,
-						new Model<String>("saveButton-make-visible"), " "));
-				toggleButton.add(new AttributeAppender("class", true,
-						new Model<String>("toggleButton-make-visible"), " "));
+				instanceExample.setClassValue(klassifikation);
+				saveFeedbackInstance();
+				positiverFeedBack = true;
 			}
+
 		};
 	}
+
+	private void saveFeedbackInstance() {
+		BufferedReader br;
+		Writer out;
+		String line, insts = "";
+		StringBuffer sb = new StringBuffer();
+		try {
+			br = new BufferedReader(new FileReader(new File(""
+					+ "feedbackInstances/" + getModelName(selected)
+					+ "_feedback_instances.arff")));
+			while ((line = br.readLine()) != null) {
+				sb.append(line + "\n");
+			}
+			sb.append(instanceExample.toString() + "\n");
+			insts = sb.toString();
+			br.close();
+			out = new BufferedWriter(new OutputStreamWriter(
+					new FileOutputStream("feedbackInstances/"
+							+ getModelName(selected)
+							+ "_feedback_instances.arff"), "UTF8"));
+			out.append(sb.toString());
+			out.flush();
+			out.close();
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		insts = "<p  class=\"results\" style='text-align:left;margin-top:10px;margin-buttom:10px'>"
+				+ insts.replaceAll("\n", "<br />") + "</p>";
+		instances.setEscapeModelStrings(false);
+		instances.setDefaultModelObject(insts);
+	}
 	
-	private String contraKlassifikation(String klasse) {
-		return (klasse.equals(negativ_class)) ? positiv_class : negativ_class;
+	private void fillFeedbackInstancesField() {
+		BufferedReader br;
+		Writer out;
+		String line, insts = "";
+		StringBuffer sb = new StringBuffer();
+		try {
+			br = new BufferedReader(new FileReader(new File(""
+					+ "feedbackInstances/" + getModelName(selected)
+					+ "_feedback_instances.arff")));
+			while ((line = br.readLine()) != null) {
+				sb.append(line + "\n");
+			}
+			insts = sb.toString();
+			br.close();
+			out = new BufferedWriter(new OutputStreamWriter(
+					new FileOutputStream("feedbackInstances/"
+							+ getModelName(selected)
+							+ "_feedback_instances.arff"), "UTF8"));
+			out.append(sb.toString());
+			out.flush();
+			out.close();
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		insts = "<p  class=\"results\" style='text-align:left;margin-top:10px;margin-buttom:10px'>"
+				+ insts.replaceAll("\n", "<br />") + "</p>";
+		instances.setEscapeModelStrings(false);
+		instances.setDefaultModelObject(insts);
+	}
+	
+	private int countFeedbackInstances() {
+		int rs = 0;
+		BufferedReader br;
+		@SuppressWarnings("unused")
+		String line;
+		try {
+			br = new BufferedReader(new FileReader(new File(""
+					+ "feedbackInstances/" + getModelName(selected)
+					+ "_feedback_instances.arff")));
+			while ((line = br.readLine()) != null) {
+				rs++;
+			}
+			br.close();
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		return rs - (new Klasse(selected).getInstanceLength()) - 8;
+	}
+	
+	private String contraKlassifikation() {
+		return (klassifikation.equals(negativ_class)) ? positiv_class : negativ_class;
 	}
 
 	private void initializeLabels() {
@@ -404,45 +448,7 @@ public class MFTPage extends WebPage {
 		intention = new Label("intention", new Model<String>(""));
 		instance = new Label("instance", new Model<String>(""));
 		result = new Label("result", new Model<String>(""));
-		feedback_instance = new Label("feedback_instance", new Model<String>(""));
 		instances = new Label("instances", new Model<String>(""));
-	}
-
-	private static void evaluateActualModell(AdaBoostM1 cls, Instances data,
-			Label label1, Label label2, Label label3) throws Exception {
-		data.setClassIndex(data.numAttributes() - 1);
-		Evaluation eval = new Evaluation(data);
-		eval.evaluateModel(cls, data);
-		label1.setDefaultModelObject(eval.toSummaryString());
-		label2.setDefaultModelObject(eval.toClassDetailsString());
-		label3.setDefaultModelObject(eval.toMatrixString());
-	}
-
-	private static AdaBoostM1 loadActualModel() throws Exception {
-		String algorithmOptions = "-P 100 -S 1 -I 10 -W weka.classifiers.trees.J48 -- -C 0.25 -M 2";
-		String[] args = algorithmOptions.split("\\s+");
-		String rootPath = "java_files/", modelsPath = "models/";
-		String trainingsdata = rootPath + "data_492014_062713.arff", testingsdata = rootPath
-				+ "data_492014_062715.arff";
-
-		Instances inst = createInstancesFromData(trainingsdata);
-		AdaBoostM1 cls = trainAlgorithm(inst, args);
-		System.out.println("\nCreated Model name "
-				+ serializeModel(cls, inst, modelsPath));
-		return cls;
-
-	}
-
-	private static AdaBoostM1 trainAlgorithm(Instances inst, String[] options)
-			throws Exception {
-		AdaBoostM1 cls = null;
-		if (inst != null) {
-			cls = new AdaBoostM1();
-			cls.setOptions(options);
-			cls.buildClassifier(inst);
-			return cls;
-		}
-		return cls;
 	}
 
 	private static Instances createInstancesFromData(String trainData) {
@@ -464,24 +470,4 @@ public class MFTPage extends WebPage {
 		return inst;
 	}
 
-	private static String serializeModel(Classifier cls, Instances inst,
-			String modelPath) {
-
-		// serialize model
-		String attributes = "_";
-		for (int i = 0; i < inst.numAttributes(); i++) {
-			attributes += inst.attribute(i).name() + "_";
-		}
-		attributes = attributes.substring(0, attributes.length() - 7);
-		String modelName = cls.getClass().getSimpleName();
-		modelName = modelPath + modelName + attributes + ".model";
-		try {
-			SerializationHelper.write(modelName, cls);
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		return modelName;
-	}
-	
 }

@@ -21,6 +21,11 @@ $(document).ready(function(){
     $("#panel").toggle();
   });
 });
+$(document).ready(function(){
+  $("#toggleInstances").click(function(){
+    $("#instances").toggle();
+  });
+});
 
 $(document).ready(function(){
     $("select").css("height", "35px", "margin-bottom", "15px");
@@ -70,7 +75,7 @@ label {
 				<div style="margin-top:10px;margin-left:75px;"><span wicket:id="radioGroup"></span></div>
 			</form>
 
-			<div id="flip">Information will be added below! Click here to
+			<div id="flip">Classification Results will be added below! Click here to
 				show them</div>
 			<div id="panel">
 				<p wicket:id="persons" class="results" style="color: red">
@@ -89,32 +94,14 @@ label {
 				<form wicket:id="feedbackForm" method="GET" action="">
 					<table style="margin-top:20px;text-align:center;margin-left: auto;margin-right: auto">
 						<tr>
-							<td style="width: 200px; height: 200px"><input type="submit"
-								id="true" wicket:id="true" class="hidden-buttons"
-								value="Richtig Klassifiziert" /></td>
-
-							<td style="width: 200px; height: 200px"><input type="submit"
-								id="false" wicket:id="false" class="hidden-buttons"
-								value="Falsch Klassifiziert" /></td>
+							<td style="width: 680px; height: 250px;text-align:center;margin-left: auto;margin-right: auto">
+								<input type="submit" id="true" wicket:id="true" value="" class="hidden-buttons"/>
+							</td>
 						</tr>
 					</table>
 				</form>
 			</div>
-			
-			<form wicket:id="saveForm" method="GET" action="">
-				<table style="text-align:center;margin-left: auto;margin-right: auto;margin-top: 20px">
-					<tr>
-						<td>
-							<p wicket:id="feedback_instance" class="results"
-								style="color: #009682">result go here..</p>
-						</td>
-						<td><input wicket:id="save" type="submit" id="saveButton"
-							value="" class="hidden-buttons" /></td>
-						<td><input wicket:id="toggle" id="toggle" value=""
-							class="hidden-buttons" /></td>
-					</tr>
-				</table>
-			</form>
+			<div id="toggleInstances">Feedback Instances will be added below, Click here to show them!</div>
 			<div wicket:id="instances" id="instances"></div>
 			<p wicket:id="texte" id="texte" class="texte"></p>
 		</div>

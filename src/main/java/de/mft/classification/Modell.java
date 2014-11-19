@@ -20,6 +20,8 @@ public class Modell {
 	
 	private static final String modelsPath = "models/";
 	
+//	private String algorithmOptions = "-P 100 -S 1 -I 10 -W weka.classifiers.trees.J48 -- -C 0.25 -M 2";
+
 //	private static final String feedbackPath = "feedbackInstances/";
 
 
@@ -65,6 +67,37 @@ public class Modell {
 	}
 	
 	
+	private static String serializeModel(Classifier cls, Instances inst,
+			String modelPath) {
+
+		// serialize model
+		String attributes = "_";
+		for (int i = 0; i < inst.numAttributes(); i++) {
+			attributes += inst.attribute(i).name() + "_";
+		}
+		attributes = attributes.substring(0, attributes.length() - 7);
+		String modelName = cls.getClass().getSimpleName();
+		modelName = modelPath + modelName + attributes + ".model";
+		try {
+			SerializationHelper.write(modelName, cls);
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return modelName;
+	}
+
+	private static AdaBoostM1 trainAlgorithm(Instances inst, String[] options)
+			throws Exception {
+		AdaBoostM1 cls = null;
+		if (inst != null) {
+			cls = new AdaBoostM1();
+			cls.setOptions(options);
+			cls.buildClassifier(inst);
+			return cls;
+		}
+		return cls;
+	}
 	
 	/**
 	 * @param args
