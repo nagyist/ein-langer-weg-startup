@@ -120,7 +120,7 @@ public class WS4JSimilarity {
 		for (ClassStructure klasse : CLASSES) {
 			querySimilarityMap.put(klasse.name, calculateQuerySimilarityToClass(query, klasse));
 		}
-		querySimilarityMap.put("NAVIGATIONAL/SOCIAL", countNavigationalSitesOfQuery(query));
+//		querySimilarityMap.put("NAVIGATIONAL/SOCIAL", countNavigationalSitesOfQuery(query));
 		return querySimilarityMap;
 	}
 	

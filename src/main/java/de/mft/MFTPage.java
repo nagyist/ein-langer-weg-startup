@@ -12,6 +12,7 @@ import org.apache.wicket.markup.html.WebPage;
 import org.apache.wicket.model.Model;
 import org.apache.wicket.model.PropertyModel;
 
+import de.mft.classification.Modell;
 import de.mft.interpretation.Interpretation;
 import de.mft.model.Klasse;
 import de.mft.similarity.GNETManager;
@@ -71,9 +72,7 @@ public class MFTPage extends WebPage {
 		final String arr[] = { "false", "true" };
 		initilizeButtons(arr);
 		hideInformationText();
-
 		searchForm = initializeSearchForm();
-
 		add(persons);
 		add(locations);
 		add(intention);
@@ -103,36 +102,56 @@ public class MFTPage extends WebPage {
 		submitButton = new Button("submitButton") {
 			@Override
 			public void onSubmit() {
-
+				
 				fillFeedbackInstancesField();
-				System.out.println("Feedback Instances number " + countFeedbackInstances());
+				positiv_class = selected;
+				negativ_class = Klasse.getNegativClass(positiv_class);
+				int feedbackInstancesCount = countFeedbackInstances();
+				if (feedbackInstancesCount == 30) {
+					boolean dataActualized = false ;
+					try {
+						dataActualized = Modell.actualizeTrainData(Klasse.getModelName(positiv_class));
+					} catch (Exception e) {
+						// TODO Auto-generated catch block
+						System.out.println("Actualizing train Data failed");
+						e.printStackTrace();
+					} 
+					if (dataActualized) {
+						try {
+							boolean newModellSerialized = Modell.serializeModell(Klasse.getTrainDataName(positiv_class), positiv_class);
+							if (newModellSerialized) Modell.clearFeedbackData(positiv_class);
+						} catch (Exception e) {
+							// TODO Auto-generated catch block
+							System.out.println("Retrain modell failed");
+							e.printStackTrace();
+						} 
+					}
+				}
 				loadTrainedAlgorithm(getModelName(selected));
 				evaluateModell(getModelName(selected));
-				positiv_class = selected;
-				negativ_class = "NO_"
-						+ String.valueOf(positiv_class.charAt(0))
-						+ String.valueOf(positiv_class.charAt(positiv_class
-								.indexOf("_") + 1));
 				
 				if (!positiverFeedBack && instanceExample != null) {
 					instanceExample.setClassValue(contraKlassifikation());
 					saveFeedbackInstance();
 				}
+				
 				try {
-					interpretation = Interpretation.interpretQuery(WordUtils
-							.capitalize(searchQuery.getModelObject()));
-
+					getPageParameters().set("q", searchQuery.getModelObject());
+					String query = getPageParameters().get("q").toString();
+					interpretation = Interpretation.interpretQuery(query);
+					searchQuery.setDefaultModelObject(query);
+					
 					Map<String, Object> results = getResultsForClass(selected,
 							interpretation);
 					for (String key : results.keySet()) {
 						if ("Infinity".equals(results.get(key).toString()))
-							results.put(key, new Double(10));
+							results.put(key, new Double(4.5656));
 					}
 					int sizeOfInstance = results.size();
 					instanceExample = new Instance(sizeOfInstance);
 					instanceExample.setDataset(inst);
-
 					initializeInstanceExample(results);
+					
 					double p = cls.classifyInstance(instanceExample);
 					klassifikation = inst.classAttribute().value((int) p);
 				} catch (IOException e1) {
@@ -155,7 +174,6 @@ public class MFTPage extends WebPage {
 			}
 		};
 		searchForm.add(submitButton);
-
 		return searchForm;
 	}
 
@@ -228,7 +246,7 @@ public class MFTPage extends WebPage {
 		result.setDefaultModelObject("Query classified as: "
 				+ klassifikation);
 		positivFeedbackButton.add(new AttributeAppender("class",
-				true, new Model<String>(getModelName(selected)), " "));
+					true, new Model<String>(getModelName(selected)), " "));
 		texte.add(new AttributeAppender("class", true,
 				new Model<String>("texte-after-submit"), " "));
 	}
@@ -369,8 +387,9 @@ public class MFTPage extends WebPage {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		String header = Klasse.fileHeader.get(selected);
 		insts = "<p  class=\"results\" style='text-align:left;margin-top:10px;margin-buttom:10px'>"
-				+ insts.replaceAll("\n", "<br />") + "</p>";
+				+ header.replaceAll("\n", "<br />")  + insts.replaceAll("\n", "<br />") + "</p>";
 		instances.setEscapeModelStrings(false);
 		instances.setDefaultModelObject(insts);
 	}
@@ -403,8 +422,9 @@ public class MFTPage extends WebPage {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		String header = Klasse.fileHeader.get(selected);
 		insts = "<p  class=\"results\" style='text-align:left;margin-top:10px;margin-buttom:10px'>"
-				+ insts.replaceAll("\n", "<br />") + "</p>";
+				+ header.replaceAll("\n", "<br />") + insts.replaceAll("\n", "<br />") + "</p>";
 		instances.setEscapeModelStrings(false);
 		instances.setDefaultModelObject(insts);
 	}
@@ -430,7 +450,7 @@ public class MFTPage extends WebPage {
 			e.printStackTrace();
 		}
 		
-		return rs - (new Klasse(selected).getInstanceLength()) - 8;
+		return rs;
 	}
 	
 	private String contraKlassifikation() {

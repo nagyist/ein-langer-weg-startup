@@ -24,6 +24,8 @@ public class Klasse {
 	private static Map<String, String> ModelNames = null;
 	public static Map<String, String> attributesOriginalNames = null;
 	
+	public static Map<String, String> fileHeader = null;
+	
 	static {
 		CLASSES = new HashMap<String, List<String>>();
 
@@ -61,8 +63,31 @@ public class Klasse {
 		ModelNames = new HashMap<String, String>();
 		ModelNames.put(musicClass, "musik_ressourcen");
 		ModelNames.put(landOrtClass, "land_ort");
-		ModelNames.put(sportClass, "sport_karriere");
+		ModelNames.put(sportClass, "sport_career");
 		
+		fileHeader = new HashMap<String, String>();
+		fileHeader.put(landOrtClass, "@relation "+(new Klasse(landOrtClass)).getModelName()+"_feedback_instances\n\n"+
+				"@attribute location_found {false, true}\n" +
+				"@attribute similarity_to_location_en numeric\n"+
+				"@attribute similarity_to_location_de numeric\n"+
+				"@attribute class {"+landOrtClass+", "+getNegativClass(landOrtClass)+"}\n\n"+
+				"@data\n\n");
+		
+		fileHeader.put(musicClass, "@relation "+(new Klasse(musicClass)).getModelName()+"_feedback_instances\n\n"+
+				"@attribute location_found {false, true}\n" +
+				"@attribute similarity_to_music_en numeric\n" +
+				"@attribute similarity_to_music_de numeric\n" +
+				"@attribute similarity_to_location_de numeric\n" +
+				"@attribute similarity_to_family_de numeric\n" +
+				"@attribute valueOfAllOtherClasses numeric\n" +
+				"@attribute class {"+musicClass+", "+getNegativClass(musicClass)+"}\n\n"+
+				"@data\n\n");
+		
+		fileHeader.put(sportClass, "@relation "+(new Klasse(sportClass)).getModelName()+"_feedback_instances\n\n"+
+				"@attribute similarity_to_sport_en numeric\n"+
+				"@attribute similarity_to_sport_de numeric\n"+
+				"@attribute class {"+sportClass+", "+getNegativClass(sportClass)+"}\n\n"+
+				"@data\n\n");
 	}
 
 	public Klasse(String name) {
@@ -75,6 +100,10 @@ public class Klasse {
 	public String getName() {
 		return name;
 	}
+	
+	public static String getNegativClass(String _class) {
+		return "NO_" + String.valueOf(_class.charAt(0)) + String.valueOf(_class.charAt(_class.indexOf("_") +1));
+	}
 
 	public void setName(String name) {
 		this.name = name;
@@ -83,6 +112,33 @@ public class Klasse {
 	public String getModelName() {
 		return modelName;
 	}
+	
+	public static String getModelName(String name) {
+		String modelName = null;
+		switch (name) {
+		case musicClass:
+			modelName = "musik_ressourcen";
+			break;
+		case landOrtClass:
+			modelName = "land_ort";
+			break;
+		case sportClass:
+			modelName = "sport_career";
+			break;
+		default:
+			break;
+		}
+		return modelName;
+	}
+	
+	public static String getTrainDataName(String className) {
+		return "trainTestData/" + Klasse.getModelName(className)+ "_train_data.arff";
+	}
+	
+	public static String getTestDataName(String className) {
+		return "trainTestData/" + Klasse.getModelName(className)+ "_test_data.arff";
+	}
+	
 
 	public void setModelName(String name) {
 		String modelName = null;
@@ -157,5 +213,6 @@ public class Klasse {
 	public static void main(String[] args) {
 		Klasse music = new Klasse(Klasse.musicClass);
 		System.out.println(music.toString());
+		System.out.println(Klasse.fileHeader);
 	}
 }

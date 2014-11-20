@@ -1,14 +1,3 @@
-@relation sport_class_feedback_instances 
-
-
-@attribute similarity_to_sport_class_en numeric
-@attribute similarity_to_sport_class_de numeric
-@attribute class {SPORT_KARRIERE, NO_SK}
-
-
-@data
- 
- 
 10,0.363636,SPORT_KARRIERE
 0,1.090909,SPORT_KARRIERE
 0,1.090909,NO_SK

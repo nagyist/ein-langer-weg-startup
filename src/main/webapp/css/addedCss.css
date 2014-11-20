@@ -38,6 +38,7 @@ p#negativ-feedback {
 
 .texte-after-submit {
 	visibility: hidden;
+	height: 0px;
 	margin-top: 0px;
 	margin-bottom: 0px;
 }
@@ -66,6 +67,12 @@ p#negativ-feedback {
 	width: 100%;
 	height: 100%;
     background:url(../images/musik_ressourcen.png) no-repeat right top; 
+}
+
+.negativ_klassifikation {
+	visibility: hidden;
+	width: 0px;
+	height: 0px;
 }
 .land_ort {
 	visibility: visible;
@@ -131,19 +138,16 @@ input#true {
 }
 
 #instances {
-	width: 80%;
 	padding: 5px;
 	text-align: center;
 	background-color: #e5eecc;
 	border: solid 1px #c3c3c3;
 	-webkit-border-radius: 5px;
 	-webkit-border-bottom-right-radius: 5px;
-}
-
-#instances {
 	width: 89.5%;
 	text-align:center;margin-left: auto;margin-right: auto;
 	display: none;
+	margin-bottom: 50px;
 }
 
 #panel,#flip,#toggleInstances {

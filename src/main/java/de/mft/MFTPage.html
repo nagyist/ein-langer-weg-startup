@@ -26,7 +26,15 @@ $(document).ready(function(){
     $("#instances").toggle();
   });
 });
-
+// $(document).ready(function(){
+//   $("#true").css("background", "url(../images/" + $("#hidden_paragraph").text() + ".png)  no-repeat right top",
+// 	"visibility", "visible",
+// 	"font-family", "Verdana",
+// 	"text-align", "center",
+// 	"cursor", "pointer",
+// 	"width", "100%",
+// 	"height", "100%");
+// });
 $(document).ready(function(){
     $("select").css("height", "35px", "margin-bottom", "15px");
 });
@@ -67,7 +75,7 @@ label {
 		</div>
 		<div id="content-div">
 			<p id="headerofSerach">AdaBoost Search Engine with Feedback</p>
-			<form wicket:id="searchForm" method="GET" action="">
+			<form wicket:id="searchForm">
 				<input wicket:id="searchQuery" id="searchQuery" name="q" type="text"
 					style="font-size: 25px; height: 30px; width: 500px; align: center" />
 				<input wicket:id="submitButton" id="submitButton" type="submit"
@@ -91,7 +99,7 @@ label {
 			</div>
 			
 			<div id="feedback-div">
-				<form wicket:id="feedbackForm" method="GET" action="">
+				<form wicket:id="feedbackForm">
 					<table style="margin-top:20px;text-align:center;margin-left: auto;margin-right: auto">
 						<tr>
 							<td style="width: 680px; height: 250px;text-align:center;margin-left: auto;margin-right: auto">
@@ -104,6 +112,7 @@ label {
 			<div id="toggleInstances">Feedback Instances will be added below, Click here to show them!</div>
 			<div wicket:id="instances" id="instances"></div>
 			<p wicket:id="texte" id="texte" class="texte"></p>
+			<p style="visibility: hidden; margin-bottom: 50px;" id="hidden_p"></p>
 		</div>
 	</div>
 </body>
