@@ -70,29 +70,29 @@ div#trueClassified:HOVER {
 	text-align:center;margin-left: auto;margin-right: auto
 }
 
-.musik_ressourcen {
+.MUSIK_RESSOURCEN {
 	visibility: visible;
 	margin-top: 10px;
 	cursor: pointer;
-	width: 700px;
-	height: 400px;
+	width: 680px;
+	height: 220px;
     background:url(../images/musik_ressourcen.png) no-repeat right top; 
 }
 
-.land_ort {
+.LAND_ORT {
 	visibility: visible;
 	margin-top: 10px;
 	cursor: pointer;
-	width: 700px;
-	height: 400px;
+	width: 680px;
+	height: 220px;
     background:url(../images/land_ort.png) no-repeat right top; 
 }
-.sport_karriere {
+.SPORT_KARRIERE {
 	visibility: visible;
 	margin-top: 10px;
 	cursor: pointer;
-	width: 700px;
-	height: 400px;
+	width: 680px;
+	height: 220px;
     background:url(../images/sport_career.png) no-repeat right top; 
 }
 

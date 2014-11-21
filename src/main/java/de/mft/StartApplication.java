@@ -3,7 +3,7 @@ package de.mft;
 import org.apache.wicket.markup.html.WebPage;
 import org.apache.wicket.protocol.http.WebApplication;
 
-public class MFTApplication extends WebApplication {
+public class StartApplication extends WebApplication {
 
 	/**
 	 * @see org.apache.wicket.Application#getHomePage()

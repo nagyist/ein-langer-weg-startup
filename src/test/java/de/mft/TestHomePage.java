@@ -14,16 +14,16 @@ public class TestHomePage
 	@Before
 	public void setUp()
 	{
-		tester = new WicketTester(new MFTApplication());
+		tester = new WicketTester(new StartApplication());
 	}
 
 	@Test
 	public void homepageRendersSuccessfully()
 	{
 		//start and render the test page
-		tester.startPage(MFTPage.class);
+		tester.startPage(StartPage.class);
 
 		//assert rendered page class
-		tester.assertRenderedPage(MFTPage.class);
+		tester.assertRenderedPage(StartPage.class);
 	}
 }

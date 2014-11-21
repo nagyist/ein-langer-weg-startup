@@ -7,7 +7,7 @@ import de.mft.interpretation.Interpretation;
 
 public abstract class ModelClass {
 
-	public final static String pathToModels = "model/"; 
+	public final static String pathToModels = "models/"; 
 	
 	public final static String pathToData = "data/"; 
 	

@@ -49,31 +49,43 @@ public class StartPage extends WebPage {
 				.setDefaultModelObject("Startseite - AdaBoost Classification with User-Feedback");
 		add(titlePanel);
 
-		Label model1 = new Label("model1", new Model<String>(""));
-		model1.setEscapeModelStrings(false);
-		add(model1);
-		
 		Label noResults = new Label("noResults", new Model<String>(""));
 		noResults.setEscapeModelStrings(false);
 		add(noResults);
 		
-		Label model2 = new Label("model2", new Model<String>(""));
-		model2.setEscapeModelStrings(false);
-		add(model2);
-		
-		Label model3 = new Label("model3", new Model<String>(""));
-		model3.setEscapeModelStrings(false);
-		add(model3);
-		
 		final FeedbackPanel feedbackPanel = new FeedbackPanel("feedbackPanel");
 		feedbackPanel.setOutputMarkupId(true);
 		add(feedbackPanel);
-
-		Form<?> searchForm = initializeSearchForm(titlePanel, model1, model2, model3, noResults);
+		final Button musicFeedback = new Button("musicFeedback") {
+			@Override
+			public void onSubmit() {
+				
+			}
+		};
+		final Button ortungFeedback = new Button("ortungFeedback") {
+			@Override
+			public void onSubmit() {
+				
+			}
+		};
+		final Button sportFeedback = new Button("sportFeedback") {
+			@Override
+			public void onSubmit() {
+				
+			}
+		};
+		Form<?> feedbackForm = new Form<String>("feedbackForm");
+		feedbackForm.add(musicFeedback);
+		feedbackForm.add(ortungFeedback);
+		feedbackForm.add(sportFeedback);
+		add(feedbackForm);
+		
+		Form<?> searchForm = initializeSearchForm(musicFeedback, ortungFeedback, sportFeedback, titlePanel, noResults);
 		add(searchForm);
+		
 	}
 
-	private Form<?> initializeSearchForm(final Label titlePanel, final Label model1, final Label model2, final Label model3, final Label noResults) {
+	private Form<?> initializeSearchForm(final Button musicFeedback, final Button ortungFeedback, final Button sportFeedback, final Label titlePanel, final Label noResults) {
 		Form<?> searchForm = new Form<String>("searchForm");
 		final TextField<String> searchQuery = new TextField<String>(
 				"searchQuery", Model.of(""));
@@ -104,6 +116,10 @@ public class StartPage extends WebPage {
 						AdaBoostM1 ortungModel = ortungClass.loadTrainedModel();
 						AdaBoostM1 sportModel = sportClass.loadTrainedModel();
 						
+						System.out.println(musicInstance.toString());
+						System.out.println(ortungInstance.toString());
+						System.out.println(sportInstance.toString());
+						
 						double musicClassificationDouble = 0, ortungClassificationDouble = 0, sportClassificationDouble = 0;
 						String musicClassification = null, ortungClassification = null, sportClassification = null;
 						try {
@@ -114,15 +130,21 @@ public class StartPage extends WebPage {
 							sportClassificationDouble = sportModel.classifyInstance(sportInstance);
 							sportClassification = sportClass.exampleInstances().classAttribute().value((int) sportClassificationDouble);
 							
+							System.out.println("Music Classification: " + musicClassification);
+							System.out.println("Ortung Classification: " + ortungClassification);
+							System.out.println("Sport Classification: " + sportClassification);
 							if (musicClassification.equals(musicClass
 									.getClassName()))
-								model1.setDefaultModelObject(musicClass.getClassName());
+								musicFeedback.add(new AttributeAppender("class",
+										true, new Model<String>(musicClass.getClassName()), " "));
 							if (ortungClassification.equals(ortungClass
 									.getClassName()))
-								model2.setDefaultModelObject(ortungClass.getClassName());
+								ortungFeedback.add(new AttributeAppender("class",
+										true, new Model<String>(ortungClass.getClassName()), " "));
 							if (sportClassification.equals(sportClass
 									.getClassName()))
-								model3.setDefaultModelObject(sportClass.getClassName());
+								sportFeedback.add(new AttributeAppender("class",
+										true, new Model<String>(sportClass.getClassName()), " "));
 						} catch (Exception e) {
 							System.out.println();
 							e.printStackTrace();
