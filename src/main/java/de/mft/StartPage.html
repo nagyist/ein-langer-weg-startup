@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html xmlns:wicket="http://wicket.apache.org">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+<link rel='stylesheet' type='text/css' href='css/standard.css'>
+<link rel='stylesheet' type='text/css' href='css/addedCss.css'>
+<script language="javascript" type="text/javascript"
+	src="scripts/functions.js"></script>
+<script
+	src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<title wicket:id="title">Startseite - bouchnafa.de</title>
+
+<style type="text/css">
+p#headerofSerach {
+	font-size: 30px;
+	color: gray;
+	margin-top: 250px;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+div#content-div {
+	text-align: center;
+	width: 720px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+input[type="radio"] {
+	text-align: center;
+	display: list-item;
+	float: left;
+}
+
+label {
+	display: inline;
+	float: left;
+}
+
+input#searchQuery {
+	font-size: 25px;
+	height: 30px;
+	width: 500px;
+	align: center
+}
+</style>
+</head>
+<body onload="updateClock()">
+	<div id="container" style="align: center">
+		<div id="header">
+			<p id="head">
+				<strong>Bachelorarbeit von: </strong><br /><a style='color: orange' 
+					href="https://inside.1and1.org/network/people/21416579/Thami_Bouchnafa">Thami
+					Bouchnafa</a> <br /> <strong>Thema: </strong><br /><span style='color: orange'> Identifizierung von
+				Benutzerabsichten in personbezogenen <br /> Suchanfragen mit Hilfe
+				von AdaBoost und Nutzer-Feedback</span>
+			</p>
+		</div>
+		<div id="content-div">
+			<p id="headerofSerach">AdaBoost Search Engine with Feedback</p>
+			<form wicket:id="searchForm">
+				<input wicket:id="searchQuery" id="searchQuery" name="q" type="text" />
+				<input wicket:id="submitButton" id="submitButton" type="submit"
+					value="" class="button" />
+			</form>
+			<div id="hidden_div" style="margin-bottom: 50px; visibility: hidden"></div>
+
+			<div wicket:id="feedbackPanel" class="results" style="color: red">
+				result go here..</div>
+			<div id='trueClassified' wicket:id="model1" class="results" style="color: green">result
+				go here..</div>
+			<div id='trueClassified' wicket:id="model2" class="results" style="color: blue">result
+				go here..</div>
+			<div id='trueClassified' wicket:id="model3" class="results" style="color: black">result
+				go here..</div>
+			<div wicket:id="noResults" class="results" style="color: red">result
+				go here..</div>
+			<div id="hidden_div" style="margin-bottom: 200px; visibility: hidden"></div>
+		</div>
+	</div>
+</body>
+</html>

@@ -11,7 +11,7 @@ public class MFTApplication extends WebApplication {
 	@Override
 	public Class<? extends WebPage> getHomePage()
 	{
-		return MFTPage.class;
+		return StartPage.class;
 	}
 
 	/**

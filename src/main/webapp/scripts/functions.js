@@ -14,9 +14,8 @@ function updateClock() {
 	m = checkTime(m);
 	s = checkTime(s);
 	
-	var abgabeDate = new Date('2014/11/30');
-	var abgabeDays = abgabeDate.getDate() -  day_nr;
-//	var diff = Math.abs(abgabaDate - now) / (1000 * 60 * 60 * 24);
+	var abgabeDate = new Date('2014/12/08');
+	var abgabeDays = Math.floor((abgabeDate -  now) / (1000*60*60*24)) ;
 	
 	document.getElementById("hour").innerHTML = h + ":" + m + ":" + s + "<br />" + day + " " + day_nr + ". "
 			+ month + " " + year + "  " +  "<br />Abgabe fällig in <span style='color: red'>" + abgabeDays + "</span> Tage";
@@ -31,83 +30,28 @@ function checkTime(i) {
 	return i;
 }
 
-function loadMe(id) {
-	var visibility = document.getElementById(id).style.visibility;
-	if (visibility == 'hidden') {
-		var style = "display: inline-block;	font-size: 14px;width: 90%;height: 100%;text-align: center;color: #111;background-color: inherit;font-family: Verdana, Arial, sans-serif;";
-		document.getElementById(id).style.visibility = 'visible';
-		document.getElementById(id).style.backgroundColor = '#eeee11';
-		document.getElementById(id).style.padding = '4px';
-		document.getElementById(id).style.marginTop = '-2px';
-		document.getElementById(id).style.width = '100%';
-		document.getElementById(id).innerHTML = "<li style='"+style+"'>Elem0</li><li style='"+style+"'>Elem1</li><li style='"+style+"'>Elem2</li>";	
-	} else {
-		document.getElementById(id).style.visibility = 'hidden';
-		document.getElementById(id).innerHTML = '';
-		document.getElementById(id).style.padding = '0px';
-		document.getElementById(id).style.marginTop = '0px';
-	}
-//	var i = 0;
-//	var temp = document.getElementById("elem" + i); 
-//	while (temp != null) {
-//		if (id != "elem" + i) {
-//			document.getElementById("elem" + i).style.visibility = 'hidden';
-//			document.getElementById("elem" + i).innerHTML = '';
-//			document.getElementById("elem" + i).style.padding = '0px';
-//			document.getElementById("elem" + i).style.marginTop = '0px';
-//		}
-//		i++;
-//		temp = document.getElementById("elem" + i);
-//	}
-}
-function loadUeberMich(id) {
-	document.title = "About me - bouchnafa.de";
-	var uebermich = '<table style="padding:20px;margin-left:30px;"><tbody><tr>'
-			+
-			'<td style="padding:10px;margin-left:10px;margin-right:10px;"><p>Bouchnafa Thami</p><img src="../ressources/images/bouchnafa_thami.jpg"><p style="text-align: center;">+49 721 911704718</p></td>'
-			+
-			'<td ><div><div><strong>Allgemein:</strong></div>'
-			+
-			'<div>Studium: KIT (Karlsruhe Institut of Technology)</div>'
-			+
-			'<div>Studiengang: Informatik Bachelor of Sciences</div>'
-			+
-			'<div>Semester: 9</div>'
-			+
-			'<div>&nbsp;</div>'
-			+
-			'<div><strong>Studieninteressen und Kompetenzen:</strong></div>'
-			+
-			'<div>Datenbanken, Datenschutz, Data-mining, Telematik, Sicherheit</div>'
-			+
-			'<div>Programmiersprachen: Java, C#, C, C++, PHP, JavaScript, HTML, CSS</div>'
-			+
-			'<div>&nbsp;</div>'
-			+
-			'<div><strong>Projektteams:</strong></div>'
-			+
-			'<div>Homepages &amp; Search Produkts Development</div>'
-			+
-			'<div>Search &amp; Transaction</div>'
-			+
-			'<div>Moderne Web-Technologien</div>'
-			+
-			'<div>&nbsp;</div>'
-			+
-			'<div><strong>Aktuell:</strong></div>'
-			+
-			'<div>Bachelorarbeit am KIT bei der Firma 1&amp;1 Internet AG</div>'
-			+
-			'<div>Identifizierung von Benutzerabsichten in Person bezogenen Suchanfragen mit Hilfe von AdaBoost / Feedback Scores</div>'
-			+
-			'<div>Praktikant bei 1&amp;1 Internet AG (Homepages &amp; Search Produkts Development)</div>'
-			+
-			'<div>&nbsp;</div></div></td></tr></tbody></table></center></div>';
-	document.getElementById(id).innerHTML = uebermich;
-}
 
 function loadSearchEngine(id) {
 	document.title = "Suchmachine - bouchnafa.de";
 	var searchEngineHTML = '<center><div><input id="searchQuery" type="text" style="margin-top:250px;margin-buttom:300px;height:30px;width:500px;align:center" /></div></center>';
 	document.getElementById(id).innerHTML = searchEngineHTML;
 }
+
+$(document).ready(function(){
+  $("#toggle").click(function(){
+    $("#instances").toggle();
+  });
+});
+$(document).ready(function(){
+  $("#flip").click(function(){
+    $("#panel").toggle();
+  });
+});
+$(document).ready(function(){
+  $("#toggleInstances").click(function(){
+    $("#instances").toggle();
+  });
+});
+$(document).ready(function(){
+    $("select").css("height", "35px", "margin-bottom", "15px");
+});

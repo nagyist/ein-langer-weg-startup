@@ -13,6 +13,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
+import java.util.Map.Entry;
 import java.util.Scanner;
 
 import javax.xml.parsers.DocumentBuilder;
@@ -50,16 +51,12 @@ public class Interpretation {
 	
 	private static final String SOLR_URL = "http://localhost:8983/solr/collection1/select?q={0}&sort={1}+asc&rows=1000&fl={1}&wt=xml&indent=true";
 	
-	private static GNETManager gnet = GNETManager.getInstance();
-	
-	private static WS4JSimilarity ws4j = new WS4JSimilarity();
-	
-	public Interpretation(String query) {
+	public Interpretation(GNETManager gnet, WS4JSimilarity ws4j, String query) {
 		this.setQuery(query);
-		interprete(query);
+		interprete(gnet, ws4j, query);
 	}
 	
-	private void interprete(String query) {
+	private void interprete(GNETManager gnet, WS4JSimilarity ws4j, String query) {
 		List<String> personNames = null, locationNames = null;
 		try {
 			query = StopWordsRemover.removeStopWords(query);
@@ -85,8 +82,8 @@ public class Interpretation {
 			
 			this.setIntention(query);
 			
-			this.setDeSimilarities(gnet.calculateSimilarityToAllClasses(getIntention()));
-			this.setEnSimilarities(ws4j.calculateSimilarityToAllClasses(getIntention()));
+			setDeSimilarities(removeInfinityValues(gnet.calculateSimilarityToAllClasses(getIntention())));
+			setEnSimilarities(removeInfinityValues(ws4j.calculateSimilarityToAllClasses(getIntention())));
 			
 		} catch (IOException e) {
 			System.out.println("Solr Query Failed!! ");
@@ -126,6 +123,16 @@ public class Interpretation {
 		return interpretation;
 	}
 
+	private Map<String, Double> removeInfinityValues(Map<String, Double> similarities) {
+		Map<String, Double> rs = new HashMap<String, Double>();
+		for (Entry<String, Double> e : similarities.entrySet()) {
+			double newValue = "Infinity".equals(String.valueOf(e.getValue())) ? new Double(4.9878) : e.getValue();
+			newValue = Math.round(10000.0 * newValue) / 10000.0; 
+			rs.put(e.getKey(), newValue);
+		}
+		return rs;
+	}
+	
 	private static Map<String, Object> getResultsForClass(String selected,
 			Map<String, Object> interpretation) {
 		Map<String, Object> rs = new HashMap<String, Object>();
@@ -198,7 +205,6 @@ public class Interpretation {
 
 	private static List<String> extractEntitiesFromXML(String query, String label, List<String> qList)
 			throws IOException {
-		System.out.println(qList);
 		String solr_query = "";
 		for (String str : qList)
 			solr_query += label + "%3A\""
@@ -241,31 +247,13 @@ public class Interpretation {
 
 	public String toString() {
 		String rs  = "";
-		rs += getQuery() + "\n";
-		rs += getPersonNames() + "\n";
-		rs += getLocationNames() + "\n";
-		rs += getIntention() + "\n";
-		rs += getDeSimilarities() + "\n";
-		rs += getEnSimilarities();
+		rs += "Persons Found: " + getPersonNames() + "\n";
+		rs += "Locations Found: " + getLocationNames() + "\n";
+		rs += "Intention of the Searcher: " + getIntention() + "\n";
+		
 		return rs;
 	}
 	
-	/**
-	 * @param args
-	 * @throws IOException
-	 * @throws SQLException
-	 */
-	public static void main(String[] args) {
-		Scanner scanner = new Scanner(System.in);
-		String search = "";
-		Interpretation inter = null;
-		while (!search.equals("quit") && !search.equals("exit")) {
-			 System.out.print("4> ");
-			 search = scanner.next();
-			 inter = new Interpretation(search);
-			 System.out.println(inter.toString() + "\n");
-		}
-	}
 
 	public String getQuery() {
 		return query;
