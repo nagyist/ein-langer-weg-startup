@@ -9,13 +9,11 @@ import weka.classifiers.meta.AdaBoostM1;
 import weka.core.Instance;
 import weka.core.Instances;
 import weka.core.SerializationHelper;
-
 import de.mft.interpretation.Interpretation;
-import de.mft.similarity.GNETManager;
-import de.mft.similarity.WS4JSimilarity;
 
 public class MusicClass extends ModelClass {
 
+	public final String model = "model1";
 	public final String modelPath = pathToModels + "model1/";
 	public final String modelName = "model1.model";
 	public final String trainPath = pathToData + "model1/train/";
@@ -121,16 +119,7 @@ public class MusicClass extends ModelClass {
 		return inst;
 	}
 	
-	
-	public static void main(String[] args) {
-		String query = "Michael Jackson Chicago balls";
-		GNETManager gnet = GNETManager.getInstance();
-		WS4JSimilarity ws4j = new WS4JSimilarity();
-		
-		Interpretation interpretation = new Interpretation(gnet, ws4j, query);
-		MusicClass musik = new MusicClass("MUSIK_RESSOURCEN", interpretation);
-		Instance i = musik.getInstance();
-		System.out.println(i.toString());
+	public boolean saveFeedbackInstance(Instance instance) {
+		return super.saveFeedbackInstance(model, instance);
 	}
-
 }

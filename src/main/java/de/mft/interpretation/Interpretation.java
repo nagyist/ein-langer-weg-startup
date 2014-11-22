@@ -2,6 +2,7 @@ package de.mft.interpretation;
 
 import java.io.IOException;
 import java.io.InputStream;
+import java.io.Serializable;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.net.URLEncoder;
@@ -19,6 +20,7 @@ import javax.xml.parsers.DocumentBuilderFactory;
 
 
 
+
 import org.apache.commons.lang.WordUtils; 
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;
@@ -29,7 +31,7 @@ import de.mft.similarity.GNETManager;
 import de.mft.similarity.WS4JSimilarity;
 
 
-public class Interpretation {
+public class Interpretation implements Serializable {
 
 	private String query;
 	

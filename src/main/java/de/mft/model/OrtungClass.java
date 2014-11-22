@@ -1,9 +1,15 @@
 package de.mft.model;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+import java.io.Writer;
 
 import weka.classifiers.meta.AdaBoostM1;
 import weka.core.Instance;
@@ -13,6 +19,7 @@ import de.mft.interpretation.Interpretation;
 
 public class OrtungClass extends ModelClass {
 
+	public final String model = "model2";
 	public final String modelPath = pathToModels + "model2/";
 	public final String modelName = "model2.model";
 	public final String trainPath = pathToData + "model2/train/";
@@ -73,4 +80,8 @@ public class OrtungClass extends ModelClass {
 		return inst;
 	}
 	
+	public boolean saveFeedbackInstance(Instance instance) {
+		return super.saveFeedbackInstance(model, instance);
+	}
+
 }
