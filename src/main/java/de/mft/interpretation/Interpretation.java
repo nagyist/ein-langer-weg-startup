@@ -5,7 +5,6 @@ import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.net.URLEncoder;
-import java.sql.SQLException;
 import java.text.MessageFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -14,10 +13,10 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
-import java.util.Scanner;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
+
 
 
 import org.apache.commons.lang.WordUtils; 
@@ -27,7 +26,6 @@ import org.w3c.dom.NodeList;
 
 import de.mft.model.Klasse;
 import de.mft.similarity.GNETManager;
-import de.mft.similarity.GNETSimilarity;
 import de.mft.similarity.WS4JSimilarity;
 
 
@@ -49,7 +47,7 @@ public class Interpretation {
 	
 	private Map<String, Double> enSimilarities;
 	
-	private static final String SOLR_URL = "http://localhost:8983/solr/collection1/select?q={0}&sort={1}+asc&rows=1000&fl={1}&wt=xml&indent=true";
+	private static final String SOLR_URL = "http://localhost:8985/solr/collection1/select?q={0}&sort={1}+asc&rows=1000&fl={1}&wt=xml&indent=true";
 	
 	public Interpretation(GNETManager gnet, WS4JSimilarity ws4j, String query) {
 		this.setQuery(query);
@@ -133,6 +131,7 @@ public class Interpretation {
 		return rs;
 	}
 	
+	@SuppressWarnings("unused")
 	private static Map<String, Object> getResultsForClass(String selected,
 			Map<String, Object> interpretation) {
 		Map<String, Object> rs = new HashMap<String, Object>();

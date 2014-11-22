@@ -11,38 +11,12 @@
 <title wicket:id="title">Startseite - bouchnafa.de</title>
 
 <style type="text/css">
-p#headerofSerach {
-	font-size: 30px;
-	color: gray;
-	margin-top: 250px;
-	font-family: 'Times New Roman', Times, serif;
-}
 
-div#content-div {
-	text-align: center;
-	width: 720px;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-input[type="radio"] {
-	text-align: center;
-	display: list-item;
-	float: left;
-}
-
-label {
-	display: inline;
-	float: left;
-}
-
-input#searchQuery {
-	font-size: 25px;
-	height: 30px;
-	width: 500px;
-	align: center
-}
 </style>
+<script type="text/javascript">
+
+
+</script>
 </head>
 <body onload="updateClock()">
 	<div id="container" style="align: center">
@@ -70,23 +44,23 @@ input#searchQuery {
 			<form wicket:id="feedbackForm">
 				<table>
 					<tr>
-						<td><input type="submit" wicket:id="musicFeedback" value=""
-							class="hidden-buttons" /></td>
+						<td><input type="submit" wicket:id="musicFeedback" id="musicFeedback"
+						 value="" class="hidden-buttons" /></td>
 					</tr>
 					<tr>
-						<td><input type="submit" wicket:id="ortungFeedback" value=""
-							class="hidden-buttons" /></td>
+						<td><input type="submit" wicket:id="ortungFeedback" id="ortungFeedback" 
+						value="" class="hidden-buttons" /></td>
 					</tr>
 					<tr>
-						<td><input type="submit" wicket:id="sportFeedback" value=""
-							class="hidden-buttons" /></td>
+						<td><input type="submit" wicket:id="sportFeedback" id="sportFeedback" 
+						value="" class="hidden-buttons" /></td>
 					</tr>
 				</table>
 			</form>
 
 			<div wicket:id="feedbackPanel" class="results" style="color: red">
 				result go here..</div>
-			<div wicket:id="noResults" class="results" style="color: red">result
+			<div wicket:id="noResults" style="font-family: Verdana; color: #009286; font-size: 40px;font-weight: bold;">result
 				go here..</div>
 			<div id="hidden_div" style="margin-bottom: 200px; visibility: hidden"></div>
 		</div>

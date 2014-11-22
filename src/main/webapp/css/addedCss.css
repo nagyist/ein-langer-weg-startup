@@ -5,6 +5,37 @@ option {
     border-radius: 5px;
 }
 
+p#headerofSerach {
+	font-size: 30px;
+	color: gray;
+	margin-top: 250px;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+div#content-div {
+	text-align: center;
+	width: 720px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+input[type="radio"] {
+	text-align: center;
+	display: list-item;
+	float: left;
+}
+
+label {
+	display: inline;
+	float: left;
+}
+
+input#searchQuery {
+	font-size: 25px;
+	height: 30px;
+	width: 500px;
+	align: center
+}
 
 p#positiv-feedback {
 	color: #009682;
