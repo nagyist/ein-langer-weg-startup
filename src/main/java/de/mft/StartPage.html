@@ -8,24 +8,16 @@
 <script type="text/javascript" src="scripts/functions.js"></script>
 <script
 	src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-<title wicket:id="title">Startseite - bouchnafa.de</title>
+<title wicket:id="title"></title>
 
-<style type="text/css">
-
-</style>
-<script type="text/javascript">
-
-
-</script>
 </head>
-<body onload="updateClock()">
+<body>
 	<div id="container" style="align: center">
 		<div id="header">
 			<p id="head">
-				<strong>Bachelorarbeit von: </strong><br /> <a
-					style='color: orange'
-					href="https://inside.1and1.org/network/people/21416579/Thami_Bouchnafa">Thami
-					Bouchnafa</a> <br /> <strong>Thema: </strong><br /> <span
+				<strong>Bachelorarbeit von: </strong><br /><span style='color: orange'>Thami Bouchnafa </span><a
+					style='text-decoration: none; color: orange; font-size: 20px' target="_blank"
+					href="https://inside.1and1.org/network/people/21416579/Thami_Bouchnafa">[InsideNET]</a> <br /> <strong>Thema: </strong><br /> <span
 					style='color: orange'> Identifizierung von Benutzerabsichten
 					in personbezogenen <br /> Suchanfragen mit Hilfe von AdaBoost und
 					Nutzer-Feedback
@@ -36,34 +28,48 @@
 			<p id="headerofSerach">AdaBoost Search Engine with Feedback</p>
 			<form wicket:id="searchForm">
 				<input wicket:id="searchQuery" id="searchQuery" name="q" type="text" />
-				<input wicket:id="submitButton" id="submitButton" type="submit"
+				<input style="margin-left: -48px;height: 33px;" wicket:id="submitButton" id="submitButton" type="submit"
 					value="" class="button" />
 			</form>
+			<p id="userguides">
+				Bitte geben Sie eine Suchanfrage an, die einen Personnamen enthält.
+				<br />Optimal bestände der Name der Person aus zwei Termen (Vorname
+				+ Nachname) <br />Die Reihenfolge spielt keine Rolle, Beispiel:
+				"Michael Jackson Songs" oder "Songs of Michael Jackson" <br />Bitte
+				lesen Sie die folgende Benutzungseinleitung <a wicket:id="userguides">Mehr
+					Infos</a>
+			</p>
 			<div id="hidden_div" style="margin-bottom: 50px; visibility: hidden"></div>
 
 			<form wicket:id="feedbackForm">
 				<table>
 					<tr>
-						<td><input type="submit" wicket:id="musicFeedback" id="musicFeedback"
-						 value="" class="hidden-buttons" /></td>
+						<td><input type="submit" wicket:id="musicFeedback"
+							id="musicFeedback" value="" class="hidden-buttons" /></td>
 					</tr>
 					<tr>
-						<td><input type="submit" wicket:id="ortungFeedback" id="ortungFeedback" 
-						value="" class="hidden-buttons" /></td>
+						<td><input type="submit" wicket:id="ortungFeedback"
+							id="ortungFeedback" value="" class="hidden-buttons" /></td>
 					</tr>
 					<tr>
-						<td><input type="submit" wicket:id="sportFeedback" id="sportFeedback" 
-						value="" class="hidden-buttons" /></td>
+						<td><input type="submit" wicket:id="sportFeedback"
+							id="sportFeedback" value="" class="hidden-buttons" /></td>
 					</tr>
 				</table>
 			</form>
 
 			<div wicket:id="feedbackPanel" class="results" style="color: red">
 				result go here..</div>
-			<div wicket:id="noResults" style="font-family: Verdana; color: #009286; font-size: 40px;font-weight: bold;">result
+			<div wicket:id="noResults"
+				style="font-family: Verdana; color: #009286; font-size: 40px; font-weight: bold;">result
 				go here..</div>
 			<div id="hidden_div" style="margin-bottom: 200px; visibility: hidden"></div>
 		</div>
+		<footer>
+			<span class="university">KIT & 1&1 Internet AG</span> <span
+				class="institute">Thami Bouchnafa</span> <span>Klassifizierung
+				von Benutzerabsichten</span>
+		</footer>
 	</div>
 </body>
 </html>

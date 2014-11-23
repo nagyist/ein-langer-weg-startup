@@ -9,6 +9,7 @@ import org.apache.wicket.markup.html.basic.Label;
 import org.apache.wicket.markup.html.form.Button;
 import org.apache.wicket.markup.html.form.Form;
 import org.apache.wicket.markup.html.form.TextField;
+import org.apache.wicket.markup.html.link.Link;
 import org.apache.wicket.markup.html.panel.FeedbackPanel;
 import org.apache.wicket.model.Model;
 import org.apache.wicket.request.mapper.parameter.PageParameters;
@@ -19,8 +20,6 @@ import de.mft.interpretation.Interpretation;
 import de.mft.model.MusicClass;
 import de.mft.model.OrtungClass;
 import de.mft.model.SportClass;
-import de.mft.similarity.GNETManager;
-import de.mft.similarity.WS4JSimilarity;
 
 public class StartPage extends WebPage {
 
@@ -35,23 +34,21 @@ public class StartPage extends WebPage {
 		LOGGER.setLevel(Level.INFO);
 	}
 
-	private static GNETManager gnet = GNETManager.getInstance();
-
-	private final static WS4JSimilarity ws4j = new WS4JSimilarity();
-
 	private TextField<String> searchQuery;
 
 	private Button musicFeedback, ortungFeedback, sportFeedback;
 
-	private MusicClass musicClass;
+	private MusicClass musicClass = null;
 
-	private OrtungClass ortungClass;
+	private OrtungClass ortungClass = null;
 
-	private SportClass sportClass;
+	private SportClass sportClass = null;
 
-	private Interpretation interpretation;
+	private Interpretation interpretation = null;
 
 	private Label noResults;
+	
+	private static boolean searched = false;
 	
 	@SuppressWarnings("serial")
 	public StartPage(final PageParameters parameters) {
@@ -88,6 +85,7 @@ public class StartPage extends WebPage {
 						&& sportClass.saveFeedbackInstance(sportClass
 								.getInstance()))
 					noResults.setDefaultModelObject(dankSagung);
+				searched = false;
 			}
 		};
 		ortungFeedback = new Button("ortungFeedback") {
@@ -106,6 +104,7 @@ public class StartPage extends WebPage {
 						&& sportClass.saveFeedbackInstance(sportClass
 								.getInstance()))
 					noResults.setDefaultModelObject(dankSagung);
+				searched = false;
 			}
 		};
 		sportFeedback = new Button("sportFeedback") {
@@ -125,6 +124,7 @@ public class StartPage extends WebPage {
 								.getInstance())
 						&& sportClass.saveFeedbackInstance(sportInstance))
 					noResults.setDefaultModelObject(dankSagung);
+				searched = false;
 			}
 		};
 
@@ -137,6 +137,14 @@ public class StartPage extends WebPage {
 
 		Form<?> searchForm = initializeSearchForm(titlePanel, noResults);
 		add(searchForm);
+		
+		add(new Link<Object>("userguides") {
+			@Override
+			public void onClick() {
+				setResponsePage(UserGuides.class, getPageParameters());
+			}
+
+		});
 
 	}
 
@@ -150,17 +158,19 @@ public class StartPage extends WebPage {
 		searchForm.add(new Button("submitButton") {
 			@Override
 			public void onSubmit() {
-				musicFeedback.add(new AttributeModifier("class",
-						"hidden-buttons"));
-				ortungFeedback.add(new AttributeModifier("class",
-						"hidden-buttons"));
-				sportFeedback.add(new AttributeModifier("class",
-						"hidden-buttons"));
+				if (searched && musicClass != null && ortungClass != null && sportClass != null) {
+					musicClass.saveFeedbackInstance(musicClass.getInstance());
+					ortungClass.saveFeedbackInstance(ortungClass.getInstance());
+					sportClass.saveFeedbackInstance(sportClass.getInstance());
+				}
+				musicFeedback.add(new AttributeModifier("class", "hidden-buttons"));
+				ortungFeedback.add(new AttributeModifier("class", "hidden-buttons"));
+				sportFeedback.add(new AttributeModifier("class", "hidden-buttons"));
 				noResults.setDefaultModelObject("");
 				String query = searchQuery.getModelObject();
-				if (titlePanel != null || query == null || "".equals(query)) {
+				if (titlePanel != null && query != null && !"".equals(query)) {
 					titlePanel.setDefaultModelObject(query + " - Results");
-					interpretation = new Interpretation(gnet, ws4j, query);
+					interpretation = new Interpretation(Start.gnet, Start.ws4j, query);
 					if (interpretation.personFound()) {
 						musicClass = new MusicClass("MUSIK_RESSOURCEN",
 								interpretation);
@@ -207,12 +217,14 @@ public class StartPage extends WebPage {
 									.getClassName()))
 								sportFeedback.add(new AttributeModifier(
 										"class", sportClass.getClassName()));
+							searched = true;
+							
 						} catch (Exception e) {
 							e.printStackTrace();
 						}
 
 					} else {
-						String interString = "<span style='color: red'> Person could not be Found </span><br /> Please try another Search Query";
+						String interString = "<span style='color: red'> Person konnte nicht gefunden werden </span><br /> Versuchen Sie bitte eine andere Suchanfrage";
 						noResults.setDefaultModelObject(interString);
 					}
 

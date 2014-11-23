@@ -8,7 +8,13 @@ import org.eclipse.jetty.util.resource.Resource;
 import org.eclipse.jetty.util.ssl.SslContextFactory;
 import org.eclipse.jetty.webapp.WebAppContext;
 
+import de.mft.similarity.GNETManager;
+import de.mft.similarity.WS4JSimilarity;
+
 public class Start {
+	
+	protected static GNETManager gnet = GNETManager.getInstance();
+	protected static WS4JSimilarity ws4j = new WS4JSimilarity();
 	
     public static void main(String[] args) throws Exception {
         int timeout = (int) Duration.ONE_HOUR.getMilliseconds();

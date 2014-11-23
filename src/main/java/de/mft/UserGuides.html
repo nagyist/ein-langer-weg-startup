@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html xmlns:wicket="http://wicket.apache.org">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+<link rel='stylesheet' type='text/css' href='css/standard.css'>
+<link rel='stylesheet' type='text/css' href='css/addedCss.css'>
+<script type="text/javascript" src="scripts/functions.js"></script>
+<script
+	src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<title>Benutzereinleitung</title>
+</head>
+<body>
+	<div id="container">
+		<div id="header">
+			<p id="head">
+				<strong>Bachelorarbeit von: </strong><br /><span style='color: orange'>Thami Bouchnafa </span><a
+					style='text-decoration: none; color: orange; font-size: 20px' target="_blank"
+					href="https://inside.1and1.org/network/people/21416579/Thami_Bouchnafa">[InsideNET]</a> <br /> <strong>Thema: </strong><br /> <span
+					style='color: orange'> Identifizierung von Benutzerabsichten
+					in personbezogenen <br /> Suchanfragen mit Hilfe von AdaBoost und
+					Nutzer-Feedback
+				</span>
+			</p>
+		</div>
+		<div
+			style="visibility: hidden; margin-top: 150px; margin-bottom: 50px;">hidden
+			div</div>
+			<h1 style="	text-align:center;margin-left: auto;margin-right: auto">Benutzungseinleitung</h1>
+		<br><div
+			style="color: #009286; font-family: Verdana; font-size: 16px; margin-bottom: 50px">
+			<div>
+				<p>
+					<strong style="color: black">Algemein:</strong>
+				</p>
+				<p>Zur Klassifizierung von Benutzer Absichten in personbezogenen
+					Suchanfragen habe ich in meiner Bachelor-Thesis ein selbst
+					lernendes System implementiert</p>
+				<p>Die Idee des gesamten Systems ist es, anhand von
+					Beispieldaten zu lernen und durch Benutzer-Feedback diesem
+					lernenden Algorithmus zu unterstürtzen</p>
+				<br>
+				<p>
+					<strong style="color: black">Informationen zur Klassen:</strong>
+				</p>
+				<p>Es werden in diesem Protypen drei Klassen getestet</p>
+				<ul>
+					<li><strong>Musik/Ressourcen</strong><br>Es handelt sich um alle
+						Absichten die mit der Musik-Welt zu tun haben und auch alle
+						Ressourcen die man herunterladen kann (Videos, Photos, Filme etc.)
+					</li>
+					<li><strong>Land/Ort</strong><br>Es handelt sich hier um
+						Ortungsangaben von der eingegebenen Person wie zum Beispiel
+						(Addressen, Städte, Länder etc.)</li>
+					<li><strong>Sport/Karriere</strong><br>Es handelt sich hier um
+						die Sport-Welt und die Karriere einer Perosn wie zum Beispiel
+						(Football, Team, Work, Company etc.)</li>
+				</ul>
+				<br>
+				<p>
+					<strong style="color: black">Angezeigte Ergebnisse: </strong>
+				</p>
+				<p>Als Ergebnisse zeigen wir einfach Blocks mit einem
+					Hintergrungsbild, die auf den Klassen verweisen</p>
+				<p>Im Folgenden sind die Bilder, die angezeigt werden zu sehen:</p>
+				<br>
+				<table>
+					<tr>
+						<td>Für die Musik/Ressourcen Klasse:</td>
+					</tr>
+					<tr></tr>
+					<tr>
+						<td><input type="submit" id="musicFeedback" value=""
+							class="music" /></td>
+					</tr>
+					<tr></tr>
+					<tr>
+						<td>Für die Land/Ort Klasse:</td>
+					</tr>
+					<tr></tr>
+					<tr>
+						<td><input type="submit" id="ortungFeedback" value=""
+							class="ortung" /></td>
+					</tr>
+					<tr></tr>
+					<tr>
+						<td>Für die Sport/Karriere Klasse:</td>
+					</tr>
+					<tr></tr>
+					<tr>
+						<td><input type="submit" id="sportFeedback" value=""
+							class="sport" /></td>
+					</tr>
+				</table>
+				<br>
+				<p>
+					<strong style="color: black">Feedback Prozess:</strong>
+				</p>
+				<p>Die Suchanfrage wird klassifiziert und anhand dieser Klassifikation werden die
+					Ergebnisse angezeigt, einen Feedback vom Benutzer erfolgt durch
+					zwei Events:</p>
+				<ul>
+					<li>Klicken auf einem Ergebnis</li>
+					<li>Neue Suche ausführen</li>
+				</ul>
+				<br>
+				<p>
+					<a wicket:id="backtohomepage">Zurück zur Startseite</a>
+				</p>
+			</div>
+		</div>
+		<footer>
+			<span class="university">KIT & 1&1 Internet AG</span> <span
+				class="institute">Thami Bouchnafa</span> <span>Klassifizierung
+				von Benutzerabsichten</span>
+		</footer>
+	</div>
+</body>
+</html>
