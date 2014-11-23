@@ -1,15 +1,9 @@
 package de.mft.model;
 
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
-import java.io.Writer;
 
 import weka.classifiers.meta.AdaBoostM1;
 import weka.core.Instance;
@@ -19,14 +13,20 @@ import de.mft.interpretation.Interpretation;
 
 public class SportClass extends ModelClass {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	public final String model = "model3";
 	public final String modelPath = pathToModels + "model3/";
 	public final String modelName = "model3.model";
 	public final String trainPath = pathToData + "model3/train/";
 	public final String testPath = pathToData + "model3/test/";
 	
-	public SportClass(String class_, Interpretation interpretation) {
-		super(class_, interpretation);
+	private final String className = "SPORT_KARRIERE";
+	
+	public SportClass(Interpretation interpretation) {
+		super(interpretation);
 	}
 
 	@Override
@@ -71,6 +71,11 @@ public class SportClass extends ModelClass {
 	
 	public boolean saveFeedbackInstance(Instance instance) {
 		return super.saveFeedbackInstance(model, instance);
+	}
+
+	@Override
+	public String getClassName() {
+		return className;
 	}
 	
 }

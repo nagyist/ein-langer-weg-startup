@@ -14,47 +14,70 @@
 	<div id="container">
 		<div id="header">
 			<p id="head">
-				<strong>Bachelorarbeit von: </strong><br /><span style='color: orange'>Thami Bouchnafa </span><a
-					style='text-decoration: none; color: orange; font-size: 20px' target="_blank"
-					href="https://inside.1and1.org/network/people/21416579/Thami_Bouchnafa">[InsideNET]</a> <br /> <strong>Thema: </strong><br /> <span
-					style='color: orange'> Identifizierung von Benutzerabsichten
-					in personbezogenen <br /> Suchanfragen mit Hilfe von AdaBoost und
-					Nutzer-Feedback
+				<strong>Bachelorarbeit von: </strong><br />
+				<span style='color: orange'>Thami Bouchnafa </span><a
+					style='text-decoration: none; color: orange; font-size: 20px'
+					target="_blank"
+					href="https://inside.1and1.org/network/people/21416579/Thami_Bouchnafa">[InsideNET]</a>
+				<br /> <strong>Thema: </strong><br /> <span style='color: orange'>
+					Identifizierung von Benutzerabsichten in personbezogenen <br />
+					Suchanfragen mit Hilfe von AdaBoost und Nutzer-Feedback
 				</span>
 			</p>
 		</div>
 		<div
-			style="visibility: hidden; margin-top: 150px; margin-bottom: 50px;">hidden
+			style="visibility: hidden; margin-top: 150px; margin-bottom: 30px;">hidden
 			div</div>
-			<h1 style="	text-align:center;margin-left: auto;margin-right: auto">Benutzungseinleitung</h1>
-		<br><div
-			style="color: #009286; font-family: Verdana; font-size: 16px; margin-bottom: 50px">
+		<h1
+			style="text-align: center; margin-left: auto; margin-right: auto; font-size: 25px">Benutzungseinleitung</h1>
+		<br>
+		<div
+			style="margin-left: auto; margin-right: auto; width: 840px; color: #009286; font-family: Verdana; font-size: 16px; margin-bottom: 50px">
 			<div>
 				<p>
-					<strong style="color: black">Algemein:</strong>
+					<strong style="color: black">Abstract:</strong>
 				</p>
-				<p>Zur Klassifizierung von Benutzer Absichten in personbezogenen
-					Suchanfragen habe ich in meiner Bachelor-Thesis ein selbst
-					lernendes System implementiert</p>
-				<p>Die Idee des gesamten Systems ist es, anhand von
-					Beispieldaten zu lernen und durch Benutzer-Feedback diesem
-					lernenden Algorithmus zu unterstürtzen</p>
+				<p>Die Klassifizierung von Web-Suchanfragen nach
+					Benutzerabsichten bezeichnet die Art der Identifizierung von
+					Benutzer-Informationsgebrauch hinter Suchanfragen. In dieser Arbeit
+					werden eine Menge Merkmale aus den Suchanfragen ohne
+					irgendwelche externe oder zusätzliche Informationen über die
+					Suchanfragen zu wissen, extrahiert um diese Suchanfragen zu klassifizieren. Die
+					meisten Merkmale basieren auf Ähnlichkeitsfunktionen, die wir selber
+					definieren, wenn sie von keinem Dienst angeboten werden.
+					Wir berechnen diese Merkmale automatisch, dann implementieren wir
+					den Maschinelles-Lernen-Algorithmus um die Genauigkeit der
+					Klassifikation zu validieren, um die Qualität der berechenten Merkmale
+					zu testen und um die Ergebnisse der Klassifikation zu evaluieren. Der
+					Klassifikation unterstützen wir mit einem impliziten Feedback
+					Ansatz, den wir uns für diese Aufgabe überlegt haben. Wir
+					analysieren die erhaltene Ergebnisse und testen verschiedene
+					Verfahren, die mit dem verwendeten Algorithmus funktionieren. Zum
+					Schluß geben wir die Erfahrungen an, die durch diese Arbeit mit den
+					Daten und den getesteten Techniken gemacht wurden</p>
+				<br>
+				<p>
+					<strong style="color: black">Allgemein:</strong>
+				</p>
+				<p>In diesem Prototypen werden nur drei Modelle trainiert, die
+					jeweils eine Klasse vorhersagen können. Im Forlgenden werden die
+					Klassen vorgestellt.</p>
 				<br>
 				<p>
 					<strong style="color: black">Informationen zur Klassen:</strong>
 				</p>
 				<p>Es werden in diesem Protypen drei Klassen getestet</p>
 				<ul>
-					<li><strong>Musik/Ressourcen</strong><br>Es handelt sich um alle
-						Absichten die mit der Musik-Welt zu tun haben und auch alle
-						Ressourcen die man herunterladen kann (Videos, Photos, Filme etc.)
-					</li>
+					<li><strong>Musik/Ressourcen</strong><br>Es handelt sich
+						um alle Absichten die mit der Musik-Welt zu tun haben und auch
+						alle Ressourcen die man herunterladen kann (Videos, Photos, Filme
+						etc.)</li>
 					<li><strong>Land/Ort</strong><br>Es handelt sich hier um
 						Ortungsangaben von der eingegebenen Person wie zum Beispiel
 						(Addressen, Städte, Länder etc.)</li>
-					<li><strong>Sport/Karriere</strong><br>Es handelt sich hier um
-						die Sport-Welt und die Karriere einer Perosn wie zum Beispiel
-						(Football, Team, Work, Company etc.)</li>
+					<li><strong>Sport/Karriere</strong><br>Es handelt sich
+						hier um die Sport-Welt und die Karriere einer Perosn wie zum
+						Beispiel (Football, Team, Work, Company etc.)</li>
 				</ul>
 				<br>
 				<p>
@@ -96,9 +119,9 @@
 				<p>
 					<strong style="color: black">Feedback Prozess:</strong>
 				</p>
-				<p>Die Suchanfrage wird klassifiziert und anhand dieser Klassifikation werden die
-					Ergebnisse angezeigt, einen Feedback vom Benutzer erfolgt durch
-					zwei Events:</p>
+				<p>Die Suchanfrage wird klassifiziert und anhand dieser
+					Klassifikation werden die Ergebnisse angezeigt, einen Feedback vom
+					Benutzer erfolgt durch zwei Events:</p>
 				<ul>
 					<li>Klicken auf einem Ergebnis</li>
 					<li>Neue Suche ausführen</li>

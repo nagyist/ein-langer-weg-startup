@@ -9,9 +9,9 @@ import org.apache.wicket.request.component.IRequestablePage;
 import org.apache.wicket.request.mapper.info.PageComponentInfo;
 import org.apache.wicket.request.mapper.parameter.PageParametersEncoder;
 
-public class MountedMapperWithoutPageComponentInfo extends MountedMapper {
+public class MountedMapperWithoutInfo extends MountedMapper {
 
-	public MountedMapperWithoutPageComponentInfo(String mountPath,
+	public MountedMapperWithoutInfo(String mountPath,
 			Class<? extends IRequestablePage> pageClass) {
 		super(mountPath, pageClass, new PageParametersEncoder());
 	}

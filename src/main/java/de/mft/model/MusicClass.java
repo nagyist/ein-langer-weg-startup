@@ -13,19 +13,24 @@ import de.mft.interpretation.Interpretation;
 
 public class MusicClass extends ModelClass {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	public final String model = "model1";
 	public final String modelPath = pathToModels + "model1/";
 	public final String modelName = "model1.model";
 	public final String trainPath = pathToData + "model1/train/";
 	public final String testPath = pathToData + "model1/test/";
 	
+	private final String className = "MUSIK_RESSOURCEN"; 
 	private boolean locationFound;
 	private double similarityToLocationDe;
 	private double similarityToFamilyDe;
 	private double valueOfAllOtherClasses;
 	
-	public MusicClass(String class_, Interpretation interpretation) {
-		super(class_, interpretation);
+	public MusicClass(Interpretation interpretation) {
+		super(interpretation);
 		fillRestClassAttributes(interpretation);
 	}
 
@@ -121,5 +126,10 @@ public class MusicClass extends ModelClass {
 	
 	public boolean saveFeedbackInstance(Instance instance) {
 		return super.saveFeedbackInstance(model, instance);
+	}
+
+	@Override
+	public String getClassName() {
+		return className;
 	}
 }

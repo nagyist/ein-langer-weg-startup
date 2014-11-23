@@ -10,7 +10,6 @@ import org.apache.wicket.markup.html.form.Button;
 import org.apache.wicket.markup.html.form.Form;
 import org.apache.wicket.markup.html.form.TextField;
 import org.apache.wicket.markup.html.link.Link;
-import org.apache.wicket.markup.html.panel.FeedbackPanel;
 import org.apache.wicket.model.Model;
 import org.apache.wicket.request.mapper.parameter.PageParameters;
 
@@ -28,11 +27,7 @@ public class StartPage extends WebPage {
 	 */
 	private static final long serialVersionUID = 1L;
 
-	private final static Logger LOGGER = Logger.getLogger(StartPage.class
-			.getName());
-	static {
-		LOGGER.setLevel(Level.INFO);
-	}
+	private final static Logger LOGGER = Logger.getLogger(StartPage.class.getName());
 
 	private TextField<String> searchQuery;
 
@@ -53,6 +48,7 @@ public class StartPage extends WebPage {
 	@SuppressWarnings("serial")
 	public StartPage(final PageParameters parameters) {
 		super(parameters);
+		LOGGER.setLevel(Level.INFO);
 
 		Label titlePanel = new Label("title", new Model<String>(""));
 		titlePanel
@@ -63,10 +59,116 @@ public class StartPage extends WebPage {
 		noResults.setEscapeModelStrings(false);
 		add(noResults);
 
-		final FeedbackPanel feedbackPanel = new FeedbackPanel("feedbackPanel");
-		feedbackPanel.setOutputMarkupId(true);
-		add(feedbackPanel);
+		Form<?> feedbackForm = new Form<String>("feedbackForm");
+		initializeFeedbackButtons();
+		feedbackForm.add(musicFeedback);
+		feedbackForm.add(ortungFeedback);
+		feedbackForm.add(sportFeedback);
+
+		add(feedbackForm);
+
+		Form<?> searchForm = initializeSearchForm(titlePanel, noResults);
+		add(searchForm);
+		
+		add(new Link<Object>("userguides") {
+			@Override
+			public void onClick() {
+				setResponsePage(UserGuides.class, getPageParameters());
+			}
+
+		});
+
+	}
+
+	@SuppressWarnings("serial")
+	private Form<?> initializeSearchForm(final Label titlePanel,
+			final Label noResults) {
+		Form<?> searchForm = new Form<String>("searchForm");
+		searchQuery = new TextField<String>("searchQuery", Model.of(""));
+		searchForm.add(searchQuery);
+	
+		searchForm.add(new Button("submitButton") {
+			@Override
+			public void onSubmit() {
+				if (searched && musicClass != null && ortungClass != null && sportClass != null) {
+					musicClass.saveFeedbackInstance(musicClass.getInstance());
+					ortungClass.saveFeedbackInstance(ortungClass.getInstance());
+					sportClass.saveFeedbackInstance(sportClass.getInstance());
+				}
+				musicFeedback.add(new AttributeModifier("class", "hidden-buttons"));
+				ortungFeedback.add(new AttributeModifier("class", "hidden-buttons"));
+				sportFeedback.add(new AttributeModifier("class", "hidden-buttons"));
+				noResults.setDefaultModelObject("");
+				String query = searchQuery.getModelObject();
+				if (titlePanel != null && query != null && !"".equals(query)) {
+					titlePanel.setDefaultModelObject(query + " - Results");
+					interpretation = new Interpretation(Start.gnet, Start.ws4j, query);
+					if (interpretation.personFound()) {
+						musicClass = new MusicClass(interpretation);
+						ortungClass = new OrtungClass(interpretation);
+						sportClass = new SportClass(interpretation);
+	
+						Instance musicInstance = musicClass.getInstance();
+						Instance ortungInstance = ortungClass.getInstance();
+						Instance sportInstance = sportClass.getInstance();
+						AdaBoostM1 musicModel = musicClass.loadTrainedModel();
+						AdaBoostM1 ortungModel = ortungClass.loadTrainedModel();
+						AdaBoostM1 sportModel = sportClass.loadTrainedModel();
+	
+						double musicClassificationIndex = 0, ortungClassificationIndex = 0, sportClassificationIndex = 0;
+						String musicClassification = null, ortungClassification = null, sportClassification = null;
+						try {
+							musicClassificationIndex = musicModel
+									.classifyInstance(musicInstance);
+							musicClassification = musicClass.exampleInstances()
+									.classAttribute()
+									.value((int) musicClassificationIndex);
+							ortungClassificationIndex = ortungModel
+									.classifyInstance(ortungInstance);
+							ortungClassification = ortungClass
+									.exampleInstances().classAttribute()
+									.value((int) ortungClassificationIndex);
+							sportClassificationIndex = sportModel
+									.classifyInstance(sportInstance);
+							sportClassification = sportClass.exampleInstances()
+									.classAttribute()
+									.value((int) sportClassificationIndex);
+	
+							if (musicClassification.equals(musicClass
+									.getClassName()))
+								musicFeedback.add(new AttributeModifier(
+										"class", musicClass.getClassName()));
+							if (ortungClassification.equals(ortungClass
+									.getClassName()))
+								ortungFeedback.add(new AttributeModifier(
+										"class", ortungClass.getClassName()));
+							if (sportClassification.equals(sportClass
+									.getClassName()))
+								sportFeedback.add(new AttributeModifier(
+										"class", sportClass.getClassName()));
+							searched = true;
+							
+						} catch (Exception e) {
+							e.printStackTrace();
+						}
+	
+					} else {
+						String interString = "<span style='color: red'> Person konnte nicht gefunden werden </span><br /> Versuchen Sie bitte eine andere Suchanfrage";
+						noResults.setDefaultModelObject(interString);
+					}
+	
+				} else {
+					info("NullPointer..");
+				}
+			}
+		});
+		return searchForm;
+	}
+
+	@SuppressWarnings("serial")
+	private void initializeFeedbackButtons() {
 		final String dankSagung = "Vielen Dank für Ihren Feedback <br > Sie können gerne weitere Suchanfragen ausführen";
+
 		musicFeedback = new Button("musicFeedback") {
 			@Override
 			public void onSubmit() {
@@ -127,113 +229,6 @@ public class StartPage extends WebPage {
 				searched = false;
 			}
 		};
-
-		Form<?> feedbackForm = new Form<String>("feedbackForm");
-		feedbackForm.add(musicFeedback);
-		feedbackForm.add(ortungFeedback);
-		feedbackForm.add(sportFeedback);
-
-		add(feedbackForm);
-
-		Form<?> searchForm = initializeSearchForm(titlePanel, noResults);
-		add(searchForm);
-		
-		add(new Link<Object>("userguides") {
-			@Override
-			public void onClick() {
-				setResponsePage(UserGuides.class, getPageParameters());
-			}
-
-		});
-
-	}
-
-	@SuppressWarnings("serial")
-	private Form<?> initializeSearchForm(final Label titlePanel,
-			final Label noResults) {
-		Form<?> searchForm = new Form<String>("searchForm");
-		searchQuery = new TextField<String>("searchQuery", Model.of(""));
-		searchForm.add(searchQuery);
-
-		searchForm.add(new Button("submitButton") {
-			@Override
-			public void onSubmit() {
-				if (searched && musicClass != null && ortungClass != null && sportClass != null) {
-					musicClass.saveFeedbackInstance(musicClass.getInstance());
-					ortungClass.saveFeedbackInstance(ortungClass.getInstance());
-					sportClass.saveFeedbackInstance(sportClass.getInstance());
-				}
-				musicFeedback.add(new AttributeModifier("class", "hidden-buttons"));
-				ortungFeedback.add(new AttributeModifier("class", "hidden-buttons"));
-				sportFeedback.add(new AttributeModifier("class", "hidden-buttons"));
-				noResults.setDefaultModelObject("");
-				String query = searchQuery.getModelObject();
-				if (titlePanel != null && query != null && !"".equals(query)) {
-					titlePanel.setDefaultModelObject(query + " - Results");
-					interpretation = new Interpretation(Start.gnet, Start.ws4j, query);
-					if (interpretation.personFound()) {
-						musicClass = new MusicClass("MUSIK_RESSOURCEN",
-								interpretation);
-						ortungClass = new OrtungClass("LAND_ORT",
-								interpretation);
-						sportClass = new SportClass("SPORT_KARRIERE",
-								interpretation);
-
-						Instance musicInstance = musicClass.getInstance();
-						Instance ortungInstance = ortungClass.getInstance();
-						Instance sportInstance = sportClass.getInstance();
-						AdaBoostM1 musicModel = musicClass.loadTrainedModel();
-						AdaBoostM1 ortungModel = ortungClass.loadTrainedModel();
-						AdaBoostM1 sportModel = sportClass.loadTrainedModel();
-
-						double musicClassificationDouble = 0, ortungClassificationDouble = 0, sportClassificationDouble = 0;
-						String musicClassification = null, ortungClassification = null, sportClassification = null;
-						try {
-							musicClassificationDouble = musicModel
-									.classifyInstance(musicInstance);
-							musicClassification = musicClass.exampleInstances()
-									.classAttribute()
-									.value((int) musicClassificationDouble);
-							ortungClassificationDouble = ortungModel
-									.classifyInstance(ortungInstance);
-							ortungClassification = ortungClass
-									.exampleInstances().classAttribute()
-									.value((int) ortungClassificationDouble);
-							sportClassificationDouble = sportModel
-									.classifyInstance(sportInstance);
-							sportClassification = sportClass.exampleInstances()
-									.classAttribute()
-									.value((int) sportClassificationDouble);
-
-							if (musicClassification.equals(musicClass
-									.getClassName()))
-								musicFeedback.add(new AttributeModifier(
-										"class", musicClass.getClassName()));
-							if (ortungClassification.equals(ortungClass
-									.getClassName()))
-								ortungFeedback.add(new AttributeModifier(
-										"class", ortungClass.getClassName()));
-							if (sportClassification.equals(sportClass
-									.getClassName()))
-								sportFeedback.add(new AttributeModifier(
-										"class", sportClass.getClassName()));
-							searched = true;
-							
-						} catch (Exception e) {
-							e.printStackTrace();
-						}
-
-					} else {
-						String interString = "<span style='color: red'> Person konnte nicht gefunden werden </span><br /> Versuchen Sie bitte eine andere Suchanfrage";
-						noResults.setDefaultModelObject(interString);
-					}
-
-				} else {
-					info("NullPointer..");
-				}
-			}
-		});
-		return searchForm;
 	}
 
 }

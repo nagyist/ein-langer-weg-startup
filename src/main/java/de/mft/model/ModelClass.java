@@ -35,15 +35,12 @@ public abstract class ModelClass implements Serializable {
 	
 	public final static String testData = "test_data.arff"; 
 	
-	private String className;
-
 	private double similarityToOwnClassEn;
 	
 	private double similarityToOwnClassDe;
 
 	
-	public ModelClass(String class_, Interpretation interpretation) {
-		setClassName(class_);
+	public ModelClass(Interpretation interpretation) {
 		setSimilarityToOwnClassEn(interpretation.getEnSimilarities().get(getClassName().replace("_", "/")));
 		setSimilarityToOwnClassDe(interpretation.getDeSimilarities().get(getClassName().replace("_", "/")));
 	}
@@ -54,13 +51,7 @@ public abstract class ModelClass implements Serializable {
 	
 	public abstract Instances exampleInstances();
 	
-	public String getClassName() {
-		return className;
-	}
-
-	public void setClassName(String className) {
-		this.className = className;
-	}
+	public abstract String getClassName();
 
 	public double getSimilarityToOwnClassEn() {
 		return similarityToOwnClassEn;
@@ -124,10 +115,9 @@ public abstract class ModelClass implements Serializable {
 	
 	public static void main(String[] args){
 		Interpretation i = new Interpretation(GNETManager.getInstance(), new WS4JSimilarity(), "Thami Bouchnafa Songs in Kenitra balls");
-		MusicClass music = new MusicClass("MUSIK_RESSOURCEN", i);
+		MusicClass music = new MusicClass(i);
 		Instance in = music.getInstance();
 		in.setClassValue(music.getClassName());
-		boolean b = music.saveFeedbackInstance(in);
-		System.out.println(b);
+		System.out.println(in.toString());
 	}
 }

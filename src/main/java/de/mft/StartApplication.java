@@ -21,7 +21,7 @@ public class StartApplication extends WebApplication {
 	public void init()
 	{
 		super.init();
-		mount(new MountedMapperWithoutPageComponentInfo("/startseite/", StartPage.class));
-		mount(new MountedMapperWithoutPageComponentInfo("/benutzereinleitung/", UserGuides.class));
+		mount(new MountedMapperWithoutInfo("/startseite/", StartPage.class));
+		mount(new MountedMapperWithoutInfo("/benutzereinleitung/", UserGuides.class));
 	}
 }

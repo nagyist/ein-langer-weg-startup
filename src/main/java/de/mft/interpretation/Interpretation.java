@@ -21,17 +21,22 @@ import javax.xml.parsers.DocumentBuilderFactory;
 
 
 
+
 import org.apache.commons.lang.WordUtils; 
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
-import de.mft.model.Klasse;
 import de.mft.similarity.GNETManager;
 import de.mft.similarity.WS4JSimilarity;
 
 
 public class Interpretation implements Serializable {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 
 	private String query;
 	
@@ -52,8 +57,12 @@ public class Interpretation implements Serializable {
 	private static final String SOLR_URL = "http://localhost:8985/solr/collection1/select?q={0}&sort={1}+asc&rows=1000&fl={1}&wt=xml&indent=true";
 	
 	public Interpretation(GNETManager gnet, WS4JSimilarity ws4j, String query) {
-		this.setQuery(query);
+		setQuery(query);
 		interprete(gnet, ws4j, query);
+	}
+	
+	public Interpretation() {
+		
 	}
 	
 	private void interprete(GNETManager gnet, WS4JSimilarity ws4j, String query) {
@@ -133,45 +142,6 @@ public class Interpretation implements Serializable {
 		return rs;
 	}
 	
-	@SuppressWarnings("unused")
-	private static Map<String, Object> getResultsForClass(String selected,
-			Map<String, Object> interpretation) {
-		Map<String, Object> rs = new HashMap<String, Object>();
-		List<String> attris = (new Klasse(selected)).getAttributeNames();
-		GNETManager gnet = GNETManager.getInstance();
-		WS4JSimilarity ws4j = new WS4JSimilarity();
-		
-		Map<String, Double> de = gnet
-				.calculateSimilarityToAllClasses((String) interpretation
-						.get("intention"));
-		Map<String, Double> en = ws4j
-				.calculateSimilarityToAllClasses((String) interpretation
-						.get("intention"));
-		for (String attr : attris) {
-			if (attr.endsWith("_de")) {
-				rs.put(attr, de.get(Klasse.attributesOriginalNames.get(attr)));
-			} else if (attr.endsWith("_en")) {
-				rs.put(attr, en.get(Klasse.attributesOriginalNames.get(attr)));
-			} else if (attr.equals("class")) {
-				rs.put(attr, Klasse.getNegativClass(selected));
-			} else if (attr.equals("valueOfAllOtherClasses")) {
-				String[] arr = { "MUSIK/RESSOURCEN", "NACHRICHTEN/INFORMATION",
-						"SPORT/KARRIERE", "KÖRPER/MENSCH",
-						"FAMILIE/PRIVATSPHÄRE", "LAND/ORT" };
-				double temp = 0;
-				Map<String, Double> de_similarities = gnet
-						.calculateSimilarityToAllClasses((String) interpretation
-								.get("intention"));
-				for (String str : arr) {
-					temp += de_similarities.get(str);
-				}
-				rs.put(attr, temp / arr.length);
-			} else {
-				rs.put(attr, interpretation.get(attr));
-			}
-		}
-		return rs;
-	}
 	private static String removeEntitiesFromQuery(String query,
 			List<String> nList) {
 		String line, intention = query.toLowerCase();
