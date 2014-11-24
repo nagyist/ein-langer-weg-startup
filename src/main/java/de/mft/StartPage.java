@@ -91,9 +91,9 @@ public class StartPage extends WebPage {
 			@Override
 			public void onSubmit() {
 				if (searched && musicClass != null && ortungClass != null && sportClass != null) {
-					musicClass.saveFeedbackInstance(musicClass.getInstance());
-					ortungClass.saveFeedbackInstance(ortungClass.getInstance());
-					sportClass.saveFeedbackInstance(sportClass.getInstance());
+					musicClass.saveFeedbackInstance(interpretation.getQuery(), musicClass.getInstance());
+					ortungClass.saveFeedbackInstance(interpretation.getQuery(), ortungClass.getInstance());
+					sportClass.saveFeedbackInstance(interpretation.getQuery(), sportClass.getInstance());
 				}
 				musicFeedback.add(new AttributeModifier("class", "hidden-buttons"));
 				ortungFeedback.add(new AttributeModifier("class", "hidden-buttons"));
@@ -181,10 +181,10 @@ public class StartPage extends WebPage {
 				Instance musicInstance = musicClass.getInstance();
 				musicInstance.setClassValue(musicClass.getClassName());
 
-				if (musicClass.saveFeedbackInstance(musicInstance)
-						&& ortungClass.saveFeedbackInstance(ortungClass
+				if (musicClass.saveFeedbackInstance(interpretation.getQuery(), musicInstance)
+						&& ortungClass.saveFeedbackInstance(interpretation.getQuery(), ortungClass
 								.getInstance())
-						&& sportClass.saveFeedbackInstance(sportClass
+						&& sportClass.saveFeedbackInstance(interpretation.getQuery(), sportClass
 								.getInstance()))
 					noResults.setDefaultModelObject(dankSagung);
 				searched = false;
@@ -201,9 +201,9 @@ public class StartPage extends WebPage {
 						"hidden-buttons"));
 				Instance ortungInstance = ortungClass.getInstance();
 				ortungInstance.setClassValue(ortungClass.getClassName());
-				if (musicClass.saveFeedbackInstance(musicClass.getInstance())
-						&& ortungClass.saveFeedbackInstance(ortungInstance)
-						&& sportClass.saveFeedbackInstance(sportClass
+				if (musicClass.saveFeedbackInstance(interpretation.getQuery(), musicClass.getInstance())
+						&& ortungClass.saveFeedbackInstance(interpretation.getQuery(), ortungInstance)
+						&& sportClass.saveFeedbackInstance(interpretation.getQuery(), sportClass
 								.getInstance()))
 					noResults.setDefaultModelObject(dankSagung);
 				searched = false;
@@ -221,10 +221,10 @@ public class StartPage extends WebPage {
 				Instance sportInstance = sportClass.getInstance();
 				sportInstance.setClassValue(sportClass.getClassName());
 
-				if (musicClass.saveFeedbackInstance(musicClass.getInstance())
-						&& ortungClass.saveFeedbackInstance(ortungClass
+				if (musicClass.saveFeedbackInstance(interpretation.getQuery(), musicClass.getInstance())
+						&& ortungClass.saveFeedbackInstance(interpretation.getQuery(), ortungClass
 								.getInstance())
-						&& sportClass.saveFeedbackInstance(sportInstance))
+						&& sportClass.saveFeedbackInstance(interpretation.getQuery(), sportInstance))
 					noResults.setDefaultModelObject(dankSagung);
 				searched = false;
 			}

@@ -80,7 +80,7 @@ public abstract class ModelClass implements Serializable {
 		return getInstance().toString();
 	}
 	
-	public boolean saveFeedbackInstance(String model, Instance instance) {
+	public boolean saveFeedbackInstance(String model, String query, Instance instance) {
 			BufferedReader br;
 			Writer out;
 			String line;
@@ -91,7 +91,7 @@ public abstract class ModelClass implements Serializable {
 				while ((line = br.readLine()) != null) {
 					sb.append(line + "\n");
 				}
-				sb.append(instance.toString() + "\n");
+				sb.append(query+ "," + instance.toString() + "\n");
 				br.close();
 				out = new BufferedWriter(new OutputStreamWriter(
 						new FileOutputStream(pathToFeedback

@@ -69,8 +69,8 @@ public class SportClass extends ModelClass {
 		return inst;
 	}
 	
-	public boolean saveFeedbackInstance(Instance instance) {
-		return super.saveFeedbackInstance(model, instance);
+	public boolean saveFeedbackInstance(String query, Instance instance) {
+		return super.saveFeedbackInstance(model, query, instance);
 	}
 
 	@Override

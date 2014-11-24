@@ -20,7 +20,7 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		boolean a = rewrite("solr/solr-4.10.2/example/exampledocs/locations_int.csv");
+		boolean a = rewrite("solr/solr-4.10.2/example/exampledocs/locations_de.csv");
 		if (a) System.out.println("Rewriting file succeed");
 		else System.out.println("Rewriting file failed");
 	}
