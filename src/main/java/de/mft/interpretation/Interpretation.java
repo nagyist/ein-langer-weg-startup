@@ -50,11 +50,13 @@ public class Interpretation implements Serializable {
 	
 	private boolean locationFound;
 	
+	private boolean intentionFound;
+	
 	private Map<String, Double> deSimilarities;
 	
 	private Map<String, Double> enSimilarities;
 	
-	private static final String SOLR_URL = "http://localhost:8985/solr/collection1/select?q={0}&sort={1}+asc&rows=1000&fl={1}&wt=xml&indent=true";
+	private static final String SOLR_URL = "http://localhost:8983/solr/collection1/select?q={0}&sort={1}+asc&rows=1000&fl={1}&wt=xml&indent=true";
 	
 	public Interpretation(GNETManager gnet, WS4JSimilarity ws4j, String query) {
 		setQuery(query);
@@ -90,6 +92,7 @@ public class Interpretation implements Serializable {
 			this.setLocationFound(this.getLocationNames().size() > 0);
 			
 			this.setIntention(query);
+			this.setIntentionFound(query.length() > 1);
 			
 			setDeSimilarities(removeInfinityValues(gnet.calculateSimilarityToAllClasses(getIntention())));
 			setEnSimilarities(removeInfinityValues(ws4j.calculateSimilarityToAllClasses(getIntention())));
@@ -103,7 +106,12 @@ public class Interpretation implements Serializable {
 	public static Map<String, Object> interpretQuery(String query)
 			throws IOException {
 		Map<String, Object> interpretation = null;
-		List<String> person_names = extractEntitiesFromXML(query, "person_name_lc", permutations(query));
+		List<String> person_names = null;
+		try {
+			person_names = extractEntitiesFromXML(query, "person_name_lc", permutations(query));
+		} catch (Exception e) {
+			System.out.println(query);
+		}
 		if (person_names.size() > 0) {
 			interpretation = new HashMap<String, Object>();
 			interpretation.put("query", query);
@@ -166,11 +174,15 @@ public class Interpretation implements Serializable {
 	private static List<String> permutations(String query) {
 		List<String> rs = new ArrayList<String>();
 		String[] split = query.split("\\s+");
-		for (int i = 0; i < split.length - 1; i++)
-			for (int j = i + 1; j < split.length; j++) {
-				rs.add(split[i].toLowerCase() + " " + split[j].toLowerCase());
-				rs.add(split[j].toLowerCase() + " " + split[i].toLowerCase());
-			}
+		if (split.length > 1) {
+			for (int i = 0; i < split.length - 1; i++)
+				for (int j = i + 1; j < split.length; j++) {
+					rs.add(split[i].toLowerCase() + " " + split[j].toLowerCase());
+					rs.add(split[j].toLowerCase() + " " + split[i].toLowerCase());			
+				}
+		} else {
+			rs.add(query);
+		}
 		return rs;
 	}
 
@@ -288,6 +300,14 @@ public class Interpretation implements Serializable {
 
 	public Map<String, Double> getEnSimilarities() {
 		return enSimilarities;
+	}
+
+	public boolean intentionFound() {
+		return intentionFound;
+	}
+
+	public void setIntentionFound(boolean intentionFound) {
+		this.intentionFound = intentionFound;
 	}
 
 }

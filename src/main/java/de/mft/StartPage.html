@@ -22,6 +22,8 @@
 					in personbezogenen <br /> Suchanfragen mit Hilfe von AdaBoost und
 					Nutzer-Feedback
 				</span>
+				<br ><strong>Benutzeranleitung: </strong><span style='color: orange'><a wicket:id="userguides"
+					style='text-decoration: none; color: orange; font-size: 20px' target="_blank">[Mehr Infos]</a></span>
 			</p>
 		</div>
 		<div id="content-div">
@@ -31,14 +33,7 @@
 				<input style="margin-left: -48px;height: 33px;" wicket:id="submitButton" id="submitButton" type="submit"
 					value="" class="button" />
 			</form>
-			<p id="userguides">
-				Bitte geben Sie eine Suchanfrage an, die einen Personnamen enthält.
-				<br />Optimal bestände der Name der Person aus zwei Termen (Vorname
-				+ Nachname) <br />Die Reihenfolge spielt keine Rolle, Beispiel:
-				"Michael Jackson Songs" oder "Songs of Michael Jackson" <br />Bitte
-				lesen Sie die folgende Benutzungseinleitung <a wicket:id="userguides">Mehr
-					Infos</a>
-			</p>
+			
 			<div id="hidden_div" style="margin-bottom: 50px; visibility: hidden"></div>
 
 			<form wicket:id="feedbackForm">
@@ -59,7 +54,7 @@
 			</form>
 
 			<div wicket:id="noResults"
-				style="font-family: Verdana; color: #009286; font-size: 40px; font-weight: bold;">result
+				style="font-family: Verdana; color: #009286; font-size: 30px; font-weight: bold;">result
 				go here..</div>
 			<div id="hidden_div" style="margin-bottom: 150px; visibility: hidden"></div>
 		</div>

@@ -9,6 +9,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
+import java.util.Random;
 import java.util.UUID;
 
 import weka.core.Instance;
@@ -20,23 +21,25 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		boolean a = rewrite("solr/solr-4.10.2/example/exampledocs/locations_de.csv");
+		String header = "id,person_name,person_name_lc,person_name_ngram,person_name_length,person_name_counts\n";
+		boolean a = rewrite("solr/solr-4.10.2/example/exampledocs/musicbrainz_person_names.csv", header);
 		if (a) System.out.println("Rewriting file succeed");
 		else System.out.println("Rewriting file failed");
 	}
 
-	public static boolean rewrite(String model) {
+	public static boolean rewrite(String model, String header) {
 		BufferedReader br;
 		Writer out;
 		String line;
 		StringBuffer sb = new StringBuffer();
+		sb.append(header);
 		try {
 		br = new BufferedReader(new InputStreamReader(new FileInputStream(
 				model), "UTF8"));
 		String[] arr = null;
 			while ((line = br.readLine()) != null) {
 				arr = line.split(",");
-				sb.append(UUID.randomUUID() + "," + arr[1] + "," + arr[2] + "," + arr[3] + "," + arr[4] + "\n");
+				sb.append(UUID.randomUUID() + "," + arr[0] + "," + arr[1] + "," + arr[2] + "," + arr[0].length() +"," + randInt(0, 10) + "\n");
 			}
 			br.close();
 			out = new BufferedWriter(new OutputStreamWriter(
@@ -57,6 +60,19 @@ public class Main {
 		}
 		return false;
 }
+	
+	public static int randInt(int min, int max) {
+
+	    // NOTE: Usually this should be a field rather than a method
+	    // variable so that it is not re-seeded every call.
+	    Random rand = new Random();
+
+	    // nextInt is normally exclusive of the top value,
+	    // so add 1 to make it inclusive
+	    int randomNum = rand.nextInt((max - min) + 1) + min;
+
+	    return randomNum;
+	}
 
 	
 }

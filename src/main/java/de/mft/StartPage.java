@@ -33,6 +33,8 @@ public class StartPage extends WebPage {
 
 	private Button musicFeedback, ortungFeedback, sportFeedback;
 
+	private String musicClassification = null, ortungClassification = null, sportClassification = null;
+
 	private MusicClass musicClass = null;
 
 	private OrtungClass ortungClass = null;
@@ -91,9 +93,13 @@ public class StartPage extends WebPage {
 			@Override
 			public void onSubmit() {
 				if (searched && musicClass != null && ortungClass != null && sportClass != null) {
-					musicClass.saveFeedbackInstance(interpretation.getQuery(), musicClass.getInstance());
-					ortungClass.saveFeedbackInstance(interpretation.getQuery(), ortungClass.getInstance());
-					sportClass.saveFeedbackInstance(interpretation.getQuery(), sportClass.getInstance());
+					
+					if (musicClassification != null && musicClassification.equals(musicClass.getClassName())) 
+						musicClass.saveFeedbackInstance(interpretation.getQuery(), musicClass.getInstance());
+					if (ortungClassification != null && ortungClassification.equals(ortungClass.getClassName()))
+						ortungClass.saveFeedbackInstance(interpretation.getQuery(), ortungClass.getInstance());
+					if (sportClassification != null && sportClassification.equals(sportClass.getClassName()))
+						sportClass.saveFeedbackInstance(interpretation.getQuery(), sportClass.getInstance());
 				}
 				musicFeedback.add(new AttributeModifier("class", "hidden-buttons"));
 				ortungFeedback.add(new AttributeModifier("class", "hidden-buttons"));
@@ -103,7 +109,7 @@ public class StartPage extends WebPage {
 				if (titlePanel != null && query != null && !"".equals(query)) {
 					titlePanel.setDefaultModelObject(query + " - Results");
 					interpretation = new Interpretation(Start.gnet, Start.ws4j, query);
-					if (interpretation.personFound()) {
+					if (interpretation.personFound() && interpretation.intentionFound()) {
 						musicClass = new MusicClass(interpretation);
 						ortungClass = new OrtungClass(interpretation);
 						sportClass = new SportClass(interpretation);
@@ -116,7 +122,6 @@ public class StartPage extends WebPage {
 						AdaBoostM1 sportModel = sportClass.loadTrainedModel();
 	
 						double musicClassificationIndex = 0, ortungClassificationIndex = 0, sportClassificationIndex = 0;
-						String musicClassification = null, ortungClassification = null, sportClassification = null;
 						try {
 							musicClassificationIndex = musicModel
 									.classifyInstance(musicInstance);
@@ -152,8 +157,13 @@ public class StartPage extends WebPage {
 							e.printStackTrace();
 						}
 	
+					} else if (!interpretation.intentionFound()) {
+						String interString = "<span style='color: red'> Absicht konnte nicht interpretiert werden </span><br /> Versuchen Sie bitte eine andere Suchanfrage" +
+								"<br ><span style='font-size:11px; color:black'><strong>Empfolene Formulierungen: </strong> [Vorname + Nachname + Absicht] oder [Absicht + Vorname + Nachname] <br> Vorname und Nachname können vertauscht werden</span>";
+						noResults.setDefaultModelObject(interString);
 					} else {
-						String interString = "<span style='color: red'> Person konnte nicht gefunden werden </span><br /> Versuchen Sie bitte eine andere Suchanfrage";
+						String interString = "<span style='color: red'> Person konnte nicht gefunden werden </span><br /> Versuchen Sie bitte eine andere Suchanfrage" +
+								"<br ><span style='font-size:11px; color:black'><strong>Empfolene Formulierungen: </strong> [Vorname + Nachname + Absicht] oder [Absicht + Vorname + Nachname] <br> Vorname und Nachname können vertauscht werden</span>";
 						noResults.setDefaultModelObject(interString);
 					}
 	
@@ -181,12 +191,15 @@ public class StartPage extends WebPage {
 				Instance musicInstance = musicClass.getInstance();
 				musicInstance.setClassValue(musicClass.getClassName());
 
-				if (musicClass.saveFeedbackInstance(interpretation.getQuery(), musicInstance)
-						&& ortungClass.saveFeedbackInstance(interpretation.getQuery(), ortungClass
-								.getInstance())
-						&& sportClass.saveFeedbackInstance(interpretation.getQuery(), sportClass
-								.getInstance()))
-					noResults.setDefaultModelObject(dankSagung);
+				musicClass.saveFeedbackInstance(interpretation.getQuery(), musicInstance);
+				if (ortungClassification != null && ortungClassification.equals(ortungClass.getClassName())) 
+					ortungClass.saveFeedbackInstance(interpretation.getQuery(), ortungClass
+								.getInstance());
+
+				if (sportClassification != null && sportClassification.equals(sportClass.getClassName())) {
+					sportClass.saveFeedbackInstance(interpretation.getQuery(), sportClass
+								.getInstance());}
+				noResults.setDefaultModelObject(dankSagung);
 				searched = false;
 			}
 		};
@@ -201,10 +214,14 @@ public class StartPage extends WebPage {
 						"hidden-buttons"));
 				Instance ortungInstance = ortungClass.getInstance();
 				ortungInstance.setClassValue(ortungClass.getClassName());
-				if (musicClass.saveFeedbackInstance(interpretation.getQuery(), musicClass.getInstance())
-						&& ortungClass.saveFeedbackInstance(interpretation.getQuery(), ortungInstance)
-						&& sportClass.saveFeedbackInstance(interpretation.getQuery(), sportClass
-								.getInstance()))
+				ortungClass.saveFeedbackInstance(interpretation.getQuery(), ortungInstance);
+				if (musicClassification != null && musicClassification.equals(musicClass.getClassName())) 
+					musicClass.saveFeedbackInstance(interpretation.getQuery(), musicClass
+								.getInstance());
+
+				if (sportClassification != null && sportClassification.equals(sportClass.getClassName())) {
+					sportClass.saveFeedbackInstance(interpretation.getQuery(), sportClass
+								.getInstance());}
 					noResults.setDefaultModelObject(dankSagung);
 				searched = false;
 			}
@@ -221,11 +238,15 @@ public class StartPage extends WebPage {
 				Instance sportInstance = sportClass.getInstance();
 				sportInstance.setClassValue(sportClass.getClassName());
 
-				if (musicClass.saveFeedbackInstance(interpretation.getQuery(), musicClass.getInstance())
-						&& ortungClass.saveFeedbackInstance(interpretation.getQuery(), ortungClass
-								.getInstance())
-						&& sportClass.saveFeedbackInstance(interpretation.getQuery(), sportInstance))
-					noResults.setDefaultModelObject(dankSagung);
+				sportClass.saveFeedbackInstance(interpretation.getQuery(), sportInstance);
+				if (musicClassification != null && musicClassification.equals(musicClass.getClassName())) 
+					musicClass.saveFeedbackInstance(interpretation.getQuery(), musicClass
+								.getInstance());
+
+				if (ortungClassification != null && ortungClassification.equals(ortungClass.getClassName())) {
+					ortungClass.saveFeedbackInstance(interpretation.getQuery(), ortungClass
+								.getInstance());}
+				noResults.setDefaultModelObject(dankSagung);
 				searched = false;
 			}
 		};
