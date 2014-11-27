@@ -10,6 +10,9 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.Serializable;
 import java.io.Writer;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 import weka.classifiers.meta.AdaBoostM1;
 import weka.core.Instance;
@@ -85,13 +88,16 @@ public abstract class ModelClass implements Serializable {
 			Writer out;
 			String line;
 			StringBuffer sb = new StringBuffer();
+			DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd_HH:mm:ss");
+			Date date = new Date();
+			
 			try {
 			br = new BufferedReader(new InputStreamReader(new FileInputStream(
 					pathToFeedback + model + "/feedback.arff"), "UTF8"));
 				while ((line = br.readLine()) != null) {
 					sb.append(line + "\n");
 				}
-				sb.append(query+ "," + instance.toString() + "\n");
+				sb.append(dateFormat.format(date) + "," + query+ "," + instance.toString() + "\n");
 				br.close();
 				out = new BufferedWriter(new OutputStreamWriter(
 						new FileOutputStream(pathToFeedback

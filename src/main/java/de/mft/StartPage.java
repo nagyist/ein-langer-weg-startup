@@ -166,10 +166,18 @@ public class StartPage extends WebPage {
 						}
 	
 					} else if (!interpretation.intentionFound()) {
+						infos.setDefaultModelObject("<ul><li><strong>Persons Found: </strong>"+
+								interpretation.getPersonNames().toString() + "</li>" + 
+								"<li><strong style='text-align:inherit'>Intention: </strong>" + interpretation.getIntention() + "</li></ul>");
+						
 						String interString = "<span style='color: red'> Absicht konnte nicht interpretiert werden </span><br /> Versuchen Sie bitte eine andere Suchanfrage" +
 								"<br ><span style='font-size:11px; color:black'><strong>Empfolene Formulierungen: </strong> [Vorname + Nachname + Absicht] oder [Absicht + Vorname + Nachname] <br> Vorname und Nachname können vertauscht werden</span>";
 						noResults.setDefaultModelObject(interString);
 					} else {
+						infos.setDefaultModelObject("<ul><li><strong>Persons Found: </strong>"+
+								interpretation.getPersonNames().toString() + "</li>" + 
+								"<li><strong style='text-align:inherit'>Intention: </strong>" + interpretation.getIntention() + "</li></ul>");
+						
 						String interString = "<span style='color: red'> Person konnte nicht gefunden werden </span><br /> Versuchen Sie bitte eine andere Suchanfrage" +
 								"<br ><span style='font-size:11px; color:black'><strong>Empfolene Formulierungen: </strong> [Vorname + Nachname + Absicht] oder [Absicht + Vorname + Nachname] <br> Vorname und Nachname können vertauscht werden</span>";
 						noResults.setDefaultModelObject(interString);

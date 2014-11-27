@@ -24,7 +24,7 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String header = "id,person_name,person_name_lc,person_name_ngram,person_name_length,person_name_counts\n";
-		boolean a = rewrite("solr/solr-4.10.2/example/exampledocs/spanish_player.csv", header);
+		boolean a = rewrite("solr/musicbrainz_person_names.csv", header);
 		if (a) System.out.println("Rewriting file succeed");
 		else System.out.println("Rewriting file failed");
 	}
