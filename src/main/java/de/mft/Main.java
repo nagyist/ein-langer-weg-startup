@@ -12,6 +12,8 @@ import java.io.Writer;
 import java.util.Random;
 import java.util.UUID;
 
+import org.apache.commons.lang.WordUtils;
+
 import weka.core.Instance;
 
 public class Main {
@@ -22,7 +24,7 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String header = "id,person_name,person_name_lc,person_name_ngram,person_name_length,person_name_counts\n";
-		boolean a = rewrite("solr/solr-4.10.2/example/exampledocs/musicbrainz_person_names.csv", header);
+		boolean a = rewrite("solr/solr-4.10.2/example/exampledocs/spanish_player.csv", header);
 		if (a) System.out.println("Rewriting file succeed");
 		else System.out.println("Rewriting file failed");
 	}
@@ -39,7 +41,8 @@ public class Main {
 		String[] arr = null;
 			while ((line = br.readLine()) != null) {
 				arr = line.split(",");
-				sb.append(UUID.randomUUID() + "," + arr[0] + "," + arr[1] + "," + arr[2] + "," + arr[0].length() +"," + randInt(0, 10) + "\n");
+				String target = arr[0].trim();
+				sb.append(UUID.randomUUID() + "," + WordUtils.capitalize(target.toLowerCase()) + "," + target.toLowerCase() + "," + target.split("\\s+").length + "," + target.length() +"," + randInt(0, 10) + "\n");
 			}
 			br.close();
 			out = new BufferedWriter(new OutputStreamWriter(

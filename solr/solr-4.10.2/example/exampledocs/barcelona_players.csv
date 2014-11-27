@@ -1,0 +1,24 @@
+id,person_name,person_name_lc,person_name_ngram,person_name_length,person_name_counts
+75836902-d5d0-4c61-a3f4-3525d32157fe,﻿Ter Stegen,﻿ter stegen,4,2,4
+28b3fb4e-a100-4ac6-b884-5ced03c612cd,Martin Montoya,martin montoya,0,8,4
+70ba7b53-a9f9-4755-97b8-7548e92a1835,Gerard Pique,gerard pique,0,6,0
+cfeb6aff-6b9a-4986-a8ed-15fad6b7f6a4,Ivan Rakitic,ivan rakitic,8,4,8
+c25716f2-040c-4c9b-bf2d-82bc8a7b6870,Sergio Busquets,sergio busquets,6,9,10
+3cabfa67-978d-480d-bd81-c2a970bf6633,Xavi Hernandez,xavi hernandez,4,1,4
+89078104-08b2-4375-9731-28d91b6d3a2b,Pedro Rodriguez ,pedro rodriguez ,4,14,9
+8be2efc9-7bc9-484d-9a48-e073f0ee16ea,Andres Iniesta,andres iniesta,4,14,3
+09d1eeec-0fd0-4dc6-89c2-e0ee2a334942,Luis Suarez ,luis suarez ,9,15,5
+916c047e-0d2e-49c6-b363-5fd86ba448c6,Lionel Messi,lionel messi,6,0,0
+a4977f22-f0f3-4af4-b03d-30bdced3c8a1,Neymar Junior,neymar junior,1,3,8
+5222a021-e797-4f57-a102-7f5152152e2f,Rafael Alcantara,rafael alcantara,0,13,5
+840ec87b-9831-4ad1-9d62-79b3dff6b9cf,Claudio Bravo,claudio bravo,9,18,0
+de7b51b7-eee6-40ab-b856-18f6618ba1cb,Javier Mascherano,javier mascherano,10,20,7
+f8b193c5-f265-48a1-9ee2-a06d477a57dc,Marc Bartra,marc bartra,3,19,3
+247f4abc-7bd0-48f2-9c35-f58536c6e878,Douglas Pereira,douglas pereira,10,1,1
+68e64925-cf17-4fe6-aaf3-cda01ac5e45f,Jordi Alba,jordi alba,4,11,9
+bd558a65-7e9c-47f6-bad6-c47d59ac2612,Sergi Roberto,sergi roberto,7,16,6
+7ef9be83-b448-4422-8b19-4140c3eac7ab,Adriano Correia,adriano correia,8,3,3
+07513849-26f4-4359-a0ca-bcbe78a95f9b,Daniel Alves,daniel alves,9,7,8
+0b0f7ba9-2e43-4db7-b7be-6078155dcbe8,Thomas Vermaelen,thomas vermaelen,2,1,3
+92478361-9384-4a11-bec1-c7aa416d1110,Jeremy Mathieu,jeremy mathieu,0,14,3
+171e240e-791b-4e72-93b7-0030c14b85e4,Jordi Masip,jordi masip,2,12,1
