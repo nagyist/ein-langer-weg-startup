@@ -15,6 +15,7 @@ import java.io.ObjectInputStream.GetField;
 import de.mft.model.TrainedModel;
 
 import weka.classifiers.Classifier;
+import weka.classifiers.Evaluation;
 import weka.classifiers.meta.AdaBoostM1;
 import weka.core.Instances;
 import weka.core.SerializationHelper;
@@ -68,24 +69,15 @@ public class Modell {
 	}
 	
 	
-	private static String serializeModel(Classifier cls, Instances inst,
-			String modelPath) {
-
-		// serialize model
-		String attributes = "_";
-		for (int i = 0; i < inst.numAttributes(); i++) {
-			attributes += inst.attribute(i).name() + "_";
-		}
-		attributes = attributes.substring(0, attributes.length() - 7);
-		String modelName = cls.getClass().getSimpleName();
-		modelName = modelPath + modelName + attributes + ".model";
+	@SuppressWarnings("unused")
+	private static String serializeModel(Classifier cls,String modelPath) {
 		try {
-			SerializationHelper.write(modelName, cls);
+			SerializationHelper.write(modelPath, cls);
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		return modelName;
+		return modelPath;
 	}
 
 	public static AdaBoostM1 trainAlgorithm(Instances inst, String[] options)
@@ -98,5 +90,34 @@ public class Modell {
 			return cls;
 		}
 		return cls;
+	}
+	
+	public static void main(String[] args) {
+		BufferedReader reader;
+		Instances data, test;
+		AdaBoostM1 cls;
+		String modelName = "models/model1.model";
+		try {
+			reader = new BufferedReader(new FileReader(
+					"data/model1/train/train_data.arff"));
+			data = new Instances(reader);
+			 if (data.classIndex() == -1)
+				   data.setClassIndex(data.numAttributes() - 1);
+			reader.close();
+			cls = trainAlgorithm(data, algorithmOptions.split("\\s+"));
+			reader = new BufferedReader(new FileReader(
+					"data/model1/test/test_data.arff"));
+			test = new Instances(reader);
+			 if (test.classIndex() == -1)
+				   test.setClassIndex(test.numAttributes() - 1);
+			reader.close();
+			Evaluation evaluation = new Evaluation(test);
+			evaluation.evaluateModel(cls, test);
+			System.out.println(evaluation.toSummaryString());
+			System.out.println(serializeModel(cls, modelName));
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 }

@@ -43,7 +43,7 @@ public class StartPage extends WebPage {
 
 	private Interpretation interpretation = null;
 
-	private Label noResults;
+	private Label noResults, infos;
 	
 	private static boolean searched = false;
 	
@@ -57,6 +57,10 @@ public class StartPage extends WebPage {
 				.setDefaultModelObject("Startseite - AdaBoost Classification with User-Feedback");
 		add(titlePanel);
 
+		infos = new Label("infos", new Model<String>(""));
+		infos.setEscapeModelStrings(false);
+		add(infos);
+		
 		noResults = new Label("noResults", new Model<String>(""));
 		noResults.setEscapeModelStrings(false);
 		add(noResults);
@@ -69,7 +73,7 @@ public class StartPage extends WebPage {
 
 		add(feedbackForm);
 
-		Form<?> searchForm = initializeSearchForm(titlePanel, noResults);
+		Form<?> searchForm = initializeSearchForm(titlePanel);
 		add(searchForm);
 		
 		add(new Link<Object>("userguides") {
@@ -83,8 +87,7 @@ public class StartPage extends WebPage {
 	}
 
 	@SuppressWarnings("serial")
-	private Form<?> initializeSearchForm(final Label titlePanel,
-			final Label noResults) {
+	private Form<?> initializeSearchForm(final Label titlePanel) {
 		Form<?> searchForm = new Form<String>("searchForm");
 		searchQuery = new TextField<String>("searchQuery", Model.of(""));
 		searchForm.add(searchQuery);
@@ -105,6 +108,7 @@ public class StartPage extends WebPage {
 				ortungFeedback.add(new AttributeModifier("class", "hidden-buttons"));
 				sportFeedback.add(new AttributeModifier("class", "hidden-buttons"));
 				noResults.setDefaultModelObject("");
+				infos.setDefaultModelObject("");
 				String query = searchQuery.getModelObject();
 				if (titlePanel != null && query != null && !"".equals(query)) {
 					titlePanel.setDefaultModelObject(query + " - Results");
@@ -113,7 +117,11 @@ public class StartPage extends WebPage {
 						musicClass = new MusicClass(interpretation);
 						ortungClass = new OrtungClass(interpretation);
 						sportClass = new SportClass(interpretation);
-	
+						
+						infos.setDefaultModelObject("<ul><li><strong>Persons Found: </strong>"+
+								interpretation.getPersonNames().toString() + "</li>" + 
+								"<li><strong style='text-align:inherit'>Intention: </strong>" + interpretation.getIntention() + "</li></ul>");
+						
 						Instance musicInstance = musicClass.getInstance();
 						Instance ortungInstance = ortungClass.getInstance();
 						Instance sportInstance = sportClass.getInstance();

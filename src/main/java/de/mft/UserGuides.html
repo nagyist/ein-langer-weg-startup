@@ -50,33 +50,45 @@ und den getesteten Techniken gemacht wurden.</p>
 				<p>
 					<strong style="color: black">Allgemein:</strong>
 				</p>
-				<p>In diesem Prototyp werden nur drei Modelle trainiert, die
-					jeweils eine Klasse vorhersagen können. Im Folgenden werden die
-					Klassen vorgestellt.</p>
+				<p>Die Namenerkennung basiert auf einem Lookup-Verfahren. Die Erkennung bedeckt nicht alle Namen.<br>
+				Es wurden Namen aus der Computer-Welt aus der bibliographischen Datenbank <a target="_blank" href="http://dblp.uni-trier.de/">DBLP</a> indexiert
+				und Namen aus der Musik-Welt aus dem <a target="_blank" href="http://musicbrainz.org/">MusikBrainz-Server</a></p>
+				
+				<p>	
+					<strong style="color: black">Empfolene Formulierungen:</strong>
+				</p>
+				<ul>
+					<li>Vorname + Nachname + Absicht</li>
+					<li>Nachname + Vorname + Absicht</li>
+					<li>Absicht + Nachname + Vorname</li>
+					<li>Absicht + Vorname + Nachname</li>
+				</ul>
 				<br>
 				<p>
-					<strong style="color: black">Informationen zu den Klassen:</strong>
+					<strong style="color: black">Informationen zu den Klassifikationen:</strong>
 				</p>
-				<p>Es werden in diesem Protypen drei Klassen getestet</p>
+				<p>In diesem Prototyp werden nur drei Modelle trainiert, die
+					jeweils eine Klasse vorhersagen können. Im Folgenden werden die
+					Klassen vorgestellt:</p>
 				<ul>
-					<li><strong>Musik/Ressourcen</strong><br>Es handelt sich
-						um alle Absichten die mit der Musik-Welt zu tun haben und auch
-						alle Ressourcen die man herunterladen kann (Videos, Photos, Filme
+					<li><strong>Musik/Ressourcen</strong><br>Es handelt sich hierbei
+						um alle Absichten, die mit der Musik-Welt zu tun haben und auch
+						um Ressourcen, die man herunterladen kann (Videos, Fotos, Filme
 						etc.)</li>
-					<li><strong>Land/Ort</strong><br>Es handelt sich hier um
+					<li><strong>Land/Ort</strong><br>Es handelt sich hierbei um
 						Ortungsangaben von der eingegebenen Person wie zum Beispiel
-						(Addressen, Städte, Länder etc.)</li>
+						(Adressen, Städte, Länder etc.)</li>
 					<li><strong>Sport/Karriere</strong><br>Es handelt sich
-						hier um die Sport-Welt und die Karriere einer Perosn wie zum
+						hierbei um die Sport-Welt oder die Karriere einer Person wie zum
 						Beispiel (Football, Team, Work, Company etc.)</li>
 				</ul>
 				<br>
 				<p>
 					<strong style="color: black">Angezeigte Ergebnisse: </strong>
 				</p>
-				<p>Als Ergebnisse zeigen wir einfach Blocks mit einem
-					Hintergrungsbild, die auf den Klassen verweisen</p>
-				<p>Im Folgenden sind die Bilder, die angezeigt werden zu sehen:</p>
+				<p>Als Ergebnisse zeigen wir einfach Blocks mit einem jeweils zu den ermittelten Klassen passenden
+					Hintergrundsbild. Dieses Hintergrundbild steht jeweils stellvertretend für Suchergebnisse aus der entsprechenden Kategorie.</p>
+				<p>Im Folgenden sind die Bilder, die angezeigt werden, zu sehen:</p>
 				<br>
 				<table>
 					<tr>
@@ -111,12 +123,13 @@ und den getesteten Techniken gemacht wurden.</p>
 					<strong style="color: black">Feedback Prozess:</strong>
 				</p>
 				<p>Die Suchanfrage wird klassifiziert und anhand dieser
-					Klassifikation werden die Ergebnisse angezeigt, einen Feedback vom
+					Klassifikation werden die Ergebnisse angezeigt, ein Feedback vom
 					Benutzer erfolgt durch zwei Events:</p>
 				<ul>
 					<li>Klicken auf einem Ergebnis</li>
 					<li>Neue Suche ausführen</li>
 				</ul>
+				<p>Das Ignorieren der angezeigten Ergebnisse bezeichnet ein negatives Feedback zu diesen Ergebnissen.</p>
 				<br>
 				<p>
 					<a wicket:id="backtohomepage">Zurück zur Startseite</a>

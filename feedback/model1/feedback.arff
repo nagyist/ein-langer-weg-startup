@@ -129,3 +129,7 @@ Boris Becker cd,false,1.1973,0,0,0,0,NO_MR
 Boris Becker player,false,1.2244,0,0,0,0,NO_MR
 Michael Jackson Song chicago,true,4.9878,0.6667,0,0,0,MUSIK_RESSOURCEN
 Michael Jackson chicago song,true,4.9878,0.6667,0,0,0,NO_MR
+Michael Jackson spieler,false,0,0.8889,0,0,0.1091,NO_MR
+Michael Jackson spieler hd,false,0,0.8889,0,0,0.1091,NO_MR
+Michael Jackson hd test,false,0.5544,0,0,0,0.16364,NO_MR
+Michael Jackson test,false,1.1089,0,0,0,0.16364,NO_MR
