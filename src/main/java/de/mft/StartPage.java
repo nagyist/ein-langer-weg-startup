@@ -118,7 +118,7 @@ public class StartPage extends WebPage {
 						ortungClass = new OrtungClass(interpretation);
 						sportClass = new SportClass(interpretation);
 						
-						infos.setDefaultModelObject("<ul><li><strong>Persons Found: </strong>"+
+						infos.setDefaultModelObject("<ul style='list-style-type: none;'><li><strong>Persons Found: </strong>"+
 								interpretation.getPersonNames().toString() + "</li>" + 
 								"<li><strong style='text-align:inherit'>Intention: </strong>" + interpretation.getIntention() + "</li></ul>");
 						
@@ -146,27 +146,36 @@ public class StartPage extends WebPage {
 							sportClassification = sportClass.exampleInstances()
 									.classAttribute()
 									.value((int) sportClassificationIndex);
-	
+							boolean a = false, b = false, c = false;
 							if (musicClassification.equals(musicClass
-									.getClassName()))
+									.getClassName())) {
 								musicFeedback.add(new AttributeModifier(
 										"class", musicClass.getClassName()));
+								a = true;
+							}
 							if (ortungClassification.equals(ortungClass
-									.getClassName()))
+									.getClassName())) {
 								ortungFeedback.add(new AttributeModifier(
 										"class", ortungClass.getClassName()));
+								b = true;
+							}
 							if (sportClassification.equals(sportClass
-									.getClassName()))
+									.getClassName())) {
 								sportFeedback.add(new AttributeModifier(
 										"class", sportClass.getClassName()));
-							searched = true;
+								c = true;
+							}
+							if (!a&&!b&&!c) 
+								noResults.setDefaultModelObject("<span style='color: red'> Absicht konnte nicht klassifiziert werden</span><br /> Versuchen Sie bitte eine andere Suchanfrage" +
+										"<br ><span style='font-size:11px; color:black'><strong>Empfolene Formulierungen: </strong> [Vorname + Nachname + Absicht] oder [Absicht + Vorname + Nachname] <br> Vorname und Nachname können vertauscht werden</span>");
 							
+							searched = true;
 						} catch (Exception e) {
 							e.printStackTrace();
 						}
 	
 					} else if (!interpretation.intentionFound()) {
-						infos.setDefaultModelObject("<ul><li><strong>Persons Found: </strong>"+
+						infos.setDefaultModelObject("<ul style='list-style-type: none;'><li><strong>Persons Found: </strong>"+
 								interpretation.getPersonNames().toString() + "</li>" + 
 								"<li><strong style='text-align:inherit'>Intention: </strong>" + interpretation.getIntention() + "</li></ul>");
 						
@@ -174,7 +183,7 @@ public class StartPage extends WebPage {
 								"<br ><span style='font-size:11px; color:black'><strong>Empfolene Formulierungen: </strong> [Vorname + Nachname + Absicht] oder [Absicht + Vorname + Nachname] <br> Vorname und Nachname können vertauscht werden</span>";
 						noResults.setDefaultModelObject(interString);
 					} else {
-						infos.setDefaultModelObject("<ul><li><strong>Persons Found: </strong>"+
+						infos.setDefaultModelObject("<ul style='list-style-type: none;'><li><strong>Persons Found: </strong>"+
 								interpretation.getPersonNames().toString() + "</li>" + 
 								"<li><strong style='text-align:inherit'>Intention: </strong>" + interpretation.getIntention() + "</li></ul>");
 						

@@ -23,6 +23,9 @@
 					Identifizierung von Benutzerabsichten in personbezogenen <br />
 					Suchanfragen mit Hilfe von AdaBoost und Nutzer-Feedback
 				</span>
+				<br ><strong>Zurück zur Startseite: </strong><span style='color: orange'><a href="http://localhost:9090/"
+					style='text-decoration: none; color: orange; font-size: 20px' target="_blank">[Startseite]</a></span>
+				
 			</p>
 		</div>
 		<div
@@ -35,28 +38,29 @@
 			style="margin-left: auto; margin-right: auto; width: 840px; color: #009286; font-family: Verdana; font-size: 16px; margin-bottom: 50px">
 			<div>
 				<p>
-					<strong style="color: black">Abstract:</strong>
+					<strong style="color: black">Zusammenfassung:</strong>
 				</p>
 				<p>Die Klassifizierung von Web-Suchanfragen nach Benutzerabsichten beschäftigt sich mit der Fragestellung, welcher Informationsbedarf sich hinter den Suchanfragen der Nutzer verbirgt.. In dieser
 Arbeit werden einige Merkmale aus den Suchanfragen extrahiert, ohne externe
-oder zusätzliche Informationen über die Suchanfragen zu kennen, um diese
-Suchanfragen zu klassifizieren. Die meisten Merkmale basieren auf Ähnlichkeitsfunktionen, die wir selber definieren, wenn sie von keinem externen Dienst angeboten werden. Wir
-berechnen diese Merkmale automatisch, implementieren anschließend den Algorithmus für maschinelles Lernen, um die Genauigkeit der Klassifikation zu validieren und um die Qualität der berechenten Merkmale zu testen sowie zu dem Zweck, die Ergebnisse der Klassifikation zu
-evaluieren. Die Klassifikation unterstützen wir mit einem impliziten Feedback Ansatz,
-den wir  für diese Aufgabe erarbeitet haben. Wir analysieren die erhaltenen Ergebnisse
-und testen verschiedene Verfahren, die mit dem verwendeten Algorithmus funktionieren. Zum Schluss präsentieren wir die Erfahrungen, die durch diese Arbeit mit den Daten
+oder zusätzliche Informationen über die Suchanfragen zu kennen, um mit Hilfe dieser Merkmale die
+Suchanfragen zu klassifizieren. Die meisten Merkmale basieren auf Ähnlichkeitsfunktionen, die wir selber definieren. Wir
+berechnen diese Merkmale automatisch, implementieren anschließend einen Algorithmus für maschinelles-Lernen, um die Genauigkeit der Klassifikation zu validieren und um die Qualität der berechneten Merkmale zu testen.
+Mit Hilfe des maschinellen Lernens sollen außerdem die Ergebnisse der Klassifikation bewertet
+werden. Die Klassifikation unterstützen wir mit einem impliziten Feedback-Ansatz,
+den wir  für diese Aufgabe erarbeitet haben. Zum Schluss präsentieren wir die Erfahrungen, die durch diese Arbeit mit den Daten
 und den getesteten Techniken gemacht wurden.</p>
 				<br>
 				<p>
 					<strong style="color: black">Allgemein:</strong>
 				</p>
-				<p>Die Namenerkennung basiert auf einem Lookup-Verfahren. Die Erkennung bedeckt nicht alle Namen.<br>
+				<p>Die Namenerkennung basiert auf einem Lookup-Verfahren,das heißt, die eingegebenen Suchanfragen werden mit vorher angelegte Namenslisten abgeglichen.
+				Die Erkennung bedeckt somit nicht alle Namen.<br>
 				Es wurden Namen aus der Computer-Welt aus der bibliographischen Datenbank <a target="_blank" href="http://dblp.uni-trier.de/">DBLP</a>,
 				Namen aus der Musik-Welt aus dem <a target="_blank" href="http://musicbrainz.org/">MusikBrainz-Server</a>
 				und Namen der <a target="_blank" href="https://docs.google.com/spreadsheet/ccc?key=0AonYZs4MzlZbdF9qU3NZdmZMbDF2NGdRSHY5aGx0Unc#gid=1">besten 100 Fußballspieler</a> indexiert.</p>
 				
 				<p>	
-					<strong style="color: black">Empfolene Formulierungen:</strong>
+					<strong style="color: black">Empfohlene Formulierungen:</strong>
 				</p>
 				<ul>
 					<li>Vorname + Nachname + Absicht</li>
@@ -77,11 +81,11 @@ und den getesteten Techniken gemacht wurden.</p>
 						um Ressourcen, die man herunterladen kann (Videos, Fotos, Filme
 						etc.)</li>
 					<li><strong>Land/Ort</strong><br>Es handelt sich hierbei um
-						Ortungsangaben von der eingegebenen Person wie zum Beispiel
-						(Adressen, Städte, Länder etc.)</li>
+						Ortungsangaben, die im Zusammenhang mit der eingegebenen Person stehen, wie zum Beispiel
+						Adressen, Städte, Länder.</li>
 					<li><strong>Sport/Karriere</strong><br>Es handelt sich
 						hierbei um die Sport-Welt oder die Karriere einer Person wie zum
-						Beispiel (Football, Team, Work, Company etc.)</li>
+						Beispiel (Football, Team, Work, Unternehmen.</li>
 				</ul>
 				<br>
 				<p>
@@ -127,10 +131,10 @@ und den getesteten Techniken gemacht wurden.</p>
 					Klassifikation werden die Ergebnisse angezeigt, ein Feedback vom
 					Benutzer erfolgt durch zwei Events:</p>
 				<ul>
-					<li>Klicken auf einem Ergebnis</li>
+					<li>Klicken auf ein Ergebnis</li>
 					<li>Neue Suche ausführen</li>
 				</ul>
-				<p>Das Ignorieren der angezeigten Ergebnisse bezeichnet ein negatives Feedback zu diesen Ergebnissen.</p>
+				<p>Das Ignorieren der angezeigten Ergebnisse (kein Klick) wird als ein negatives Feedback zu diesen Ergebnissen bewertet.</p>
 				<br>
 				<p>
 					<a wicket:id="backtohomepage">Zurück zur Startseite</a>
