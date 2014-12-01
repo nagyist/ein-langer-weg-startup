@@ -29,7 +29,7 @@ public class WS4JSimilarity {
 	
 	public static void main( String[] args )
     {
-		String query = "city angels";
+		String query = "download mp3 player";
 		WS4JSimilarity ws4 = new WS4JSimilarity();
 		System.out.println(ws4.calculateSimilarityToAllClasses(query));
     }
@@ -45,6 +45,17 @@ public class WS4JSimilarity {
 		music_class.add("film");
 		music_class.add("instrument");
 		music_class.add("band");
+		music_class.add("video");
+		music_class.add("disc");
+		music_class.add("cd");
+		music_class.add("dvd");
+		music_class.add("dvds");
+		music_class.add("cds");
+		music_class.add("mp3");
+		music_class.add("download");
+		music_class.add("downloads");
+		music_class.add("album");
+		music_class.add("albums");
 		music_ressourcen = new ClassStructure("MUSIK/RESSOURCEN", music_class, music_class.size());
 		
 		List<String> carrer_class = new ArrayList<String>();

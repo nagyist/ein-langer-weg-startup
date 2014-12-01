@@ -12,9 +12,9 @@ import de.mft.similarity.GNETManager;
 import de.mft.similarity.WS4JSimilarity;
 
 public class Start {
-	
-	protected static GNETManager gnet = GNETManager.getInstance();
-	protected static WS4JSimilarity ws4j = new WS4JSimilarity();
+
+	public static WS4JSimilarity ws4j = new WS4JSimilarity();
+	public static GNETManager gnet = GNETManager.getInstance();
 	
     public static void main(String[] args) throws Exception {
         int timeout = (int) Duration.ONE_HOUR.getMilliseconds();
