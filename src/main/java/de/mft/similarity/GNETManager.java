@@ -9,6 +9,8 @@ import java.util.Scanner;
 import java.util.TreeMap;
 import java.util.Map.Entry;
 
+import net.sf.snowball.ext.EnglishStemmer;
+
 import org.eml.sir.gn.GermaNetObject;
 import org.eml.sir.gn.GermaNetParser;
 import org.eml.sir.gn.StemmingGermaNetObject;
@@ -87,6 +89,34 @@ public class GNETManager {
 		music.add("Lied");
 		music.add("Gesangsstück");
 		music.add("Musikstück");
+		music.add("Film");
+		music.add("Filmkassette");
+		music.add("Medium");
+		music.add("Speichermedium");
+		music.add("Datenträger");
+		music.add("Tonträger");
+		music.add("Zugriff");
+		music.add("Daten_verarbeiten");
+		music.add("Hardware");
+		music.add("Computer_Hardware");
+		music.add("Bildträger");
+		music.add("Filmvorführung");
+		music.add("Regisseur");
+		music.add("Regisseurin");
+		music.add("akustisches_Gerät");
+		music.add("Aufnahme");
+		music.add("Aufzeichnung");
+		music.add("Mitschnitt");
+		music.add("Computerterm");
+		music.add("Griff");
+		music.add("Handgriff");
+		music.add("Greifen");
+		music.add("Computertätigkeit");
+		music.add("Druckwerk");
+		music.add("Printmedium");
+		music.add("Druckerzeugnis");
+		music.add("aufnehmen");
+		music.add("bestellen");
 
 		List<String> family = new ArrayList<String>();
 		family.add("altersspezifisches_Lebewesen");
@@ -187,7 +217,17 @@ public class GNETManager {
 	private static double calculateScoreOfClass(String word, List<String> list) {
 		List<String> hypernymsList = new ArrayList<String>();
 		List<String> hypernyms2DepthList;
-		hypernymsList.addAll(getAllHypernyms(word));
+		if (word.endsWith("s")) {
+			List<String> hypers = getAllHypernyms(word);
+			if (hypers.size() > 0) {
+				hypernymsList.addAll(hypers);
+			} else {
+				hypers = getAllHypernyms(word.substring(0, word.length()-1));
+				hypernymsList.addAll(hypers);
+			}
+		} else {
+			hypernymsList.addAll(getAllHypernyms(word));
+		}
 		double score = 0;
 		for (String hypernym : hypernymsList) {
 			if (list.contains(hypernym)) score++;
