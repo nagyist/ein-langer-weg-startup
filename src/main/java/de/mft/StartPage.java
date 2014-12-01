@@ -125,6 +125,7 @@ public class StartPage extends WebPage {
 						Instance musicInstance = musicClass.getInstance();
 						Instance ortungInstance = ortungClass.getInstance();
 						Instance sportInstance = sportClass.getInstance();
+						
 						AdaBoostM1 musicModel = musicClass.loadTrainedModel();
 						AdaBoostM1 ortungModel = ortungClass.loadTrainedModel();
 						AdaBoostM1 sportModel = sportClass.loadTrainedModel();
