@@ -10,6 +10,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
+import java.util.Scanner;
 import java.util.Map.Entry;
 import java.util.TreeMap;
 
@@ -27,12 +28,16 @@ public class WS4JSimilarity {
 		initClasses();
 	}
 	
-	public static void main( String[] args )
-    {
-		String query = "download mp3 player";
-		WS4JSimilarity ws4 = new WS4JSimilarity();
-		System.out.println(ws4.calculateSimilarityToAllClasses(query));
-    }
+	public static void main(String args[]) {
+		WS4JSimilarity ws4j = new WS4JSimilarity();
+		String word = "";
+        Scanner scanner = new Scanner(System.in);
+        while (!word.equals("q") && !word.equals("quit") && !word.equals("exit")) {
+        	System.out.print("4> ");
+        	word  = scanner.next();
+        	System.out.println(ws4j.calculateSimilarityToAllClasses(word));
+        }        
+	}
 	
 	private void initClasses() {
 		
@@ -42,6 +47,9 @@ public class WS4JSimilarity {
 		music_class.add("art");
 		music_class.add("lyric");
 		music_class.add("picture");
+		music_class.add("pic");
+		music_class.add("book");
+		music_class.add("tube");
 		music_class.add("film");
 		music_class.add("instrument");
 		music_class.add("band");
@@ -53,9 +61,9 @@ public class WS4JSimilarity {
 		music_class.add("cds");
 		music_class.add("mp3");
 		music_class.add("download");
-		music_class.add("downloads");
 		music_class.add("album");
-		music_class.add("albums");
+		music_class.add("ticket");
+		music_class.add("youtube");
 		music_ressourcen = new ClassStructure("MUSIK/RESSOURCEN", music_class, music_class.size());
 		
 		List<String> carrer_class = new ArrayList<String>();
