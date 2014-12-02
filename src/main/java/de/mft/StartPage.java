@@ -126,11 +126,6 @@ public class StartPage extends WebPage {
 						Instance ortungInstance = ortungClass.getInstance();
 						Instance sportInstance = sportClass.getInstance();
 						
-						System.out.println(interpretation.getQuery() + ":\n");
-						System.out.println(musicClass.getClassName() + ": "  + musicInstance.toString());
-						System.out.println(ortungClass.getClassName() + ": "  + ortungInstance.toString());
-						System.out.println(sportClass.getClassName() + ": "  + sportInstance.toString());
-						
 						AdaBoostM1 musicModel = musicClass.loadTrainedModel();
 						AdaBoostM1 ortungModel = ortungClass.loadTrainedModel();
 						AdaBoostM1 sportModel = sportClass.loadTrainedModel();
@@ -152,6 +147,14 @@ public class StartPage extends WebPage {
 							sportClassification = sportClass.exampleInstances()
 									.classAttribute()
 									.value((int) sportClassificationIndex);
+							
+							
+							System.out.println(interpretation.getQuery() + ":");
+							System.out.println(musicClass.getClassName() + ": "  + musicInstance.toString() + " -> " + musicClassification);
+							System.out.println(ortungClass.getClassName() + ": "  + ortungInstance.toString() + " -> " + ortungClassification);
+							System.out.println(sportClass.getClassName() + ": "  + sportInstance.toString()  + " -> " + sportClassification + "\n");
+							
+							
 							boolean a = false, b = false, c = false;
 							if (musicClassification.equals(musicClass
 									.getClassName())) {

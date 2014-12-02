@@ -313,10 +313,10 @@ public class GNETManager {
         	word  = scanner.next();
         	System.out.println("GNET " + gnet.calculateSimilarityToAllClasses(word));
         	System.out.println("WS4J " + ws4j.calculateSimilarityToAllClasses(word));
-//        	System.out.println("Hypernyms: " + gnet.getAllHypernyms(word));
-//        	for (String str : gnet.getAllHypernyms(word)) {
-//        		if (str.indexOf("_") == -1) System.out.println("HyperHypernyms: " + gnet.getAllHypernyms(str));
-//        	}
+        	System.out.println("Hypernyms: " + gnet.getAllHypernyms(word));
+        	for (String str : gnet.getAllHypernyms(word)) {
+        		if (str.indexOf("_") == -1) System.out.println("HyperHypernyms: " + gnet.getAllHypernyms(str));
+        	}
         }        
 	}
 }
