@@ -146,3 +146,22 @@ Lionel Mess training session,true,1.4182,0,NO_LO
 2014-11-28_17:48:47,Elvis Presley Oper,false,0,0.1429,NO_LO
 2014-12-01_14:23:41,lionel richie spanien konzert,false,0,1.7143,LAND_ORT
 2014-12-01_14:23:52,lionel richie kroatien,false,0,1.7143,LAND_ORT
+2014-12-01_17:24:49,michael jackson München,true,0,0,NO_LO
+2014-12-01_17:24:52,michael jackson München konzert,true,0,0,LAND_ORT
+2014-12-01_17:31:32,Arnold Schwarzenegger Kalifornien,false,0,0.5714,LAND_ORT
+2014-12-02_12:49:48,Rebecca Black Texas,false,0,0.5714,LAND_ORT
+2014-12-02_12:50:26,Gerard Depardieu Russland,false,0,0.5714,NO_LO
+2014-12-02_12:50:35,michael wendler wohnort,false,0,0.1429,LAND_ORT
+2014-12-02_12:50:47,michael wendler zuhause,false,0,0.2857,LAND_ORT
+2014-12-02_12:50:53,michael wendler stadt,false,0,0.0714,LAND_ORT
+2014-12-02_12:50:59,Michael Wendler Dschungel,false,0,0.0714,LAND_ORT
+2014-12-02_12:52:55,Michael Wendler Dschungel,false,0,0.0714,NO_LO
+2014-12-02_12:54:25,lothar matthäus wohnort,false,0,0.1429,NO_LO
+2014-12-02_12:54:43,lothar matthäus,false,0,0.1429,NO_LO
+2014-12-02_13:06:05,bruce willis hollywood,true,1.0734,0,LAND_ORT
+2014-12-02_13:06:20,bruce willis hollywood,true,1.0734,0,LAND_ORT
+2014-12-02_13:06:36,bruce willis hollywood,true,1.0734,0,NO_LO
+2014-12-02_13:06:36,frank sinatra new york,true,1.4895,0,NO_LO
+2014-12-02_13:08:23,frank zimmermann stuttgart,true,1.6124,0.0714,LAND_ORT
+2014-12-02_15:23:41,Peter Parker Baltimore,true,1.6124,0,LAND_ORT
+2014-12-02_15:23:58,Arnold Schwarzenegger Kalifornien,false,0,0.5714,LAND_ORT
