@@ -1,4 +1,5 @@
 package de.mft;
+
 import org.apache.wicket.util.time.Duration;
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.server.bio.SocketConnector;
@@ -11,6 +12,7 @@ import de.mft.similarity.GNETManager;
 import de.mft.similarity.WS4JSimilarity;
 
 public class Start {
+
 	public static WS4JSimilarity ws4j = new WS4JSimilarity();
 	public static GNETManager gnet = GNETManager.getInstance();
 	
@@ -79,4 +81,3 @@ public class Start {
         }
     }
 }
-  

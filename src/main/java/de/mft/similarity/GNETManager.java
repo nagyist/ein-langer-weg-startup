@@ -96,14 +96,15 @@ public class GNETManager {
 		music.add("Datenträger");
 		music.add("Tonträger");
 		music.add("Zugriff");
-		music.add("Daten_verarbeiten");
+		music.add("Akteur");
 		music.add("Hardware");
-		music.add("Computer_Hardware");
+		music.add("Akteurin");
+		music.add("Charakterbeschaffener");
 		music.add("Bildträger");
 		music.add("Filmvorführung");
 		music.add("Regisseur");
+		music.add("Filmpreis");
 		music.add("Regisseurin");
-		music.add("akustisches_Gerät");
 		music.add("Aufnahme");
 		music.add("Aufzeichnung");
 		music.add("Mitschnitt");
@@ -116,7 +117,14 @@ public class GNETManager {
 		music.add("Printmedium");
 		music.add("Druckerzeugnis");
 		music.add("aufnehmen");
-		music.add("bestellen");
+		music.add("Kulturveranstaltung");
+		music.add("Musikveranstaltung");
+		music.add("Veranstaltung");
+		music.add("Zerstreuung");
+		music.add("Unterhaltung");
+		music.add("kaufen");
+		music.add("Schauspieler");
+		music.add("Schauspielerin");
 
 		List<String> family = new ArrayList<String>();
 		family.add("altersspezifisches_Lebewesen");
@@ -151,8 +159,6 @@ public class GNETManager {
 		sport.add("Disziplin");
 		sport.add("Match");
 		sport.add("Berufstätiger");
-		sport.add("Mensch");
-		sport.add("Person");
 		sport.add("Berufstätige");
 		sport.add("Aktivität");
 
@@ -298,12 +304,19 @@ public class GNETManager {
 
 	public static void main(String args[]) {
 		GNETManager gnet = GNETManager.getInstance();
+		WS4JSimilarity ws4j;
 		String word = "";
         Scanner scanner = new Scanner(System.in);
         while (!word.equals("q") && !word.equals("quit") && !word.equals("exit")) {
         	System.out.print("4> ");
+        	ws4j = new WS4JSimilarity();
         	word  = scanner.next();
-        	System.out.println(gnet.calculateSimilarityToAllClasses(word));
+        	System.out.println("GNET " + gnet.calculateSimilarityToAllClasses(word));
+        	System.out.println("WS4J " + ws4j.calculateSimilarityToAllClasses(word));
+        	System.out.println("Hypernyms: " + gnet.getAllHypernyms(word));
+        	for (String str : gnet.getAllHypernyms(word)) {
+        		if (str.indexOf("_") == -1) System.out.println("HyperHypernyms: " + gnet.getAllHypernyms(str));
+        	}
         }        
 	}
 }

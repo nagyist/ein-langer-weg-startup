@@ -147,6 +147,14 @@ public class StartPage extends WebPage {
 							sportClassification = sportClass.exampleInstances()
 									.classAttribute()
 									.value((int) sportClassificationIndex);
+							
+							
+							System.out.println(interpretation.getQuery() + ":");
+							System.out.println(musicClass.getClassName() + ": "  + musicInstance.toString() + " -> " + musicClassification);
+							System.out.println(ortungClass.getClassName() + ": "  + ortungInstance.toString() + " -> " + ortungClassification);
+							System.out.println(sportClass.getClassName() + ": "  + sportInstance.toString()  + " -> " + sportClassification + "\n");
+							
+							
 							boolean a = false, b = false, c = false;
 							if (musicClassification.equals(musicClass
 									.getClassName())) {

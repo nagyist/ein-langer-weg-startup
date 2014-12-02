@@ -13,7 +13,6 @@ import java.io.Writer;
 import java.io.ObjectInputStream.GetField;
 
 import de.mft.model.TrainedModel;
-
 import weka.classifiers.Classifier;
 import weka.classifiers.Evaluation;
 import weka.classifiers.meta.AdaBoostM1;
@@ -68,9 +67,7 @@ public class Modell {
 		return false;
 	}
 	
-	
-	@SuppressWarnings("unused")
-	private static String serializeModel(Classifier cls,String modelPath) {
+	public static String serializeModel(Classifier cls, String modelPath) {
 		try {
 			SerializationHelper.write(modelPath, cls);
 		} catch (Exception e) {
@@ -80,13 +77,28 @@ public class Modell {
 		return modelPath;
 	}
 
-	public static AdaBoostM1 trainAlgorithm(Instances inst, String[] options)
-			throws Exception {
+	public static AdaBoostM1 trainAlgorithm(String pathToTrainData) {
+		BufferedReader reader;
+		Instances data = null;
+		try {
+			reader = new BufferedReader(new FileReader(pathToTrainData));
+			data = new Instances(reader);
+			 if (data.classIndex() == -1)
+				   data.setClassIndex(data.numAttributes() - 1);
+			reader.close();
+		} catch (Exception e) {
+			System.out.println(e.getMessage());
+		}
 		AdaBoostM1 cls = null;
-		if (inst != null) {
+		if (data != null) {
 			cls = new AdaBoostM1();
-			cls.setOptions(options);
-			cls.buildClassifier(inst);
+			try {
+				cls.setOptions(algorithmOptions.split("\\s+"));
+				cls.buildClassifier(data);
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 			return cls;
 		}
 		return cls;
@@ -94,17 +106,11 @@ public class Modell {
 	
 	public static void main(String[] args) {
 		BufferedReader reader;
-		Instances data, test;
+		Instances test;
 		AdaBoostM1 cls;
 		String modelName = "models/model1.model";
 		try {
-			reader = new BufferedReader(new FileReader(
-					"data/model1/train/train_data.arff"));
-			data = new Instances(reader);
-			 if (data.classIndex() == -1)
-				   data.setClassIndex(data.numAttributes() - 1);
-			reader.close();
-			cls = trainAlgorithm(data, algorithmOptions.split("\\s+"));
+			cls = trainAlgorithm("data/model1/train/train_data.arff");
 			reader = new BufferedReader(new FileReader(
 					"data/model1/test/test_data.arff"));
 			test = new Instances(reader);

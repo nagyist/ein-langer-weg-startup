@@ -23,8 +23,7 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String header = "id,person_name,person_name_lc,person_name_ngram,person_name_length,person_name_counts\n";
-		boolean a = rewrite("solr/musicbrainz_person_names.csv", header);
+		boolean a = rewrite("solr/music/feedback.arff", null);
 		if (a) System.out.println("Rewriting file succeed");
 		else System.out.println("Rewriting file failed");
 	}
@@ -34,15 +33,13 @@ public class Main {
 		Writer out;
 		String line;
 		StringBuffer sb = new StringBuffer();
-		sb.append(header);
 		try {
 		br = new BufferedReader(new InputStreamReader(new FileInputStream(
 				model), "UTF8"));
 		String[] arr = null;
 			while ((line = br.readLine()) != null) {
 				arr = line.split(",");
-				String target = arr[0].trim();
-				sb.append(UUID.randomUUID() + "," + WordUtils.capitalize(target.toLowerCase()) + "," + target.toLowerCase() + "," + target.split("\\s+").length + "," + target.length() +"," + randInt(0, 10) + "\n");
+				sb.append(arr[2] + "," + arr[3] + "," + arr[4] + "," + arr[5] + "," + arr[6] + "," + arr[7] + "," + arr[8] + "\n");
 			}
 			br.close();
 			out = new BufferedWriter(new OutputStreamWriter(
