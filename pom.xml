@@ -120,6 +120,23 @@
 			<artifactId>commons-lang</artifactId>
 			<version>2.6</version>
 		</dependency>
+		
+		<dependency>
+			<groupId>edu.cmu.lti</groupId>
+			<artifactId>jawjaw</artifactId>
+			<version>1.0.1</version>
+			<scope>system</scope>
+			<systemPath>${basedir}\jars\ws4j-1.0.1.jar</systemPath>
+		</dependency>
+		
+		<dependency>
+			<groupId>org.eml.sir</groupId>
+			<artifactId>gn</artifactId>
+			<version>0.2</version>
+			<scope>system</scope>
+			<systemPath>${basedir}\jars\gn_api-0.2.jar</systemPath>
+		</dependency>
+		
 	</dependencies>
 	<build>
 		<resources>
@@ -199,7 +216,6 @@
 			</plugin>
 		</plugins>
 	</build>
-
 	<repositories>
 		<repository>
 			<id>Apache Nexus</id>

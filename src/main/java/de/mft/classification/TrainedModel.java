@@ -1,4 +1,4 @@
-package de.mft.model;
+package de.mft.classification;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
