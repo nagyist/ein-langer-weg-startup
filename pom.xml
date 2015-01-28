@@ -126,7 +126,7 @@
 			<artifactId>jawjaw</artifactId>
 			<version>1.0.1</version>
 			<scope>system</scope>
-			<systemPath>${basedir}\jars\ws4j-1.0.1.jar</systemPath>
+			<systemPath>${basedir}${file.separator}jars${file.separator}ws4j-1.0.1.jar</systemPath>
 		</dependency>
 		
 		<dependency>
@@ -134,7 +134,7 @@
 			<artifactId>gn</artifactId>
 			<version>0.2</version>
 			<scope>system</scope>
-			<systemPath>${basedir}\jars\gn_api-0.2.jar</systemPath>
+			<systemPath>${basedir}${file.separator}jars${file.separator}gn_api-0.2.jar</systemPath>
 		</dependency>
 		
 	</dependencies>
